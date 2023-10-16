@@ -1,0 +1,28 @@
+shallow=true
+[submodule "expo/expo"]
+	path = expo/expo
+	url = https://github.com/expo/expo
+[submodule "th3rdwave/react-native-safe-area-context"]
+	path = th3rdwave/react-native-safe-area-context
+	url = https://github.com/th3rdwave/react-native-safe-area-context.git
+[submodule "software-mansion/react-native-screens"]
+	path = software-mansion/react-native-screens
+	url = https://github.com/software-mansion/react-native-screens.git
+[submodule "react-navigation/react-navigation"]
+	path = react-navigation/react-navigation
+	url = https://github.com/react-navigation/react-navigation.git
+[submodule "software-mansion/react-native-gesture-handler"]
+	path = software-mansion/react-native-gesture-handler
+	url = https://github.com/software-mansion/react-native-gesture-handler.git
+[submodule "react-native-async-storage/async-storage"]
+	path = react-native-async-storage/async-storage
+	url = https://github.com/react-native-async-storage/async-storage.git
+[submodule "software-mansion/react-native-reanimated"]
+	path = software-mansion/react-native-reanimated
+	url = https://github.com/software-mansion/react-native-reanimated.git
+[submodule "software-mansion/react-native-svg"]
+	path = software-mansion/react-native-svg
+	url = https://github.com/software-mansion/react-native-svg.git
+[submodule "necolas/react-native-web"]
+	path = necolas/react-native-web
+	url = https://github.com/necolas/react-native-web.git
