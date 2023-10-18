@@ -1,6 +1,8 @@
 import util from 'node:util';
 import childProcess from 'node:child_process';
 import fs from 'node:fs';
+import path from 'node:path';
+
 const execFile = util.promisify(childProcess.execFile);
 
 async function run() {
@@ -19,7 +21,7 @@ async function run() {
   const uniqueRepoFullNames = new Set(repoFullNames);
 
   for (const repoName of uniqueRepoFullNames) {
-    if (!fs.existsSync(repoName)) {
+    if (!fs.existsSync(path.join('libraries', repoName))) {
       console.log('Adding git submodule for', repoName);
       await execFile('git', ['submodule', 'add', '--depth', '1', `https://github.com/${repoName}.git`, repoName], {
         cwd: 'libraries'
