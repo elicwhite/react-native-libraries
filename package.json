@@ -1,0 +1,12 @@
+{
+  "name": "react-native-libraries",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eli White",
+  "license": "MIT",
+  "private": true, 
+  "type": "module",
+  "scripts": {
+    "update": "node index.js"
+  }
+}
