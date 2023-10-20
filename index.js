@@ -17,8 +17,6 @@ async function run() {
 
   const packages = directoryData.libraries.filter(lib => lib.npm.weekDownloads > 10000);
 
-  console.log(packages.length);
-  process.exit(0);
   const repoFullNames = packages.map(pkg => pkg.github.fullName);
   const uniqueRepoFullNames = new Set(repoFullNames);
 
