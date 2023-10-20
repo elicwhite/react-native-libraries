@@ -268,3 +268,9 @@
 [submodule "libraries/react-native-checkbox/react-native-checkbox"]
 	path = libraries/react-native-checkbox/react-native-checkbox
 	url = https://github.com/react-native-checkbox/react-native-checkbox.git
+[submodule "libraries/awesomejerry/react-native-qrcode-svg"]
+	path = libraries/awesomejerry/react-native-qrcode-svg
+	url = https://github.com/awesomejerry/react-native-qrcode-svg.git
+[submodule "libraries/n4kz/react-native-material-ripple"]
+	path = libraries/n4kz/react-native-material-ripple
+	url = https://github.com/n4kz/react-native-material-ripple.git
