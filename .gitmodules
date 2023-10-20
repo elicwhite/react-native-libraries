@@ -262,3 +262,9 @@
 [submodule "libraries/reactjs/react-timer-mixin"]
 	path = libraries/reactjs/react-timer-mixin
 	url = https://github.com/reactjs/react-timer-mixin.git
+[submodule "libraries/infinitered/apisauce"]
+	path = libraries/infinitered/apisauce
+	url = https://github.com/infinitered/apisauce.git
+[submodule "libraries/react-native-checkbox/react-native-checkbox"]
+	path = libraries/react-native-checkbox/react-native-checkbox
+	url = https://github.com/react-native-checkbox/react-native-checkbox.git
