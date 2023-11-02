@@ -784,3 +784,27 @@
 [submodule "libraries/Andr3wHur5t/react-native-keyboard-spacer"]
 	path = libraries/Andr3wHur5t/react-native-keyboard-spacer
 	url = https://github.com/Andr3wHur5t/react-native-keyboard-spacer.git
+[submodule "libraries/wix/react-native-notifications"]
+	path = libraries/wix/react-native-notifications
+	url = https://github.com/wix/react-native-notifications.git
+[submodule "libraries/invertase/notifee"]
+	path = libraries/invertase/notifee
+	url = https://github.com/invertase/notifee.git
+[submodule "libraries/wuxudong/react-native-charts-wrapper"]
+	path = libraries/wuxudong/react-native-charts-wrapper
+	url = https://github.com/wuxudong/react-native-charts-wrapper.git
+[submodule "libraries/blackuy/react-native-twilio-video-webrtc"]
+	path = libraries/blackuy/react-native-twilio-video-webrtc
+	url = https://github.com/blackuy/react-native-twilio-video-webrtc.git
+[submodule "libraries/akveo/react-native-ui-kitten"]
+	path = libraries/akveo/react-native-ui-kitten
+	url = https://github.com/akveo/react-native-ui-kitten.git
+[submodule "libraries/rgommezz/react-native-offline"]
+	path = libraries/rgommezz/react-native-offline
+	url = https://github.com/rgommezz/react-native-offline.git
+[submodule "libraries/react-native-sensors/react-native-sensors"]
+	path = libraries/react-native-sensors/react-native-sensors
+	url = https://github.com/react-native-sensors/react-native-sensors.git
+[submodule "libraries/yamill/react-native-orientation"]
+	path = libraries/yamill/react-native-orientation
+	url = https://github.com/yamill/react-native-orientation.git
