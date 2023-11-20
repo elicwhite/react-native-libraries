@@ -808,3 +808,9 @@
 [submodule "libraries/yamill/react-native-orientation"]
 	path = libraries/yamill/react-native-orientation
 	url = https://github.com/yamill/react-native-orientation.git
+[submodule "libraries/rnmapbox/maps"]
+	path = libraries/rnmapbox/maps
+	url = https://github.com/rnmapbox/maps.git
+[submodule "libraries/PedroBern/react-native-collapsible-tab-view"]
+	path = libraries/PedroBern/react-native-collapsible-tab-view
+	url = https://github.com/PedroBern/react-native-collapsible-tab-view.git
