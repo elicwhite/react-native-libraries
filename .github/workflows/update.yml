@@ -16,7 +16,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: 'lts'
+          node-version: 18
       - name: 'Setup Dependencies'
         run: yarn
       - name: 'Update'
