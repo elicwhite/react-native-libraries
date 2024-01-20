@@ -814,3 +814,24 @@
 [submodule "libraries/PedroBern/react-native-collapsible-tab-view"]
 	path = libraries/PedroBern/react-native-collapsible-tab-view
 	url = https://github.com/PedroBern/react-native-collapsible-tab-view.git
+[submodule "libraries/RevenueCat/react-native-purchases"]
+	path = libraries/RevenueCat/react-native-purchases
+	url = https://github.com/RevenueCat/react-native-purchases.git
+[submodule "libraries/lugg/react-native-config"]
+	path = libraries/lugg/react-native-config
+	url = https://github.com/lugg/react-native-config.git
+[submodule "libraries/callstack/react-theme-provider"]
+	path = libraries/callstack/react-theme-provider
+	url = https://github.com/callstack/react-theme-provider.git
+[submodule "libraries/mrousavy/react-native-blurhash"]
+	path = libraries/mrousavy/react-native-blurhash
+	url = https://github.com/mrousavy/react-native-blurhash.git
+[submodule "libraries/kimxogus/react-native-version-check"]
+	path = libraries/kimxogus/react-native-version-check
+	url = https://github.com/kimxogus/react-native-version-check.git
+[submodule "libraries/bramus/react-native-maps-directions"]
+	path = libraries/bramus/react-native-maps-directions
+	url = https://github.com/bramus/react-native-maps-directions.git
+[submodule "libraries/jordanbyron/react-native-quick-actions"]
+	path = libraries/jordanbyron/react-native-quick-actions
+	url = https://github.com/jordanbyron/react-native-quick-actions.git
