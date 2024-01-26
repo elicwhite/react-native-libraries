@@ -835,3 +835,9 @@
 [submodule "libraries/jordanbyron/react-native-quick-actions"]
 	path = libraries/jordanbyron/react-native-quick-actions
 	url = https://github.com/jordanbyron/react-native-quick-actions.git
+[submodule "libraries/clerk/javascript"]
+	path = libraries/clerk/javascript
+	url = https://github.com/clerk/javascript.git
+[submodule "libraries/callstack/react-native-image-editor"]
+	path = libraries/callstack/react-native-image-editor
+	url = https://github.com/callstack/react-native-image-editor.git
