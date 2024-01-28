@@ -841,3 +841,6 @@
 [submodule "libraries/callstack/react-native-image-editor"]
 	path = libraries/callstack/react-native-image-editor
 	url = https://github.com/callstack/react-native-image-editor.git
+[submodule "libraries/kirillzyusko/react-native-keyboard-controller"]
+	path = libraries/kirillzyusko/react-native-keyboard-controller
+	url = https://github.com/kirillzyusko/react-native-keyboard-controller.git
