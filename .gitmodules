@@ -844,3 +844,6 @@
 [submodule "libraries/kirillzyusko/react-native-keyboard-controller"]
 	path = libraries/kirillzyusko/react-native-keyboard-controller
 	url = https://github.com/kirillzyusko/react-native-keyboard-controller.git
+[submodule "libraries/Richou/react-native-android-location-enabler"]
+	path = libraries/Richou/react-native-android-location-enabler
+	url = https://github.com/Richou/react-native-android-location-enabler.git
