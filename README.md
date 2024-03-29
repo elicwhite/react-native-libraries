@@ -11,6 +11,11 @@ Check out this repo and grep over the `libraries` folder. Make sure to clone sub
 git clone --depth 1 --recurse-submodules --shallow-submodules git@github.com:TheSavior/react-native-libraries.git
 ```
 
+E.g. Finding usage of `bridge.uiManager` in all files with extensions `*.m`, `*.mm`, `*.swift` and `*.h`
+```sh
+grep -r --include=\*.{m,mm,h,swift} "bridge.uiManager"
+```
+
 *Ideally you'd be able to use GitHub code search on this specific repo, however GitHub doesn't search through sub modules.*
 
 ## Updates
