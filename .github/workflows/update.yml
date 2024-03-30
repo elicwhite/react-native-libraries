@@ -11,9 +11,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PUSH_TOKEN }}
-      - name: Init submodules
-        run: git submodule update --depth 1 --init --recursive --remote
+          token: ${{ github.token }}
+          submodules: recursive
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
