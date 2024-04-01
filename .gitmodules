@@ -847,3 +847,27 @@
 [submodule "libraries/Richou/react-native-android-location-enabler"]
 	path = libraries/Richou/react-native-android-location-enabler
 	url = https://github.com/Richou/react-native-android-location-enabler.git
+[submodule "libraries/react-native-documents/document-picker"]
+	path = libraries/react-native-documents/document-picker
+	url = https://github.com/react-native-documents/document-picker.git
+[submodule "libraries/invertase/react-native-google-mobile-ads"]
+	path = libraries/invertase/react-native-google-mobile-ads
+	url = https://github.com/invertase/react-native-google-mobile-ads.git
+[submodule "libraries/Instabug/Instabug-React-Native"]
+	path = libraries/Instabug/Instabug-React-Native
+	url = https://github.com/Instabug/Instabug-React-Native.git
+[submodule "libraries/numandev1/react-native-compressor"]
+	path = libraries/numandev1/react-native-compressor
+	url = https://github.com/numandev1/react-native-compressor.git
+[submodule "libraries/ak1394/react-native-tts"]
+	path = libraries/ak1394/react-native-tts
+	url = https://github.com/ak1394/react-native-tts.git
+[submodule "libraries/Temzasse/react-modal-sheet"]
+	path = libraries/Temzasse/react-modal-sheet
+	url = https://github.com/Temzasse/react-modal-sheet.git
+[submodule "libraries/davidohayon669/react-native-youtube"]
+	path = libraries/davidohayon669/react-native-youtube
+	url = https://github.com/davidohayon669/react-native-youtube.git
+[submodule "libraries/mientjan/react-native-markdown-renderer"]
+	path = libraries/mientjan/react-native-markdown-renderer
+	url = https://github.com/mientjan/react-native-markdown-renderer.git
