@@ -871,3 +871,6 @@
 [submodule "libraries/mientjan/react-native-markdown-renderer"]
 	path = libraries/mientjan/react-native-markdown-renderer
 	url = https://github.com/mientjan/react-native-markdown-renderer.git
+[submodule "libraries/expo/react-native-appearance"]
+	path = libraries/expo/react-native-appearance
+	url = https://github.com/expo/react-native-appearance.git
