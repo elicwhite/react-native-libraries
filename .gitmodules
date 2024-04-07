@@ -874,3 +874,6 @@
 [submodule "libraries/expo/react-native-appearance"]
 	path = libraries/expo/react-native-appearance
 	url = https://github.com/expo/react-native-appearance.git
+[submodule "libraries/Kureev/react-native-side-menu"]
+	path = libraries/Kureev/react-native-side-menu
+	url = https://github.com/Kureev/react-native-side-menu.git
