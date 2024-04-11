@@ -877,3 +877,6 @@
 [submodule "libraries/Kureev/react-native-side-menu"]
 	path = libraries/Kureev/react-native-side-menu
 	url = https://github.com/Kureev/react-native-side-menu.git
+[submodule "libraries/Abhinandan-Kushwaha/react-native-gifted-charts"]
+	path = libraries/Abhinandan-Kushwaha/react-native-gifted-charts
+	url = https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts.git
