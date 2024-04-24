@@ -880,3 +880,6 @@
 [submodule "libraries/Abhinandan-Kushwaha/react-native-gifted-charts"]
 	path = libraries/Abhinandan-Kushwaha/react-native-gifted-charts
 	url = https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts.git
+[submodule "libraries/toystars/react-native-multiple-select"]
+	path = libraries/toystars/react-native-multiple-select
+	url = https://github.com/toystars/react-native-multiple-select.git
