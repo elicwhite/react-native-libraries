@@ -883,3 +883,6 @@
 [submodule "libraries/toystars/react-native-multiple-select"]
 	path = libraries/toystars/react-native-multiple-select
 	url = https://github.com/toystars/react-native-multiple-select.git
+[submodule "libraries/ptomasroos/react-native-scrollable-tab-view"]
+	path = libraries/ptomasroos/react-native-scrollable-tab-view
+	url = https://github.com/ptomasroos/react-native-scrollable-tab-view.git
