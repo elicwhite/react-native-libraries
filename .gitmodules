@@ -886,3 +886,6 @@
 [submodule "libraries/ptomasroos/react-native-scrollable-tab-view"]
 	path = libraries/ptomasroos/react-native-scrollable-tab-view
 	url = https://github.com/ptomasroos/react-native-scrollable-tab-view.git
+[submodule "libraries/react-native-google-cast/react-native-google-cast"]
+	path = libraries/react-native-google-cast/react-native-google-cast
+	url = https://github.com/react-native-google-cast/react-native-google-cast.git
