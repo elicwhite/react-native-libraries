@@ -889,3 +889,6 @@
 [submodule "libraries/react-native-google-cast/react-native-google-cast"]
 	path = libraries/react-native-google-cast/react-native-google-cast
 	url = https://github.com/react-native-google-cast/react-native-google-cast.git
+[submodule "libraries/TheWidlarzGroup/react-native-video"]
+	path = libraries/TheWidlarzGroup/react-native-video
+	url = https://github.com/TheWidlarzGroup/react-native-video.git
