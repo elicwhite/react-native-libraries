@@ -892,3 +892,6 @@
 [submodule "libraries/TheWidlarzGroup/react-native-video"]
 	path = libraries/TheWidlarzGroup/react-native-video
 	url = https://github.com/TheWidlarzGroup/react-native-video.git
+[submodule "libraries/DanielMSchmidt/react-native-dismiss-keyboard"]
+	path = libraries/DanielMSchmidt/react-native-dismiss-keyboard
+	url = https://github.com/DanielMSchmidt/react-native-dismiss-keyboard.git
