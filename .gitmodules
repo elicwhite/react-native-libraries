@@ -895,3 +895,6 @@
 [submodule "libraries/DanielMSchmidt/react-native-dismiss-keyboard"]
 	path = libraries/DanielMSchmidt/react-native-dismiss-keyboard
 	url = https://github.com/DanielMSchmidt/react-native-dismiss-keyboard.git
+[submodule "libraries/SteffeyDev/react-native-popover-view"]
+	path = libraries/SteffeyDev/react-native-popover-view
+	url = https://github.com/SteffeyDev/react-native-popover-view.git
