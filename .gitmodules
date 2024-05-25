@@ -898,3 +898,6 @@
 [submodule "libraries/SteffeyDev/react-native-popover-view"]
 	path = libraries/SteffeyDev/react-native-popover-view
 	url = https://github.com/SteffeyDev/react-native-popover-view.git
+[submodule "libraries/calintamas/react-native-toast-message"]
+	path = libraries/calintamas/react-native-toast-message
+	url = https://github.com/calintamas/react-native-toast-message.git
