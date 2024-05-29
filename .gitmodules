@@ -901,3 +901,6 @@
 [submodule "libraries/calintamas/react-native-toast-message"]
 	path = libraries/calintamas/react-native-toast-message
 	url = https://github.com/calintamas/react-native-toast-message.git
+[submodule "libraries/nativewind/nativewind"]
+	path = libraries/nativewind/nativewind
+	url = https://github.com/nativewind/nativewind.git
