@@ -904,3 +904,6 @@
 [submodule "libraries/nativewind/nativewind"]
 	path = libraries/nativewind/nativewind
 	url = https://github.com/nativewind/nativewind.git
+[submodule "libraries/wxik/react-native-rich-editor"]
+	path = libraries/wxik/react-native-rich-editor
+	url = https://github.com/wxik/react-native-rich-editor.git
