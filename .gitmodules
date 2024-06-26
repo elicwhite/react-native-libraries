@@ -907,3 +907,6 @@
 [submodule "libraries/wxik/react-native-rich-editor"]
 	path = libraries/wxik/react-native-rich-editor
 	url = https://github.com/wxik/react-native-rich-editor.git
+[submodule "libraries/jpudysz/react-native-unistyles"]
+	path = libraries/jpudysz/react-native-unistyles
+	url = https://github.com/jpudysz/react-native-unistyles.git
