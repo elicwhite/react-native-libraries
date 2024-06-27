@@ -910,3 +910,9 @@
 [submodule "libraries/jpudysz/react-native-unistyles"]
 	path = libraries/jpudysz/react-native-unistyles
 	url = https://github.com/jpudysz/react-native-unistyles.git
+[submodule "libraries/segmentio/analytics-react-native"]
+	path = libraries/segmentio/analytics-react-native
+	url = https://github.com/segmentio/analytics-react-native.git
+[submodule "libraries/braze-inc/braze-react-native-sdk"]
+	path = libraries/braze-inc/braze-react-native-sdk
+	url = https://github.com/braze-inc/braze-react-native-sdk.git
