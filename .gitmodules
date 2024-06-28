@@ -916,3 +916,6 @@
 [submodule "libraries/braze-inc/braze-react-native-sdk"]
 	path = libraries/braze-inc/braze-react-native-sdk
 	url = https://github.com/braze-inc/braze-react-native-sdk.git
+[submodule "libraries/SrBrahma/react-native-shadow-2"]
+	path = libraries/SrBrahma/react-native-shadow-2
+	url = https://github.com/SrBrahma/react-native-shadow-2.git
