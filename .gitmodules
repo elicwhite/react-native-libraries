@@ -919,3 +919,9 @@
 [submodule "libraries/SrBrahma/react-native-shadow-2"]
 	path = libraries/SrBrahma/react-native-shadow-2
 	url = https://github.com/SrBrahma/react-native-shadow-2.git
+[submodule "libraries/tschoffelen/react-native-email-link"]
+	path = libraries/tschoffelen/react-native-email-link
+	url = https://github.com/tschoffelen/react-native-email-link.git
+[submodule "libraries/tschoffelen/react-native-map-link"]
+	path = libraries/tschoffelen/react-native-map-link
+	url = https://github.com/tschoffelen/react-native-map-link.git
