@@ -925,3 +925,6 @@
 [submodule "libraries/tschoffelen/react-native-map-link"]
 	path = libraries/tschoffelen/react-native-map-link
 	url = https://github.com/tschoffelen/react-native-map-link.git
+[submodule "libraries/lucide-icons/lucide"]
+	path = libraries/lucide-icons/lucide
+	url = https://github.com/lucide-icons/lucide.git
