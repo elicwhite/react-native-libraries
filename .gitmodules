@@ -928,3 +928,6 @@
 [submodule "libraries/lucide-icons/lucide"]
 	path = libraries/lucide-icons/lucide
 	url = https://github.com/lucide-icons/lucide.git
+[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
+	path = libraries/douglasjunior/react-native-keyboard-manager
+	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
