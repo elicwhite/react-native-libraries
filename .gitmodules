@@ -940,3 +940,9 @@
 [submodule "libraries/GetStream/stream-chat-react-native"]
 	path = libraries/GetStream/stream-chat-react-native
 	url = https://github.com/GetStream/stream-chat-react-native.git
+[submodule "libraries/zahidalidev/toastify-react-native"]
+	path = libraries/zahidalidev/toastify-react-native
+	url = https://github.com/zahidalidev/toastify-react-native.git
+[submodule "libraries/Vydia/react-native-background-upload"]
+	path = libraries/Vydia/react-native-background-upload
+	url = https://github.com/Vydia/react-native-background-upload.git
