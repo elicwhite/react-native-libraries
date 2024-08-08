@@ -946,3 +946,6 @@
 [submodule "libraries/Vydia/react-native-background-upload"]
 	path = libraries/Vydia/react-native-background-upload
 	url = https://github.com/Vydia/react-native-background-upload.git
+[submodule "libraries/microsoft/rnx-kit"]
+	path = libraries/microsoft/rnx-kit
+	url = https://github.com/microsoft/rnx-kit.git
