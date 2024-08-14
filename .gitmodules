@@ -949,3 +949,6 @@
 [submodule "libraries/microsoft/rnx-kit"]
 	path = libraries/microsoft/rnx-kit
 	url = https://github.com/microsoft/rnx-kit.git
+[submodule "libraries/grgia/react-native-qrcode-svg"]
+	path = libraries/grgia/react-native-qrcode-svg
+	url = https://github.com/grgia/react-native-qrcode-svg.git
