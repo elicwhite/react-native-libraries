@@ -952,3 +952,12 @@
 [submodule "libraries/grgia/react-native-qrcode-svg"]
 	path = libraries/grgia/react-native-qrcode-svg
 	url = https://github.com/grgia/react-native-qrcode-svg.git
+[submodule "libraries/react-native-menu/menu"]
+	path = libraries/react-native-menu/menu
+	url = https://github.com/react-native-menu/menu.git
+[submodule "libraries/jfilter/react-native-onboarding-swiper"]
+	path = libraries/jfilter/react-native-onboarding-swiper
+	url = https://github.com/jfilter/react-native-onboarding-swiper.git
+[submodule "libraries/firofame/react-native-compass-heading"]
+	path = libraries/firofame/react-native-compass-heading
+	url = https://github.com/firofame/react-native-compass-heading.git
