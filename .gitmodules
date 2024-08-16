@@ -961,3 +961,12 @@
 [submodule "libraries/firofame/react-native-compass-heading"]
 	path = libraries/firofame/react-native-compass-heading
 	url = https://github.com/firofame/react-native-compass-heading.git
+[submodule "libraries/FormidableLabs/victory-native-xl"]
+	path = libraries/FormidableLabs/victory-native-xl
+	url = https://github.com/FormidableLabs/victory-native-xl.git
+[submodule "libraries/Expensify/react-native-qrcode-svg"]
+	path = libraries/Expensify/react-native-qrcode-svg
+	url = https://github.com/Expensify/react-native-qrcode-svg.git
+[submodule "libraries/Cero-Studio/ReactNativeWheelPicker"]
+	path = libraries/Cero-Studio/ReactNativeWheelPicker
+	url = https://github.com/Cero-Studio/ReactNativeWheelPicker.git
