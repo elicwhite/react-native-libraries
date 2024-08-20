@@ -970,3 +970,6 @@
 [submodule "libraries/Cero-Studio/ReactNativeWheelPicker"]
 	path = libraries/Cero-Studio/ReactNativeWheelPicker
 	url = https://github.com/Cero-Studio/ReactNativeWheelPicker.git
+[submodule "libraries/pmndrs/zustand"]
+	path = libraries/pmndrs/zustand
+	url = https://github.com/pmndrs/zustand.git
