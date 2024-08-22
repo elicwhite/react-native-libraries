@@ -973,3 +973,6 @@
 [submodule "libraries/pmndrs/zustand"]
 	path = libraries/pmndrs/zustand
 	url = https://github.com/pmndrs/zustand.git
+[submodule "libraries/nandorojo/burnt"]
+	path = libraries/nandorojo/burnt
+	url = https://github.com/nandorojo/burnt.git
