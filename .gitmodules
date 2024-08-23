@@ -976,3 +976,9 @@
 [submodule "libraries/nandorojo/burnt"]
 	path = libraries/nandorojo/burnt
 	url = https://github.com/nandorojo/burnt.git
+[submodule "libraries/TanStack/query"]
+	path = libraries/TanStack/query
+	url = https://github.com/TanStack/query.git
+[submodule "libraries/AppsFlyerSDK/appsflyer-react-native-plugin"]
+	path = libraries/AppsFlyerSDK/appsflyer-react-native-plugin
+	url = https://github.com/AppsFlyerSDK/appsflyer-react-native-plugin.git
