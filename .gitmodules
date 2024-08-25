@@ -982,3 +982,6 @@
 [submodule "libraries/AppsFlyerSDK/appsflyer-react-native-plugin"]
 	path = libraries/AppsFlyerSDK/appsflyer-react-native-plugin
 	url = https://github.com/AppsFlyerSDK/appsflyer-react-native-plugin.git
+[submodule "libraries/razorpay/react-native-razorpay"]
+	path = libraries/razorpay/react-native-razorpay
+	url = https://github.com/razorpay/react-native-razorpay.git
