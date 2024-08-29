@@ -985,3 +985,6 @@
 [submodule "libraries/razorpay/react-native-razorpay"]
 	path = libraries/razorpay/react-native-razorpay
 	url = https://github.com/razorpay/react-native-razorpay.git
+[submodule "libraries/craftzdog/react-native-quick-base64"]
+	path = libraries/craftzdog/react-native-quick-base64
+	url = https://github.com/craftzdog/react-native-quick-base64.git
