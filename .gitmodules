@@ -988,3 +988,6 @@
 [submodule "libraries/craftzdog/react-native-quick-base64"]
 	path = libraries/craftzdog/react-native-quick-base64
 	url = https://github.com/craftzdog/react-native-quick-base64.git
+[submodule "libraries/nandorojo/zeego"]
+	path = libraries/nandorojo/zeego
+	url = https://github.com/nandorojo/zeego.git
