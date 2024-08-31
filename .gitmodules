@@ -991,3 +991,6 @@
 [submodule "libraries/nandorojo/zeego"]
 	path = libraries/nandorojo/zeego
 	url = https://github.com/nandorojo/zeego.git
+[submodule "libraries/margelo/react-native-quick-crypto"]
+	path = libraries/margelo/react-native-quick-crypto
+	url = https://github.com/margelo/react-native-quick-crypto.git
