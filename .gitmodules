@@ -994,3 +994,6 @@
 [submodule "libraries/margelo/react-native-quick-crypto"]
 	path = libraries/margelo/react-native-quick-crypto
 	url = https://github.com/margelo/react-native-quick-crypto.git
+[submodule "libraries/Nozbe/WatermelonDB"]
+	path = libraries/Nozbe/WatermelonDB
+	url = https://github.com/Nozbe/WatermelonDB.git
