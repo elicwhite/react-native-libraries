@@ -997,3 +997,6 @@
 [submodule "libraries/Nozbe/WatermelonDB"]
 	path = libraries/Nozbe/WatermelonDB
 	url = https://github.com/Nozbe/WatermelonDB.git
+[submodule "libraries/sohobloo/react-native-modal-dropdown"]
+	path = libraries/sohobloo/react-native-modal-dropdown
+	url = https://github.com/sohobloo/react-native-modal-dropdown.git
