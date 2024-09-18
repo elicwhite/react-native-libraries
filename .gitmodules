@@ -1000,3 +1000,6 @@
 [submodule "libraries/sohobloo/react-native-modal-dropdown"]
 	path = libraries/sohobloo/react-native-modal-dropdown
 	url = https://github.com/sohobloo/react-native-modal-dropdown.git
+[submodule "libraries/intercom/intercom-react-native"]
+	path = libraries/intercom/intercom-react-native
+	url = https://github.com/intercom/intercom-react-native.git
