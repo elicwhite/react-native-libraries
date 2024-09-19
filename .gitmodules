@@ -1003,3 +1003,6 @@
 [submodule "libraries/intercom/intercom-react-native"]
 	path = libraries/intercom/intercom-react-native
 	url = https://github.com/intercom/intercom-react-native.git
+[submodule "libraries/rumax/react-native-PixelsCatcher"]
+	path = libraries/rumax/react-native-PixelsCatcher
+	url = https://github.com/rumax/react-native-PixelsCatcher.git
