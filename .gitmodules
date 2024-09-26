@@ -1009,3 +1009,6 @@
 [submodule "libraries/binaryminds/react-native-sse"]
 	path = libraries/binaryminds/react-native-sse
 	url = https://github.com/binaryminds/react-native-sse.git
+[submodule "libraries/react-native-segmented-control/segmented-control"]
+	path = libraries/react-native-segmented-control/segmented-control
+	url = https://github.com/react-native-segmented-control/segmented-control.git
