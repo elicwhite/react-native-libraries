@@ -1012,3 +1012,6 @@
 [submodule "libraries/react-native-segmented-control/segmented-control"]
 	path = libraries/react-native-segmented-control/segmented-control
 	url = https://github.com/react-native-segmented-control/segmented-control.git
+[submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
+	path = libraries/souvik-ghosh/react-native-create-thumbnail
+	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
