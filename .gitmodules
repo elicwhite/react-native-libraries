@@ -1015,3 +1015,9 @@
 [submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
 	path = libraries/souvik-ghosh/react-native-create-thumbnail
 	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
+[submodule "libraries/hyochan/react-native-iap"]
+	path = libraries/hyochan/react-native-iap
+	url = https://github.com/hyochan/react-native-iap.git
+[submodule "libraries/carloscuesta/react-native-error-boundary"]
+	path = libraries/carloscuesta/react-native-error-boundary
+	url = https://github.com/carloscuesta/react-native-error-boundary.git
