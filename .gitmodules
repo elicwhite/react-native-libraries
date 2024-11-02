@@ -1021,3 +1021,6 @@
 [submodule "libraries/carloscuesta/react-native-error-boundary"]
 	path = libraries/carloscuesta/react-native-error-boundary
 	url = https://github.com/carloscuesta/react-native-error-boundary.git
+[submodule "libraries/alexbrazier/react-native-network-logger"]
+	path = libraries/alexbrazier/react-native-network-logger
+	url = https://github.com/alexbrazier/react-native-network-logger.git
