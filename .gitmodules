@@ -1024,3 +1024,6 @@
 [submodule "libraries/alexbrazier/react-native-network-logger"]
 	path = libraries/alexbrazier/react-native-network-logger
 	url = https://github.com/alexbrazier/react-native-network-logger.git
+[submodule "libraries/tomekvenits/react-native-map-clustering"]
+	path = libraries/tomekvenits/react-native-map-clustering
+	url = https://github.com/tomekvenits/react-native-map-clustering.git
