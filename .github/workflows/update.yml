@@ -32,6 +32,6 @@ jobs:
           commit_message: Update libraries
           branch: ${{ github.head_ref }}
 
-          commit_user_name: TheSavior
+          commit_user_name: elicwhite
           commit_user_email: github@eli-white.com
           commit_author: Eli White <github@eli-white.com>
