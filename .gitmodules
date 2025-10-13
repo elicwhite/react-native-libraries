@@ -1027,3 +1027,264 @@
 [submodule "libraries/tomekvenits/react-native-map-clustering"]
 	path = libraries/tomekvenits/react-native-map-clustering
 	url = https://github.com/tomekvenits/react-native-map-clustering.git
+[submodule "libraries/livekit/client-sdk-js"]
+	path = libraries/livekit/client-sdk-js
+	url = https://github.com/livekit/client-sdk-js.git
+[submodule "libraries/tailwindlabs/tailwindcss"]
+	path = libraries/tailwindlabs/tailwindcss
+	url = https://github.com/tailwindlabs/tailwindcss.git
+[submodule "libraries/axios/axios"]
+	path = libraries/axios/axios
+	url = https://github.com/axios/axios.git
+[submodule "libraries/margelo/react-native-worklets-core"]
+	path = libraries/margelo/react-native-worklets-core
+	url = https://github.com/margelo/react-native-worklets-core.git
+[submodule "libraries/better-auth/better-auth"]
+	path = libraries/better-auth/better-auth
+	url = https://github.com/better-auth/better-auth.git
+[submodule "libraries/LegendApp/legend-list"]
+	path = libraries/LegendApp/legend-list
+	url = https://github.com/LegendApp/legend-list.git
+[submodule "libraries/mrousavy/nitro"]
+	path = libraries/mrousavy/nitro
+	url = https://github.com/mrousavy/nitro.git
+[submodule "libraries/hectorm/otpauth"]
+	path = libraries/hectorm/otpauth
+	url = https://github.com/hectorm/otpauth.git
+[submodule "libraries/TanStack/form"]
+	path = libraries/TanStack/form
+	url = https://github.com/TanStack/form.git
+[submodule "libraries/OP-Engineering/op-sqlite"]
+	path = libraries/OP-Engineering/op-sqlite
+	url = https://github.com/OP-Engineering/op-sqlite.git
+[submodule "libraries/duguyihou/react-native-turbo-image"]
+	path = libraries/duguyihou/react-native-turbo-image
+	url = https://github.com/duguyihou/react-native-turbo-image.git
+[submodule "libraries/statelyai/xstate"]
+	path = libraries/statelyai/xstate
+	url = https://github.com/statelyai/xstate.git
+[submodule "libraries/googleapis/js-genai"]
+	path = libraries/googleapis/js-genai
+	url = https://github.com/googleapis/js-genai.git
+[submodule "libraries/PostHog/posthog-js"]
+	path = libraries/PostHog/posthog-js
+	url = https://github.com/PostHog/posthog-js.git
+[submodule "libraries/LegendApp/legend-state"]
+	path = libraries/LegendApp/legend-state
+	url = https://github.com/LegendApp/legend-state.git
+[submodule "libraries/i18next/i18next"]
+	path = libraries/i18next/i18next
+	url = https://github.com/i18next/i18next.git
+[submodule "libraries/infinitered/ignite"]
+	path = libraries/infinitered/ignite
+	url = https://github.com/infinitered/ignite.git
+[submodule "libraries/tamagui/tamagui"]
+	path = libraries/tamagui/tamagui
+	url = https://github.com/tamagui/tamagui.git
+[submodule "libraries/moment/luxon"]
+	path = libraries/moment/luxon
+	url = https://github.com/moment/luxon.git
+[submodule "libraries/toss/es-toolkit"]
+	path = libraries/toss/es-toolkit
+	url = https://github.com/toss/es-toolkit.git
+[submodule "libraries/Expensify/react-native-live-markdown"]
+	path = libraries/Expensify/react-native-live-markdown
+	url = https://github.com/Expensify/react-native-live-markdown.git
+[submodule "libraries/unadlib/mutative"]
+	path = libraries/unadlib/mutative
+	url = https://github.com/unadlib/mutative.git
+[submodule "libraries/npm/node-semver"]
+	path = libraries/npm/node-semver
+	url = https://github.com/npm/node-semver.git
+[submodule "libraries/plaid/react-native-plaid-link-sdk"]
+	path = libraries/plaid/react-native-plaid-link-sdk
+	url = https://github.com/plaid/react-native-plaid-link-sdk.git
+[submodule "libraries/colinhacks/zod"]
+	path = libraries/colinhacks/zod
+	url = https://github.com/colinhacks/zod.git
+[submodule "libraries/immerjs/immer"]
+	path = libraries/immerjs/immer
+	url = https://github.com/immerjs/immer.git
+[submodule "libraries/dcastil/tailwind-merge"]
+	path = libraries/dcastil/tailwind-merge
+	url = https://github.com/dcastil/tailwind-merge.git
+[submodule "libraries/reduxjs/redux-toolkit"]
+	path = libraries/reduxjs/redux-toolkit
+	url = https://github.com/reduxjs/redux-toolkit.git
+[submodule "libraries/drizzle-team/drizzle-orm"]
+	path = libraries/drizzle-team/drizzle-orm
+	url = https://github.com/drizzle-team/drizzle-orm.git
+[submodule "libraries/FortAwesome/Font-Awesome"]
+	path = libraries/FortAwesome/Font-Awesome
+	url = https://github.com/FortAwesome/Font-Awesome.git
+[submodule "libraries/bugsnag/bugsnag-js"]
+	path = libraries/bugsnag/bugsnag-js
+	url = https://github.com/bugsnag/bugsnag-js.git
+[submodule "libraries/launchdarkly/react-client-sdk"]
+	path = libraries/launchdarkly/react-client-sdk
+	url = https://github.com/launchdarkly/react-client-sdk.git
+[submodule "libraries/jaredh159/tailwind-react-native-classnames"]
+	path = libraries/jaredh159/tailwind-react-native-classnames
+	url = https://github.com/jaredh159/tailwind-react-native-classnames.git
+[submodule "libraries/versatica/mediasoup-client"]
+	path = libraries/versatica/mediasoup-client
+	url = https://github.com/versatica/mediasoup-client.git
+[submodule "libraries/alibaba/hooks"]
+	path = libraries/alibaba/hooks
+	url = https://github.com/alibaba/hooks.git
+[submodule "libraries/iamkun/dayjs"]
+	path = libraries/iamkun/dayjs
+	url = https://github.com/iamkun/dayjs.git
+[submodule "libraries/reduxjs/reselect"]
+	path = libraries/reduxjs/reselect
+	url = https://github.com/reduxjs/reselect.git
+[submodule "libraries/pmndrs/jotai"]
+	path = libraries/pmndrs/jotai
+	url = https://github.com/pmndrs/jotai.git
+[submodule "libraries/rive-app/rive-react-native"]
+	path = libraries/rive-app/rive-react-native
+	url = https://github.com/rive-app/rive-react-native.git
+[submodule "libraries/expo/config-plugins"]
+	path = libraries/expo/config-plugins
+	url = https://github.com/expo/config-plugins.git
+[submodule "libraries/mpiannucci/react-native-context-menu-view"]
+	path = libraries/mpiannucci/react-native-context-menu-view
+	url = https://github.com/mpiannucci/react-native-context-menu-view.git
+[submodule "libraries/jquense/yup"]
+	path = libraries/jquense/yup
+	url = https://github.com/jquense/yup.git
+[submodule "libraries/reduxjs/redux"]
+	path = libraries/reduxjs/redux
+	url = https://github.com/reduxjs/redux.git
+[submodule "libraries/react-hook-form/resolvers"]
+	path = libraries/react-hook-form/resolvers
+	url = https://github.com/react-hook-form/resolvers.git
+[submodule "libraries/10play/10tap-editor"]
+	path = libraries/10play/10tap-editor
+	url = https://github.com/10play/10tap-editor.git
+[submodule "libraries/bvaughn/react-error-boundary"]
+	path = libraries/bvaughn/react-error-boundary
+	url = https://github.com/bvaughn/react-error-boundary.git
+[submodule "libraries/zoontek/react-native-edge-to-edge"]
+	path = libraries/zoontek/react-native-edge-to-edge
+	url = https://github.com/zoontek/react-native-edge-to-edge.git
+[submodule "libraries/date-fns/date-fns"]
+	path = libraries/date-fns/date-fns
+	url = https://github.com/date-fns/date-fns.git
+[submodule "libraries/reduxjs/react-redux"]
+	path = libraries/reduxjs/react-redux
+	url = https://github.com/reduxjs/react-redux.git
+[submodule "libraries/xnimorz/use-debounce"]
+	path = libraries/xnimorz/use-debounce
+	url = https://github.com/xnimorz/use-debounce.git
+[submodule "libraries/gunnartorfis/sonner-native"]
+	path = libraries/gunnartorfis/sonner-native
+	url = https://github.com/gunnartorfis/sonner-native.git
+[submodule "libraries/AppAndFlow/react-native-safe-area-context"]
+	path = libraries/AppAndFlow/react-native-safe-area-context
+	url = https://github.com/AppAndFlow/react-native-safe-area-context.git
+[submodule "libraries/WrathChaos/react-native-bouncy-checkbox"]
+	path = libraries/WrathChaos/react-native-bouncy-checkbox
+	url = https://github.com/WrathChaos/react-native-bouncy-checkbox.git
+[submodule "libraries/google-gemini/deprecated-generative-ai-js"]
+	path = libraries/google-gemini/deprecated-generative-ai-js
+	url = https://github.com/google-gemini/deprecated-generative-ai-js.git
+[submodule "libraries/ftzi/react-native-shadow-2"]
+	path = libraries/ftzi/react-native-shadow-2
+	url = https://github.com/ftzi/react-native-shadow-2.git
+[submodule "libraries/lodev09/react-native-true-sheet"]
+	path = libraries/lodev09/react-native-true-sheet
+	url = https://github.com/lodev09/react-native-true-sheet.git
+[submodule "libraries/osamaqarem/react-native-image-colors"]
+	path = libraries/osamaqarem/react-native-image-colors
+	url = https://github.com/osamaqarem/react-native-image-colors.git
+[submodule "libraries/fnando/i18n"]
+	path = libraries/fnando/i18n
+	url = https://github.com/fnando/i18n.git
+[submodule "libraries/joe-bell/cva"]
+	path = libraries/joe-bell/cva
+	url = https://github.com/joe-bell/cva.git
+[submodule "libraries/tradle/react-native-crypto"]
+	path = libraries/tradle/react-native-crypto
+	url = https://github.com/tradle/react-native-crypto.git
+[submodule "libraries/auth0/jwt-decode"]
+	path = libraries/auth0/jwt-decode
+	url = https://github.com/auth0/jwt-decode.git
+[submodule "libraries/sodiray/radash"]
+	path = libraries/sodiray/radash
+	url = https://github.com/sodiray/radash.git
+[submodule "libraries/sunnylqm/react-native-storage"]
+	path = libraries/sunnylqm/react-native-storage
+	url = https://github.com/sunnylqm/react-native-storage.git
+[submodule "libraries/roninoss/rn-primitives"]
+	path = libraries/roninoss/rn-primitives
+	url = https://github.com/roninoss/rn-primitives.git
+[submodule "libraries/react-native-webrtc/react-native-incall-manager"]
+	path = libraries/react-native-webrtc/react-native-incall-manager
+	url = https://github.com/react-native-webrtc/react-native-incall-manager.git
+[submodule "libraries/facebook/react"]
+	path = libraries/facebook/react
+	url = https://github.com/facebook/react.git
+[submodule "libraries/vydimitrov/react-countdown-circle-timer"]
+	path = libraries/vydimitrov/react-countdown-circle-timer
+	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
+[submodule "libraries/mdevils/html-entities"]
+	path = libraries/mdevils/html-entities
+	url = https://github.com/mdevils/html-entities.git
+[submodule "libraries/ctrlplusb/easy-peasy"]
+	path = libraries/ctrlplusb/easy-peasy
+	url = https://github.com/ctrlplusb/easy-peasy.git
+[submodule "libraries/farhoudshapouran/react-native-ui-datepicker"]
+	path = libraries/farhoudshapouran/react-native-ui-datepicker
+	url = https://github.com/farhoudshapouran/react-native-ui-datepicker.git
+[submodule "libraries/reduxjs/redux-thunk"]
+	path = libraries/reduxjs/redux-thunk
+	url = https://github.com/reduxjs/redux-thunk.git
+[submodule "libraries/callstack/react-native-bundle-visualizer"]
+	path = libraries/callstack/react-native-bundle-visualizer
+	url = https://github.com/callstack/react-native-bundle-visualizer.git
+[submodule "libraries/eugenehp/react-native-uuid"]
+	path = libraries/eugenehp/react-native-uuid
+	url = https://github.com/eugenehp/react-native-uuid.git
+[submodule "libraries/lodash/lodash"]
+	path = libraries/lodash/lodash
+	url = https://github.com/lodash/lodash.git
+[submodule "libraries/MarceloPrado/flash-calendar"]
+	path = libraries/MarceloPrado/flash-calendar
+	url = https://github.com/MarceloPrado/flash-calendar.git
+[submodule "libraries/callstack/masked-view"]
+	path = libraries/callstack/masked-view
+	url = https://github.com/callstack/masked-view.git
+[submodule "libraries/agencyenterprise/react-native-health"]
+	path = libraries/agencyenterprise/react-native-health
+	url = https://github.com/agencyenterprise/react-native-health.git
+[submodule "libraries/expo/expo-three"]
+	path = libraries/expo/expo-three
+	url = https://github.com/expo/expo-three.git
+[submodule "libraries/lukeed/clsx"]
+	path = libraries/lukeed/clsx
+	url = https://github.com/lukeed/clsx.git
+[submodule "libraries/manuelbieh/geolib"]
+	path = libraries/manuelbieh/geolib
+	url = https://github.com/manuelbieh/geolib.git
+[submodule "libraries/primus/eventemitter3"]
+	path = libraries/primus/eventemitter3
+	url = https://github.com/primus/eventemitter3.git
+[submodule "libraries/oblador/react-native-store-review"]
+	path = libraries/oblador/react-native-store-review
+	url = https://github.com/oblador/react-native-store-review.git
+[submodule "libraries/brix/crypto-js"]
+	path = libraries/brix/crypto-js
+	url = https://github.com/brix/crypto-js.git
+[submodule "libraries/developit/mitt"]
+	path = libraries/developit/mitt
+	url = https://github.com/developit/mitt.git
+[submodule "libraries/VincentCATILLON/react-native-confetti-cannon"]
+	path = libraries/VincentCATILLON/react-native-confetti-cannon
+	url = https://github.com/VincentCATILLON/react-native-confetti-cannon.git
+[submodule "libraries/indiespirit/react-native-chart-kit"]
+	path = libraries/indiespirit/react-native-chart-kit
+	url = https://github.com/indiespirit/react-native-chart-kit.git
+[submodule "libraries/epoberezkin/fast-deep-equal"]
+	path = libraries/epoberezkin/fast-deep-equal
+	url = https://github.com/epoberezkin/fast-deep-equal.git
