@@ -805,6 +805,9 @@
 [submodule "libraries/react-native-sensors/react-native-sensors"]
 	path = libraries/react-native-sensors/react-native-sensors
 	url = https://github.com/react-native-sensors/react-native-sensors.git
+[submodule "libraries/yamill/react-native-orientation"]
+	path = libraries/yamill/react-native-orientation
+	url = https://github.com/yamill/react-native-orientation.git
 [submodule "libraries/rnmapbox/maps"]
 	path = libraries/rnmapbox/maps
 	url = https://github.com/rnmapbox/maps.git
