@@ -8,7 +8,7 @@ Ideally GitHub code search would be usable for us, however it often finds callsi
 Check out this repo and grep over the `libraries` folder. Make sure to clone submodules too. You also don't need the history of any part of this repo or the submodules, so skip those.
 
 ```
-git clone --depth 1 --recurse-submodules --shallow-submodules git@github.com:TheSavior/react-native-libraries.git
+git clone --depth 1 --recurse-submodules --shallow-submodules git@github.com:elicwhite/react-native-libraries.git
 ```
 
 E.g. Finding usage of `bridge.uiManager` in all files with extensions `*.m`, `*.mm`, `*.swift` and `*.h`
