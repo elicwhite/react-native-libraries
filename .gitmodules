@@ -1288,3 +1288,12 @@
 [submodule "libraries/epoberezkin/fast-deep-equal"]
 	path = libraries/epoberezkin/fast-deep-equal
 	url = https://github.com/epoberezkin/fast-deep-equal.git
+[submodule "libraries/callstackincubator/react-native-bottom-tabs"]
+	path = libraries/callstackincubator/react-native-bottom-tabs
+	url = https://github.com/callstackincubator/react-native-bottom-tabs.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
+	path = libraries/watch-connectivity/react-native-watch-connectivity
+	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
