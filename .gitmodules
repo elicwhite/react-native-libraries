@@ -1297,3 +1297,6 @@
 [submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
 	path = libraries/watch-connectivity/react-native-watch-connectivity
 	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
+[submodule "libraries/Rapsssito/react-native-background-actions"]
+	path = libraries/Rapsssito/react-native-background-actions
+	url = https://github.com/Rapsssito/react-native-background-actions.git
