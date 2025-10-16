@@ -34,7 +34,7 @@ async function run() {
   });
 
   console.log(`Updating all ${uniqueRepoFullNames.size} git submodules...`);
-  await execFile('git', ['submodule', 'update', '--depth', '1', "--recursive", '--init', '--force'], {
+  await execFile('git', ['submodule', 'update', '--depth', '1', '--init', '--force', '--remote'], {
     cwd: 'libraries'
   });
   console.log('Done!');
