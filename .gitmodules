@@ -490,9 +490,6 @@
 [submodule "libraries/mfrachet/rn-placeholder"]
 	path = libraries/mfrachet/rn-placeholder
 	url = https://github.com/mfrachet/rn-placeholder.git
-[submodule "libraries/robhogan/react-native-securerandom"]
-	path = libraries/robhogan/react-native-securerandom
-	url = https://github.com/robhogan/react-native-securerandom.git
 [submodule "libraries/obipawan/react-native-hyperlink"]
 	path = libraries/obipawan/react-native-hyperlink
 	url = https://github.com/obipawan/react-native-hyperlink.git
@@ -1129,3 +1126,6 @@
 [submodule "libraries/joshswan/react-native-autolink"]
 	path = libraries/joshswan/react-native-autolink
 	url = https://github.com/joshswan/react-native-autolink.git
+[submodule "libraries/10play/10tap-editor"]
+	path = libraries/10play/10tap-editor
+	url = https://github.com/10play/10tap-editor.git
