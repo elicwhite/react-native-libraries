@@ -1111,9 +1111,6 @@
 [submodule "libraries/akinncar/react-native-mask-text"]
 	path = libraries/akinncar/react-native-mask-text
 	url = https://github.com/akinncar/react-native-mask-text.git
-[submodule "libraries/likashefqet/react-native-image-zoom"]
-	path = libraries/likashefqet/react-native-image-zoom
-	url = https://github.com/likashefqet/react-native-image-zoom.git
 [submodule "libraries/react-native-webrtc/react-native-callkeep"]
 	path = libraries/react-native-webrtc/react-native-callkeep
 	url = https://github.com/react-native-webrtc/react-native-callkeep.git
@@ -1129,3 +1126,6 @@
 [submodule "libraries/10play/10tap-editor"]
 	path = libraries/10play/10tap-editor
 	url = https://github.com/10play/10tap-editor.git
+[submodule "libraries/AgoraIO-Extensions/react-native-agora"]
+	path = libraries/AgoraIO-Extensions/react-native-agora
+	url = https://github.com/AgoraIO-Extensions/react-native-agora.git
