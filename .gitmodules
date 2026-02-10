@@ -1114,9 +1114,6 @@
 [submodule "libraries/react-native-webrtc/react-native-callkeep"]
 	path = libraries/react-native-webrtc/react-native-callkeep
 	url = https://github.com/react-native-webrtc/react-native-callkeep.git
-[submodule "libraries/pavelbabenko/react-native-awesome-gallery"]
-	path = libraries/pavelbabenko/react-native-awesome-gallery
-	url = https://github.com/pavelbabenko/react-native-awesome-gallery.git
 [submodule "libraries/margelo/react-native-blur"]
 	path = libraries/margelo/react-native-blur
 	url = https://github.com/margelo/react-native-blur.git
@@ -1129,3 +1126,15 @@
 [submodule "libraries/AgoraIO-Extensions/react-native-agora"]
 	path = libraries/AgoraIO-Extensions/react-native-agora
 	url = https://github.com/AgoraIO-Extensions/react-native-agora.git
+[submodule "libraries/byteburgers/react-native-autocomplete-input"]
+	path = libraries/byteburgers/react-native-autocomplete-input
+	url = https://github.com/byteburgers/react-native-autocomplete-input.git
+[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
+	path = libraries/douglasjunior/react-native-keyboard-manager
+	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/stefalda/ReactNativeLocalization"]
+	path = libraries/stefalda/ReactNativeLocalization
+	url = https://github.com/stefalda/ReactNativeLocalization.git
