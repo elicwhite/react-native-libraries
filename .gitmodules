@@ -1138,3 +1138,33 @@
 [submodule "libraries/stefalda/ReactNativeLocalization"]
 	path = libraries/stefalda/ReactNativeLocalization
 	url = https://github.com/stefalda/ReactNativeLocalization.git
+[submodule "libraries/tinyplex/tinybase"]
+	path = libraries/tinyplex/tinybase
+	url = https://github.com/tinyplex/tinybase.git
+[submodule "libraries/instantdb/instant"]
+	path = libraries/instantdb/instant
+	url = https://github.com/instantdb/instant.git
+[submodule "libraries/Rapsssito/react-native-background-actions"]
+	path = libraries/Rapsssito/react-native-background-actions
+	url = https://github.com/Rapsssito/react-native-background-actions.git
+[submodule "libraries/cooperka/react-native-snackbar"]
+	path = libraries/cooperka/react-native-snackbar
+	url = https://github.com/cooperka/react-native-snackbar.git
+[submodule "libraries/maxs15/react-native-modalbox"]
+	path = libraries/maxs15/react-native-modalbox
+	url = https://github.com/maxs15/react-native-modalbox.git
+[submodule "libraries/pavelbabenko/react-native-awesome-gallery"]
+	path = libraries/pavelbabenko/react-native-awesome-gallery
+	url = https://github.com/pavelbabenko/react-native-awesome-gallery.git
+[submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
+	path = libraries/ladjs/react-native-loading-spinner-overlay
+	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
+[submodule "libraries/oblador/react-native-image-progress"]
+	path = libraries/oblador/react-native-image-progress
+	url = https://github.com/oblador/react-native-image-progress.git
+[submodule "libraries/jordanbyron/react-native-quick-actions"]
+	path = libraries/jordanbyron/react-native-quick-actions
+	url = https://github.com/jordanbyron/react-native-quick-actions.git
+[submodule "libraries/thegamenicorus/react-native-phone-input"]
+	path = libraries/thegamenicorus/react-native-phone-input
+	url = https://github.com/thegamenicorus/react-native-phone-input.git
