@@ -904,9 +904,6 @@
 [submodule "libraries/xnimorz/use-debounce"]
 	path = libraries/xnimorz/use-debounce
 	url = https://github.com/xnimorz/use-debounce.git
-[submodule "libraries/gunnartorfis/sonner-native"]
-	path = libraries/gunnartorfis/sonner-native
-	url = https://github.com/gunnartorfis/sonner-native.git
 [submodule "libraries/AppAndFlow/react-native-safe-area-context"]
 	path = libraries/AppAndFlow/react-native-safe-area-context
 	url = https://github.com/AppAndFlow/react-native-safe-area-context.git
@@ -1168,3 +1165,9 @@
 [submodule "libraries/thegamenicorus/react-native-phone-input"]
 	path = libraries/thegamenicorus/react-native-phone-input
 	url = https://github.com/thegamenicorus/react-native-phone-input.git
+[submodule "libraries/gunnartorfis/sonner-native-toasts"]
+	path = libraries/gunnartorfis/sonner-native-toasts
+	url = https://github.com/gunnartorfis/sonner-native-toasts.git
+[submodule "libraries/likashefqet/react-native-image-zoom"]
+	path = libraries/likashefqet/react-native-image-zoom
+	url = https://github.com/likashefqet/react-native-image-zoom.git
