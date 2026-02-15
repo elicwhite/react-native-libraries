@@ -1147,3 +1147,12 @@
 [submodule "libraries/urbanairship/react-native-airship"]
 	path = libraries/urbanairship/react-native-airship
 	url = https://github.com/urbanairship/react-native-airship.git
+[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
+	path = libraries/douglasjunior/react-native-keyboard-manager
+	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
+[submodule "libraries/mvayngrib/react-native-randombytes"]
+	path = libraries/mvayngrib/react-native-randombytes
+	url = https://github.com/mvayngrib/react-native-randombytes.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
