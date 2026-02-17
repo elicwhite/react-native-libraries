@@ -388,9 +388,6 @@
 [submodule "libraries/transistorsoft/react-native-background-fetch"]
 	path = libraries/transistorsoft/react-native-background-fetch
 	url = https://github.com/transistorsoft/react-native-background-fetch.git
-[submodule "libraries/arnnis/react-native-toast-notifications"]
-	path = libraries/arnnis/react-native-toast-notifications
-	url = https://github.com/arnnis/react-native-toast-notifications.git
 [submodule "libraries/bamlab/react-native-image-resizer"]
 	path = libraries/bamlab/react-native-image-resizer
 	url = https://github.com/bamlab/react-native-image-resizer.git
@@ -1150,3 +1147,12 @@
 [submodule "libraries/Rapsssito/react-native-background-actions"]
 	path = libraries/Rapsssito/react-native-background-actions
 	url = https://github.com/Rapsssito/react-native-background-actions.git
+[submodule "libraries/mrousavy/react-native-blurhash"]
+	path = libraries/mrousavy/react-native-blurhash
+	url = https://github.com/mrousavy/react-native-blurhash.git
+[submodule "libraries/cooperka/react-native-snackbar"]
+	path = libraries/cooperka/react-native-snackbar
+	url = https://github.com/cooperka/react-native-snackbar.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
