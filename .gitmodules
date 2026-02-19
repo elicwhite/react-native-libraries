@@ -1156,9 +1156,6 @@
 [submodule "libraries/hyochan/react-native-nitro-sound"]
 	path = libraries/hyochan/react-native-nitro-sound
 	url = https://github.com/hyochan/react-native-nitro-sound.git
-[submodule "libraries/mvayngrib/react-native-randombytes"]
-	path = libraries/mvayngrib/react-native-randombytes
-	url = https://github.com/mvayngrib/react-native-randombytes.git
 [submodule "libraries/vitalets/react-native-extended-stylesheet"]
 	path = libraries/vitalets/react-native-extended-stylesheet
 	url = https://github.com/vitalets/react-native-extended-stylesheet.git
@@ -1186,3 +1183,18 @@
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
+[submodule "libraries/gronxb/hot-updater"]
+	path = libraries/gronxb/hot-updater
+	url = https://github.com/gronxb/hot-updater.git
+[submodule "libraries/instantdb/instant"]
+	path = libraries/instantdb/instant
+	url = https://github.com/instantdb/instant.git
+[submodule "libraries/SudoPlz/sp-react-native-in-app-updates"]
+	path = libraries/SudoPlz/sp-react-native-in-app-updates
+	url = https://github.com/SudoPlz/sp-react-native-in-app-updates.git
+[submodule "libraries/likashefqet/react-native-image-zoom"]
+	path = libraries/likashefqet/react-native-image-zoom
+	url = https://github.com/likashefqet/react-native-image-zoom.git
+[submodule "libraries/robhogan/react-native-securerandom"]
+	path = libraries/robhogan/react-native-securerandom
+	url = https://github.com/robhogan/react-native-securerandom.git
