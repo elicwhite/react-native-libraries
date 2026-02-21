@@ -421,9 +421,6 @@
 [submodule "libraries/bartgryszko/react-native-circular-progress"]
 	path = libraries/bartgryszko/react-native-circular-progress
 	url = https://github.com/bartgryszko/react-native-circular-progress.git
-[submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
-	path = libraries/react-native-text-input-mask/react-native-text-input-mask
-	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
 [submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
 	path = libraries/moaazsidat/react-native-qrcode-scanner
 	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
@@ -1114,9 +1111,6 @@
 [submodule "libraries/10play/10tap-editor"]
 	path = libraries/10play/10tap-editor
 	url = https://github.com/10play/10tap-editor.git
-[submodule "libraries/byteburgers/react-native-autocomplete-input"]
-	path = libraries/byteburgers/react-native-autocomplete-input
-	url = https://github.com/byteburgers/react-native-autocomplete-input.git
 [submodule "libraries/tinyplex/tinybase"]
 	path = libraries/tinyplex/tinybase
 	url = https://github.com/tinyplex/tinybase.git
@@ -1135,9 +1129,6 @@
 [submodule "libraries/douglasjunior/react-native-keyboard-manager"]
 	path = libraries/douglasjunior/react-native-keyboard-manager
 	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
-[submodule "libraries/mrousavy/react-native-blurhash"]
-	path = libraries/mrousavy/react-native-blurhash
-	url = https://github.com/mrousavy/react-native-blurhash.git
 [submodule "libraries/seniv/react-native-notifier"]
 	path = libraries/seniv/react-native-notifier
 	url = https://github.com/seniv/react-native-notifier.git
@@ -1147,15 +1138,9 @@
 [submodule "libraries/Shopify/react-native-performance"]
 	path = libraries/Shopify/react-native-performance
 	url = https://github.com/Shopify/react-native-performance.git
-[submodule "libraries/thegamenicorus/react-native-phone-input"]
-	path = libraries/thegamenicorus/react-native-phone-input
-	url = https://github.com/thegamenicorus/react-native-phone-input.git
 [submodule "libraries/instantdb/instant"]
 	path = libraries/instantdb/instant
 	url = https://github.com/instantdb/instant.git
-[submodule "libraries/likashefqet/react-native-image-zoom"]
-	path = libraries/likashefqet/react-native-image-zoom
-	url = https://github.com/likashefqet/react-native-image-zoom.git
 [submodule "libraries/robhogan/react-native-securerandom"]
 	path = libraries/robhogan/react-native-securerandom
 	url = https://github.com/robhogan/react-native-securerandom.git
