@@ -451,9 +451,6 @@
 [submodule "libraries/oblador/react-native-progress"]
 	path = libraries/oblador/react-native-progress
 	url = https://github.com/oblador/react-native-progress.git
-[submodule "libraries/tradle/react-native-udp"]
-	path = libraries/tradle/react-native-udp
-	url = https://github.com/tradle/react-native-udp.git
 [submodule "libraries/KjellConnelly/react-native-rate"]
 	path = libraries/KjellConnelly/react-native-rate
 	url = https://github.com/KjellConnelly/react-native-rate.git
@@ -943,9 +940,6 @@
 [submodule "libraries/facebook/react"]
 	path = libraries/facebook/react
 	url = https://github.com/facebook/react.git
-[submodule "libraries/vydimitrov/react-countdown-circle-timer"]
-	path = libraries/vydimitrov/react-countdown-circle-timer
-	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
 [submodule "libraries/mdevils/html-entities"]
 	path = libraries/mdevils/html-entities
 	url = https://github.com/mdevils/html-entities.git
@@ -1132,9 +1126,6 @@
 [submodule "libraries/seniv/react-native-notifier"]
 	path = libraries/seniv/react-native-notifier
 	url = https://github.com/seniv/react-native-notifier.git
-[submodule "libraries/hyochan/react-native-nitro-sound"]
-	path = libraries/hyochan/react-native-nitro-sound
-	url = https://github.com/hyochan/react-native-nitro-sound.git
 [submodule "libraries/Shopify/react-native-performance"]
 	path = libraries/Shopify/react-native-performance
 	url = https://github.com/Shopify/react-native-performance.git
@@ -1147,3 +1138,6 @@
 [submodule "libraries/arnnis/react-native-toast-notifications"]
 	path = libraries/arnnis/react-native-toast-notifications
 	url = https://github.com/arnnis/react-native-toast-notifications.git
+[submodule "libraries/react-native-webrtc/react-native-callkeep"]
+	path = libraries/react-native-webrtc/react-native-callkeep
+	url = https://github.com/react-native-webrtc/react-native-callkeep.git
