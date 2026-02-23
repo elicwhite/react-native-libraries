@@ -529,9 +529,6 @@
 [submodule "libraries/jemise111/react-native-swipe-list-view"]
 	path = libraries/jemise111/react-native-swipe-list-view
 	url = https://github.com/jemise111/react-native-swipe-list-view.git
-[submodule "libraries/stovmascript/react-native-version"]
-	path = libraries/stovmascript/react-native-version
-	url = https://github.com/stovmascript/react-native-version.git
 [submodule "libraries/mCodex/react-native-sensitive-info"]
 	path = libraries/mCodex/react-native-sensitive-info
 	url = https://github.com/mCodex/react-native-sensitive-info.git
@@ -898,9 +895,6 @@
 [submodule "libraries/AppAndFlow/react-native-safe-area-context"]
 	path = libraries/AppAndFlow/react-native-safe-area-context
 	url = https://github.com/AppAndFlow/react-native-safe-area-context.git
-[submodule "libraries/WrathChaos/react-native-bouncy-checkbox"]
-	path = libraries/WrathChaos/react-native-bouncy-checkbox
-	url = https://github.com/WrathChaos/react-native-bouncy-checkbox.git
 [submodule "libraries/google-gemini/deprecated-generative-ai-js"]
 	path = libraries/google-gemini/deprecated-generative-ai-js
 	url = https://github.com/google-gemini/deprecated-generative-ai-js.git
@@ -1066,18 +1060,12 @@
 [submodule "libraries/iamolegga/react-native-launch-arguments"]
 	path = libraries/iamolegga/react-native-launch-arguments
 	url = https://github.com/iamolegga/react-native-launch-arguments.git
-[submodule "libraries/LegendApp/legend-motion"]
-	path = libraries/LegendApp/legend-motion
-	url = https://github.com/LegendApp/legend-motion.git
 [submodule "libraries/craftzdog/react-native-buffer"]
 	path = libraries/craftzdog/react-native-buffer
 	url = https://github.com/craftzdog/react-native-buffer.git
 [submodule "libraries/mateusz1913/react-native-avoid-softinput"]
 	path = libraries/mateusz1913/react-native-avoid-softinput
 	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
-[submodule "libraries/codeherence/react-native-header"]
-	path = libraries/codeherence/react-native-header
-	url = https://github.com/codeherence/react-native-header.git
 [submodule "libraries/dominicstop/react-native-ios-context-menu"]
 	path = libraries/dominicstop/react-native-ios-context-menu
 	url = https://github.com/dominicstop/react-native-ios-context-menu.git
@@ -1108,12 +1096,6 @@
 [submodule "libraries/tinyplex/tinybase"]
 	path = libraries/tinyplex/tinybase
 	url = https://github.com/tinyplex/tinybase.git
-[submodule "libraries/pavelbabenko/react-native-awesome-gallery"]
-	path = libraries/pavelbabenko/react-native-awesome-gallery
-	url = https://github.com/pavelbabenko/react-native-awesome-gallery.git
-[submodule "libraries/oblador/react-native-image-progress"]
-	path = libraries/oblador/react-native-image-progress
-	url = https://github.com/oblador/react-native-image-progress.git
 [submodule "libraries/gunnartorfis/sonner-native-toasts"]
 	path = libraries/gunnartorfis/sonner-native-toasts
 	url = https://github.com/gunnartorfis/sonner-native-toasts.git
@@ -1126,9 +1108,6 @@
 [submodule "libraries/seniv/react-native-notifier"]
 	path = libraries/seniv/react-native-notifier
 	url = https://github.com/seniv/react-native-notifier.git
-[submodule "libraries/Shopify/react-native-performance"]
-	path = libraries/Shopify/react-native-performance
-	url = https://github.com/Shopify/react-native-performance.git
 [submodule "libraries/instantdb/instant"]
 	path = libraries/instantdb/instant
 	url = https://github.com/instantdb/instant.git
@@ -1141,3 +1120,9 @@
 [submodule "libraries/react-native-webrtc/react-native-callkeep"]
 	path = libraries/react-native-webrtc/react-native-callkeep
 	url = https://github.com/react-native-webrtc/react-native-callkeep.git
+[submodule "libraries/kuraydev/react-native-bouncy-checkbox"]
+	path = libraries/kuraydev/react-native-bouncy-checkbox
+	url = https://github.com/kuraydev/react-native-bouncy-checkbox.git
+[submodule "libraries/maxs15/react-native-modalbox"]
+	path = libraries/maxs15/react-native-modalbox
+	url = https://github.com/maxs15/react-native-modalbox.git
