@@ -1162,9 +1162,6 @@
 [submodule "libraries/cooperka/react-native-snackbar"]
 	path = libraries/cooperka/react-native-snackbar
 	url = https://github.com/cooperka/react-native-snackbar.git
-[submodule "libraries/vitalets/react-native-extended-stylesheet"]
-	path = libraries/vitalets/react-native-extended-stylesheet
-	url = https://github.com/vitalets/react-native-extended-stylesheet.git
 [submodule "libraries/likashefqet/react-native-image-zoom"]
 	path = libraries/likashefqet/react-native-image-zoom
 	url = https://github.com/likashefqet/react-native-image-zoom.git
@@ -1195,3 +1192,12 @@
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
+[submodule "libraries/software-mansion/react-native-audio-api"]
+	path = libraries/software-mansion/react-native-audio-api
+	url = https://github.com/software-mansion/react-native-audio-api.git
+[submodule "libraries/pavelbabenko/react-native-awesome-gallery"]
+	path = libraries/pavelbabenko/react-native-awesome-gallery
+	url = https://github.com/pavelbabenko/react-native-awesome-gallery.git
+[submodule "libraries/teovillanueva/react-native-web-maps"]
+	path = libraries/teovillanueva/react-native-web-maps
+	url = https://github.com/teovillanueva/react-native-web-maps.git
