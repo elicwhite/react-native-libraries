@@ -1129,18 +1129,6 @@
 [submodule "libraries/thegamenicorus/react-native-phone-input"]
 	path = libraries/thegamenicorus/react-native-phone-input
 	url = https://github.com/thegamenicorus/react-native-phone-input.git
-[submodule "libraries/gronxb/hot-updater"]
-	path = libraries/gronxb/hot-updater
-	url = https://github.com/gronxb/hot-updater.git
-[submodule "libraries/byteburgers/react-native-autocomplete-input"]
-	path = libraries/byteburgers/react-native-autocomplete-input
-	url = https://github.com/byteburgers/react-native-autocomplete-input.git
-[submodule "libraries/mrousavy/react-native-blurhash"]
-	path = libraries/mrousavy/react-native-blurhash
-	url = https://github.com/mrousavy/react-native-blurhash.git
-[submodule "libraries/hyochan/react-native-nitro-sound"]
-	path = libraries/hyochan/react-native-nitro-sound
-	url = https://github.com/hyochan/react-native-nitro-sound.git
 [submodule "libraries/LegendApp/legend-motion"]
 	path = libraries/LegendApp/legend-motion
 	url = https://github.com/LegendApp/legend-motion.git
@@ -1150,9 +1138,6 @@
 [submodule "libraries/codeherence/react-native-header"]
 	path = libraries/codeherence/react-native-header
 	url = https://github.com/codeherence/react-native-header.git
-[submodule "libraries/AgoraIO-Extensions/react-native-agora"]
-	path = libraries/AgoraIO-Extensions/react-native-agora
-	url = https://github.com/AgoraIO-Extensions/react-native-agora.git
 [submodule "libraries/Rapsssito/react-native-background-actions"]
 	path = libraries/Rapsssito/react-native-background-actions
 	url = https://github.com/Rapsssito/react-native-background-actions.git
@@ -1165,39 +1150,27 @@
 [submodule "libraries/likashefqet/react-native-image-zoom"]
 	path = libraries/likashefqet/react-native-image-zoom
 	url = https://github.com/likashefqet/react-native-image-zoom.git
-[submodule "libraries/maxs15/react-native-spinkit"]
-	path = libraries/maxs15/react-native-spinkit
-	url = https://github.com/maxs15/react-native-spinkit.git
-[submodule "libraries/Shopify/react-native-performance"]
-	path = libraries/Shopify/react-native-performance
-	url = https://github.com/Shopify/react-native-performance.git
 [submodule "libraries/arnnis/react-native-toast-notifications"]
 	path = libraries/arnnis/react-native-toast-notifications
 	url = https://github.com/arnnis/react-native-toast-notifications.git
-[submodule "libraries/stefalda/ReactNativeLocalization"]
-	path = libraries/stefalda/ReactNativeLocalization
-	url = https://github.com/stefalda/ReactNativeLocalization.git
 [submodule "libraries/tradle/react-native-udp"]
 	path = libraries/tradle/react-native-udp
 	url = https://github.com/tradle/react-native-udp.git
-[submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
-	path = libraries/ladjs/react-native-loading-spinner-overlay
-	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
 [submodule "libraries/jordanbyron/react-native-quick-actions"]
 	path = libraries/jordanbyron/react-native-quick-actions
 	url = https://github.com/jordanbyron/react-native-quick-actions.git
-[submodule "libraries/jeanregisser/react-native-slider"]
-	path = libraries/jeanregisser/react-native-slider
-	url = https://github.com/jeanregisser/react-native-slider.git
 [submodule "libraries/software-mansion/react-native-audio-api"]
 	path = libraries/software-mansion/react-native-audio-api
 	url = https://github.com/software-mansion/react-native-audio-api.git
 [submodule "libraries/pavelbabenko/react-native-awesome-gallery"]
 	path = libraries/pavelbabenko/react-native-awesome-gallery
 	url = https://github.com/pavelbabenko/react-native-awesome-gallery.git
-[submodule "libraries/teovillanueva/react-native-web-maps"]
-	path = libraries/teovillanueva/react-native-web-maps
-	url = https://github.com/teovillanueva/react-native-web-maps.git
+[submodule "libraries/dominicstop/react-native-ios-utilities"]
+	path = libraries/dominicstop/react-native-ios-utilities
+	url = https://github.com/dominicstop/react-native-ios-utilities.git
+[submodule "libraries/mvayngrib/react-native-randombytes"]
+	path = libraries/mvayngrib/react-native-randombytes
+	url = https://github.com/mvayngrib/react-native-randombytes.git
