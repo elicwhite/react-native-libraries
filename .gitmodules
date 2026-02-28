@@ -1138,15 +1138,9 @@
 [submodule "libraries/codeherence/react-native-header"]
 	path = libraries/codeherence/react-native-header
 	url = https://github.com/codeherence/react-native-header.git
-[submodule "libraries/Rapsssito/react-native-background-actions"]
-	path = libraries/Rapsssito/react-native-background-actions
-	url = https://github.com/Rapsssito/react-native-background-actions.git
 [submodule "libraries/vydimitrov/react-countdown-circle-timer"]
 	path = libraries/vydimitrov/react-countdown-circle-timer
 	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
-[submodule "libraries/cooperka/react-native-snackbar"]
-	path = libraries/cooperka/react-native-snackbar
-	url = https://github.com/cooperka/react-native-snackbar.git
 [submodule "libraries/likashefqet/react-native-image-zoom"]
 	path = libraries/likashefqet/react-native-image-zoom
 	url = https://github.com/likashefqet/react-native-image-zoom.git
@@ -1159,9 +1153,6 @@
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
-[submodule "libraries/jordanbyron/react-native-quick-actions"]
-	path = libraries/jordanbyron/react-native-quick-actions
-	url = https://github.com/jordanbyron/react-native-quick-actions.git
 [submodule "libraries/software-mansion/react-native-audio-api"]
 	path = libraries/software-mansion/react-native-audio-api
 	url = https://github.com/software-mansion/react-native-audio-api.git
@@ -1174,3 +1165,12 @@
 [submodule "libraries/mvayngrib/react-native-randombytes"]
 	path = libraries/mvayngrib/react-native-randombytes
 	url = https://github.com/mvayngrib/react-native-randombytes.git
+[submodule "libraries/gronxb/hot-updater"]
+	path = libraries/gronxb/hot-updater
+	url = https://github.com/gronxb/hot-updater.git
+[submodule "libraries/AgoraIO-Extensions/react-native-agora"]
+	path = libraries/AgoraIO-Extensions/react-native-agora
+	url = https://github.com/AgoraIO-Extensions/react-native-agora.git
+[submodule "libraries/teovillanueva/react-native-web-maps"]
+	path = libraries/teovillanueva/react-native-web-maps
+	url = https://github.com/teovillanueva/react-native-web-maps.git
