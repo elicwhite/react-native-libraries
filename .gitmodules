@@ -1117,9 +1117,6 @@
 [submodule "libraries/oblador/react-native-image-progress"]
 	path = libraries/oblador/react-native-image-progress
 	url = https://github.com/oblador/react-native-image-progress.git
-[submodule "libraries/thegamenicorus/react-native-phone-input"]
-	path = libraries/thegamenicorus/react-native-phone-input
-	url = https://github.com/thegamenicorus/react-native-phone-input.git
 [submodule "libraries/mateusz1913/react-native-avoid-softinput"]
 	path = libraries/mateusz1913/react-native-avoid-softinput
 	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
@@ -1129,9 +1126,6 @@
 [submodule "libraries/tradle/react-native-udp"]
 	path = libraries/tradle/react-native-udp
 	url = https://github.com/tradle/react-native-udp.git
-[submodule "libraries/stovmascript/react-native-version"]
-	path = libraries/stovmascript/react-native-version
-	url = https://github.com/stovmascript/react-native-version.git
 [submodule "libraries/software-mansion/react-native-audio-api"]
 	path = libraries/software-mansion/react-native-audio-api
 	url = https://github.com/software-mansion/react-native-audio-api.git
@@ -1165,3 +1159,9 @@
 [submodule "libraries/EvanBacon/expo-apple-targets"]
 	path = libraries/EvanBacon/expo-apple-targets
 	url = https://github.com/EvanBacon/expo-apple-targets.git
+[submodule "libraries/testshallpass/react-native-dropdownalert"]
+	path = libraries/testshallpass/react-native-dropdownalert
+	url = https://github.com/testshallpass/react-native-dropdownalert.git
+[submodule "libraries/ovr/react-native-status-bar-height"]
+	path = libraries/ovr/react-native-status-bar-height
+	url = https://github.com/ovr/react-native-status-bar-height.git
