@@ -1147,9 +1147,6 @@
 [submodule "libraries/Rapsssito/react-native-background-actions"]
 	path = libraries/Rapsssito/react-native-background-actions
 	url = https://github.com/Rapsssito/react-native-background-actions.git
-[submodule "libraries/maxs15/react-native-spinkit"]
-	path = libraries/maxs15/react-native-spinkit
-	url = https://github.com/maxs15/react-native-spinkit.git
 [submodule "libraries/jordanbyron/react-native-quick-actions"]
 	path = libraries/jordanbyron/react-native-quick-actions
 	url = https://github.com/jordanbyron/react-native-quick-actions.git
@@ -1162,6 +1159,12 @@
 [submodule "libraries/testshallpass/react-native-dropdownalert"]
 	path = libraries/testshallpass/react-native-dropdownalert
 	url = https://github.com/testshallpass/react-native-dropdownalert.git
-[submodule "libraries/ovr/react-native-status-bar-height"]
-	path = libraries/ovr/react-native-status-bar-height
-	url = https://github.com/ovr/react-native-status-bar-height.git
+[submodule "libraries/gronxb/hot-updater"]
+	path = libraries/gronxb/hot-updater
+	url = https://github.com/gronxb/hot-updater.git
+[submodule "libraries/LegendApp/legend-motion"]
+	path = libraries/LegendApp/legend-motion
+	url = https://github.com/LegendApp/legend-motion.git
+[submodule "libraries/stovmascript/react-native-version"]
+	path = libraries/stovmascript/react-native-version
+	url = https://github.com/stovmascript/react-native-version.git
