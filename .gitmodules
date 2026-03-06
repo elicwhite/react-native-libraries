@@ -1087,9 +1087,6 @@
 [submodule "libraries/gunnartorfis/sonner-native-toasts"]
 	path = libraries/gunnartorfis/sonner-native-toasts
 	url = https://github.com/gunnartorfis/sonner-native-toasts.git
-[submodule "libraries/urbanairship/react-native-airship"]
-	path = libraries/urbanairship/react-native-airship
-	url = https://github.com/urbanairship/react-native-airship.git
 [submodule "libraries/douglasjunior/react-native-keyboard-manager"]
 	path = libraries/douglasjunior/react-native-keyboard-manager
 	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
@@ -1165,6 +1162,9 @@
 [submodule "libraries/LegendApp/legend-motion"]
 	path = libraries/LegendApp/legend-motion
 	url = https://github.com/LegendApp/legend-motion.git
-[submodule "libraries/stovmascript/react-native-version"]
-	path = libraries/stovmascript/react-native-version
-	url = https://github.com/stovmascript/react-native-version.git
+[submodule "libraries/teovillanueva/react-native-web-maps"]
+	path = libraries/teovillanueva/react-native-web-maps
+	url = https://github.com/teovillanueva/react-native-web-maps.git
+[submodule "libraries/thegamenicorus/react-native-phone-input"]
+	path = libraries/thegamenicorus/react-native-phone-input
+	url = https://github.com/thegamenicorus/react-native-phone-input.git
