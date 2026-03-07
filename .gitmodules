@@ -1168,3 +1168,12 @@
 [submodule "libraries/thegamenicorus/react-native-phone-input"]
 	path = libraries/thegamenicorus/react-native-phone-input
 	url = https://github.com/thegamenicorus/react-native-phone-input.git
+[submodule "libraries/byteburgers/react-native-autocomplete-input"]
+	path = libraries/byteburgers/react-native-autocomplete-input
+	url = https://github.com/byteburgers/react-native-autocomplete-input.git
+[submodule "libraries/stefalda/ReactNativeLocalization"]
+	path = libraries/stefalda/ReactNativeLocalization
+	url = https://github.com/stefalda/ReactNativeLocalization.git
+[submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
+	path = libraries/ladjs/react-native-loading-spinner-overlay
+	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
