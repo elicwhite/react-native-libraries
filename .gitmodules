@@ -625,9 +625,6 @@
 [submodule "libraries/kirillzyusko/react-native-keyboard-controller"]
 	path = libraries/kirillzyusko/react-native-keyboard-controller
 	url = https://github.com/kirillzyusko/react-native-keyboard-controller.git
-[submodule "libraries/Richou/react-native-android-location-enabler"]
-	path = libraries/Richou/react-native-android-location-enabler
-	url = https://github.com/Richou/react-native-android-location-enabler.git
 [submodule "libraries/react-native-documents/document-picker"]
 	path = libraries/react-native-documents/document-picker
 	url = https://github.com/react-native-documents/document-picker.git
@@ -1177,3 +1174,18 @@
 [submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
 	path = libraries/ladjs/react-native-loading-spinner-overlay
 	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
+[submodule "libraries/GeekyAnts/react-native-easy-grid"]
+	path = libraries/GeekyAnts/react-native-easy-grid
+	url = https://github.com/GeekyAnts/react-native-easy-grid.git
+[submodule "libraries/vydimitrov/react-countdown-circle-timer"]
+	path = libraries/vydimitrov/react-countdown-circle-timer
+	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
+[submodule "libraries/likashefqet/react-native-image-zoom"]
+	path = libraries/likashefqet/react-native-image-zoom
+	url = https://github.com/likashefqet/react-native-image-zoom.git
+[submodule "libraries/maxs15/react-native-spinkit"]
+	path = libraries/maxs15/react-native-spinkit
+	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/jeanregisser/react-native-slider"]
+	path = libraries/jeanregisser/react-native-slider
+	url = https://github.com/jeanregisser/react-native-slider.git
