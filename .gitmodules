@@ -1189,3 +1189,12 @@
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
+[submodule "libraries/kingstinct/react-native-healthkit"]
+	path = libraries/kingstinct/react-native-healthkit
+	url = https://github.com/kingstinct/react-native-healthkit.git
+[submodule "libraries/hectahertz/react-native-typography"]
+	path = libraries/hectahertz/react-native-typography
+	url = https://github.com/hectahertz/react-native-typography.git
+[submodule "libraries/stovmascript/react-native-version"]
+	path = libraries/stovmascript/react-native-version
+	url = https://github.com/stovmascript/react-native-version.git
