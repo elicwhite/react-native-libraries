@@ -985,18 +985,12 @@
 [submodule "libraries/epoberezkin/fast-deep-equal"]
 	path = libraries/epoberezkin/fast-deep-equal
 	url = https://github.com/epoberezkin/fast-deep-equal.git
-[submodule "libraries/Expensify/react-native-onyx"]
-	path = libraries/Expensify/react-native-onyx
-	url = https://github.com/Expensify/react-native-onyx.git
 [submodule "libraries/heroui-inc/heroui-native"]
 	path = libraries/heroui-inc/heroui-native
 	url = https://github.com/heroui-inc/heroui-native.git
 [submodule "libraries/quantizor/markdown-to-jsx"]
 	path = libraries/quantizor/markdown-to-jsx
 	url = https://github.com/quantizor/markdown-to-jsx.git
-[submodule "libraries/fullstorydev/fullstory-react-native"]
-	path = libraries/fullstorydev/fullstory-react-native
-	url = https://github.com/fullstorydev/fullstory-react-native.git
 [submodule "libraries/facebook/metro"]
 	path = libraries/facebook/metro
 	url = https://github.com/facebook/metro.git
@@ -1165,36 +1159,15 @@
 [submodule "libraries/thegamenicorus/react-native-phone-input"]
 	path = libraries/thegamenicorus/react-native-phone-input
 	url = https://github.com/thegamenicorus/react-native-phone-input.git
-[submodule "libraries/byteburgers/react-native-autocomplete-input"]
-	path = libraries/byteburgers/react-native-autocomplete-input
-	url = https://github.com/byteburgers/react-native-autocomplete-input.git
 [submodule "libraries/stefalda/ReactNativeLocalization"]
 	path = libraries/stefalda/ReactNativeLocalization
 	url = https://github.com/stefalda/ReactNativeLocalization.git
-[submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
-	path = libraries/ladjs/react-native-loading-spinner-overlay
-	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
-[submodule "libraries/GeekyAnts/react-native-easy-grid"]
-	path = libraries/GeekyAnts/react-native-easy-grid
-	url = https://github.com/GeekyAnts/react-native-easy-grid.git
-[submodule "libraries/vydimitrov/react-countdown-circle-timer"]
-	path = libraries/vydimitrov/react-countdown-circle-timer
-	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
 [submodule "libraries/likashefqet/react-native-image-zoom"]
 	path = libraries/likashefqet/react-native-image-zoom
 	url = https://github.com/likashefqet/react-native-image-zoom.git
-[submodule "libraries/maxs15/react-native-spinkit"]
-	path = libraries/maxs15/react-native-spinkit
-	url = https://github.com/maxs15/react-native-spinkit.git
-[submodule "libraries/jeanregisser/react-native-slider"]
-	path = libraries/jeanregisser/react-native-slider
-	url = https://github.com/jeanregisser/react-native-slider.git
 [submodule "libraries/kingstinct/react-native-healthkit"]
 	path = libraries/kingstinct/react-native-healthkit
 	url = https://github.com/kingstinct/react-native-healthkit.git
-[submodule "libraries/hectahertz/react-native-typography"]
-	path = libraries/hectahertz/react-native-typography
-	url = https://github.com/hectahertz/react-native-typography.git
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
