@@ -1099,12 +1099,6 @@
 [submodule "libraries/maxs15/react-native-modalbox"]
 	path = libraries/maxs15/react-native-modalbox
 	url = https://github.com/maxs15/react-native-modalbox.git
-[submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
-	path = libraries/react-native-text-input-mask/react-native-text-input-mask
-	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
-[submodule "libraries/oblador/react-native-image-progress"]
-	path = libraries/oblador/react-native-image-progress
-	url = https://github.com/oblador/react-native-image-progress.git
 [submodule "libraries/mateusz1913/react-native-avoid-softinput"]
 	path = libraries/mateusz1913/react-native-avoid-softinput
 	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
@@ -1147,9 +1141,6 @@
 [submodule "libraries/testshallpass/react-native-dropdownalert"]
 	path = libraries/testshallpass/react-native-dropdownalert
 	url = https://github.com/testshallpass/react-native-dropdownalert.git
-[submodule "libraries/gronxb/hot-updater"]
-	path = libraries/gronxb/hot-updater
-	url = https://github.com/gronxb/hot-updater.git
 [submodule "libraries/LegendApp/legend-motion"]
 	path = libraries/LegendApp/legend-motion
 	url = https://github.com/LegendApp/legend-motion.git
@@ -1159,15 +1150,9 @@
 [submodule "libraries/thegamenicorus/react-native-phone-input"]
 	path = libraries/thegamenicorus/react-native-phone-input
 	url = https://github.com/thegamenicorus/react-native-phone-input.git
-[submodule "libraries/stefalda/ReactNativeLocalization"]
-	path = libraries/stefalda/ReactNativeLocalization
-	url = https://github.com/stefalda/ReactNativeLocalization.git
 [submodule "libraries/likashefqet/react-native-image-zoom"]
 	path = libraries/likashefqet/react-native-image-zoom
 	url = https://github.com/likashefqet/react-native-image-zoom.git
 [submodule "libraries/kingstinct/react-native-healthkit"]
 	path = libraries/kingstinct/react-native-healthkit
 	url = https://github.com/kingstinct/react-native-healthkit.git
-[submodule "libraries/stovmascript/react-native-version"]
-	path = libraries/stovmascript/react-native-version
-	url = https://github.com/stovmascript/react-native-version.git
