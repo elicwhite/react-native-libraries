@@ -1120,9 +1120,6 @@
 [submodule "libraries/cooperka/react-native-snackbar"]
 	path = libraries/cooperka/react-native-snackbar
 	url = https://github.com/cooperka/react-native-snackbar.git
-[submodule "libraries/hyochan/react-native-nitro-sound"]
-	path = libraries/hyochan/react-native-nitro-sound
-	url = https://github.com/hyochan/react-native-nitro-sound.git
 [submodule "libraries/Rapsssito/react-native-background-actions"]
 	path = libraries/Rapsssito/react-native-background-actions
 	url = https://github.com/Rapsssito/react-native-background-actions.git
@@ -1156,3 +1153,6 @@
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
+[submodule "libraries/root-two/react-native-drawer"]
+	path = libraries/root-two/react-native-drawer
+	url = https://github.com/root-two/react-native-drawer.git
