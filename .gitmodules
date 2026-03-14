@@ -421,9 +421,6 @@
 [submodule "libraries/bartgryszko/react-native-circular-progress"]
 	path = libraries/bartgryszko/react-native-circular-progress
 	url = https://github.com/bartgryszko/react-native-circular-progress.git
-[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
-	path = libraries/moaazsidat/react-native-qrcode-scanner
-	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
 [submodule "libraries/dohooo/react-native-table-component"]
 	path = libraries/dohooo/react-native-table-component
 	url = https://github.com/dohooo/react-native-table-component.git
@@ -1084,9 +1081,6 @@
 [submodule "libraries/seniv/react-native-notifier"]
 	path = libraries/seniv/react-native-notifier
 	url = https://github.com/seniv/react-native-notifier.git
-[submodule "libraries/instantdb/instant"]
-	path = libraries/instantdb/instant
-	url = https://github.com/instantdb/instant.git
 [submodule "libraries/robhogan/react-native-securerandom"]
 	path = libraries/robhogan/react-native-securerandom
 	url = https://github.com/robhogan/react-native-securerandom.git
@@ -1096,9 +1090,6 @@
 [submodule "libraries/kuraydev/react-native-bouncy-checkbox"]
 	path = libraries/kuraydev/react-native-bouncy-checkbox
 	url = https://github.com/kuraydev/react-native-bouncy-checkbox.git
-[submodule "libraries/mateusz1913/react-native-avoid-softinput"]
-	path = libraries/mateusz1913/react-native-avoid-softinput
-	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
 [submodule "libraries/arnnis/react-native-toast-notifications"]
 	path = libraries/arnnis/react-native-toast-notifications
 	url = https://github.com/arnnis/react-native-toast-notifications.git
@@ -1150,9 +1141,12 @@
 [submodule "libraries/aksonov/react-native-router-flux"]
 	path = libraries/aksonov/react-native-router-flux
 	url = https://github.com/aksonov/react-native-router-flux.git
-[submodule "libraries/jeanregisser/react-native-slider"]
-	path = libraries/jeanregisser/react-native-slider
-	url = https://github.com/jeanregisser/react-native-slider.git
 [submodule "libraries/root-two/react-native-drawer"]
 	path = libraries/root-two/react-native-drawer
 	url = https://github.com/root-two/react-native-drawer.git
+[submodule "libraries/kingstinct/react-native-healthkit"]
+	path = libraries/kingstinct/react-native-healthkit
+	url = https://github.com/kingstinct/react-native-healthkit.git
+[submodule "libraries/native-html/render"]
+	path = libraries/native-html/render
+	url = https://github.com/native-html/render.git
