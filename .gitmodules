@@ -1150,3 +1150,27 @@
 [submodule "libraries/native-html/render"]
 	path = libraries/native-html/render
 	url = https://github.com/native-html/render.git
+[submodule "libraries/hyochan/react-native-nitro-sound"]
+	path = libraries/hyochan/react-native-nitro-sound
+	url = https://github.com/hyochan/react-native-nitro-sound.git
+[submodule "libraries/byteburgers/react-native-autocomplete-input"]
+	path = libraries/byteburgers/react-native-autocomplete-input
+	url = https://github.com/byteburgers/react-native-autocomplete-input.git
+[submodule "libraries/LegendApp/legend-motion"]
+	path = libraries/LegendApp/legend-motion
+	url = https://github.com/LegendApp/legend-motion.git
+[submodule "libraries/mateusz1913/react-native-avoid-softinput"]
+	path = libraries/mateusz1913/react-native-avoid-softinput
+	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
+[submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
+	path = libraries/react-native-text-input-mask/react-native-text-input-mask
+	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
+[submodule "libraries/stefalda/ReactNativeLocalization"]
+	path = libraries/stefalda/ReactNativeLocalization
+	url = https://github.com/stefalda/ReactNativeLocalization.git
+[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
+	path = libraries/moaazsidat/react-native-qrcode-scanner
+	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
+[submodule "libraries/jeanregisser/react-native-slider"]
+	path = libraries/jeanregisser/react-native-slider
+	url = https://github.com/jeanregisser/react-native-slider.git
