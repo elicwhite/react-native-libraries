@@ -1093,9 +1093,6 @@
 [submodule "libraries/arnnis/react-native-toast-notifications"]
 	path = libraries/arnnis/react-native-toast-notifications
 	url = https://github.com/arnnis/react-native-toast-notifications.git
-[submodule "libraries/tradle/react-native-udp"]
-	path = libraries/tradle/react-native-udp
-	url = https://github.com/tradle/react-native-udp.git
 [submodule "libraries/software-mansion/react-native-audio-api"]
 	path = libraries/software-mansion/react-native-audio-api
 	url = https://github.com/software-mansion/react-native-audio-api.git
@@ -1153,9 +1150,6 @@
 [submodule "libraries/hyochan/react-native-nitro-sound"]
 	path = libraries/hyochan/react-native-nitro-sound
 	url = https://github.com/hyochan/react-native-nitro-sound.git
-[submodule "libraries/LegendApp/legend-motion"]
-	path = libraries/LegendApp/legend-motion
-	url = https://github.com/LegendApp/legend-motion.git
 [submodule "libraries/mateusz1913/react-native-avoid-softinput"]
 	path = libraries/mateusz1913/react-native-avoid-softinput
 	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
@@ -1168,3 +1162,15 @@
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
+[submodule "libraries/entropyconquers/react-native-reanimated-dnd"]
+	path = libraries/entropyconquers/react-native-reanimated-dnd
+	url = https://github.com/entropyconquers/react-native-reanimated-dnd.git
+[submodule "libraries/achorein/expo-share-intent"]
+	path = libraries/achorein/expo-share-intent
+	url = https://github.com/achorein/expo-share-intent.git
+[submodule "libraries/stefalda/ReactNativeLocalization"]
+	path = libraries/stefalda/ReactNativeLocalization
+	url = https://github.com/stefalda/ReactNativeLocalization.git
+[submodule "libraries/stovmascript/react-native-version"]
+	path = libraries/stovmascript/react-native-version
+	url = https://github.com/stovmascript/react-native-version.git
