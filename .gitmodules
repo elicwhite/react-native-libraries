@@ -1102,9 +1102,6 @@
 [submodule "libraries/dominicstop/react-native-ios-utilities"]
 	path = libraries/dominicstop/react-native-ios-utilities
 	url = https://github.com/dominicstop/react-native-ios-utilities.git
-[submodule "libraries/AgoraIO-Extensions/react-native-agora"]
-	path = libraries/AgoraIO-Extensions/react-native-agora
-	url = https://github.com/AgoraIO-Extensions/react-native-agora.git
 [submodule "libraries/cooperka/react-native-snackbar"]
 	path = libraries/cooperka/react-native-snackbar
 	url = https://github.com/cooperka/react-native-snackbar.git
@@ -1150,9 +1147,6 @@
 [submodule "libraries/hyochan/react-native-nitro-sound"]
 	path = libraries/hyochan/react-native-nitro-sound
 	url = https://github.com/hyochan/react-native-nitro-sound.git
-[submodule "libraries/mateusz1913/react-native-avoid-softinput"]
-	path = libraries/mateusz1913/react-native-avoid-softinput
-	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
 [submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
 	path = libraries/react-native-text-input-mask/react-native-text-input-mask
 	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
@@ -1165,12 +1159,21 @@
 [submodule "libraries/entropyconquers/react-native-reanimated-dnd"]
 	path = libraries/entropyconquers/react-native-reanimated-dnd
 	url = https://github.com/entropyconquers/react-native-reanimated-dnd.git
-[submodule "libraries/achorein/expo-share-intent"]
-	path = libraries/achorein/expo-share-intent
-	url = https://github.com/achorein/expo-share-intent.git
 [submodule "libraries/stefalda/ReactNativeLocalization"]
 	path = libraries/stefalda/ReactNativeLocalization
 	url = https://github.com/stefalda/ReactNativeLocalization.git
-[submodule "libraries/stovmascript/react-native-version"]
-	path = libraries/stovmascript/react-native-version
-	url = https://github.com/stovmascript/react-native-version.git
+[submodule "libraries/nandorojo/sf-symbols-typescript"]
+	path = libraries/nandorojo/sf-symbols-typescript
+	url = https://github.com/nandorojo/sf-symbols-typescript.git
+[submodule "libraries/nandorojo/dripsy"]
+	path = libraries/nandorojo/dripsy
+	url = https://github.com/nandorojo/dripsy.git
+[submodule "libraries/iddan/react-native-canvas"]
+	path = libraries/iddan/react-native-canvas
+	url = https://github.com/iddan/react-native-canvas.git
+[submodule "libraries/ide/react-native-button"]
+	path = libraries/ide/react-native-button
+	url = https://github.com/ide/react-native-button.git
+[submodule "libraries/glepur/react-native-swipe-gestures"]
+	path = libraries/glepur/react-native-swipe-gestures
+	url = https://github.com/glepur/react-native-swipe-gestures.git
