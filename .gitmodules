@@ -1177,3 +1177,6 @@
 [submodule "libraries/glepur/react-native-swipe-gestures"]
 	path = libraries/glepur/react-native-swipe-gestures
 	url = https://github.com/glepur/react-native-swipe-gestures.git
+[submodule "libraries/AgoraIO-Extensions/react-native-agora"]
+	path = libraries/AgoraIO-Extensions/react-native-agora
+	url = https://github.com/AgoraIO-Extensions/react-native-agora.git
