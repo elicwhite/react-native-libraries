@@ -514,9 +514,6 @@
 [submodule "libraries/vinzscam/react-native-file-viewer"]
 	path = libraries/vinzscam/react-native-file-viewer
 	url = https://github.com/vinzscam/react-native-file-viewer.git
-[submodule "libraries/react-native-art/art"]
-	path = libraries/react-native-art/art
-	url = https://github.com/react-native-art/art.git
 [submodule "libraries/andpor/react-native-sqlite-storage"]
 	path = libraries/andpor/react-native-sqlite-storage
 	url = https://github.com/andpor/react-native-sqlite-storage.git
@@ -1030,9 +1027,6 @@
 [submodule "libraries/react-native-config/react-native-config"]
 	path = libraries/react-native-config/react-native-config
 	url = https://github.com/react-native-config/react-native-config.git
-[submodule "libraries/margelo/react-native-release-profiler"]
-	path = libraries/margelo/react-native-release-profiler
-	url = https://github.com/margelo/react-native-release-profiler.git
 [submodule "libraries/expo/expo-av"]
 	path = libraries/expo/expo-av
 	url = https://github.com/expo/expo-av.git
@@ -1090,15 +1084,9 @@
 [submodule "libraries/kuraydev/react-native-bouncy-checkbox"]
 	path = libraries/kuraydev/react-native-bouncy-checkbox
 	url = https://github.com/kuraydev/react-native-bouncy-checkbox.git
-[submodule "libraries/arnnis/react-native-toast-notifications"]
-	path = libraries/arnnis/react-native-toast-notifications
-	url = https://github.com/arnnis/react-native-toast-notifications.git
 [submodule "libraries/software-mansion/react-native-audio-api"]
 	path = libraries/software-mansion/react-native-audio-api
 	url = https://github.com/software-mansion/react-native-audio-api.git
-[submodule "libraries/pavelbabenko/react-native-awesome-gallery"]
-	path = libraries/pavelbabenko/react-native-awesome-gallery
-	url = https://github.com/pavelbabenko/react-native-awesome-gallery.git
 [submodule "libraries/dominicstop/react-native-ios-utilities"]
 	path = libraries/dominicstop/react-native-ios-utilities
 	url = https://github.com/dominicstop/react-native-ios-utilities.git
@@ -1180,3 +1168,12 @@
 [submodule "libraries/AgoraIO-Extensions/react-native-agora"]
 	path = libraries/AgoraIO-Extensions/react-native-agora
 	url = https://github.com/AgoraIO-Extensions/react-native-agora.git
+[submodule "libraries/instantdb/instant"]
+	path = libraries/instantdb/instant
+	url = https://github.com/instantdb/instant.git
+[submodule "libraries/byteburgers/react-native-autocomplete-input"]
+	path = libraries/byteburgers/react-native-autocomplete-input
+	url = https://github.com/byteburgers/react-native-autocomplete-input.git
+[submodule "libraries/GeekyAnts/react-native-easy-grid"]
+	path = libraries/GeekyAnts/react-native-easy-grid
+	url = https://github.com/GeekyAnts/react-native-easy-grid.git
