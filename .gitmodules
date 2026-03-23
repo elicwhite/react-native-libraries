@@ -1153,9 +1153,6 @@
 [submodule "libraries/gronxb/hot-updater"]
 	path = libraries/gronxb/hot-updater
 	url = https://github.com/gronxb/hot-updater.git
-[submodule "libraries/margelo/react-native-release-profiler"]
-	path = libraries/margelo/react-native-release-profiler
-	url = https://github.com/margelo/react-native-release-profiler.git
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
@@ -1165,3 +1162,33 @@
 [submodule "libraries/react-native-art/art"]
 	path = libraries/react-native-art/art
 	url = https://github.com/react-native-art/art.git
+[submodule "libraries/BranchMetrics/react-native-branch-deep-linking-attribution"]
+	path = libraries/BranchMetrics/react-native-branch-deep-linking-attribution
+	url = https://github.com/BranchMetrics/react-native-branch-deep-linking-attribution.git
+[submodule "libraries/kingstinct/react-native-healthkit"]
+	path = libraries/kingstinct/react-native-healthkit
+	url = https://github.com/kingstinct/react-native-healthkit.git
+[submodule "libraries/expo/vector-icons"]
+	path = libraries/expo/vector-icons
+	url = https://github.com/expo/vector-icons.git
+[submodule "libraries/mowispace/react-native-logs"]
+	path = libraries/mowispace/react-native-logs
+	url = https://github.com/mowispace/react-native-logs.git
+[submodule "libraries/obipawan/react-native-hyperlink"]
+	path = libraries/obipawan/react-native-hyperlink
+	url = https://github.com/obipawan/react-native-hyperlink.git
+[submodule "libraries/hectahertz/react-native-typography"]
+	path = libraries/hectahertz/react-native-typography
+	url = https://github.com/hectahertz/react-native-typography.git
+[submodule "libraries/magicismight/react-native-root-siblings"]
+	path = libraries/magicismight/react-native-root-siblings
+	url = https://github.com/magicismight/react-native-root-siblings.git
+[submodule "libraries/joshswan/react-native-autolink"]
+	path = libraries/joshswan/react-native-autolink
+	url = https://github.com/joshswan/react-native-autolink.git
+[submodule "libraries/corbt/react-native-keep-awake"]
+	path = libraries/corbt/react-native-keep-awake
+	url = https://github.com/corbt/react-native-keep-awake.git
+[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
+	path = libraries/kirankalyan5/react-native-segmented-control-tab
+	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
