@@ -1132,9 +1132,6 @@
 [submodule "libraries/iddan/react-native-canvas"]
 	path = libraries/iddan/react-native-canvas
 	url = https://github.com/iddan/react-native-canvas.git
-[submodule "libraries/ide/react-native-button"]
-	path = libraries/ide/react-native-button
-	url = https://github.com/ide/react-native-button.git
 [submodule "libraries/glepur/react-native-swipe-gestures"]
 	path = libraries/glepur/react-native-swipe-gestures
 	url = https://github.com/glepur/react-native-swipe-gestures.git
@@ -1147,21 +1144,9 @@
 [submodule "libraries/byteburgers/react-native-autocomplete-input"]
 	path = libraries/byteburgers/react-native-autocomplete-input
 	url = https://github.com/byteburgers/react-native-autocomplete-input.git
-[submodule "libraries/GeekyAnts/react-native-easy-grid"]
-	path = libraries/GeekyAnts/react-native-easy-grid
-	url = https://github.com/GeekyAnts/react-native-easy-grid.git
 [submodule "libraries/gronxb/hot-updater"]
 	path = libraries/gronxb/hot-updater
 	url = https://github.com/gronxb/hot-updater.git
-[submodule "libraries/maxs15/react-native-spinkit"]
-	path = libraries/maxs15/react-native-spinkit
-	url = https://github.com/maxs15/react-native-spinkit.git
-[submodule "libraries/pavelbabenko/react-native-awesome-gallery"]
-	path = libraries/pavelbabenko/react-native-awesome-gallery
-	url = https://github.com/pavelbabenko/react-native-awesome-gallery.git
-[submodule "libraries/react-native-art/art"]
-	path = libraries/react-native-art/art
-	url = https://github.com/react-native-art/art.git
 [submodule "libraries/BranchMetrics/react-native-branch-deep-linking-attribution"]
 	path = libraries/BranchMetrics/react-native-branch-deep-linking-attribution
 	url = https://github.com/BranchMetrics/react-native-branch-deep-linking-attribution.git
@@ -1177,9 +1162,6 @@
 [submodule "libraries/obipawan/react-native-hyperlink"]
 	path = libraries/obipawan/react-native-hyperlink
 	url = https://github.com/obipawan/react-native-hyperlink.git
-[submodule "libraries/hectahertz/react-native-typography"]
-	path = libraries/hectahertz/react-native-typography
-	url = https://github.com/hectahertz/react-native-typography.git
 [submodule "libraries/magicismight/react-native-root-siblings"]
 	path = libraries/magicismight/react-native-root-siblings
 	url = https://github.com/magicismight/react-native-root-siblings.git
@@ -1189,6 +1171,3 @@
 [submodule "libraries/corbt/react-native-keep-awake"]
 	path = libraries/corbt/react-native-keep-awake
 	url = https://github.com/corbt/react-native-keep-awake.git
-[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
-	path = libraries/kirankalyan5/react-native-segmented-control-tab
-	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
