@@ -643,9 +643,6 @@
 [submodule "libraries/segmentio/analytics-react-native"]
 	path = libraries/segmentio/analytics-react-native
 	url = https://github.com/segmentio/analytics-react-native.git
-[submodule "libraries/braze-inc/braze-react-native-sdk"]
-	path = libraries/braze-inc/braze-react-native-sdk
-	url = https://github.com/braze-inc/braze-react-native-sdk.git
 [submodule "libraries/tschoffelen/react-native-email-link"]
 	path = libraries/tschoffelen/react-native-email-link
 	url = https://github.com/tschoffelen/react-native-email-link.git
@@ -1051,9 +1048,6 @@
 [submodule "libraries/seniv/react-native-notifier"]
 	path = libraries/seniv/react-native-notifier
 	url = https://github.com/seniv/react-native-notifier.git
-[submodule "libraries/robhogan/react-native-securerandom"]
-	path = libraries/robhogan/react-native-securerandom
-	url = https://github.com/robhogan/react-native-securerandom.git
 [submodule "libraries/react-native-webrtc/react-native-callkeep"]
 	path = libraries/react-native-webrtc/react-native-callkeep
 	url = https://github.com/react-native-webrtc/react-native-callkeep.git
@@ -1075,9 +1069,6 @@
 [submodule "libraries/jordanbyron/react-native-quick-actions"]
 	path = libraries/jordanbyron/react-native-quick-actions
 	url = https://github.com/jordanbyron/react-native-quick-actions.git
-[submodule "libraries/tradle/react-native-crypto"]
-	path = libraries/tradle/react-native-crypto
-	url = https://github.com/tradle/react-native-crypto.git
 [submodule "libraries/EvanBacon/expo-apple-targets"]
 	path = libraries/EvanBacon/expo-apple-targets
 	url = https://github.com/EvanBacon/expo-apple-targets.git
@@ -1171,3 +1162,24 @@
 [submodule "libraries/corbt/react-native-keep-awake"]
 	path = libraries/corbt/react-native-keep-awake
 	url = https://github.com/corbt/react-native-keep-awake.git
+[submodule "libraries/achorein/expo-share-intent"]
+	path = libraries/achorein/expo-share-intent
+	url = https://github.com/achorein/expo-share-intent.git
+[submodule "libraries/margelo/react-native-release-profiler"]
+	path = libraries/margelo/react-native-release-profiler
+	url = https://github.com/margelo/react-native-release-profiler.git
+[submodule "libraries/mateusz1913/react-native-avoid-softinput"]
+	path = libraries/mateusz1913/react-native-avoid-softinput
+	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
+[submodule "libraries/pavelbabenko/react-native-awesome-gallery"]
+	path = libraries/pavelbabenko/react-native-awesome-gallery
+	url = https://github.com/pavelbabenko/react-native-awesome-gallery.git
+[submodule "libraries/arnnis/react-native-toast-notifications"]
+	path = libraries/arnnis/react-native-toast-notifications
+	url = https://github.com/arnnis/react-native-toast-notifications.git
+[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
+	path = libraries/kirankalyan5/react-native-segmented-control-tab
+	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
+[submodule "libraries/stovmascript/react-native-version"]
+	path = libraries/stovmascript/react-native-version
+	url = https://github.com/stovmascript/react-native-version.git
