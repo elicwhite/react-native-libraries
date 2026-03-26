@@ -1183,3 +1183,15 @@
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
+[submodule "libraries/braze-inc/braze-react-native-sdk"]
+	path = libraries/braze-inc/braze-react-native-sdk
+	url = https://github.com/braze-inc/braze-react-native-sdk.git
+[submodule "libraries/openspacelabs/react-native-zoomable-view"]
+	path = libraries/openspacelabs/react-native-zoomable-view
+	url = https://github.com/openspacelabs/react-native-zoomable-view.git
+[submodule "libraries/LegendApp/legend-motion"]
+	path = libraries/LegendApp/legend-motion
+	url = https://github.com/LegendApp/legend-motion.git
+[submodule "libraries/react-native-art/art"]
+	path = libraries/react-native-art/art
+	url = https://github.com/react-native-art/art.git
