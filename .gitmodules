@@ -1081,9 +1081,6 @@
 [submodule "libraries/thegamenicorus/react-native-phone-input"]
 	path = libraries/thegamenicorus/react-native-phone-input
 	url = https://github.com/thegamenicorus/react-native-phone-input.git
-[submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
-	path = libraries/ladjs/react-native-loading-spinner-overlay
-	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
 [submodule "libraries/oblador/react-native-image-progress"]
 	path = libraries/oblador/react-native-image-progress
 	url = https://github.com/oblador/react-native-image-progress.git
@@ -1111,9 +1108,6 @@
 [submodule "libraries/entropyconquers/react-native-reanimated-dnd"]
 	path = libraries/entropyconquers/react-native-reanimated-dnd
 	url = https://github.com/entropyconquers/react-native-reanimated-dnd.git
-[submodule "libraries/stefalda/ReactNativeLocalization"]
-	path = libraries/stefalda/ReactNativeLocalization
-	url = https://github.com/stefalda/ReactNativeLocalization.git
 [submodule "libraries/nandorojo/sf-symbols-typescript"]
 	path = libraries/nandorojo/sf-symbols-typescript
 	url = https://github.com/nandorojo/sf-symbols-typescript.git
@@ -1132,9 +1126,6 @@
 [submodule "libraries/instantdb/instant"]
 	path = libraries/instantdb/instant
 	url = https://github.com/instantdb/instant.git
-[submodule "libraries/byteburgers/react-native-autocomplete-input"]
-	path = libraries/byteburgers/react-native-autocomplete-input
-	url = https://github.com/byteburgers/react-native-autocomplete-input.git
 [submodule "libraries/gronxb/hot-updater"]
 	path = libraries/gronxb/hot-updater
 	url = https://github.com/gronxb/hot-updater.git
@@ -1165,9 +1156,6 @@
 [submodule "libraries/achorein/expo-share-intent"]
 	path = libraries/achorein/expo-share-intent
 	url = https://github.com/achorein/expo-share-intent.git
-[submodule "libraries/margelo/react-native-release-profiler"]
-	path = libraries/margelo/react-native-release-profiler
-	url = https://github.com/margelo/react-native-release-profiler.git
 [submodule "libraries/mateusz1913/react-native-avoid-softinput"]
 	path = libraries/mateusz1913/react-native-avoid-softinput
 	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
@@ -1195,3 +1183,6 @@
 [submodule "libraries/react-native-art/art"]
 	path = libraries/react-native-art/art
 	url = https://github.com/react-native-art/art.git
+[submodule "libraries/vydimitrov/react-countdown-circle-timer"]
+	path = libraries/vydimitrov/react-countdown-circle-timer
+	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
