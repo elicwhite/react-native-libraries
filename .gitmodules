@@ -1084,9 +1084,6 @@
 [submodule "libraries/oblador/react-native-image-progress"]
 	path = libraries/oblador/react-native-image-progress
 	url = https://github.com/oblador/react-native-image-progress.git
-[submodule "libraries/aksonov/react-native-router-flux"]
-	path = libraries/aksonov/react-native-router-flux
-	url = https://github.com/aksonov/react-native-router-flux.git
 [submodule "libraries/root-two/react-native-drawer"]
 	path = libraries/root-two/react-native-drawer
 	url = https://github.com/root-two/react-native-drawer.git
@@ -1114,9 +1111,6 @@
 [submodule "libraries/nandorojo/dripsy"]
 	path = libraries/nandorojo/dripsy
 	url = https://github.com/nandorojo/dripsy.git
-[submodule "libraries/iddan/react-native-canvas"]
-	path = libraries/iddan/react-native-canvas
-	url = https://github.com/iddan/react-native-canvas.git
 [submodule "libraries/glepur/react-native-swipe-gestures"]
 	path = libraries/glepur/react-native-swipe-gestures
 	url = https://github.com/glepur/react-native-swipe-gestures.git
@@ -1186,3 +1180,18 @@
 [submodule "libraries/vydimitrov/react-countdown-circle-timer"]
 	path = libraries/vydimitrov/react-countdown-circle-timer
 	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
+[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
+	path = libraries/watch-connectivity/react-native-watch-connectivity
+	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
+[submodule "libraries/byteburgers/react-native-autocomplete-input"]
+	path = libraries/byteburgers/react-native-autocomplete-input
+	url = https://github.com/byteburgers/react-native-autocomplete-input.git
+[submodule "libraries/margelo/react-native-release-profiler"]
+	path = libraries/margelo/react-native-release-profiler
+	url = https://github.com/margelo/react-native-release-profiler.git
+[submodule "libraries/likashefqet/react-native-image-zoom"]
+	path = libraries/likashefqet/react-native-image-zoom
+	url = https://github.com/likashefqet/react-native-image-zoom.git
+[submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
+	path = libraries/ladjs/react-native-loading-spinner-overlay
+	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
