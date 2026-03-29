@@ -1084,9 +1084,6 @@
 [submodule "libraries/oblador/react-native-image-progress"]
 	path = libraries/oblador/react-native-image-progress
 	url = https://github.com/oblador/react-native-image-progress.git
-[submodule "libraries/root-two/react-native-drawer"]
-	path = libraries/root-two/react-native-drawer
-	url = https://github.com/root-two/react-native-drawer.git
 [submodule "libraries/native-html/render"]
 	path = libraries/native-html/render
 	url = https://github.com/native-html/render.git
@@ -1189,9 +1186,27 @@
 [submodule "libraries/margelo/react-native-release-profiler"]
 	path = libraries/margelo/react-native-release-profiler
 	url = https://github.com/margelo/react-native-release-profiler.git
-[submodule "libraries/likashefqet/react-native-image-zoom"]
-	path = libraries/likashefqet/react-native-image-zoom
-	url = https://github.com/likashefqet/react-native-image-zoom.git
 [submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
 	path = libraries/ladjs/react-native-loading-spinner-overlay
 	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
+[submodule "libraries/mrousavy/react-native-blurhash"]
+	path = libraries/mrousavy/react-native-blurhash
+	url = https://github.com/mrousavy/react-native-blurhash.git
+[submodule "libraries/tradle/react-native-crypto"]
+	path = libraries/tradle/react-native-crypto
+	url = https://github.com/tradle/react-native-crypto.git
+[submodule "libraries/hectahertz/react-native-typography"]
+	path = libraries/hectahertz/react-native-typography
+	url = https://github.com/hectahertz/react-native-typography.git
+[submodule "libraries/mohebifar/react-native-copilot"]
+	path = libraries/mohebifar/react-native-copilot
+	url = https://github.com/mohebifar/react-native-copilot.git
+[submodule "libraries/maxs15/react-native-spinkit"]
+	path = libraries/maxs15/react-native-spinkit
+	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/stefalda/ReactNativeLocalization"]
+	path = libraries/stefalda/ReactNativeLocalization
+	url = https://github.com/stefalda/ReactNativeLocalization.git
+[submodule "libraries/tradle/react-native-udp"]
+	path = libraries/tradle/react-native-udp
+	url = https://github.com/tradle/react-native-udp.git
