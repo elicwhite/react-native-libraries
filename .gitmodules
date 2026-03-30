@@ -754,9 +754,6 @@
 [submodule "libraries/statelyai/xstate"]
 	path = libraries/statelyai/xstate
 	url = https://github.com/statelyai/xstate.git
-[submodule "libraries/googleapis/js-genai"]
-	path = libraries/googleapis/js-genai
-	url = https://github.com/googleapis/js-genai.git
 [submodule "libraries/PostHog/posthog-js"]
 	path = libraries/PostHog/posthog-js
 	url = https://github.com/PostHog/posthog-js.git
@@ -778,9 +775,6 @@
 [submodule "libraries/Expensify/react-native-live-markdown"]
 	path = libraries/Expensify/react-native-live-markdown
 	url = https://github.com/Expensify/react-native-live-markdown.git
-[submodule "libraries/unadlib/mutative"]
-	path = libraries/unadlib/mutative
-	url = https://github.com/unadlib/mutative.git
 [submodule "libraries/npm/node-semver"]
 	path = libraries/npm/node-semver
 	url = https://github.com/npm/node-semver.git
@@ -790,18 +784,12 @@
 [submodule "libraries/colinhacks/zod"]
 	path = libraries/colinhacks/zod
 	url = https://github.com/colinhacks/zod.git
-[submodule "libraries/immerjs/immer"]
-	path = libraries/immerjs/immer
-	url = https://github.com/immerjs/immer.git
 [submodule "libraries/dcastil/tailwind-merge"]
 	path = libraries/dcastil/tailwind-merge
 	url = https://github.com/dcastil/tailwind-merge.git
 [submodule "libraries/reduxjs/redux-toolkit"]
 	path = libraries/reduxjs/redux-toolkit
 	url = https://github.com/reduxjs/redux-toolkit.git
-[submodule "libraries/drizzle-team/drizzle-orm"]
-	path = libraries/drizzle-team/drizzle-orm
-	url = https://github.com/drizzle-team/drizzle-orm.git
 [submodule "libraries/FortAwesome/Font-Awesome"]
 	path = libraries/FortAwesome/Font-Awesome
 	url = https://github.com/FortAwesome/Font-Awesome.git
@@ -826,24 +814,15 @@
 [submodule "libraries/reduxjs/reselect"]
 	path = libraries/reduxjs/reselect
 	url = https://github.com/reduxjs/reselect.git
-[submodule "libraries/pmndrs/jotai"]
-	path = libraries/pmndrs/jotai
-	url = https://github.com/pmndrs/jotai.git
 [submodule "libraries/rive-app/rive-react-native"]
 	path = libraries/rive-app/rive-react-native
 	url = https://github.com/rive-app/rive-react-native.git
 [submodule "libraries/mpiannucci/react-native-context-menu-view"]
 	path = libraries/mpiannucci/react-native-context-menu-view
 	url = https://github.com/mpiannucci/react-native-context-menu-view.git
-[submodule "libraries/jquense/yup"]
-	path = libraries/jquense/yup
-	url = https://github.com/jquense/yup.git
 [submodule "libraries/reduxjs/redux"]
 	path = libraries/reduxjs/redux
 	url = https://github.com/reduxjs/redux.git
-[submodule "libraries/react-hook-form/resolvers"]
-	path = libraries/react-hook-form/resolvers
-	url = https://github.com/react-hook-form/resolvers.git
 [submodule "libraries/bvaughn/react-error-boundary"]
 	path = libraries/bvaughn/react-error-boundary
 	url = https://github.com/bvaughn/react-error-boundary.git
@@ -856,9 +835,6 @@
 [submodule "libraries/reduxjs/react-redux"]
 	path = libraries/reduxjs/react-redux
 	url = https://github.com/reduxjs/react-redux.git
-[submodule "libraries/xnimorz/use-debounce"]
-	path = libraries/xnimorz/use-debounce
-	url = https://github.com/xnimorz/use-debounce.git
 [submodule "libraries/AppAndFlow/react-native-safe-area-context"]
 	path = libraries/AppAndFlow/react-native-safe-area-context
 	url = https://github.com/AppAndFlow/react-native-safe-area-context.git
@@ -877,9 +853,6 @@
 [submodule "libraries/fnando/i18n"]
 	path = libraries/fnando/i18n
 	url = https://github.com/fnando/i18n.git
-[submodule "libraries/joe-bell/cva"]
-	path = libraries/joe-bell/cva
-	url = https://github.com/joe-bell/cva.git
 [submodule "libraries/auth0/jwt-decode"]
 	path = libraries/auth0/jwt-decode
 	url = https://github.com/auth0/jwt-decode.git
@@ -889,9 +862,6 @@
 [submodule "libraries/sunnylqm/react-native-storage"]
 	path = libraries/sunnylqm/react-native-storage
 	url = https://github.com/sunnylqm/react-native-storage.git
-[submodule "libraries/roninoss/rn-primitives"]
-	path = libraries/roninoss/rn-primitives
-	url = https://github.com/roninoss/rn-primitives.git
 [submodule "libraries/react-native-webrtc/react-native-incall-manager"]
 	path = libraries/react-native-webrtc/react-native-incall-manager
 	url = https://github.com/react-native-webrtc/react-native-incall-manager.git
@@ -934,21 +904,12 @@
 [submodule "libraries/lukeed/clsx"]
 	path = libraries/lukeed/clsx
 	url = https://github.com/lukeed/clsx.git
-[submodule "libraries/manuelbieh/geolib"]
-	path = libraries/manuelbieh/geolib
-	url = https://github.com/manuelbieh/geolib.git
-[submodule "libraries/primus/eventemitter3"]
-	path = libraries/primus/eventemitter3
-	url = https://github.com/primus/eventemitter3.git
 [submodule "libraries/oblador/react-native-store-review"]
 	path = libraries/oblador/react-native-store-review
 	url = https://github.com/oblador/react-native-store-review.git
 [submodule "libraries/brix/crypto-js"]
 	path = libraries/brix/crypto-js
 	url = https://github.com/brix/crypto-js.git
-[submodule "libraries/developit/mitt"]
-	path = libraries/developit/mitt
-	url = https://github.com/developit/mitt.git
 [submodule "libraries/VincentCATILLON/react-native-confetti-cannon"]
 	path = libraries/VincentCATILLON/react-native-confetti-cannon
 	url = https://github.com/VincentCATILLON/react-native-confetti-cannon.git
@@ -979,9 +940,6 @@
 [submodule "libraries/uni-stack/uniwind"]
 	path = libraries/uni-stack/uniwind
 	url = https://github.com/uni-stack/uniwind.git
-[submodule "libraries/nandorojo/galeria"]
-	path = libraries/nandorojo/galeria
-	url = https://github.com/nandorojo/galeria.git
 [submodule "libraries/jamsch/expo-speech-recognition"]
 	path = libraries/jamsch/expo-speech-recognition
 	url = https://github.com/jamsch/expo-speech-recognition.git
@@ -1009,9 +967,6 @@
 [submodule "libraries/expo/expo-av"]
 	path = libraries/expo/expo-av
 	url = https://github.com/expo/expo-av.git
-[submodule "libraries/cantoo-scribe/pdf-lib"]
-	path = libraries/cantoo-scribe/pdf-lib
-	url = https://github.com/cantoo-scribe/pdf-lib.git
 [submodule "libraries/iamolegga/react-native-launch-arguments"]
 	path = libraries/iamolegga/react-native-launch-arguments
 	url = https://github.com/iamolegga/react-native-launch-arguments.git
@@ -1054,9 +1009,6 @@
 [submodule "libraries/kuraydev/react-native-bouncy-checkbox"]
 	path = libraries/kuraydev/react-native-bouncy-checkbox
 	url = https://github.com/kuraydev/react-native-bouncy-checkbox.git
-[submodule "libraries/software-mansion/react-native-audio-api"]
-	path = libraries/software-mansion/react-native-audio-api
-	url = https://github.com/software-mansion/react-native-audio-api.git
 [submodule "libraries/dominicstop/react-native-ios-utilities"]
 	path = libraries/dominicstop/react-native-ios-utilities
 	url = https://github.com/dominicstop/react-native-ios-utilities.git
@@ -1099,9 +1051,6 @@
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
-[submodule "libraries/entropyconquers/react-native-reanimated-dnd"]
-	path = libraries/entropyconquers/react-native-reanimated-dnd
-	url = https://github.com/entropyconquers/react-native-reanimated-dnd.git
 [submodule "libraries/nandorojo/sf-symbols-typescript"]
 	path = libraries/nandorojo/sf-symbols-typescript
 	url = https://github.com/nandorojo/sf-symbols-typescript.git
@@ -1165,9 +1114,6 @@
 [submodule "libraries/braze-inc/braze-react-native-sdk"]
 	path = libraries/braze-inc/braze-react-native-sdk
 	url = https://github.com/braze-inc/braze-react-native-sdk.git
-[submodule "libraries/openspacelabs/react-native-zoomable-view"]
-	path = libraries/openspacelabs/react-native-zoomable-view
-	url = https://github.com/openspacelabs/react-native-zoomable-view.git
 [submodule "libraries/LegendApp/legend-motion"]
 	path = libraries/LegendApp/legend-motion
 	url = https://github.com/LegendApp/legend-motion.git
@@ -1210,3 +1156,18 @@
 [submodule "libraries/tradle/react-native-udp"]
 	path = libraries/tradle/react-native-udp
 	url = https://github.com/tradle/react-native-udp.git
+[submodule "libraries/GeekyAnts/react-native-easy-grid"]
+	path = libraries/GeekyAnts/react-native-easy-grid
+	url = https://github.com/GeekyAnts/react-native-easy-grid.git
+[submodule "libraries/sAleksovski/react-native-android-widget"]
+	path = libraries/sAleksovski/react-native-android-widget
+	url = https://github.com/sAleksovski/react-native-android-widget.git
+[submodule "libraries/mvayngrib/react-native-randombytes"]
+	path = libraries/mvayngrib/react-native-randombytes
+	url = https://github.com/mvayngrib/react-native-randombytes.git
+[submodule "libraries/likashefqet/react-native-image-zoom"]
+	path = libraries/likashefqet/react-native-image-zoom
+	url = https://github.com/likashefqet/react-native-image-zoom.git
+[submodule "libraries/osdnk/react-native-reanimated-bottom-sheet"]
+	path = libraries/osdnk/react-native-reanimated-bottom-sheet
+	url = https://github.com/osdnk/react-native-reanimated-bottom-sheet.git
