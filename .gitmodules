@@ -1054,9 +1054,6 @@
 [submodule "libraries/nandorojo/sf-symbols-typescript"]
 	path = libraries/nandorojo/sf-symbols-typescript
 	url = https://github.com/nandorojo/sf-symbols-typescript.git
-[submodule "libraries/nandorojo/dripsy"]
-	path = libraries/nandorojo/dripsy
-	url = https://github.com/nandorojo/dripsy.git
 [submodule "libraries/glepur/react-native-swipe-gestures"]
 	path = libraries/glepur/react-native-swipe-gestures
 	url = https://github.com/glepur/react-native-swipe-gestures.git
@@ -1135,33 +1132,18 @@
 [submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
 	path = libraries/ladjs/react-native-loading-spinner-overlay
 	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
-[submodule "libraries/mrousavy/react-native-blurhash"]
-	path = libraries/mrousavy/react-native-blurhash
-	url = https://github.com/mrousavy/react-native-blurhash.git
 [submodule "libraries/tradle/react-native-crypto"]
 	path = libraries/tradle/react-native-crypto
 	url = https://github.com/tradle/react-native-crypto.git
 [submodule "libraries/hectahertz/react-native-typography"]
 	path = libraries/hectahertz/react-native-typography
 	url = https://github.com/hectahertz/react-native-typography.git
-[submodule "libraries/mohebifar/react-native-copilot"]
-	path = libraries/mohebifar/react-native-copilot
-	url = https://github.com/mohebifar/react-native-copilot.git
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
-[submodule "libraries/stefalda/ReactNativeLocalization"]
-	path = libraries/stefalda/ReactNativeLocalization
-	url = https://github.com/stefalda/ReactNativeLocalization.git
 [submodule "libraries/tradle/react-native-udp"]
 	path = libraries/tradle/react-native-udp
 	url = https://github.com/tradle/react-native-udp.git
-[submodule "libraries/GeekyAnts/react-native-easy-grid"]
-	path = libraries/GeekyAnts/react-native-easy-grid
-	url = https://github.com/GeekyAnts/react-native-easy-grid.git
-[submodule "libraries/sAleksovski/react-native-android-widget"]
-	path = libraries/sAleksovski/react-native-android-widget
-	url = https://github.com/sAleksovski/react-native-android-widget.git
 [submodule "libraries/mvayngrib/react-native-randombytes"]
 	path = libraries/mvayngrib/react-native-randombytes
 	url = https://github.com/mvayngrib/react-native-randombytes.git
@@ -1171,3 +1153,60 @@
 [submodule "libraries/osdnk/react-native-reanimated-bottom-sheet"]
 	path = libraries/osdnk/react-native-reanimated-bottom-sheet
 	url = https://github.com/osdnk/react-native-reanimated-bottom-sheet.git
+[submodule "libraries/googleapis/js-genai"]
+	path = libraries/googleapis/js-genai
+	url = https://github.com/googleapis/js-genai.git
+[submodule "libraries/software-mansion/react-native-audio-api"]
+	path = libraries/software-mansion/react-native-audio-api
+	url = https://github.com/software-mansion/react-native-audio-api.git
+[submodule "libraries/xnimorz/use-debounce"]
+	path = libraries/xnimorz/use-debounce
+	url = https://github.com/xnimorz/use-debounce.git
+[submodule "libraries/roninoss/rn-primitives"]
+	path = libraries/roninoss/rn-primitives
+	url = https://github.com/roninoss/rn-primitives.git
+[submodule "libraries/drizzle-team/drizzle-orm"]
+	path = libraries/drizzle-team/drizzle-orm
+	url = https://github.com/drizzle-team/drizzle-orm.git
+[submodule "libraries/pmndrs/jotai"]
+	path = libraries/pmndrs/jotai
+	url = https://github.com/pmndrs/jotai.git
+[submodule "libraries/cantoo-scribe/pdf-lib"]
+	path = libraries/cantoo-scribe/pdf-lib
+	url = https://github.com/cantoo-scribe/pdf-lib.git
+[submodule "libraries/entropyconquers/react-native-reanimated-dnd"]
+	path = libraries/entropyconquers/react-native-reanimated-dnd
+	url = https://github.com/entropyconquers/react-native-reanimated-dnd.git
+[submodule "libraries/immerjs/immer"]
+	path = libraries/immerjs/immer
+	url = https://github.com/immerjs/immer.git
+[submodule "libraries/react-hook-form/resolvers"]
+	path = libraries/react-hook-form/resolvers
+	url = https://github.com/react-hook-form/resolvers.git
+[submodule "libraries/nandorojo/galeria"]
+	path = libraries/nandorojo/galeria
+	url = https://github.com/nandorojo/galeria.git
+[submodule "libraries/primus/eventemitter3"]
+	path = libraries/primus/eventemitter3
+	url = https://github.com/primus/eventemitter3.git
+[submodule "libraries/unadlib/mutative"]
+	path = libraries/unadlib/mutative
+	url = https://github.com/unadlib/mutative.git
+[submodule "libraries/openspacelabs/react-native-zoomable-view"]
+	path = libraries/openspacelabs/react-native-zoomable-view
+	url = https://github.com/openspacelabs/react-native-zoomable-view.git
+[submodule "libraries/jquense/yup"]
+	path = libraries/jquense/yup
+	url = https://github.com/jquense/yup.git
+[submodule "libraries/joe-bell/cva"]
+	path = libraries/joe-bell/cva
+	url = https://github.com/joe-bell/cva.git
+[submodule "libraries/manuelbieh/geolib"]
+	path = libraries/manuelbieh/geolib
+	url = https://github.com/manuelbieh/geolib.git
+[submodule "libraries/developit/mitt"]
+	path = libraries/developit/mitt
+	url = https://github.com/developit/mitt.git
+[submodule "libraries/robhogan/react-native-securerandom"]
+	path = libraries/robhogan/react-native-securerandom
+	url = https://github.com/robhogan/react-native-securerandom.git
