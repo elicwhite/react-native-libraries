@@ -1225,3 +1225,12 @@
 [submodule "libraries/stefalda/ReactNativeLocalization"]
 	path = libraries/stefalda/ReactNativeLocalization
 	url = https://github.com/stefalda/ReactNativeLocalization.git
+[submodule "libraries/GeekyAnts/react-native-easy-grid"]
+	path = libraries/GeekyAnts/react-native-easy-grid
+	url = https://github.com/GeekyAnts/react-native-easy-grid.git
+[submodule "libraries/ovr/react-native-status-bar-height"]
+	path = libraries/ovr/react-native-status-bar-height
+	url = https://github.com/ovr/react-native-status-bar-height.git
+[submodule "libraries/osdnk/react-native-reanimated-bottom-sheet"]
+	path = libraries/osdnk/react-native-reanimated-bottom-sheet
+	url = https://github.com/osdnk/react-native-reanimated-bottom-sheet.git
