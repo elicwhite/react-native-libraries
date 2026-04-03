@@ -1207,27 +1207,9 @@
 [submodule "libraries/robhogan/react-native-securerandom"]
 	path = libraries/robhogan/react-native-securerandom
 	url = https://github.com/robhogan/react-native-securerandom.git
-[submodule "libraries/mrousavy/react-native-blurhash"]
-	path = libraries/mrousavy/react-native-blurhash
-	url = https://github.com/mrousavy/react-native-blurhash.git
 [submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
 	path = libraries/souvik-ghosh/react-native-create-thumbnail
 	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
-[submodule "libraries/sAleksovski/react-native-android-widget"]
-	path = libraries/sAleksovski/react-native-android-widget
-	url = https://github.com/sAleksovski/react-native-android-widget.git
-[submodule "libraries/mohebifar/react-native-copilot"]
-	path = libraries/mohebifar/react-native-copilot
-	url = https://github.com/mohebifar/react-native-copilot.git
-[submodule "libraries/nandorojo/dripsy"]
-	path = libraries/nandorojo/dripsy
-	url = https://github.com/nandorojo/dripsy.git
-[submodule "libraries/stefalda/ReactNativeLocalization"]
-	path = libraries/stefalda/ReactNativeLocalization
-	url = https://github.com/stefalda/ReactNativeLocalization.git
-[submodule "libraries/GeekyAnts/react-native-easy-grid"]
-	path = libraries/GeekyAnts/react-native-easy-grid
-	url = https://github.com/GeekyAnts/react-native-easy-grid.git
 [submodule "libraries/ovr/react-native-status-bar-height"]
 	path = libraries/ovr/react-native-status-bar-height
 	url = https://github.com/ovr/react-native-status-bar-height.git
