@@ -1135,9 +1135,6 @@
 [submodule "libraries/tradle/react-native-crypto"]
 	path = libraries/tradle/react-native-crypto
 	url = https://github.com/tradle/react-native-crypto.git
-[submodule "libraries/hectahertz/react-native-typography"]
-	path = libraries/hectahertz/react-native-typography
-	url = https://github.com/hectahertz/react-native-typography.git
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
@@ -1216,3 +1213,9 @@
 [submodule "libraries/osdnk/react-native-reanimated-bottom-sheet"]
 	path = libraries/osdnk/react-native-reanimated-bottom-sheet
 	url = https://github.com/osdnk/react-native-reanimated-bottom-sheet.git
+[submodule "libraries/GeekyAnts/react-native-easy-grid"]
+	path = libraries/GeekyAnts/react-native-easy-grid
+	url = https://github.com/GeekyAnts/react-native-easy-grid.git
+[submodule "libraries/ide/react-native-button"]
+	path = libraries/ide/react-native-button
+	url = https://github.com/ide/react-native-button.git
