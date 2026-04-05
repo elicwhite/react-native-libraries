@@ -859,9 +859,6 @@
 [submodule "libraries/sodiray/radash"]
 	path = libraries/sodiray/radash
 	url = https://github.com/sodiray/radash.git
-[submodule "libraries/sunnylqm/react-native-storage"]
-	path = libraries/sunnylqm/react-native-storage
-	url = https://github.com/sunnylqm/react-native-storage.git
 [submodule "libraries/react-native-webrtc/react-native-incall-manager"]
 	path = libraries/react-native-webrtc/react-native-incall-manager
 	url = https://github.com/react-native-webrtc/react-native-incall-manager.git
@@ -1000,9 +997,6 @@
 [submodule "libraries/douglasjunior/react-native-keyboard-manager"]
 	path = libraries/douglasjunior/react-native-keyboard-manager
 	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
-[submodule "libraries/seniv/react-native-notifier"]
-	path = libraries/seniv/react-native-notifier
-	url = https://github.com/seniv/react-native-notifier.git
 [submodule "libraries/react-native-webrtc/react-native-callkeep"]
 	path = libraries/react-native-webrtc/react-native-callkeep
 	url = https://github.com/react-native-webrtc/react-native-callkeep.git
@@ -1012,12 +1006,6 @@
 [submodule "libraries/dominicstop/react-native-ios-utilities"]
 	path = libraries/dominicstop/react-native-ios-utilities
 	url = https://github.com/dominicstop/react-native-ios-utilities.git
-[submodule "libraries/cooperka/react-native-snackbar"]
-	path = libraries/cooperka/react-native-snackbar
-	url = https://github.com/cooperka/react-native-snackbar.git
-[submodule "libraries/Rapsssito/react-native-background-actions"]
-	path = libraries/Rapsssito/react-native-background-actions
-	url = https://github.com/Rapsssito/react-native-background-actions.git
 [submodule "libraries/jordanbyron/react-native-quick-actions"]
 	path = libraries/jordanbyron/react-native-quick-actions
 	url = https://github.com/jordanbyron/react-native-quick-actions.git
@@ -1060,12 +1048,6 @@
 [submodule "libraries/AgoraIO-Extensions/react-native-agora"]
 	path = libraries/AgoraIO-Extensions/react-native-agora
 	url = https://github.com/AgoraIO-Extensions/react-native-agora.git
-[submodule "libraries/instantdb/instant"]
-	path = libraries/instantdb/instant
-	url = https://github.com/instantdb/instant.git
-[submodule "libraries/gronxb/hot-updater"]
-	path = libraries/gronxb/hot-updater
-	url = https://github.com/gronxb/hot-updater.git
 [submodule "libraries/BranchMetrics/react-native-branch-deep-linking-attribution"]
 	path = libraries/BranchMetrics/react-native-branch-deep-linking-attribution
 	url = https://github.com/BranchMetrics/react-native-branch-deep-linking-attribution.git
@@ -1120,24 +1102,12 @@
 [submodule "libraries/vydimitrov/react-countdown-circle-timer"]
 	path = libraries/vydimitrov/react-countdown-circle-timer
 	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
-[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
-	path = libraries/watch-connectivity/react-native-watch-connectivity
-	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/byteburgers/react-native-autocomplete-input"]
-	path = libraries/byteburgers/react-native-autocomplete-input
-	url = https://github.com/byteburgers/react-native-autocomplete-input.git
 [submodule "libraries/margelo/react-native-release-profiler"]
 	path = libraries/margelo/react-native-release-profiler
 	url = https://github.com/margelo/react-native-release-profiler.git
-[submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
-	path = libraries/ladjs/react-native-loading-spinner-overlay
-	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
 [submodule "libraries/tradle/react-native-crypto"]
 	path = libraries/tradle/react-native-crypto
 	url = https://github.com/tradle/react-native-crypto.git
-[submodule "libraries/maxs15/react-native-spinkit"]
-	path = libraries/maxs15/react-native-spinkit
-	url = https://github.com/maxs15/react-native-spinkit.git
 [submodule "libraries/tradle/react-native-udp"]
 	path = libraries/tradle/react-native-udp
 	url = https://github.com/tradle/react-native-udp.git
@@ -1213,9 +1183,6 @@
 [submodule "libraries/osdnk/react-native-reanimated-bottom-sheet"]
 	path = libraries/osdnk/react-native-reanimated-bottom-sheet
 	url = https://github.com/osdnk/react-native-reanimated-bottom-sheet.git
-[submodule "libraries/GeekyAnts/react-native-easy-grid"]
-	path = libraries/GeekyAnts/react-native-easy-grid
-	url = https://github.com/GeekyAnts/react-native-easy-grid.git
-[submodule "libraries/ide/react-native-button"]
-	path = libraries/ide/react-native-button
-	url = https://github.com/ide/react-native-button.git
+[submodule "libraries/kirillzyusko/react-native-teleport"]
+	path = libraries/kirillzyusko/react-native-teleport
+	url = https://github.com/kirillzyusko/react-native-teleport.git
