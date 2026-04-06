@@ -1021,15 +1021,9 @@
 [submodule "libraries/thegamenicorus/react-native-phone-input"]
 	path = libraries/thegamenicorus/react-native-phone-input
 	url = https://github.com/thegamenicorus/react-native-phone-input.git
-[submodule "libraries/oblador/react-native-image-progress"]
-	path = libraries/oblador/react-native-image-progress
-	url = https://github.com/oblador/react-native-image-progress.git
 [submodule "libraries/native-html/render"]
 	path = libraries/native-html/render
 	url = https://github.com/native-html/render.git
-[submodule "libraries/hyochan/react-native-nitro-sound"]
-	path = libraries/hyochan/react-native-nitro-sound
-	url = https://github.com/hyochan/react-native-nitro-sound.git
 [submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
 	path = libraries/react-native-text-input-mask/react-native-text-input-mask
 	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
@@ -1177,12 +1171,9 @@
 [submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
 	path = libraries/souvik-ghosh/react-native-create-thumbnail
 	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
-[submodule "libraries/ovr/react-native-status-bar-height"]
-	path = libraries/ovr/react-native-status-bar-height
-	url = https://github.com/ovr/react-native-status-bar-height.git
 [submodule "libraries/osdnk/react-native-reanimated-bottom-sheet"]
 	path = libraries/osdnk/react-native-reanimated-bottom-sheet
 	url = https://github.com/osdnk/react-native-reanimated-bottom-sheet.git
-[submodule "libraries/kirillzyusko/react-native-teleport"]
-	path = libraries/kirillzyusko/react-native-teleport
-	url = https://github.com/kirillzyusko/react-native-teleport.git
+[submodule "libraries/byteburgers/react-native-autocomplete-input"]
+	path = libraries/byteburgers/react-native-autocomplete-input
+	url = https://github.com/byteburgers/react-native-autocomplete-input.git
