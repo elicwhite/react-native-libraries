@@ -1171,9 +1171,6 @@
 [submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
 	path = libraries/souvik-ghosh/react-native-create-thumbnail
 	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
-[submodule "libraries/osdnk/react-native-reanimated-bottom-sheet"]
-	path = libraries/osdnk/react-native-reanimated-bottom-sheet
-	url = https://github.com/osdnk/react-native-reanimated-bottom-sheet.git
 [submodule "libraries/byteburgers/react-native-autocomplete-input"]
 	path = libraries/byteburgers/react-native-autocomplete-input
 	url = https://github.com/byteburgers/react-native-autocomplete-input.git
@@ -1195,3 +1192,12 @@
 [submodule "libraries/oblador/react-native-image-progress"]
 	path = libraries/oblador/react-native-image-progress
 	url = https://github.com/oblador/react-native-image-progress.git
+[submodule "libraries/cooperka/react-native-snackbar"]
+	path = libraries/cooperka/react-native-snackbar
+	url = https://github.com/cooperka/react-native-snackbar.git
+[submodule "libraries/GeekyAnts/react-native-easy-grid"]
+	path = libraries/GeekyAnts/react-native-easy-grid
+	url = https://github.com/GeekyAnts/react-native-easy-grid.git
+[submodule "libraries/stefalda/ReactNativeLocalization"]
+	path = libraries/stefalda/ReactNativeLocalization
+	url = https://github.com/stefalda/ReactNativeLocalization.git
