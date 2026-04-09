@@ -1201,3 +1201,6 @@
 [submodule "libraries/stefalda/ReactNativeLocalization"]
 	path = libraries/stefalda/ReactNativeLocalization
 	url = https://github.com/stefalda/ReactNativeLocalization.git
+[submodule "libraries/ovr/react-native-status-bar-height"]
+	path = libraries/ovr/react-native-status-bar-height
+	url = https://github.com/ovr/react-native-status-bar-height.git
