@@ -562,9 +562,6 @@
 [submodule "libraries/n4kz/react-native-indicators"]
 	path = libraries/n4kz/react-native-indicators
 	url = https://github.com/n4kz/react-native-indicators.git
-[submodule "libraries/naoufal/react-native-touch-id"]
-	path = libraries/naoufal/react-native-touch-id
-	url = https://github.com/naoufal/react-native-touch-id.git
 [submodule "libraries/beefe/react-native-actionsheet"]
 	path = libraries/beefe/react-native-actionsheet
 	url = https://github.com/beefe/react-native-actionsheet.git
@@ -1012,9 +1009,6 @@
 [submodule "libraries/EvanBacon/expo-apple-targets"]
 	path = libraries/EvanBacon/expo-apple-targets
 	url = https://github.com/EvanBacon/expo-apple-targets.git
-[submodule "libraries/testshallpass/react-native-dropdownalert"]
-	path = libraries/testshallpass/react-native-dropdownalert
-	url = https://github.com/testshallpass/react-native-dropdownalert.git
 [submodule "libraries/teovillanueva/react-native-web-maps"]
 	path = libraries/teovillanueva/react-native-web-maps
 	url = https://github.com/teovillanueva/react-native-web-maps.git
@@ -1027,9 +1021,6 @@
 [submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
 	path = libraries/react-native-text-input-mask/react-native-text-input-mask
 	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
-[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
-	path = libraries/moaazsidat/react-native-qrcode-scanner
-	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
@@ -1093,9 +1084,6 @@
 [submodule "libraries/react-native-art/art"]
 	path = libraries/react-native-art/art
 	url = https://github.com/react-native-art/art.git
-[submodule "libraries/vydimitrov/react-countdown-circle-timer"]
-	path = libraries/vydimitrov/react-countdown-circle-timer
-	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
 [submodule "libraries/margelo/react-native-release-profiler"]
 	path = libraries/margelo/react-native-release-profiler
 	url = https://github.com/margelo/react-native-release-profiler.git
@@ -1171,36 +1159,15 @@
 [submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
 	path = libraries/souvik-ghosh/react-native-create-thumbnail
 	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
-[submodule "libraries/byteburgers/react-native-autocomplete-input"]
-	path = libraries/byteburgers/react-native-autocomplete-input
-	url = https://github.com/byteburgers/react-native-autocomplete-input.git
-[submodule "libraries/gronxb/hot-updater"]
-	path = libraries/gronxb/hot-updater
-	url = https://github.com/gronxb/hot-updater.git
-[submodule "libraries/sunnylqm/react-native-storage"]
-	path = libraries/sunnylqm/react-native-storage
-	url = https://github.com/sunnylqm/react-native-storage.git
 [submodule "libraries/Rapsssito/react-native-background-actions"]
 	path = libraries/Rapsssito/react-native-background-actions
 	url = https://github.com/Rapsssito/react-native-background-actions.git
-[submodule "libraries/maxs15/react-native-spinkit"]
-	path = libraries/maxs15/react-native-spinkit
-	url = https://github.com/maxs15/react-native-spinkit.git
 [submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
 	path = libraries/ladjs/react-native-loading-spinner-overlay
 	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
-[submodule "libraries/oblador/react-native-image-progress"]
-	path = libraries/oblador/react-native-image-progress
-	url = https://github.com/oblador/react-native-image-progress.git
-[submodule "libraries/cooperka/react-native-snackbar"]
-	path = libraries/cooperka/react-native-snackbar
-	url = https://github.com/cooperka/react-native-snackbar.git
-[submodule "libraries/GeekyAnts/react-native-easy-grid"]
-	path = libraries/GeekyAnts/react-native-easy-grid
-	url = https://github.com/GeekyAnts/react-native-easy-grid.git
-[submodule "libraries/stefalda/ReactNativeLocalization"]
-	path = libraries/stefalda/ReactNativeLocalization
-	url = https://github.com/stefalda/ReactNativeLocalization.git
 [submodule "libraries/ovr/react-native-status-bar-height"]
 	path = libraries/ovr/react-native-status-bar-height
 	url = https://github.com/ovr/react-native-status-bar-height.git
+[submodule "libraries/kirillzyusko/react-native-teleport"]
+	path = libraries/kirillzyusko/react-native-teleport
+	url = https://github.com/kirillzyusko/react-native-teleport.git
