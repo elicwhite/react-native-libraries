@@ -1180,18 +1180,6 @@
 [submodule "libraries/byteburgers/react-native-autocomplete-input"]
 	path = libraries/byteburgers/react-native-autocomplete-input
 	url = https://github.com/byteburgers/react-native-autocomplete-input.git
-[submodule "libraries/mrousavy/react-native-blurhash"]
-	path = libraries/mrousavy/react-native-blurhash
-	url = https://github.com/mrousavy/react-native-blurhash.git
-[submodule "libraries/hyochan/react-native-nitro-sound"]
-	path = libraries/hyochan/react-native-nitro-sound
-	url = https://github.com/hyochan/react-native-nitro-sound.git
-[submodule "libraries/cooperka/react-native-snackbar"]
-	path = libraries/cooperka/react-native-snackbar
-	url = https://github.com/cooperka/react-native-snackbar.git
-[submodule "libraries/testshallpass/react-native-dropdownalert"]
-	path = libraries/testshallpass/react-native-dropdownalert
-	url = https://github.com/testshallpass/react-native-dropdownalert.git
 [submodule "libraries/sAleksovski/react-native-android-widget"]
 	path = libraries/sAleksovski/react-native-android-widget
 	url = https://github.com/sAleksovski/react-native-android-widget.git
@@ -1204,9 +1192,6 @@
 [submodule "libraries/mohebifar/react-native-copilot"]
 	path = libraries/mohebifar/react-native-copilot
 	url = https://github.com/mohebifar/react-native-copilot.git
-[submodule "libraries/maxs15/react-native-spinkit"]
-	path = libraries/maxs15/react-native-spinkit
-	url = https://github.com/maxs15/react-native-spinkit.git
 [submodule "libraries/stefalda/ReactNativeLocalization"]
 	path = libraries/stefalda/ReactNativeLocalization
 	url = https://github.com/stefalda/ReactNativeLocalization.git
@@ -1219,3 +1204,9 @@
 [submodule "libraries/naoufal/react-native-touch-id"]
 	path = libraries/naoufal/react-native-touch-id
 	url = https://github.com/naoufal/react-native-touch-id.git
+[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
+	path = libraries/watch-connectivity/react-native-watch-connectivity
+	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
+[submodule "libraries/Kureev/react-native-side-menu"]
+	path = libraries/Kureev/react-native-side-menu
+	url = https://github.com/Kureev/react-native-side-menu.git
