@@ -1165,9 +1165,6 @@
 [submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
 	path = libraries/ladjs/react-native-loading-spinner-overlay
 	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
-[submodule "libraries/ovr/react-native-status-bar-height"]
-	path = libraries/ovr/react-native-status-bar-height
-	url = https://github.com/ovr/react-native-status-bar-height.git
 [submodule "libraries/kirillzyusko/react-native-teleport"]
 	path = libraries/kirillzyusko/react-native-teleport
 	url = https://github.com/kirillzyusko/react-native-teleport.git
@@ -1189,9 +1186,6 @@
 [submodule "libraries/vydimitrov/react-countdown-circle-timer"]
 	path = libraries/vydimitrov/react-countdown-circle-timer
 	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
-[submodule "libraries/mohebifar/react-native-copilot"]
-	path = libraries/mohebifar/react-native-copilot
-	url = https://github.com/mohebifar/react-native-copilot.git
 [submodule "libraries/stefalda/ReactNativeLocalization"]
 	path = libraries/stefalda/ReactNativeLocalization
 	url = https://github.com/stefalda/ReactNativeLocalization.git
@@ -1207,6 +1201,6 @@
 [submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
 	path = libraries/watch-connectivity/react-native-watch-connectivity
 	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/Kureev/react-native-side-menu"]
-	path = libraries/Kureev/react-native-side-menu
-	url = https://github.com/Kureev/react-native-side-menu.git
+[submodule "libraries/osdnk/react-native-reanimated-bottom-sheet"]
+	path = libraries/osdnk/react-native-reanimated-bottom-sheet
+	url = https://github.com/osdnk/react-native-reanimated-bottom-sheet.git
