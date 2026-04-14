@@ -1018,9 +1018,6 @@
 [submodule "libraries/native-html/render"]
 	path = libraries/native-html/render
 	url = https://github.com/native-html/render.git
-[submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
-	path = libraries/react-native-text-input-mask/react-native-text-input-mask
-	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
@@ -1069,9 +1066,6 @@
 [submodule "libraries/arnnis/react-native-toast-notifications"]
 	path = libraries/arnnis/react-native-toast-notifications
 	url = https://github.com/arnnis/react-native-toast-notifications.git
-[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
-	path = libraries/kirankalyan5/react-native-segmented-control-tab
-	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
@@ -1138,9 +1132,6 @@
 [submodule "libraries/unadlib/mutative"]
 	path = libraries/unadlib/mutative
 	url = https://github.com/unadlib/mutative.git
-[submodule "libraries/openspacelabs/react-native-zoomable-view"]
-	path = libraries/openspacelabs/react-native-zoomable-view
-	url = https://github.com/openspacelabs/react-native-zoomable-view.git
 [submodule "libraries/jquense/yup"]
 	path = libraries/jquense/yup
 	url = https://github.com/jquense/yup.git
@@ -1165,9 +1156,6 @@
 [submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
 	path = libraries/ladjs/react-native-loading-spinner-overlay
 	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
-[submodule "libraries/kirillzyusko/react-native-teleport"]
-	path = libraries/kirillzyusko/react-native-teleport
-	url = https://github.com/kirillzyusko/react-native-teleport.git
 [submodule "libraries/clerk/javascript"]
 	path = libraries/clerk/javascript
 	url = https://github.com/clerk/javascript.git
@@ -1204,3 +1192,9 @@
 [submodule "libraries/osdnk/react-native-reanimated-bottom-sheet"]
 	path = libraries/osdnk/react-native-reanimated-bottom-sheet
 	url = https://github.com/osdnk/react-native-reanimated-bottom-sheet.git
+[submodule "libraries/hyochan/react-native-nitro-sound"]
+	path = libraries/hyochan/react-native-nitro-sound
+	url = https://github.com/hyochan/react-native-nitro-sound.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
