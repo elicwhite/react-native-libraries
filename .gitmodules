@@ -1198,3 +1198,39 @@
 [submodule "libraries/seniv/react-native-notifier"]
 	path = libraries/seniv/react-native-notifier
 	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/callstackincubator/voltra"]
+	path = libraries/callstackincubator/voltra
+	url = https://github.com/callstackincubator/voltra.git
+[submodule "libraries/openspacelabs/react-native-zoomable-view"]
+	path = libraries/openspacelabs/react-native-zoomable-view
+	url = https://github.com/openspacelabs/react-native-zoomable-view.git
+[submodule "libraries/kirillzyusko/react-native-teleport"]
+	path = libraries/kirillzyusko/react-native-teleport
+	url = https://github.com/kirillzyusko/react-native-teleport.git
+[submodule "libraries/mrousavy/react-native-blurhash"]
+	path = libraries/mrousavy/react-native-blurhash
+	url = https://github.com/mrousavy/react-native-blurhash.git
+[submodule "libraries/cooperka/react-native-snackbar"]
+	path = libraries/cooperka/react-native-snackbar
+	url = https://github.com/cooperka/react-native-snackbar.git
+[submodule "libraries/testshallpass/react-native-dropdownalert"]
+	path = libraries/testshallpass/react-native-dropdownalert
+	url = https://github.com/testshallpass/react-native-dropdownalert.git
+[submodule "libraries/GeekyAnts/react-native-easy-grid"]
+	path = libraries/GeekyAnts/react-native-easy-grid
+	url = https://github.com/GeekyAnts/react-native-easy-grid.git
+[submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
+	path = libraries/react-native-text-input-mask/react-native-text-input-mask
+	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
+[submodule "libraries/mohebifar/react-native-copilot"]
+	path = libraries/mohebifar/react-native-copilot
+	url = https://github.com/mohebifar/react-native-copilot.git
+[submodule "libraries/nandorojo/dripsy"]
+	path = libraries/nandorojo/dripsy
+	url = https://github.com/nandorojo/dripsy.git
+[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
+	path = libraries/kirankalyan5/react-native-segmented-control-tab
+	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
+[submodule "libraries/Kureev/react-native-side-menu"]
+	path = libraries/Kureev/react-native-side-menu
+	url = https://github.com/Kureev/react-native-side-menu.git
