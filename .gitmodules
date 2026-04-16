@@ -1231,6 +1231,12 @@
 [submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
 	path = libraries/kirankalyan5/react-native-segmented-control-tab
 	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
-[submodule "libraries/Kureev/react-native-side-menu"]
-	path = libraries/Kureev/react-native-side-menu
-	url = https://github.com/Kureev/react-native-side-menu.git
+[submodule "libraries/duongdev/phosphor-react-native"]
+	path = libraries/duongdev/phosphor-react-native
+	url = https://github.com/duongdev/phosphor-react-native.git
+[submodule "libraries/kevinresol/react-native-default-preference"]
+	path = libraries/kevinresol/react-native-default-preference
+	url = https://github.com/kevinresol/react-native-default-preference.git
+[submodule "libraries/TheWidlarzGroup/rn-emoji-keyboard"]
+	path = libraries/TheWidlarzGroup/rn-emoji-keyboard
+	url = https://github.com/TheWidlarzGroup/rn-emoji-keyboard.git
