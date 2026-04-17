@@ -1153,9 +1153,6 @@
 [submodule "libraries/Rapsssito/react-native-background-actions"]
 	path = libraries/Rapsssito/react-native-background-actions
 	url = https://github.com/Rapsssito/react-native-background-actions.git
-[submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
-	path = libraries/ladjs/react-native-loading-spinner-overlay
-	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
 [submodule "libraries/clerk/javascript"]
 	path = libraries/clerk/javascript
 	url = https://github.com/clerk/javascript.git
@@ -1195,9 +1192,6 @@
 [submodule "libraries/hyochan/react-native-nitro-sound"]
 	path = libraries/hyochan/react-native-nitro-sound
 	url = https://github.com/hyochan/react-native-nitro-sound.git
-[submodule "libraries/seniv/react-native-notifier"]
-	path = libraries/seniv/react-native-notifier
-	url = https://github.com/seniv/react-native-notifier.git
 [submodule "libraries/callstackincubator/voltra"]
 	path = libraries/callstackincubator/voltra
 	url = https://github.com/callstackincubator/voltra.git
@@ -1207,24 +1201,9 @@
 [submodule "libraries/kirillzyusko/react-native-teleport"]
 	path = libraries/kirillzyusko/react-native-teleport
 	url = https://github.com/kirillzyusko/react-native-teleport.git
-[submodule "libraries/mrousavy/react-native-blurhash"]
-	path = libraries/mrousavy/react-native-blurhash
-	url = https://github.com/mrousavy/react-native-blurhash.git
 [submodule "libraries/cooperka/react-native-snackbar"]
 	path = libraries/cooperka/react-native-snackbar
 	url = https://github.com/cooperka/react-native-snackbar.git
-[submodule "libraries/testshallpass/react-native-dropdownalert"]
-	path = libraries/testshallpass/react-native-dropdownalert
-	url = https://github.com/testshallpass/react-native-dropdownalert.git
-[submodule "libraries/GeekyAnts/react-native-easy-grid"]
-	path = libraries/GeekyAnts/react-native-easy-grid
-	url = https://github.com/GeekyAnts/react-native-easy-grid.git
-[submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
-	path = libraries/react-native-text-input-mask/react-native-text-input-mask
-	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
-[submodule "libraries/mohebifar/react-native-copilot"]
-	path = libraries/mohebifar/react-native-copilot
-	url = https://github.com/mohebifar/react-native-copilot.git
 [submodule "libraries/nandorojo/dripsy"]
 	path = libraries/nandorojo/dripsy
 	url = https://github.com/nandorojo/dripsy.git
