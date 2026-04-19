@@ -1195,9 +1195,6 @@
 [submodule "libraries/callstackincubator/voltra"]
 	path = libraries/callstackincubator/voltra
 	url = https://github.com/callstackincubator/voltra.git
-[submodule "libraries/openspacelabs/react-native-zoomable-view"]
-	path = libraries/openspacelabs/react-native-zoomable-view
-	url = https://github.com/openspacelabs/react-native-zoomable-view.git
 [submodule "libraries/kirillzyusko/react-native-teleport"]
 	path = libraries/kirillzyusko/react-native-teleport
 	url = https://github.com/kirillzyusko/react-native-teleport.git
@@ -1210,12 +1207,12 @@
 [submodule "libraries/duongdev/phosphor-react-native"]
 	path = libraries/duongdev/phosphor-react-native
 	url = https://github.com/duongdev/phosphor-react-native.git
-[submodule "libraries/kevinresol/react-native-default-preference"]
-	path = libraries/kevinresol/react-native-default-preference
-	url = https://github.com/kevinresol/react-native-default-preference.git
 [submodule "libraries/testshallpass/react-native-dropdownalert"]
 	path = libraries/testshallpass/react-native-dropdownalert
 	url = https://github.com/testshallpass/react-native-dropdownalert.git
 [submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
 	path = libraries/ladjs/react-native-loading-spinner-overlay
 	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
+[submodule "libraries/TheWidlarzGroup/rn-emoji-keyboard"]
+	path = libraries/TheWidlarzGroup/rn-emoji-keyboard
+	url = https://github.com/TheWidlarzGroup/rn-emoji-keyboard.git
