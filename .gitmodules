@@ -1186,9 +1186,6 @@
 [submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
 	path = libraries/watch-connectivity/react-native-watch-connectivity
 	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/osdnk/react-native-reanimated-bottom-sheet"]
-	path = libraries/osdnk/react-native-reanimated-bottom-sheet
-	url = https://github.com/osdnk/react-native-reanimated-bottom-sheet.git
 [submodule "libraries/hyochan/react-native-nitro-sound"]
 	path = libraries/hyochan/react-native-nitro-sound
 	url = https://github.com/hyochan/react-native-nitro-sound.git
@@ -1201,9 +1198,6 @@
 [submodule "libraries/cooperka/react-native-snackbar"]
 	path = libraries/cooperka/react-native-snackbar
 	url = https://github.com/cooperka/react-native-snackbar.git
-[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
-	path = libraries/kirankalyan5/react-native-segmented-control-tab
-	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
 [submodule "libraries/duongdev/phosphor-react-native"]
 	path = libraries/duongdev/phosphor-react-native
 	url = https://github.com/duongdev/phosphor-react-native.git
@@ -1213,6 +1207,9 @@
 [submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
 	path = libraries/ladjs/react-native-loading-spinner-overlay
 	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
-[submodule "libraries/TheWidlarzGroup/rn-emoji-keyboard"]
-	path = libraries/TheWidlarzGroup/rn-emoji-keyboard
-	url = https://github.com/TheWidlarzGroup/rn-emoji-keyboard.git
+[submodule "libraries/GeekyAnts/react-native-easy-grid"]
+	path = libraries/GeekyAnts/react-native-easy-grid
+	url = https://github.com/GeekyAnts/react-native-easy-grid.git
+[submodule "libraries/junedomingo/react-native-rename"]
+	path = libraries/junedomingo/react-native-rename
+	url = https://github.com/junedomingo/react-native-rename.git
