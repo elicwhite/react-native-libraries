@@ -1183,9 +1183,6 @@
 [submodule "libraries/naoufal/react-native-touch-id"]
 	path = libraries/naoufal/react-native-touch-id
 	url = https://github.com/naoufal/react-native-touch-id.git
-[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
-	path = libraries/watch-connectivity/react-native-watch-connectivity
-	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
 [submodule "libraries/hyochan/react-native-nitro-sound"]
 	path = libraries/hyochan/react-native-nitro-sound
 	url = https://github.com/hyochan/react-native-nitro-sound.git
@@ -1213,3 +1210,9 @@
 [submodule "libraries/junedomingo/react-native-rename"]
 	path = libraries/junedomingo/react-native-rename
 	url = https://github.com/junedomingo/react-native-rename.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/root-two/react-native-drawer"]
+	path = libraries/root-two/react-native-drawer
+	url = https://github.com/root-two/react-native-drawer.git
