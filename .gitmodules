@@ -703,9 +703,6 @@
 [submodule "libraries/react-native-segmented-control/segmented-control"]
 	path = libraries/react-native-segmented-control/segmented-control
 	url = https://github.com/react-native-segmented-control/segmented-control.git
-[submodule "libraries/hyochan/react-native-iap"]
-	path = libraries/hyochan/react-native-iap
-	url = https://github.com/hyochan/react-native-iap.git
 [submodule "libraries/carloscuesta/react-native-error-boundary"]
 	path = libraries/carloscuesta/react-native-error-boundary
 	url = https://github.com/carloscuesta/react-native-error-boundary.git
@@ -1216,3 +1213,24 @@
 [submodule "libraries/root-two/react-native-drawer"]
 	path = libraries/root-two/react-native-drawer
 	url = https://github.com/root-two/react-native-drawer.git
+[submodule "libraries/hyodotdev/openiap"]
+	path = libraries/hyodotdev/openiap
+	url = https://github.com/hyodotdev/openiap.git
+[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
+	path = libraries/watch-connectivity/react-native-watch-connectivity
+	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
+[submodule "libraries/mrousavy/react-native-blurhash"]
+	path = libraries/mrousavy/react-native-blurhash
+	url = https://github.com/mrousavy/react-native-blurhash.git
+[submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
+	path = libraries/react-native-text-input-mask/react-native-text-input-mask
+	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
+[submodule "libraries/hectahertz/react-native-typography"]
+	path = libraries/hectahertz/react-native-typography
+	url = https://github.com/hectahertz/react-native-typography.git
+[submodule "libraries/mohebifar/react-native-copilot"]
+	path = libraries/mohebifar/react-native-copilot
+	url = https://github.com/mohebifar/react-native-copilot.git
+[submodule "libraries/maxs15/react-native-spinkit"]
+	path = libraries/maxs15/react-native-spinkit
+	url = https://github.com/maxs15/react-native-spinkit.git
