@@ -655,9 +655,6 @@
 [submodule "libraries/GetStream/stream-chat-react-native"]
 	path = libraries/GetStream/stream-chat-react-native
 	url = https://github.com/GetStream/stream-chat-react-native.git
-[submodule "libraries/zahidalidev/toastify-react-native"]
-	path = libraries/zahidalidev/toastify-react-native
-	url = https://github.com/zahidalidev/toastify-react-native.git
 [submodule "libraries/microsoft/rnx-kit"]
 	path = libraries/microsoft/rnx-kit
 	url = https://github.com/microsoft/rnx-kit.git
@@ -1216,9 +1213,6 @@
 [submodule "libraries/hyodotdev/openiap"]
 	path = libraries/hyodotdev/openiap
 	url = https://github.com/hyodotdev/openiap.git
-[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
-	path = libraries/watch-connectivity/react-native-watch-connectivity
-	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
 [submodule "libraries/mrousavy/react-native-blurhash"]
 	path = libraries/mrousavy/react-native-blurhash
 	url = https://github.com/mrousavy/react-native-blurhash.git
@@ -1234,3 +1228,6 @@
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/kevinresol/react-native-default-preference"]
+	path = libraries/kevinresol/react-native-default-preference
+	url = https://github.com/kevinresol/react-native-default-preference.git
