@@ -1219,15 +1219,12 @@
 [submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
 	path = libraries/react-native-text-input-mask/react-native-text-input-mask
 	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
-[submodule "libraries/hectahertz/react-native-typography"]
-	path = libraries/hectahertz/react-native-typography
-	url = https://github.com/hectahertz/react-native-typography.git
-[submodule "libraries/mohebifar/react-native-copilot"]
-	path = libraries/mohebifar/react-native-copilot
-	url = https://github.com/mohebifar/react-native-copilot.git
-[submodule "libraries/maxs15/react-native-spinkit"]
-	path = libraries/maxs15/react-native-spinkit
-	url = https://github.com/maxs15/react-native-spinkit.git
 [submodule "libraries/kevinresol/react-native-default-preference"]
 	path = libraries/kevinresol/react-native-default-preference
 	url = https://github.com/kevinresol/react-native-default-preference.git
+[submodule "libraries/maplibre/maplibre-react-native"]
+	path = libraries/maplibre/maplibre-react-native
+	url = https://github.com/maplibre/maplibre-react-native.git
+[submodule "libraries/TheWidlarzGroup/rn-emoji-keyboard"]
+	path = libraries/TheWidlarzGroup/rn-emoji-keyboard
+	url = https://github.com/TheWidlarzGroup/rn-emoji-keyboard.git
