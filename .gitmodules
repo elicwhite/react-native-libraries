@@ -1225,6 +1225,6 @@
 [submodule "libraries/maplibre/maplibre-react-native"]
 	path = libraries/maplibre/maplibre-react-native
 	url = https://github.com/maplibre/maplibre-react-native.git
-[submodule "libraries/TheWidlarzGroup/rn-emoji-keyboard"]
-	path = libraries/TheWidlarzGroup/rn-emoji-keyboard
-	url = https://github.com/TheWidlarzGroup/rn-emoji-keyboard.git
+[submodule "libraries/maxs15/react-native-spinkit"]
+	path = libraries/maxs15/react-native-spinkit
+	url = https://github.com/maxs15/react-native-spinkit.git
