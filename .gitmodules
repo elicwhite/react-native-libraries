@@ -1204,9 +1204,6 @@
 [submodule "libraries/junedomingo/react-native-rename"]
 	path = libraries/junedomingo/react-native-rename
 	url = https://github.com/junedomingo/react-native-rename.git
-[submodule "libraries/seniv/react-native-notifier"]
-	path = libraries/seniv/react-native-notifier
-	url = https://github.com/seniv/react-native-notifier.git
 [submodule "libraries/root-two/react-native-drawer"]
 	path = libraries/root-two/react-native-drawer
 	url = https://github.com/root-two/react-native-drawer.git
@@ -1219,12 +1216,15 @@
 [submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
 	path = libraries/react-native-text-input-mask/react-native-text-input-mask
 	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
-[submodule "libraries/kevinresol/react-native-default-preference"]
-	path = libraries/kevinresol/react-native-default-preference
-	url = https://github.com/kevinresol/react-native-default-preference.git
 [submodule "libraries/maplibre/maplibre-react-native"]
 	path = libraries/maplibre/maplibre-react-native
 	url = https://github.com/maplibre/maplibre-react-native.git
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/margelo/react-native-graph"]
+	path = libraries/margelo/react-native-graph
+	url = https://github.com/margelo/react-native-graph.git
+[submodule "libraries/osdnk/react-native-reanimated-bottom-sheet"]
+	path = libraries/osdnk/react-native-reanimated-bottom-sheet
+	url = https://github.com/osdnk/react-native-reanimated-bottom-sheet.git
