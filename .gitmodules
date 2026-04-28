@@ -1192,9 +1192,6 @@
 [submodule "libraries/duongdev/phosphor-react-native"]
 	path = libraries/duongdev/phosphor-react-native
 	url = https://github.com/duongdev/phosphor-react-native.git
-[submodule "libraries/testshallpass/react-native-dropdownalert"]
-	path = libraries/testshallpass/react-native-dropdownalert
-	url = https://github.com/testshallpass/react-native-dropdownalert.git
 [submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
 	path = libraries/ladjs/react-native-loading-spinner-overlay
 	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
@@ -1228,3 +1225,6 @@
 [submodule "libraries/osdnk/react-native-reanimated-bottom-sheet"]
 	path = libraries/osdnk/react-native-reanimated-bottom-sheet
 	url = https://github.com/osdnk/react-native-reanimated-bottom-sheet.git
+[submodule "libraries/instantdb/instant"]
+	path = libraries/instantdb/instant
+	url = https://github.com/instantdb/instant.git
