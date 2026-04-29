@@ -1228,3 +1228,21 @@
 [submodule "libraries/instantdb/instant"]
 	path = libraries/instantdb/instant
 	url = https://github.com/instantdb/instant.git
+[submodule "libraries/testshallpass/react-native-dropdownalert"]
+	path = libraries/testshallpass/react-native-dropdownalert
+	url = https://github.com/testshallpass/react-native-dropdownalert.git
+[submodule "libraries/mybigday/llama.rn"]
+	path = libraries/mybigday/llama.rn
+	url = https://github.com/mybigday/llama.rn.git
+[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
+	path = libraries/watch-connectivity/react-native-watch-connectivity
+	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/IjzerenHein/react-native-shared-element"]
+	path = libraries/IjzerenHein/react-native-shared-element
+	url = https://github.com/IjzerenHein/react-native-shared-element.git
+[submodule "libraries/mohebifar/react-native-copilot"]
+	path = libraries/mohebifar/react-native-copilot
+	url = https://github.com/mohebifar/react-native-copilot.git
