@@ -1246,3 +1246,12 @@
 [submodule "libraries/mohebifar/react-native-copilot"]
 	path = libraries/mohebifar/react-native-copilot
 	url = https://github.com/mohebifar/react-native-copilot.git
+[submodule "libraries/openspacelabs/react-native-zoomable-view"]
+	path = libraries/openspacelabs/react-native-zoomable-view
+	url = https://github.com/openspacelabs/react-native-zoomable-view.git
+[submodule "libraries/software-mansion-labs/react-native-enriched-markdown"]
+	path = libraries/software-mansion-labs/react-native-enriched-markdown
+	url = https://github.com/software-mansion-labs/react-native-enriched-markdown.git
+[submodule "libraries/kevinresol/react-native-default-preference"]
+	path = libraries/kevinresol/react-native-default-preference
+	url = https://github.com/kevinresol/react-native-default-preference.git
