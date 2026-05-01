@@ -505,9 +505,6 @@
 [submodule "libraries/mCodex/react-native-sensitive-info"]
 	path = libraries/mCodex/react-native-sensitive-info
 	url = https://github.com/mCodex/react-native-sensitive-info.git
-[submodule "libraries/itsnubix/react-native-video-controls"]
-	path = libraries/itsnubix/react-native-video-controls
-	url = https://github.com/itsnubix/react-native-video-controls.git
 [submodule "libraries/garganurag893/react-native-phone-number-input"]
 	path = libraries/garganurag893/react-native-phone-number-input
 	url = https://github.com/garganurag893/react-native-phone-number-input.git
@@ -1153,9 +1150,6 @@
 [submodule "libraries/gronxb/hot-updater"]
 	path = libraries/gronxb/hot-updater
 	url = https://github.com/gronxb/hot-updater.git
-[submodule "libraries/byteburgers/react-native-autocomplete-input"]
-	path = libraries/byteburgers/react-native-autocomplete-input
-	url = https://github.com/byteburgers/react-native-autocomplete-input.git
 [submodule "libraries/sAleksovski/react-native-android-widget"]
 	path = libraries/sAleksovski/react-native-android-widget
 	url = https://github.com/sAleksovski/react-native-android-widget.git
@@ -1165,9 +1159,6 @@
 [submodule "libraries/vydimitrov/react-countdown-circle-timer"]
 	path = libraries/vydimitrov/react-countdown-circle-timer
 	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
-[submodule "libraries/stefalda/ReactNativeLocalization"]
-	path = libraries/stefalda/ReactNativeLocalization
-	url = https://github.com/stefalda/ReactNativeLocalization.git
 [submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
 	path = libraries/moaazsidat/react-native-qrcode-scanner
 	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
@@ -1177,9 +1168,6 @@
 [submodule "libraries/naoufal/react-native-touch-id"]
 	path = libraries/naoufal/react-native-touch-id
 	url = https://github.com/naoufal/react-native-touch-id.git
-[submodule "libraries/hyochan/react-native-nitro-sound"]
-	path = libraries/hyochan/react-native-nitro-sound
-	url = https://github.com/hyochan/react-native-nitro-sound.git
 [submodule "libraries/callstackincubator/voltra"]
 	path = libraries/callstackincubator/voltra
 	url = https://github.com/callstackincubator/voltra.git
@@ -1201,21 +1189,12 @@
 [submodule "libraries/junedomingo/react-native-rename"]
 	path = libraries/junedomingo/react-native-rename
 	url = https://github.com/junedomingo/react-native-rename.git
-[submodule "libraries/root-two/react-native-drawer"]
-	path = libraries/root-two/react-native-drawer
-	url = https://github.com/root-two/react-native-drawer.git
 [submodule "libraries/hyodotdev/openiap"]
 	path = libraries/hyodotdev/openiap
 	url = https://github.com/hyodotdev/openiap.git
-[submodule "libraries/mrousavy/react-native-blurhash"]
-	path = libraries/mrousavy/react-native-blurhash
-	url = https://github.com/mrousavy/react-native-blurhash.git
 [submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
 	path = libraries/react-native-text-input-mask/react-native-text-input-mask
 	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
-[submodule "libraries/maplibre/maplibre-react-native"]
-	path = libraries/maplibre/maplibre-react-native
-	url = https://github.com/maplibre/maplibre-react-native.git
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
@@ -1225,33 +1204,15 @@
 [submodule "libraries/osdnk/react-native-reanimated-bottom-sheet"]
 	path = libraries/osdnk/react-native-reanimated-bottom-sheet
 	url = https://github.com/osdnk/react-native-reanimated-bottom-sheet.git
-[submodule "libraries/instantdb/instant"]
-	path = libraries/instantdb/instant
-	url = https://github.com/instantdb/instant.git
 [submodule "libraries/testshallpass/react-native-dropdownalert"]
 	path = libraries/testshallpass/react-native-dropdownalert
 	url = https://github.com/testshallpass/react-native-dropdownalert.git
 [submodule "libraries/mybigday/llama.rn"]
 	path = libraries/mybigday/llama.rn
 	url = https://github.com/mybigday/llama.rn.git
-[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
-	path = libraries/watch-connectivity/react-native-watch-connectivity
-	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/seniv/react-native-notifier"]
-	path = libraries/seniv/react-native-notifier
-	url = https://github.com/seniv/react-native-notifier.git
 [submodule "libraries/IjzerenHein/react-native-shared-element"]
 	path = libraries/IjzerenHein/react-native-shared-element
 	url = https://github.com/IjzerenHein/react-native-shared-element.git
-[submodule "libraries/mohebifar/react-native-copilot"]
-	path = libraries/mohebifar/react-native-copilot
-	url = https://github.com/mohebifar/react-native-copilot.git
-[submodule "libraries/openspacelabs/react-native-zoomable-view"]
-	path = libraries/openspacelabs/react-native-zoomable-view
-	url = https://github.com/openspacelabs/react-native-zoomable-view.git
 [submodule "libraries/software-mansion-labs/react-native-enriched-markdown"]
 	path = libraries/software-mansion-labs/react-native-enriched-markdown
 	url = https://github.com/software-mansion-labs/react-native-enriched-markdown.git
-[submodule "libraries/kevinresol/react-native-default-preference"]
-	path = libraries/kevinresol/react-native-default-preference
-	url = https://github.com/kevinresol/react-native-default-preference.git
