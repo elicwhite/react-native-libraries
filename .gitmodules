@@ -1192,9 +1192,6 @@
 [submodule "libraries/hyodotdev/openiap"]
 	path = libraries/hyodotdev/openiap
 	url = https://github.com/hyodotdev/openiap.git
-[submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
-	path = libraries/react-native-text-input-mask/react-native-text-input-mask
-	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
@@ -1216,3 +1213,6 @@
 [submodule "libraries/software-mansion-labs/react-native-enriched-markdown"]
 	path = libraries/software-mansion-labs/react-native-enriched-markdown
 	url = https://github.com/software-mansion-labs/react-native-enriched-markdown.git
+[submodule "libraries/maplibre/maplibre-react-native"]
+	path = libraries/maplibre/maplibre-react-native
+	url = https://github.com/maplibre/maplibre-react-native.git
