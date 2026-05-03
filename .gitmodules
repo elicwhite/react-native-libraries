@@ -1138,9 +1138,6 @@
 [submodule "libraries/robhogan/react-native-securerandom"]
 	path = libraries/robhogan/react-native-securerandom
 	url = https://github.com/robhogan/react-native-securerandom.git
-[submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
-	path = libraries/souvik-ghosh/react-native-create-thumbnail
-	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
 [submodule "libraries/Rapsssito/react-native-background-actions"]
 	path = libraries/Rapsssito/react-native-background-actions
 	url = https://github.com/Rapsssito/react-native-background-actions.git
@@ -1216,3 +1213,6 @@
 [submodule "libraries/maplibre/maplibre-react-native"]
 	path = libraries/maplibre/maplibre-react-native
 	url = https://github.com/maplibre/maplibre-react-native.git
+[submodule "libraries/hyochan/react-native-nitro-sound"]
+	path = libraries/hyochan/react-native-nitro-sound
+	url = https://github.com/hyochan/react-native-nitro-sound.git
