@@ -1216,3 +1216,15 @@
 [submodule "libraries/hyochan/react-native-nitro-sound"]
 	path = libraries/hyochan/react-native-nitro-sound
 	url = https://github.com/hyochan/react-native-nitro-sound.git
+[submodule "libraries/byteburgers/react-native-autocomplete-input"]
+	path = libraries/byteburgers/react-native-autocomplete-input
+	url = https://github.com/byteburgers/react-native-autocomplete-input.git
+[submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
+	path = libraries/react-native-text-input-mask/react-native-text-input-mask
+	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
+[submodule "libraries/stefalda/ReactNativeLocalization"]
+	path = libraries/stefalda/ReactNativeLocalization
+	url = https://github.com/stefalda/ReactNativeLocalization.git
+[submodule "libraries/itsnubix/react-native-video-controls"]
+	path = libraries/itsnubix/react-native-video-controls
+	url = https://github.com/itsnubix/react-native-video-controls.git
