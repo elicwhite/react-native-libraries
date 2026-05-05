@@ -1228,3 +1228,27 @@
 [submodule "libraries/itsnubix/react-native-video-controls"]
 	path = libraries/itsnubix/react-native-video-controls
 	url = https://github.com/itsnubix/react-native-video-controls.git
+[submodule "libraries/eds2002/react-native-screen-transitions"]
+	path = libraries/eds2002/react-native-screen-transitions
+	url = https://github.com/eds2002/react-native-screen-transitions.git
+[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
+	path = libraries/watch-connectivity/react-native-watch-connectivity
+	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
+[submodule "libraries/enzomanuelmangano/pressto"]
+	path = libraries/enzomanuelmangano/pressto
+	url = https://github.com/enzomanuelmangano/pressto.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/hectahertz/react-native-typography"]
+	path = libraries/hectahertz/react-native-typography
+	url = https://github.com/hectahertz/react-native-typography.git
+[submodule "libraries/mohebifar/react-native-copilot"]
+	path = libraries/mohebifar/react-native-copilot
+	url = https://github.com/mohebifar/react-native-copilot.git
+[submodule "libraries/ide/react-native-button"]
+	path = libraries/ide/react-native-button
+	url = https://github.com/ide/react-native-button.git
+[submodule "libraries/RepairShopr/react-native-signature-capture"]
+	path = libraries/RepairShopr/react-native-signature-capture
+	url = https://github.com/RepairShopr/react-native-signature-capture.git
