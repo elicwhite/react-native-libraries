@@ -1189,15 +1189,9 @@
 [submodule "libraries/hyodotdev/openiap"]
 	path = libraries/hyodotdev/openiap
 	url = https://github.com/hyodotdev/openiap.git
-[submodule "libraries/maxs15/react-native-spinkit"]
-	path = libraries/maxs15/react-native-spinkit
-	url = https://github.com/maxs15/react-native-spinkit.git
 [submodule "libraries/margelo/react-native-graph"]
 	path = libraries/margelo/react-native-graph
 	url = https://github.com/margelo/react-native-graph.git
-[submodule "libraries/testshallpass/react-native-dropdownalert"]
-	path = libraries/testshallpass/react-native-dropdownalert
-	url = https://github.com/testshallpass/react-native-dropdownalert.git
 [submodule "libraries/mybigday/llama.rn"]
 	path = libraries/mybigday/llama.rn
 	url = https://github.com/mybigday/llama.rn.git
@@ -1228,9 +1222,6 @@
 [submodule "libraries/enzomanuelmangano/pressto"]
 	path = libraries/enzomanuelmangano/pressto
 	url = https://github.com/enzomanuelmangano/pressto.git
-[submodule "libraries/seniv/react-native-notifier"]
-	path = libraries/seniv/react-native-notifier
-	url = https://github.com/seniv/react-native-notifier.git
 [submodule "libraries/hectahertz/react-native-typography"]
 	path = libraries/hectahertz/react-native-typography
 	url = https://github.com/hectahertz/react-native-typography.git
@@ -1243,3 +1234,12 @@
 [submodule "libraries/RepairShopr/react-native-signature-capture"]
 	path = libraries/RepairShopr/react-native-signature-capture
 	url = https://github.com/RepairShopr/react-native-signature-capture.git
+[submodule "libraries/openspacelabs/react-native-zoomable-view"]
+	path = libraries/openspacelabs/react-native-zoomable-view
+	url = https://github.com/openspacelabs/react-native-zoomable-view.git
+[submodule "libraries/fullstorydev/fullstory-react-native"]
+	path = libraries/fullstorydev/fullstory-react-native
+	url = https://github.com/fullstorydev/fullstory-react-native.git
+[submodule "libraries/EvanBacon/expo-quick-actions"]
+	path = libraries/EvanBacon/expo-quick-actions
+	url = https://github.com/EvanBacon/expo-quick-actions.git
