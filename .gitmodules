@@ -1210,9 +1210,6 @@
 [submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
 	path = libraries/react-native-text-input-mask/react-native-text-input-mask
 	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
-[submodule "libraries/stefalda/ReactNativeLocalization"]
-	path = libraries/stefalda/ReactNativeLocalization
-	url = https://github.com/stefalda/ReactNativeLocalization.git
 [submodule "libraries/itsnubix/react-native-video-controls"]
 	path = libraries/itsnubix/react-native-video-controls
 	url = https://github.com/itsnubix/react-native-video-controls.git
@@ -1225,9 +1222,6 @@
 [submodule "libraries/hectahertz/react-native-typography"]
 	path = libraries/hectahertz/react-native-typography
 	url = https://github.com/hectahertz/react-native-typography.git
-[submodule "libraries/mohebifar/react-native-copilot"]
-	path = libraries/mohebifar/react-native-copilot
-	url = https://github.com/mohebifar/react-native-copilot.git
 [submodule "libraries/ide/react-native-button"]
 	path = libraries/ide/react-native-button
 	url = https://github.com/ide/react-native-button.git
@@ -1243,3 +1237,9 @@
 [submodule "libraries/EvanBacon/expo-quick-actions"]
 	path = libraries/EvanBacon/expo-quick-actions
 	url = https://github.com/EvanBacon/expo-quick-actions.git
+[submodule "libraries/Expensify/react-native-onyx"]
+	path = libraries/Expensify/react-native-onyx
+	url = https://github.com/Expensify/react-native-onyx.git
+[submodule "libraries/mrousavy/react-native-fast-tflite"]
+	path = libraries/mrousavy/react-native-fast-tflite
+	url = https://github.com/mrousavy/react-native-fast-tflite.git
