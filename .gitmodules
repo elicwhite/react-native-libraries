@@ -1150,9 +1150,6 @@
 [submodule "libraries/sAleksovski/react-native-android-widget"]
 	path = libraries/sAleksovski/react-native-android-widget
 	url = https://github.com/sAleksovski/react-native-android-widget.git
-[submodule "libraries/sunnylqm/react-native-storage"]
-	path = libraries/sunnylqm/react-native-storage
-	url = https://github.com/sunnylqm/react-native-storage.git
 [submodule "libraries/vydimitrov/react-countdown-circle-timer"]
 	path = libraries/vydimitrov/react-countdown-circle-timer
 	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
@@ -1207,9 +1204,6 @@
 [submodule "libraries/byteburgers/react-native-autocomplete-input"]
 	path = libraries/byteburgers/react-native-autocomplete-input
 	url = https://github.com/byteburgers/react-native-autocomplete-input.git
-[submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
-	path = libraries/react-native-text-input-mask/react-native-text-input-mask
-	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
 [submodule "libraries/itsnubix/react-native-video-controls"]
 	path = libraries/itsnubix/react-native-video-controls
 	url = https://github.com/itsnubix/react-native-video-controls.git
@@ -1240,6 +1234,12 @@
 [submodule "libraries/Expensify/react-native-onyx"]
 	path = libraries/Expensify/react-native-onyx
 	url = https://github.com/Expensify/react-native-onyx.git
-[submodule "libraries/mrousavy/react-native-fast-tflite"]
-	path = libraries/mrousavy/react-native-fast-tflite
-	url = https://github.com/mrousavy/react-native-fast-tflite.git
+[submodule "libraries/instantdb/instant"]
+	path = libraries/instantdb/instant
+	url = https://github.com/instantdb/instant.git
+[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
+	path = libraries/watch-connectivity/react-native-watch-connectivity
+	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
+[submodule "libraries/stefalda/ReactNativeLocalization"]
+	path = libraries/stefalda/ReactNativeLocalization
+	url = https://github.com/stefalda/ReactNativeLocalization.git
