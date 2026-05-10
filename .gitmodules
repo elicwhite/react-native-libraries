@@ -268,9 +268,6 @@
 [submodule "libraries/thebergamo/react-native-fbsdk-next"]
 	path = libraries/thebergamo/react-native-fbsdk-next
 	url = https://github.com/thebergamo/react-native-fbsdk-next.git
-[submodule "libraries/wix/react-native-ui-lib"]
-	path = libraries/wix/react-native-ui-lib
-	url = https://github.com/wix/react-native-ui-lib.git
 [submodule "libraries/web-ridge/react-native-paper-dates"]
 	path = libraries/web-ridge/react-native-paper-dates
 	url = https://github.com/web-ridge/react-native-paper-dates.git
@@ -1216,12 +1213,6 @@
 [submodule "libraries/hectahertz/react-native-typography"]
 	path = libraries/hectahertz/react-native-typography
 	url = https://github.com/hectahertz/react-native-typography.git
-[submodule "libraries/ide/react-native-button"]
-	path = libraries/ide/react-native-button
-	url = https://github.com/ide/react-native-button.git
-[submodule "libraries/RepairShopr/react-native-signature-capture"]
-	path = libraries/RepairShopr/react-native-signature-capture
-	url = https://github.com/RepairShopr/react-native-signature-capture.git
 [submodule "libraries/openspacelabs/react-native-zoomable-view"]
 	path = libraries/openspacelabs/react-native-zoomable-view
 	url = https://github.com/openspacelabs/react-native-zoomable-view.git
@@ -1243,3 +1234,6 @@
 [submodule "libraries/stefalda/ReactNativeLocalization"]
 	path = libraries/stefalda/ReactNativeLocalization
 	url = https://github.com/stefalda/ReactNativeLocalization.git
+[submodule "libraries/Richou/react-native-android-location-enabler"]
+	path = libraries/Richou/react-native-android-location-enabler
+	url = https://github.com/Richou/react-native-android-location-enabler.git
