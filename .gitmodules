@@ -1177,9 +1177,6 @@
 [submodule "libraries/GeekyAnts/react-native-easy-grid"]
 	path = libraries/GeekyAnts/react-native-easy-grid
 	url = https://github.com/GeekyAnts/react-native-easy-grid.git
-[submodule "libraries/junedomingo/react-native-rename"]
-	path = libraries/junedomingo/react-native-rename
-	url = https://github.com/junedomingo/react-native-rename.git
 [submodule "libraries/hyodotdev/openiap"]
 	path = libraries/hyodotdev/openiap
 	url = https://github.com/hyodotdev/openiap.git
@@ -1237,3 +1234,9 @@
 [submodule "libraries/Richou/react-native-android-location-enabler"]
 	path = libraries/Richou/react-native-android-location-enabler
 	url = https://github.com/Richou/react-native-android-location-enabler.git
+[submodule "libraries/urbanairship/react-native-airship"]
+	path = libraries/urbanairship/react-native-airship
+	url = https://github.com/urbanairship/react-native-airship.git
+[submodule "libraries/wix/react-native-ui-lib"]
+	path = libraries/wix/react-native-ui-lib
+	url = https://github.com/wix/react-native-ui-lib.git
