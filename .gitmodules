@@ -1168,9 +1168,6 @@
 [submodule "libraries/cooperka/react-native-snackbar"]
 	path = libraries/cooperka/react-native-snackbar
 	url = https://github.com/cooperka/react-native-snackbar.git
-[submodule "libraries/duongdev/phosphor-react-native"]
-	path = libraries/duongdev/phosphor-react-native
-	url = https://github.com/duongdev/phosphor-react-native.git
 [submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
 	path = libraries/ladjs/react-native-loading-spinner-overlay
 	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
@@ -1240,3 +1237,24 @@
 [submodule "libraries/wix/react-native-ui-lib"]
 	path = libraries/wix/react-native-ui-lib
 	url = https://github.com/wix/react-native-ui-lib.git
+[submodule "libraries/testshallpass/react-native-dropdownalert"]
+	path = libraries/testshallpass/react-native-dropdownalert
+	url = https://github.com/testshallpass/react-native-dropdownalert.git
+[submodule "libraries/mrousavy/react-native-fast-tflite"]
+	path = libraries/mrousavy/react-native-fast-tflite
+	url = https://github.com/mrousavy/react-native-fast-tflite.git
+[submodule "libraries/sunnylqm/react-native-storage"]
+	path = libraries/sunnylqm/react-native-storage
+	url = https://github.com/sunnylqm/react-native-storage.git
+[submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
+	path = libraries/react-native-text-input-mask/react-native-text-input-mask
+	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/mohebifar/react-native-copilot"]
+	path = libraries/mohebifar/react-native-copilot
+	url = https://github.com/mohebifar/react-native-copilot.git
+[submodule "libraries/maxs15/react-native-spinkit"]
+	path = libraries/maxs15/react-native-spinkit
+	url = https://github.com/maxs15/react-native-spinkit.git
