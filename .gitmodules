@@ -1258,3 +1258,6 @@
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/junedomingo/react-native-rename"]
+	path = libraries/junedomingo/react-native-rename
+	url = https://github.com/junedomingo/react-native-rename.git
