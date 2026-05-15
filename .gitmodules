@@ -1006,9 +1006,6 @@
 [submodule "libraries/native-html/render"]
 	path = libraries/native-html/render
 	url = https://github.com/native-html/render.git
-[submodule "libraries/jeanregisser/react-native-slider"]
-	path = libraries/jeanregisser/react-native-slider
-	url = https://github.com/jeanregisser/react-native-slider.git
 [submodule "libraries/nandorojo/sf-symbols-typescript"]
 	path = libraries/nandorojo/sf-symbols-typescript
 	url = https://github.com/nandorojo/sf-symbols-typescript.git
@@ -1201,9 +1198,6 @@
 [submodule "libraries/eds2002/react-native-screen-transitions"]
 	path = libraries/eds2002/react-native-screen-transitions
 	url = https://github.com/eds2002/react-native-screen-transitions.git
-[submodule "libraries/enzomanuelmangano/pressto"]
-	path = libraries/enzomanuelmangano/pressto
-	url = https://github.com/enzomanuelmangano/pressto.git
 [submodule "libraries/hectahertz/react-native-typography"]
 	path = libraries/hectahertz/react-native-typography
 	url = https://github.com/hectahertz/react-native-typography.git
