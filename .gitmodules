@@ -1231,3 +1231,6 @@
 [submodule "libraries/mrousavy/react-native-fast-tflite"]
 	path = libraries/mrousavy/react-native-fast-tflite
 	url = https://github.com/mrousavy/react-native-fast-tflite.git
+[submodule "libraries/RepairShopr/react-native-signature-capture"]
+	path = libraries/RepairShopr/react-native-signature-capture
+	url = https://github.com/RepairShopr/react-native-signature-capture.git
