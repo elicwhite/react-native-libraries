@@ -1210,9 +1210,6 @@
 [submodule "libraries/Expensify/react-native-onyx"]
 	path = libraries/Expensify/react-native-onyx
 	url = https://github.com/Expensify/react-native-onyx.git
-[submodule "libraries/instantdb/instant"]
-	path = libraries/instantdb/instant
-	url = https://github.com/instantdb/instant.git
 [submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
 	path = libraries/watch-connectivity/react-native-watch-connectivity
 	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
@@ -1234,3 +1231,12 @@
 [submodule "libraries/RepairShopr/react-native-signature-capture"]
 	path = libraries/RepairShopr/react-native-signature-capture
 	url = https://github.com/RepairShopr/react-native-signature-capture.git
+[submodule "libraries/SudoPlz/sp-react-native-in-app-updates"]
+	path = libraries/SudoPlz/sp-react-native-in-app-updates
+	url = https://github.com/SudoPlz/sp-react-native-in-app-updates.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/mohebifar/react-native-copilot"]
+	path = libraries/mohebifar/react-native-copilot
+	url = https://github.com/mohebifar/react-native-copilot.git
