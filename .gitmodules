@@ -1240,3 +1240,21 @@
 [submodule "libraries/mohebifar/react-native-copilot"]
 	path = libraries/mohebifar/react-native-copilot
 	url = https://github.com/mohebifar/react-native-copilot.git
+[submodule "libraries/duongdev/phosphor-react-native"]
+	path = libraries/duongdev/phosphor-react-native
+	url = https://github.com/duongdev/phosphor-react-native.git
+[submodule "libraries/instantdb/instant"]
+	path = libraries/instantdb/instant
+	url = https://github.com/instantdb/instant.git
+[submodule "libraries/sunnylqm/react-native-storage"]
+	path = libraries/sunnylqm/react-native-storage
+	url = https://github.com/sunnylqm/react-native-storage.git
+[submodule "libraries/maxs15/react-native-spinkit"]
+	path = libraries/maxs15/react-native-spinkit
+	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/BugiDev/react-native-calendar-strip"]
+	path = libraries/BugiDev/react-native-calendar-strip
+	url = https://github.com/BugiDev/react-native-calendar-strip.git
+[submodule "libraries/jeanregisser/react-native-slider"]
+	path = libraries/jeanregisser/react-native-slider
+	url = https://github.com/jeanregisser/react-native-slider.git
