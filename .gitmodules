@@ -991,9 +991,6 @@
 [submodule "libraries/dominicstop/react-native-ios-utilities"]
 	path = libraries/dominicstop/react-native-ios-utilities
 	url = https://github.com/dominicstop/react-native-ios-utilities.git
-[submodule "libraries/jordanbyron/react-native-quick-actions"]
-	path = libraries/jordanbyron/react-native-quick-actions
-	url = https://github.com/jordanbyron/react-native-quick-actions.git
 [submodule "libraries/EvanBacon/expo-apple-targets"]
 	path = libraries/EvanBacon/expo-apple-targets
 	url = https://github.com/EvanBacon/expo-apple-targets.git
@@ -1258,3 +1255,9 @@
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
+[submodule "libraries/livekit/client-sdk-react-native"]
+	path = libraries/livekit/client-sdk-react-native
+	url = https://github.com/livekit/client-sdk-react-native.git
+[submodule "libraries/iddan/react-native-canvas"]
+	path = libraries/iddan/react-native-canvas
+	url = https://github.com/iddan/react-native-canvas.git
