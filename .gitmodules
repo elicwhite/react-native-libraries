@@ -1048,9 +1048,6 @@
 [submodule "libraries/arnnis/react-native-toast-notifications"]
 	path = libraries/arnnis/react-native-toast-notifications
 	url = https://github.com/arnnis/react-native-toast-notifications.git
-[submodule "libraries/stovmascript/react-native-version"]
-	path = libraries/stovmascript/react-native-version
-	url = https://github.com/stovmascript/react-native-version.git
 [submodule "libraries/braze-inc/braze-react-native-sdk"]
 	path = libraries/braze-inc/braze-react-native-sdk
 	url = https://github.com/braze-inc/braze-react-native-sdk.git
@@ -1222,9 +1219,6 @@
 [submodule "libraries/mrousavy/react-native-fast-tflite"]
 	path = libraries/mrousavy/react-native-fast-tflite
 	url = https://github.com/mrousavy/react-native-fast-tflite.git
-[submodule "libraries/RepairShopr/react-native-signature-capture"]
-	path = libraries/RepairShopr/react-native-signature-capture
-	url = https://github.com/RepairShopr/react-native-signature-capture.git
 [submodule "libraries/SudoPlz/sp-react-native-in-app-updates"]
 	path = libraries/SudoPlz/sp-react-native-in-app-updates
 	url = https://github.com/SudoPlz/sp-react-native-in-app-updates.git
@@ -1234,21 +1228,24 @@
 [submodule "libraries/duongdev/phosphor-react-native"]
 	path = libraries/duongdev/phosphor-react-native
 	url = https://github.com/duongdev/phosphor-react-native.git
-[submodule "libraries/instantdb/instant"]
-	path = libraries/instantdb/instant
-	url = https://github.com/instantdb/instant.git
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
 [submodule "libraries/livekit/client-sdk-react-native"]
 	path = libraries/livekit/client-sdk-react-native
 	url = https://github.com/livekit/client-sdk-react-native.git
-[submodule "libraries/matinzd/react-native-health-connect"]
-	path = libraries/matinzd/react-native-health-connect
-	url = https://github.com/matinzd/react-native-health-connect.git
 [submodule "libraries/kevinresol/react-native-default-preference"]
 	path = libraries/kevinresol/react-native-default-preference
 	url = https://github.com/kevinresol/react-native-default-preference.git
 [submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
 	path = libraries/kirankalyan5/react-native-segmented-control-tab
 	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
+[submodule "libraries/powersync-ja/powersync-js"]
+	path = libraries/powersync-ja/powersync-js
+	url = https://github.com/powersync-ja/powersync-js.git
+[submodule "libraries/nuclearpasta/react-native-drax"]
+	path = libraries/nuclearpasta/react-native-drax
+	url = https://github.com/nuclearpasta/react-native-drax.git
+[submodule "libraries/iddan/react-native-canvas"]
+	path = libraries/iddan/react-native-canvas
+	url = https://github.com/iddan/react-native-canvas.git
