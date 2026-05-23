@@ -1249,3 +1249,9 @@
 [submodule "libraries/iddan/react-native-canvas"]
 	path = libraries/iddan/react-native-canvas
 	url = https://github.com/iddan/react-native-canvas.git
+[submodule "libraries/mohebifar/react-native-copilot"]
+	path = libraries/mohebifar/react-native-copilot
+	url = https://github.com/mohebifar/react-native-copilot.git
+[submodule "libraries/heyman333/react-native-responsive-fontSize"]
+	path = libraries/heyman333/react-native-responsive-fontSize
+	url = https://github.com/heyman333/react-native-responsive-fontSize.git
