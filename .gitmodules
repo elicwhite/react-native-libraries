@@ -1171,9 +1171,6 @@
 [submodule "libraries/margelo/react-native-graph"]
 	path = libraries/margelo/react-native-graph
 	url = https://github.com/margelo/react-native-graph.git
-[submodule "libraries/mybigday/llama.rn"]
-	path = libraries/mybigday/llama.rn
-	url = https://github.com/mybigday/llama.rn.git
 [submodule "libraries/software-mansion-labs/react-native-enriched-markdown"]
 	path = libraries/software-mansion-labs/react-native-enriched-markdown
 	url = https://github.com/software-mansion-labs/react-native-enriched-markdown.git
@@ -1234,18 +1231,12 @@
 [submodule "libraries/kevinresol/react-native-default-preference"]
 	path = libraries/kevinresol/react-native-default-preference
 	url = https://github.com/kevinresol/react-native-default-preference.git
-[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
-	path = libraries/kirankalyan5/react-native-segmented-control-tab
-	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
 [submodule "libraries/powersync-ja/powersync-js"]
 	path = libraries/powersync-ja/powersync-js
 	url = https://github.com/powersync-ja/powersync-js.git
 [submodule "libraries/nuclearpasta/react-native-drax"]
 	path = libraries/nuclearpasta/react-native-drax
 	url = https://github.com/nuclearpasta/react-native-drax.git
-[submodule "libraries/iddan/react-native-canvas"]
-	path = libraries/iddan/react-native-canvas
-	url = https://github.com/iddan/react-native-canvas.git
 [submodule "libraries/mohebifar/react-native-copilot"]
 	path = libraries/mohebifar/react-native-copilot
 	url = https://github.com/mohebifar/react-native-copilot.git
@@ -1258,3 +1249,15 @@
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
+[submodule "libraries/PostHog/posthog-react-native-session-replay"]
+	path = libraries/PostHog/posthog-react-native-session-replay
+	url = https://github.com/PostHog/posthog-react-native-session-replay.git
+[submodule "libraries/instantdb/instant"]
+	path = libraries/instantdb/instant
+	url = https://github.com/instantdb/instant.git
+[submodule "libraries/naoufal/react-native-payments"]
+	path = libraries/naoufal/react-native-payments
+	url = https://github.com/naoufal/react-native-payments.git
+[submodule "libraries/jordanbyron/react-native-quick-actions"]
+	path = libraries/jordanbyron/react-native-quick-actions
+	url = https://github.com/jordanbyron/react-native-quick-actions.git
