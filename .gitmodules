@@ -1255,9 +1255,24 @@
 [submodule "libraries/instantdb/instant"]
 	path = libraries/instantdb/instant
 	url = https://github.com/instantdb/instant.git
-[submodule "libraries/naoufal/react-native-payments"]
-	path = libraries/naoufal/react-native-payments
-	url = https://github.com/naoufal/react-native-payments.git
 [submodule "libraries/jordanbyron/react-native-quick-actions"]
 	path = libraries/jordanbyron/react-native-quick-actions
 	url = https://github.com/jordanbyron/react-native-quick-actions.git
+[submodule "libraries/mybigday/llama.rn"]
+	path = libraries/mybigday/llama.rn
+	url = https://github.com/mybigday/llama.rn.git
+[submodule "libraries/junedomingo/react-native-rename"]
+	path = libraries/junedomingo/react-native-rename
+	url = https://github.com/junedomingo/react-native-rename.git
+[submodule "libraries/sunnylqm/react-native-storage"]
+	path = libraries/sunnylqm/react-native-storage
+	url = https://github.com/sunnylqm/react-native-storage.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/hectahertz/react-native-typography"]
+	path = libraries/hectahertz/react-native-typography
+	url = https://github.com/hectahertz/react-native-typography.git
+[submodule "libraries/iddan/react-native-canvas"]
+	path = libraries/iddan/react-native-canvas
+	url = https://github.com/iddan/react-native-canvas.git
