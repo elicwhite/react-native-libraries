@@ -1141,15 +1141,9 @@
 [submodule "libraries/vydimitrov/react-countdown-circle-timer"]
 	path = libraries/vydimitrov/react-countdown-circle-timer
 	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
-[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
-	path = libraries/moaazsidat/react-native-qrcode-scanner
-	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
 [submodule "libraries/oblador/react-native-image-progress"]
 	path = libraries/oblador/react-native-image-progress
 	url = https://github.com/oblador/react-native-image-progress.git
-[submodule "libraries/naoufal/react-native-touch-id"]
-	path = libraries/naoufal/react-native-touch-id
-	url = https://github.com/naoufal/react-native-touch-id.git
 [submodule "libraries/callstackincubator/voltra"]
 	path = libraries/callstackincubator/voltra
 	url = https://github.com/callstackincubator/voltra.git
@@ -1162,9 +1156,6 @@
 [submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
 	path = libraries/ladjs/react-native-loading-spinner-overlay
 	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
-[submodule "libraries/GeekyAnts/react-native-easy-grid"]
-	path = libraries/GeekyAnts/react-native-easy-grid
-	url = https://github.com/GeekyAnts/react-native-easy-grid.git
 [submodule "libraries/hyodotdev/openiap"]
 	path = libraries/hyodotdev/openiap
 	url = https://github.com/hyodotdev/openiap.git
@@ -1183,9 +1174,6 @@
 [submodule "libraries/byteburgers/react-native-autocomplete-input"]
 	path = libraries/byteburgers/react-native-autocomplete-input
 	url = https://github.com/byteburgers/react-native-autocomplete-input.git
-[submodule "libraries/itsnubix/react-native-video-controls"]
-	path = libraries/itsnubix/react-native-video-controls
-	url = https://github.com/itsnubix/react-native-video-controls.git
 [submodule "libraries/eds2002/react-native-screen-transitions"]
 	path = libraries/eds2002/react-native-screen-transitions
 	url = https://github.com/eds2002/react-native-screen-transitions.git
@@ -1201,9 +1189,6 @@
 [submodule "libraries/Expensify/react-native-onyx"]
 	path = libraries/Expensify/react-native-onyx
 	url = https://github.com/Expensify/react-native-onyx.git
-[submodule "libraries/stefalda/ReactNativeLocalization"]
-	path = libraries/stefalda/ReactNativeLocalization
-	url = https://github.com/stefalda/ReactNativeLocalization.git
 [submodule "libraries/Richou/react-native-android-location-enabler"]
 	path = libraries/Richou/react-native-android-location-enabler
 	url = https://github.com/Richou/react-native-android-location-enabler.git
@@ -1237,9 +1222,6 @@
 [submodule "libraries/nuclearpasta/react-native-drax"]
 	path = libraries/nuclearpasta/react-native-drax
 	url = https://github.com/nuclearpasta/react-native-drax.git
-[submodule "libraries/mohebifar/react-native-copilot"]
-	path = libraries/mohebifar/react-native-copilot
-	url = https://github.com/mohebifar/react-native-copilot.git
 [submodule "libraries/aymericzip/intlayer"]
 	path = libraries/aymericzip/intlayer
 	url = https://github.com/aymericzip/intlayer.git
@@ -1252,24 +1234,12 @@
 [submodule "libraries/PostHog/posthog-react-native-session-replay"]
 	path = libraries/PostHog/posthog-react-native-session-replay
 	url = https://github.com/PostHog/posthog-react-native-session-replay.git
-[submodule "libraries/instantdb/instant"]
-	path = libraries/instantdb/instant
-	url = https://github.com/instantdb/instant.git
 [submodule "libraries/jordanbyron/react-native-quick-actions"]
 	path = libraries/jordanbyron/react-native-quick-actions
 	url = https://github.com/jordanbyron/react-native-quick-actions.git
 [submodule "libraries/mybigday/llama.rn"]
 	path = libraries/mybigday/llama.rn
 	url = https://github.com/mybigday/llama.rn.git
-[submodule "libraries/seniv/react-native-notifier"]
-	path = libraries/seniv/react-native-notifier
-	url = https://github.com/seniv/react-native-notifier.git
-[submodule "libraries/hectahertz/react-native-typography"]
-	path = libraries/hectahertz/react-native-typography
-	url = https://github.com/hectahertz/react-native-typography.git
-[submodule "libraries/iddan/react-native-canvas"]
-	path = libraries/iddan/react-native-canvas
-	url = https://github.com/iddan/react-native-canvas.git
 [submodule "libraries/matinzd/react-native-health-connect"]
 	path = libraries/matinzd/react-native-health-connect
 	url = https://github.com/matinzd/react-native-health-connect.git
