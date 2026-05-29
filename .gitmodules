@@ -1171,9 +1171,6 @@
 [submodule "libraries/hyochan/react-native-nitro-sound"]
 	path = libraries/hyochan/react-native-nitro-sound
 	url = https://github.com/hyochan/react-native-nitro-sound.git
-[submodule "libraries/byteburgers/react-native-autocomplete-input"]
-	path = libraries/byteburgers/react-native-autocomplete-input
-	url = https://github.com/byteburgers/react-native-autocomplete-input.git
 [submodule "libraries/eds2002/react-native-screen-transitions"]
 	path = libraries/eds2002/react-native-screen-transitions
 	url = https://github.com/eds2002/react-native-screen-transitions.git
@@ -1228,12 +1225,6 @@
 [submodule "libraries/BugiDev/react-native-calendar-strip"]
 	path = libraries/BugiDev/react-native-calendar-strip
 	url = https://github.com/BugiDev/react-native-calendar-strip.git
-[submodule "libraries/stovmascript/react-native-version"]
-	path = libraries/stovmascript/react-native-version
-	url = https://github.com/stovmascript/react-native-version.git
-[submodule "libraries/PostHog/posthog-react-native-session-replay"]
-	path = libraries/PostHog/posthog-react-native-session-replay
-	url = https://github.com/PostHog/posthog-react-native-session-replay.git
 [submodule "libraries/jordanbyron/react-native-quick-actions"]
 	path = libraries/jordanbyron/react-native-quick-actions
 	url = https://github.com/jordanbyron/react-native-quick-actions.git
@@ -1246,3 +1237,9 @@
 [submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
 	path = libraries/kirankalyan5/react-native-segmented-control-tab
 	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
+[submodule "libraries/instantdb/instant"]
+	path = libraries/instantdb/instant
+	url = https://github.com/instantdb/instant.git
+[submodule "libraries/enzomanuelmangano/pressto"]
+	path = libraries/enzomanuelmangano/pressto
+	url = https://github.com/enzomanuelmangano/pressto.git
