@@ -979,9 +979,6 @@
 [submodule "libraries/gunnartorfis/sonner-native-toasts"]
 	path = libraries/gunnartorfis/sonner-native-toasts
 	url = https://github.com/gunnartorfis/sonner-native-toasts.git
-[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
-	path = libraries/douglasjunior/react-native-keyboard-manager
-	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
 [submodule "libraries/react-native-webrtc/react-native-callkeep"]
 	path = libraries/react-native-webrtc/react-native-callkeep
 	url = https://github.com/react-native-webrtc/react-native-callkeep.git
@@ -1243,3 +1240,9 @@
 [submodule "libraries/enzomanuelmangano/pressto"]
 	path = libraries/enzomanuelmangano/pressto
 	url = https://github.com/enzomanuelmangano/pressto.git
+[submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
+	path = libraries/react-native-text-input-mask/react-native-text-input-mask
+	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
+[submodule "libraries/heyman333/react-native-responsive-fontSize"]
+	path = libraries/heyman333/react-native-responsive-fontSize
+	url = https://github.com/heyman333/react-native-responsive-fontSize.git
