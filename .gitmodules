@@ -1018,9 +1018,6 @@
 [submodule "libraries/expo/vector-icons"]
 	path = libraries/expo/vector-icons
 	url = https://github.com/expo/vector-icons.git
-[submodule "libraries/mowispace/react-native-logs"]
-	path = libraries/mowispace/react-native-logs
-	url = https://github.com/mowispace/react-native-logs.git
 [submodule "libraries/obipawan/react-native-hyperlink"]
 	path = libraries/obipawan/react-native-hyperlink
 	url = https://github.com/obipawan/react-native-hyperlink.git
