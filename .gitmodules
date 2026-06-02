@@ -1219,9 +1219,6 @@
 [submodule "libraries/mybigday/llama.rn"]
 	path = libraries/mybigday/llama.rn
 	url = https://github.com/mybigday/llama.rn.git
-[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
-	path = libraries/kirankalyan5/react-native-segmented-control-tab
-	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
 [submodule "libraries/enzomanuelmangano/pressto"]
 	path = libraries/enzomanuelmangano/pressto
 	url = https://github.com/enzomanuelmangano/pressto.git
@@ -1237,3 +1234,42 @@
 [submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
 	path = libraries/moaazsidat/react-native-qrcode-scanner
 	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
+[submodule "libraries/PostHog/posthog-react-native-session-replay"]
+	path = libraries/PostHog/posthog-react-native-session-replay
+	url = https://github.com/PostHog/posthog-react-native-session-replay.git
+[submodule "libraries/margelo/react-native-nitro-fetch"]
+	path = libraries/margelo/react-native-nitro-fetch
+	url = https://github.com/margelo/react-native-nitro-fetch.git
+[submodule "libraries/matinzd/react-native-health-connect"]
+	path = libraries/matinzd/react-native-health-connect
+	url = https://github.com/matinzd/react-native-health-connect.git
+[submodule "libraries/facebook/react-native"]
+	path = libraries/facebook/react-native
+	url = https://github.com/facebook/react-native.git
+[submodule "libraries/byteburgers/react-native-autocomplete-input"]
+	path = libraries/byteburgers/react-native-autocomplete-input
+	url = https://github.com/byteburgers/react-native-autocomplete-input.git
+[submodule "libraries/nativewind/react-native-css"]
+	path = libraries/nativewind/react-native-css
+	url = https://github.com/nativewind/react-native-css.git
+[submodule "libraries/mowispace/react-native-logs"]
+	path = libraries/mowispace/react-native-logs
+	url = https://github.com/mowispace/react-native-logs.git
+[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
+	path = libraries/douglasjunior/react-native-keyboard-manager
+	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
+[submodule "libraries/mohebifar/react-native-copilot"]
+	path = libraries/mohebifar/react-native-copilot
+	url = https://github.com/mohebifar/react-native-copilot.git
+[submodule "libraries/maxs15/react-native-spinkit"]
+	path = libraries/maxs15/react-native-spinkit
+	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/iddan/react-native-canvas"]
+	path = libraries/iddan/react-native-canvas
+	url = https://github.com/iddan/react-native-canvas.git
+[submodule "libraries/RepairShopr/react-native-signature-capture"]
+	path = libraries/RepairShopr/react-native-signature-capture
+	url = https://github.com/RepairShopr/react-native-signature-capture.git
+[submodule "libraries/naoufal/react-native-touch-id"]
+	path = libraries/naoufal/react-native-touch-id
+	url = https://github.com/naoufal/react-native-touch-id.git
