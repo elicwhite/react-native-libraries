@@ -1210,9 +1210,6 @@
 [submodule "libraries/nuclearpasta/react-native-drax"]
 	path = libraries/nuclearpasta/react-native-drax
 	url = https://github.com/nuclearpasta/react-native-drax.git
-[submodule "libraries/aymericzip/intlayer"]
-	path = libraries/aymericzip/intlayer
-	url = https://github.com/aymericzip/intlayer.git
 [submodule "libraries/jordanbyron/react-native-quick-actions"]
 	path = libraries/jordanbyron/react-native-quick-actions
 	url = https://github.com/jordanbyron/react-native-quick-actions.git
@@ -1249,9 +1246,6 @@
 [submodule "libraries/byteburgers/react-native-autocomplete-input"]
 	path = libraries/byteburgers/react-native-autocomplete-input
 	url = https://github.com/byteburgers/react-native-autocomplete-input.git
-[submodule "libraries/nativewind/react-native-css"]
-	path = libraries/nativewind/react-native-css
-	url = https://github.com/nativewind/react-native-css.git
 [submodule "libraries/mowispace/react-native-logs"]
 	path = libraries/mowispace/react-native-logs
 	url = https://github.com/mowispace/react-native-logs.git
@@ -1273,3 +1267,24 @@
 [submodule "libraries/naoufal/react-native-touch-id"]
 	path = libraries/naoufal/react-native-touch-id
 	url = https://github.com/naoufal/react-native-touch-id.git
+[submodule "libraries/AppAndFlow/react-native-ease"]
+	path = libraries/AppAndFlow/react-native-ease
+	url = https://github.com/AppAndFlow/react-native-ease.git
+[submodule "libraries/GeekyAnts/react-native-easy-grid"]
+	path = libraries/GeekyAnts/react-native-easy-grid
+	url = https://github.com/GeekyAnts/react-native-easy-grid.git
+[submodule "libraries/WebsiteBeaver/react-native-document-scanner-plugin"]
+	path = libraries/WebsiteBeaver/react-native-document-scanner-plugin
+	url = https://github.com/WebsiteBeaver/react-native-document-scanner-plugin.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/stefalda/ReactNativeLocalization"]
+	path = libraries/stefalda/ReactNativeLocalization
+	url = https://github.com/stefalda/ReactNativeLocalization.git
+[submodule "libraries/itsnubix/react-native-video-controls"]
+	path = libraries/itsnubix/react-native-video-controls
+	url = https://github.com/itsnubix/react-native-video-controls.git
+[submodule "libraries/jeanregisser/react-native-slider"]
+	path = libraries/jeanregisser/react-native-slider
+	url = https://github.com/jeanregisser/react-native-slider.git
