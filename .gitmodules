@@ -1285,6 +1285,24 @@
 [submodule "libraries/itsnubix/react-native-video-controls"]
 	path = libraries/itsnubix/react-native-video-controls
 	url = https://github.com/itsnubix/react-native-video-controls.git
-[submodule "libraries/jeanregisser/react-native-slider"]
-	path = libraries/jeanregisser/react-native-slider
-	url = https://github.com/jeanregisser/react-native-slider.git
+[submodule "libraries/wcandillon/react-native-webgpu"]
+	path = libraries/wcandillon/react-native-webgpu
+	url = https://github.com/wcandillon/react-native-webgpu.git
+[submodule "libraries/alabsi91/reanimated-color-picker"]
+	path = libraries/alabsi91/reanimated-color-picker
+	url = https://github.com/alabsi91/reanimated-color-picker.git
+[submodule "libraries/testshallpass/react-native-dropdownalert"]
+	path = libraries/testshallpass/react-native-dropdownalert
+	url = https://github.com/testshallpass/react-native-dropdownalert.git
+[submodule "libraries/mrousavy/react-native-blurhash"]
+	path = libraries/mrousavy/react-native-blurhash
+	url = https://github.com/mrousavy/react-native-blurhash.git
+[submodule "libraries/sunnylqm/react-native-storage"]
+	path = libraries/sunnylqm/react-native-storage
+	url = https://github.com/sunnylqm/react-native-storage.git
+[submodule "libraries/maxs15/react-native-modalbox"]
+	path = libraries/maxs15/react-native-modalbox
+	url = https://github.com/maxs15/react-native-modalbox.git
+[submodule "libraries/ovr/react-native-status-bar-height"]
+	path = libraries/ovr/react-native-status-bar-height
+	url = https://github.com/ovr/react-native-status-bar-height.git
