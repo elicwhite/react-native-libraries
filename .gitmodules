@@ -1243,9 +1243,6 @@
 [submodule "libraries/facebook/react-native"]
 	path = libraries/facebook/react-native
 	url = https://github.com/facebook/react-native.git
-[submodule "libraries/byteburgers/react-native-autocomplete-input"]
-	path = libraries/byteburgers/react-native-autocomplete-input
-	url = https://github.com/byteburgers/react-native-autocomplete-input.git
 [submodule "libraries/mowispace/react-native-logs"]
 	path = libraries/mowispace/react-native-logs
 	url = https://github.com/mowispace/react-native-logs.git
@@ -1276,33 +1273,9 @@
 [submodule "libraries/WebsiteBeaver/react-native-document-scanner-plugin"]
 	path = libraries/WebsiteBeaver/react-native-document-scanner-plugin
 	url = https://github.com/WebsiteBeaver/react-native-document-scanner-plugin.git
-[submodule "libraries/seniv/react-native-notifier"]
-	path = libraries/seniv/react-native-notifier
-	url = https://github.com/seniv/react-native-notifier.git
-[submodule "libraries/stefalda/ReactNativeLocalization"]
-	path = libraries/stefalda/ReactNativeLocalization
-	url = https://github.com/stefalda/ReactNativeLocalization.git
-[submodule "libraries/itsnubix/react-native-video-controls"]
-	path = libraries/itsnubix/react-native-video-controls
-	url = https://github.com/itsnubix/react-native-video-controls.git
-[submodule "libraries/wcandillon/react-native-webgpu"]
-	path = libraries/wcandillon/react-native-webgpu
-	url = https://github.com/wcandillon/react-native-webgpu.git
-[submodule "libraries/alabsi91/reanimated-color-picker"]
-	path = libraries/alabsi91/reanimated-color-picker
-	url = https://github.com/alabsi91/reanimated-color-picker.git
-[submodule "libraries/testshallpass/react-native-dropdownalert"]
-	path = libraries/testshallpass/react-native-dropdownalert
-	url = https://github.com/testshallpass/react-native-dropdownalert.git
-[submodule "libraries/mrousavy/react-native-blurhash"]
-	path = libraries/mrousavy/react-native-blurhash
-	url = https://github.com/mrousavy/react-native-blurhash.git
-[submodule "libraries/sunnylqm/react-native-storage"]
-	path = libraries/sunnylqm/react-native-storage
-	url = https://github.com/sunnylqm/react-native-storage.git
-[submodule "libraries/maxs15/react-native-modalbox"]
-	path = libraries/maxs15/react-native-modalbox
-	url = https://github.com/maxs15/react-native-modalbox.git
 [submodule "libraries/ovr/react-native-status-bar-height"]
 	path = libraries/ovr/react-native-status-bar-height
 	url = https://github.com/ovr/react-native-status-bar-height.git
+[submodule "libraries/f-23/react-native-passkey"]
+	path = libraries/f-23/react-native-passkey
+	url = https://github.com/f-23/react-native-passkey.git
