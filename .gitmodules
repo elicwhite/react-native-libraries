@@ -1222,9 +1222,6 @@
 [submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
 	path = libraries/react-native-text-input-mask/react-native-text-input-mask
 	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
-[submodule "libraries/heyman333/react-native-responsive-fontSize"]
-	path = libraries/heyman333/react-native-responsive-fontSize
-	url = https://github.com/heyman333/react-native-responsive-fontSize.git
 [submodule "libraries/Glazzes/react-native-zoom-toolkit"]
 	path = libraries/Glazzes/react-native-zoom-toolkit
 	url = https://github.com/Glazzes/react-native-zoom-toolkit.git
@@ -1273,9 +1270,21 @@
 [submodule "libraries/WebsiteBeaver/react-native-document-scanner-plugin"]
 	path = libraries/WebsiteBeaver/react-native-document-scanner-plugin
 	url = https://github.com/WebsiteBeaver/react-native-document-scanner-plugin.git
-[submodule "libraries/ovr/react-native-status-bar-height"]
-	path = libraries/ovr/react-native-status-bar-height
-	url = https://github.com/ovr/react-native-status-bar-height.git
 [submodule "libraries/f-23/react-native-passkey"]
 	path = libraries/f-23/react-native-passkey
 	url = https://github.com/f-23/react-native-passkey.git
+[submodule "libraries/byteburgers/react-native-autocomplete-input"]
+	path = libraries/byteburgers/react-native-autocomplete-input
+	url = https://github.com/byteburgers/react-native-autocomplete-input.git
+[submodule "libraries/Expensify/react-native-wallet"]
+	path = libraries/Expensify/react-native-wallet
+	url = https://github.com/Expensify/react-native-wallet.git
+[submodule "libraries/sunnylqm/react-native-storage"]
+	path = libraries/sunnylqm/react-native-storage
+	url = https://github.com/sunnylqm/react-native-storage.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/stovmascript/react-native-version"]
+	path = libraries/stovmascript/react-native-version
+	url = https://github.com/stovmascript/react-native-version.git
