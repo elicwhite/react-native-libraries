@@ -1228,9 +1228,6 @@
 [submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
 	path = libraries/moaazsidat/react-native-qrcode-scanner
 	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
-[submodule "libraries/PostHog/posthog-react-native-session-replay"]
-	path = libraries/PostHog/posthog-react-native-session-replay
-	url = https://github.com/PostHog/posthog-react-native-session-replay.git
 [submodule "libraries/margelo/react-native-nitro-fetch"]
 	path = libraries/margelo/react-native-nitro-fetch
 	url = https://github.com/margelo/react-native-nitro-fetch.git
@@ -1243,9 +1240,6 @@
 [submodule "libraries/mowispace/react-native-logs"]
 	path = libraries/mowispace/react-native-logs
 	url = https://github.com/mowispace/react-native-logs.git
-[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
-	path = libraries/douglasjunior/react-native-keyboard-manager
-	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
 [submodule "libraries/mohebifar/react-native-copilot"]
 	path = libraries/mohebifar/react-native-copilot
 	url = https://github.com/mohebifar/react-native-copilot.git
@@ -1270,15 +1264,9 @@
 [submodule "libraries/WebsiteBeaver/react-native-document-scanner-plugin"]
 	path = libraries/WebsiteBeaver/react-native-document-scanner-plugin
 	url = https://github.com/WebsiteBeaver/react-native-document-scanner-plugin.git
-[submodule "libraries/f-23/react-native-passkey"]
-	path = libraries/f-23/react-native-passkey
-	url = https://github.com/f-23/react-native-passkey.git
 [submodule "libraries/byteburgers/react-native-autocomplete-input"]
 	path = libraries/byteburgers/react-native-autocomplete-input
 	url = https://github.com/byteburgers/react-native-autocomplete-input.git
-[submodule "libraries/Expensify/react-native-wallet"]
-	path = libraries/Expensify/react-native-wallet
-	url = https://github.com/Expensify/react-native-wallet.git
 [submodule "libraries/sunnylqm/react-native-storage"]
 	path = libraries/sunnylqm/react-native-storage
 	url = https://github.com/sunnylqm/react-native-storage.git
@@ -1288,3 +1276,18 @@
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
+[submodule "libraries/aymericzip/intlayer"]
+	path = libraries/aymericzip/intlayer
+	url = https://github.com/aymericzip/intlayer.git
+[submodule "libraries/testshallpass/react-native-dropdownalert"]
+	path = libraries/testshallpass/react-native-dropdownalert
+	url = https://github.com/testshallpass/react-native-dropdownalert.git
+[submodule "libraries/expo/expo-2d-context"]
+	path = libraries/expo/expo-2d-context
+	url = https://github.com/expo/expo-2d-context.git
+[submodule "libraries/stefalda/ReactNativeLocalization"]
+	path = libraries/stefalda/ReactNativeLocalization
+	url = https://github.com/stefalda/ReactNativeLocalization.git
+[submodule "libraries/jeanregisser/react-native-slider"]
+	path = libraries/jeanregisser/react-native-slider
+	url = https://github.com/jeanregisser/react-native-slider.git
