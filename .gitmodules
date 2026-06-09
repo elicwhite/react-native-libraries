@@ -1033,9 +1033,6 @@
 [submodule "libraries/achorein/expo-share-intent"]
 	path = libraries/achorein/expo-share-intent
 	url = https://github.com/achorein/expo-share-intent.git
-[submodule "libraries/mateusz1913/react-native-avoid-softinput"]
-	path = libraries/mateusz1913/react-native-avoid-softinput
-	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
 [submodule "libraries/pavelbabenko/react-native-awesome-gallery"]
 	path = libraries/pavelbabenko/react-native-awesome-gallery
 	url = https://github.com/pavelbabenko/react-native-awesome-gallery.git
@@ -1129,9 +1126,6 @@
 [submodule "libraries/gronxb/hot-updater"]
 	path = libraries/gronxb/hot-updater
 	url = https://github.com/gronxb/hot-updater.git
-[submodule "libraries/sAleksovski/react-native-android-widget"]
-	path = libraries/sAleksovski/react-native-android-widget
-	url = https://github.com/sAleksovski/react-native-android-widget.git
 [submodule "libraries/vydimitrov/react-countdown-circle-timer"]
 	path = libraries/vydimitrov/react-countdown-circle-timer
 	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
@@ -1255,9 +1249,6 @@
 [submodule "libraries/GeekyAnts/react-native-easy-grid"]
 	path = libraries/GeekyAnts/react-native-easy-grid
 	url = https://github.com/GeekyAnts/react-native-easy-grid.git
-[submodule "libraries/WebsiteBeaver/react-native-document-scanner-plugin"]
-	path = libraries/WebsiteBeaver/react-native-document-scanner-plugin
-	url = https://github.com/WebsiteBeaver/react-native-document-scanner-plugin.git
 [submodule "libraries/sunnylqm/react-native-storage"]
 	path = libraries/sunnylqm/react-native-storage
 	url = https://github.com/sunnylqm/react-native-storage.git
@@ -1285,3 +1276,21 @@
 [submodule "libraries/douglasjunior/react-native-keyboard-manager"]
 	path = libraries/douglasjunior/react-native-keyboard-manager
 	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
+[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
+	path = libraries/watch-connectivity/react-native-watch-connectivity
+	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/Shopify/react-native-performance"]
+	path = libraries/Shopify/react-native-performance
+	url = https://github.com/Shopify/react-native-performance.git
+[submodule "libraries/stovmascript/react-native-version"]
+	path = libraries/stovmascript/react-native-version
+	url = https://github.com/stovmascript/react-native-version.git
+[submodule "libraries/heyman333/react-native-responsive-fontSize"]
+	path = libraries/heyman333/react-native-responsive-fontSize
+	url = https://github.com/heyman333/react-native-responsive-fontSize.git
+[submodule "libraries/RepairShopr/react-native-signature-capture"]
+	path = libraries/RepairShopr/react-native-signature-capture
+	url = https://github.com/RepairShopr/react-native-signature-capture.git
