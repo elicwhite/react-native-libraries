@@ -1294,3 +1294,12 @@
 [submodule "libraries/RepairShopr/react-native-signature-capture"]
 	path = libraries/RepairShopr/react-native-signature-capture
 	url = https://github.com/RepairShopr/react-native-signature-capture.git
+[submodule "libraries/react/metro"]
+	path = libraries/react/metro
+	url = https://github.com/react/metro.git
+[submodule "libraries/alabsi91/reanimated-color-picker"]
+	path = libraries/alabsi91/reanimated-color-picker
+	url = https://github.com/alabsi91/reanimated-color-picker.git
+[submodule "libraries/openspacelabs/react-native-zoomable-view"]
+	path = libraries/openspacelabs/react-native-zoomable-view
+	url = https://github.com/openspacelabs/react-native-zoomable-view.git
