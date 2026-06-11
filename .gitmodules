@@ -847,9 +847,6 @@
 [submodule "libraries/react-native-webrtc/react-native-incall-manager"]
 	path = libraries/react-native-webrtc/react-native-incall-manager
 	url = https://github.com/react-native-webrtc/react-native-incall-manager.git
-[submodule "libraries/facebook/react"]
-	path = libraries/facebook/react
-	url = https://github.com/facebook/react.git
 [submodule "libraries/mdevils/html-entities"]
 	path = libraries/mdevils/html-entities
 	url = https://github.com/mdevils/html-entities.git
@@ -907,9 +904,6 @@
 [submodule "libraries/quantizor/markdown-to-jsx"]
 	path = libraries/quantizor/markdown-to-jsx
 	url = https://github.com/quantizor/markdown-to-jsx.git
-[submodule "libraries/facebook/metro"]
-	path = libraries/facebook/metro
-	url = https://github.com/facebook/metro.git
 [submodule "libraries/software-mansion/react-native-enriched"]
 	path = libraries/software-mansion/react-native-enriched
 	url = https://github.com/software-mansion/react-native-enriched.git
@@ -1150,9 +1144,6 @@
 [submodule "libraries/margelo/react-native-graph"]
 	path = libraries/margelo/react-native-graph
 	url = https://github.com/margelo/react-native-graph.git
-[submodule "libraries/software-mansion-labs/react-native-enriched-markdown"]
-	path = libraries/software-mansion-labs/react-native-enriched-markdown
-	url = https://github.com/software-mansion-labs/react-native-enriched-markdown.git
 [submodule "libraries/maplibre/maplibre-react-native"]
 	path = libraries/maplibre/maplibre-react-native
 	url = https://github.com/maplibre/maplibre-react-native.git
@@ -1174,9 +1165,6 @@
 [submodule "libraries/Richou/react-native-android-location-enabler"]
 	path = libraries/Richou/react-native-android-location-enabler
 	url = https://github.com/Richou/react-native-android-location-enabler.git
-[submodule "libraries/urbanairship/react-native-airship"]
-	path = libraries/urbanairship/react-native-airship
-	url = https://github.com/urbanairship/react-native-airship.git
 [submodule "libraries/wix/react-native-ui-lib"]
 	path = libraries/wix/react-native-ui-lib
 	url = https://github.com/wix/react-native-ui-lib.git
@@ -1225,9 +1213,6 @@
 [submodule "libraries/matinzd/react-native-health-connect"]
 	path = libraries/matinzd/react-native-health-connect
 	url = https://github.com/matinzd/react-native-health-connect.git
-[submodule "libraries/facebook/react-native"]
-	path = libraries/facebook/react-native
-	url = https://github.com/facebook/react-native.git
 [submodule "libraries/mowispace/react-native-logs"]
 	path = libraries/mowispace/react-native-logs
 	url = https://github.com/mowispace/react-native-logs.git
@@ -1285,9 +1270,6 @@
 [submodule "libraries/Shopify/react-native-performance"]
 	path = libraries/Shopify/react-native-performance
 	url = https://github.com/Shopify/react-native-performance.git
-[submodule "libraries/stovmascript/react-native-version"]
-	path = libraries/stovmascript/react-native-version
-	url = https://github.com/stovmascript/react-native-version.git
 [submodule "libraries/heyman333/react-native-responsive-fontSize"]
 	path = libraries/heyman333/react-native-responsive-fontSize
 	url = https://github.com/heyman333/react-native-responsive-fontSize.git
@@ -1300,6 +1282,48 @@
 [submodule "libraries/alabsi91/reanimated-color-picker"]
 	path = libraries/alabsi91/reanimated-color-picker
 	url = https://github.com/alabsi91/reanimated-color-picker.git
-[submodule "libraries/openspacelabs/react-native-zoomable-view"]
-	path = libraries/openspacelabs/react-native-zoomable-view
-	url = https://github.com/openspacelabs/react-native-zoomable-view.git
+[submodule "libraries/software-mansion/react-native-enriched-markdown"]
+	path = libraries/software-mansion/react-native-enriched-markdown
+	url = https://github.com/software-mansion/react-native-enriched-markdown.git
+[submodule "libraries/mrousavy/react-native-nitro-image"]
+	path = libraries/mrousavy/react-native-nitro-image
+	url = https://github.com/mrousavy/react-native-nitro-image.git
+[submodule "libraries/saseungmin/react-native-gesture-image-viewer"]
+	path = libraries/saseungmin/react-native-gesture-image-viewer
+	url = https://github.com/saseungmin/react-native-gesture-image-viewer.git
+[submodule "libraries/f-23/react-native-passkey"]
+	path = libraries/f-23/react-native-passkey
+	url = https://github.com/f-23/react-native-passkey.git
+[submodule "libraries/react/react-native"]
+	path = libraries/react/react-native
+	url = https://github.com/react/react-native.git
+[submodule "libraries/sAleksovski/react-native-android-widget"]
+	path = libraries/sAleksovski/react-native-android-widget
+	url = https://github.com/sAleksovski/react-native-android-widget.git
+[submodule "libraries/byteburgers/react-native-autocomplete-input"]
+	path = libraries/byteburgers/react-native-autocomplete-input
+	url = https://github.com/byteburgers/react-native-autocomplete-input.git
+[submodule "libraries/mrousavy/react-native-blurhash"]
+	path = libraries/mrousavy/react-native-blurhash
+	url = https://github.com/mrousavy/react-native-blurhash.git
+[submodule "libraries/Expensify/react-native-wallet"]
+	path = libraries/Expensify/react-native-wallet
+	url = https://github.com/Expensify/react-native-wallet.git
+[submodule "libraries/WebsiteBeaver/react-native-document-scanner-plugin"]
+	path = libraries/WebsiteBeaver/react-native-document-scanner-plugin
+	url = https://github.com/WebsiteBeaver/react-native-document-scanner-plugin.git
+[submodule "libraries/react/react"]
+	path = libraries/react/react
+	url = https://github.com/react/react.git
+[submodule "libraries/rgommezz/react-native-offline"]
+	path = libraries/rgommezz/react-native-offline
+	url = https://github.com/rgommezz/react-native-offline.git
+[submodule "libraries/expo/expo-asset-utils"]
+	path = libraries/expo/expo-asset-utils
+	url = https://github.com/expo/expo-asset-utils.git
+[submodule "libraries/itsnubix/react-native-video-controls"]
+	path = libraries/itsnubix/react-native-video-controls
+	url = https://github.com/itsnubix/react-native-video-controls.git
+[submodule "libraries/jeanregisser/react-native-slider"]
+	path = libraries/jeanregisser/react-native-slider
+	url = https://github.com/jeanregisser/react-native-slider.git
