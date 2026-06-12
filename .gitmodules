@@ -1162,15 +1162,9 @@
 [submodule "libraries/Expensify/react-native-onyx"]
 	path = libraries/Expensify/react-native-onyx
 	url = https://github.com/Expensify/react-native-onyx.git
-[submodule "libraries/Richou/react-native-android-location-enabler"]
-	path = libraries/Richou/react-native-android-location-enabler
-	url = https://github.com/Richou/react-native-android-location-enabler.git
 [submodule "libraries/wix/react-native-ui-lib"]
 	path = libraries/wix/react-native-ui-lib
 	url = https://github.com/wix/react-native-ui-lib.git
-[submodule "libraries/mrousavy/react-native-fast-tflite"]
-	path = libraries/mrousavy/react-native-fast-tflite
-	url = https://github.com/mrousavy/react-native-fast-tflite.git
 [submodule "libraries/SudoPlz/sp-react-native-in-app-updates"]
 	path = libraries/SudoPlz/sp-react-native-in-app-updates
 	url = https://github.com/SudoPlz/sp-react-native-in-app-updates.git
@@ -1219,9 +1213,6 @@
 [submodule "libraries/mohebifar/react-native-copilot"]
 	path = libraries/mohebifar/react-native-copilot
 	url = https://github.com/mohebifar/react-native-copilot.git
-[submodule "libraries/maxs15/react-native-spinkit"]
-	path = libraries/maxs15/react-native-spinkit
-	url = https://github.com/maxs15/react-native-spinkit.git
 [submodule "libraries/iddan/react-native-canvas"]
 	path = libraries/iddan/react-native-canvas
 	url = https://github.com/iddan/react-native-canvas.git
@@ -1264,24 +1255,15 @@
 [submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
 	path = libraries/watch-connectivity/react-native-watch-connectivity
 	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/seniv/react-native-notifier"]
-	path = libraries/seniv/react-native-notifier
-	url = https://github.com/seniv/react-native-notifier.git
 [submodule "libraries/Shopify/react-native-performance"]
 	path = libraries/Shopify/react-native-performance
 	url = https://github.com/Shopify/react-native-performance.git
-[submodule "libraries/heyman333/react-native-responsive-fontSize"]
-	path = libraries/heyman333/react-native-responsive-fontSize
-	url = https://github.com/heyman333/react-native-responsive-fontSize.git
 [submodule "libraries/RepairShopr/react-native-signature-capture"]
 	path = libraries/RepairShopr/react-native-signature-capture
 	url = https://github.com/RepairShopr/react-native-signature-capture.git
 [submodule "libraries/react/metro"]
 	path = libraries/react/metro
 	url = https://github.com/react/metro.git
-[submodule "libraries/alabsi91/reanimated-color-picker"]
-	path = libraries/alabsi91/reanimated-color-picker
-	url = https://github.com/alabsi91/reanimated-color-picker.git
 [submodule "libraries/software-mansion/react-native-enriched-markdown"]
 	path = libraries/software-mansion/react-native-enriched-markdown
 	url = https://github.com/software-mansion/react-native-enriched-markdown.git
@@ -1300,12 +1282,6 @@
 [submodule "libraries/sAleksovski/react-native-android-widget"]
 	path = libraries/sAleksovski/react-native-android-widget
 	url = https://github.com/sAleksovski/react-native-android-widget.git
-[submodule "libraries/byteburgers/react-native-autocomplete-input"]
-	path = libraries/byteburgers/react-native-autocomplete-input
-	url = https://github.com/byteburgers/react-native-autocomplete-input.git
-[submodule "libraries/mrousavy/react-native-blurhash"]
-	path = libraries/mrousavy/react-native-blurhash
-	url = https://github.com/mrousavy/react-native-blurhash.git
 [submodule "libraries/Expensify/react-native-wallet"]
 	path = libraries/Expensify/react-native-wallet
 	url = https://github.com/Expensify/react-native-wallet.git
@@ -1315,15 +1291,12 @@
 [submodule "libraries/react/react"]
 	path = libraries/react/react
 	url = https://github.com/react/react.git
-[submodule "libraries/rgommezz/react-native-offline"]
-	path = libraries/rgommezz/react-native-offline
-	url = https://github.com/rgommezz/react-native-offline.git
 [submodule "libraries/expo/expo-asset-utils"]
 	path = libraries/expo/expo-asset-utils
 	url = https://github.com/expo/expo-asset-utils.git
-[submodule "libraries/itsnubix/react-native-video-controls"]
-	path = libraries/itsnubix/react-native-video-controls
-	url = https://github.com/itsnubix/react-native-video-controls.git
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
+[submodule "libraries/openspacelabs/react-native-zoomable-view"]
+	path = libraries/openspacelabs/react-native-zoomable-view
+	url = https://github.com/openspacelabs/react-native-zoomable-view.git
