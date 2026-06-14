@@ -1051,9 +1051,6 @@
 [submodule "libraries/tradle/react-native-udp"]
 	path = libraries/tradle/react-native-udp
 	url = https://github.com/tradle/react-native-udp.git
-[submodule "libraries/mvayngrib/react-native-randombytes"]
-	path = libraries/mvayngrib/react-native-randombytes
-	url = https://github.com/mvayngrib/react-native-randombytes.git
 [submodule "libraries/likashefqet/react-native-image-zoom"]
 	path = libraries/likashefqet/react-native-image-zoom
 	url = https://github.com/likashefqet/react-native-image-zoom.git
@@ -1249,12 +1246,6 @@
 [submodule "libraries/douglasjunior/react-native-keyboard-manager"]
 	path = libraries/douglasjunior/react-native-keyboard-manager
 	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
-[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
-	path = libraries/watch-connectivity/react-native-watch-connectivity
-	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/Shopify/react-native-performance"]
-	path = libraries/Shopify/react-native-performance
-	url = https://github.com/Shopify/react-native-performance.git
 [submodule "libraries/RepairShopr/react-native-signature-capture"]
 	path = libraries/RepairShopr/react-native-signature-capture
 	url = https://github.com/RepairShopr/react-native-signature-capture.git
@@ -1303,6 +1294,21 @@
 [submodule "libraries/JairajJangle/fast-is-equal"]
 	path = libraries/JairajJangle/fast-is-equal
 	url = https://github.com/JairajJangle/fast-is-equal.git
-[submodule "libraries/heyman333/react-native-responsive-fontSize"]
-	path = libraries/heyman333/react-native-responsive-fontSize
-	url = https://github.com/heyman333/react-native-responsive-fontSize.git
+[submodule "libraries/JairajJangle/react-native-tree-multi-select"]
+	path = libraries/JairajJangle/react-native-tree-multi-select
+	url = https://github.com/JairajJangle/react-native-tree-multi-select.git
+[submodule "libraries/byteburgers/react-native-autocomplete-input"]
+	path = libraries/byteburgers/react-native-autocomplete-input
+	url = https://github.com/byteburgers/react-native-autocomplete-input.git
+[submodule "libraries/JairajJangle/react-native-checkbox"]
+	path = libraries/JairajJangle/react-native-checkbox
+	url = https://github.com/JairajJangle/react-native-checkbox.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/expo/react-native-fade-in-image"]
+	path = libraries/expo/react-native-fade-in-image
+	url = https://github.com/expo/react-native-fade-in-image.git
+[submodule "libraries/itsnubix/react-native-video-controls"]
+	path = libraries/itsnubix/react-native-video-controls
+	url = https://github.com/itsnubix/react-native-video-controls.git
