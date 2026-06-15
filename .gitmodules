@@ -1105,9 +1105,6 @@
 [submodule "libraries/developit/mitt"]
 	path = libraries/developit/mitt
 	url = https://github.com/developit/mitt.git
-[submodule "libraries/robhogan/react-native-securerandom"]
-	path = libraries/robhogan/react-native-securerandom
-	url = https://github.com/robhogan/react-native-securerandom.git
 [submodule "libraries/Rapsssito/react-native-background-actions"]
 	path = libraries/Rapsssito/react-native-background-actions
 	url = https://github.com/Rapsssito/react-native-background-actions.git
@@ -1156,9 +1153,6 @@
 [submodule "libraries/EvanBacon/expo-quick-actions"]
 	path = libraries/EvanBacon/expo-quick-actions
 	url = https://github.com/EvanBacon/expo-quick-actions.git
-[submodule "libraries/Expensify/react-native-onyx"]
-	path = libraries/Expensify/react-native-onyx
-	url = https://github.com/Expensify/react-native-onyx.git
 [submodule "libraries/wix/react-native-ui-lib"]
 	path = libraries/wix/react-native-ui-lib
 	url = https://github.com/wix/react-native-ui-lib.git
@@ -1270,9 +1264,6 @@
 [submodule "libraries/sAleksovski/react-native-android-widget"]
 	path = libraries/sAleksovski/react-native-android-widget
 	url = https://github.com/sAleksovski/react-native-android-widget.git
-[submodule "libraries/Expensify/react-native-wallet"]
-	path = libraries/Expensify/react-native-wallet
-	url = https://github.com/Expensify/react-native-wallet.git
 [submodule "libraries/WebsiteBeaver/react-native-document-scanner-plugin"]
 	path = libraries/WebsiteBeaver/react-native-document-scanner-plugin
 	url = https://github.com/WebsiteBeaver/react-native-document-scanner-plugin.git
@@ -1306,9 +1297,12 @@
 [submodule "libraries/seniv/react-native-notifier"]
 	path = libraries/seniv/react-native-notifier
 	url = https://github.com/seniv/react-native-notifier.git
-[submodule "libraries/expo/react-native-fade-in-image"]
-	path = libraries/expo/react-native-fade-in-image
-	url = https://github.com/expo/react-native-fade-in-image.git
 [submodule "libraries/itsnubix/react-native-video-controls"]
 	path = libraries/itsnubix/react-native-video-controls
 	url = https://github.com/itsnubix/react-native-video-controls.git
+[submodule "libraries/mvayngrib/react-native-randombytes"]
+	path = libraries/mvayngrib/react-native-randombytes
+	url = https://github.com/mvayngrib/react-native-randombytes.git
+[submodule "libraries/fullstackreact/react-native-oauth"]
+	path = libraries/fullstackreact/react-native-oauth
+	url = https://github.com/fullstackreact/react-native-oauth.git
