@@ -904,9 +904,6 @@
 [submodule "libraries/quantizor/markdown-to-jsx"]
 	path = libraries/quantizor/markdown-to-jsx
 	url = https://github.com/quantizor/markdown-to-jsx.git
-[submodule "libraries/software-mansion/react-native-enriched"]
-	path = libraries/software-mansion/react-native-enriched
-	url = https://github.com/software-mansion/react-native-enriched.git
 [submodule "libraries/dream-horizon-org/react-native-fast-image"]
 	path = libraries/dream-horizon-org/react-native-fast-image
 	url = https://github.com/dream-horizon-org/react-native-fast-image.git
@@ -1147,9 +1144,6 @@
 [submodule "libraries/eds2002/react-native-screen-transitions"]
 	path = libraries/eds2002/react-native-screen-transitions
 	url = https://github.com/eds2002/react-native-screen-transitions.git
-[submodule "libraries/fullstorydev/fullstory-react-native"]
-	path = libraries/fullstorydev/fullstory-react-native
-	url = https://github.com/fullstorydev/fullstory-react-native.git
 [submodule "libraries/EvanBacon/expo-quick-actions"]
 	path = libraries/EvanBacon/expo-quick-actions
 	url = https://github.com/EvanBacon/expo-quick-actions.git
@@ -1231,9 +1225,6 @@
 [submodule "libraries/PostHog/posthog-react-native-session-replay"]
 	path = libraries/PostHog/posthog-react-native-session-replay
 	url = https://github.com/PostHog/posthog-react-native-session-replay.git
-[submodule "libraries/instantdb/instant"]
-	path = libraries/instantdb/instant
-	url = https://github.com/instantdb/instant.git
 [submodule "libraries/nativewind/react-native-css"]
 	path = libraries/nativewind/react-native-css
 	url = https://github.com/nativewind/react-native-css.git
@@ -1276,9 +1267,6 @@
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
-[submodule "libraries/openspacelabs/react-native-zoomable-view"]
-	path = libraries/openspacelabs/react-native-zoomable-view
-	url = https://github.com/openspacelabs/react-native-zoomable-view.git
 [submodule "libraries/alabsi91/reanimated-color-picker"]
 	path = libraries/alabsi91/reanimated-color-picker
 	url = https://github.com/alabsi91/reanimated-color-picker.git
@@ -1303,6 +1291,21 @@
 [submodule "libraries/mvayngrib/react-native-randombytes"]
 	path = libraries/mvayngrib/react-native-randombytes
 	url = https://github.com/mvayngrib/react-native-randombytes.git
-[submodule "libraries/fullstackreact/react-native-oauth"]
-	path = libraries/fullstackreact/react-native-oauth
-	url = https://github.com/fullstackreact/react-native-oauth.git
+[submodule "libraries/junedomingo/react-native-rename"]
+	path = libraries/junedomingo/react-native-rename
+	url = https://github.com/junedomingo/react-native-rename.git
+[submodule "libraries/mateusz1913/react-native-avoid-softinput"]
+	path = libraries/mateusz1913/react-native-avoid-softinput
+	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
+[submodule "libraries/mrousavy/react-native-blurhash"]
+	path = libraries/mrousavy/react-native-blurhash
+	url = https://github.com/mrousavy/react-native-blurhash.git
+[submodule "libraries/hectahertz/react-native-typography"]
+	path = libraries/hectahertz/react-native-typography
+	url = https://github.com/hectahertz/react-native-typography.git
+[submodule "libraries/maxs15/react-native-spinkit"]
+	path = libraries/maxs15/react-native-spinkit
+	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/stovmascript/react-native-version"]
+	path = libraries/stovmascript/react-native-version
+	url = https://github.com/stovmascript/react-native-version.git
