@@ -1309,3 +1309,12 @@
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
+[submodule "libraries/Expensify/react-native-wallet"]
+	path = libraries/Expensify/react-native-wallet
+	url = https://github.com/Expensify/react-native-wallet.git
+[submodule "libraries/openspacelabs/react-native-zoomable-view"]
+	path = libraries/openspacelabs/react-native-zoomable-view
+	url = https://github.com/openspacelabs/react-native-zoomable-view.git
+[submodule "libraries/mmazzarolo/react-native-dialog"]
+	path = libraries/mmazzarolo/react-native-dialog
+	url = https://github.com/mmazzarolo/react-native-dialog.git
