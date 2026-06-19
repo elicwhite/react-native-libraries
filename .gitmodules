@@ -1282,9 +1282,6 @@
 [submodule "libraries/JairajJangle/react-native-checkbox"]
 	path = libraries/JairajJangle/react-native-checkbox
 	url = https://github.com/JairajJangle/react-native-checkbox.git
-[submodule "libraries/seniv/react-native-notifier"]
-	path = libraries/seniv/react-native-notifier
-	url = https://github.com/seniv/react-native-notifier.git
 [submodule "libraries/itsnubix/react-native-video-controls"]
 	path = libraries/itsnubix/react-native-video-controls
 	url = https://github.com/itsnubix/react-native-video-controls.git
@@ -1297,21 +1294,12 @@
 [submodule "libraries/mateusz1913/react-native-avoid-softinput"]
 	path = libraries/mateusz1913/react-native-avoid-softinput
 	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
-[submodule "libraries/mrousavy/react-native-blurhash"]
-	path = libraries/mrousavy/react-native-blurhash
-	url = https://github.com/mrousavy/react-native-blurhash.git
-[submodule "libraries/hectahertz/react-native-typography"]
-	path = libraries/hectahertz/react-native-typography
-	url = https://github.com/hectahertz/react-native-typography.git
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
-[submodule "libraries/Expensify/react-native-wallet"]
-	path = libraries/Expensify/react-native-wallet
-	url = https://github.com/Expensify/react-native-wallet.git
 [submodule "libraries/openspacelabs/react-native-zoomable-view"]
 	path = libraries/openspacelabs/react-native-zoomable-view
 	url = https://github.com/openspacelabs/react-native-zoomable-view.git
