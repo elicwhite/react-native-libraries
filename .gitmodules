@@ -1195,9 +1195,6 @@
 [submodule "libraries/mohebifar/react-native-copilot"]
 	path = libraries/mohebifar/react-native-copilot
 	url = https://github.com/mohebifar/react-native-copilot.git
-[submodule "libraries/iddan/react-native-canvas"]
-	path = libraries/iddan/react-native-canvas
-	url = https://github.com/iddan/react-native-canvas.git
 [submodule "libraries/naoufal/react-native-touch-id"]
 	path = libraries/naoufal/react-native-touch-id
 	url = https://github.com/naoufal/react-native-touch-id.git
@@ -1282,9 +1279,6 @@
 [submodule "libraries/JairajJangle/react-native-checkbox"]
 	path = libraries/JairajJangle/react-native-checkbox
 	url = https://github.com/JairajJangle/react-native-checkbox.git
-[submodule "libraries/itsnubix/react-native-video-controls"]
-	path = libraries/itsnubix/react-native-video-controls
-	url = https://github.com/itsnubix/react-native-video-controls.git
 [submodule "libraries/mvayngrib/react-native-randombytes"]
 	path = libraries/mvayngrib/react-native-randombytes
 	url = https://github.com/mvayngrib/react-native-randombytes.git
@@ -1297,12 +1291,15 @@
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
-[submodule "libraries/stovmascript/react-native-version"]
-	path = libraries/stovmascript/react-native-version
-	url = https://github.com/stovmascript/react-native-version.git
 [submodule "libraries/openspacelabs/react-native-zoomable-view"]
 	path = libraries/openspacelabs/react-native-zoomable-view
 	url = https://github.com/openspacelabs/react-native-zoomable-view.git
 [submodule "libraries/mmazzarolo/react-native-dialog"]
 	path = libraries/mmazzarolo/react-native-dialog
 	url = https://github.com/mmazzarolo/react-native-dialog.git
+[submodule "libraries/OneSignal/onesignal-expo-plugin"]
+	path = libraries/OneSignal/onesignal-expo-plugin
+	url = https://github.com/OneSignal/onesignal-expo-plugin.git
+[submodule "libraries/ovr/react-native-status-bar-height"]
+	path = libraries/ovr/react-native-status-bar-height
+	url = https://github.com/ovr/react-native-status-bar-height.git
