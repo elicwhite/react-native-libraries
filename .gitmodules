@@ -457,9 +457,6 @@
 [submodule "libraries/chramos/react-native-skeleton-placeholder"]
 	path = libraries/chramos/react-native-skeleton-placeholder
 	url = https://github.com/chramos/react-native-skeleton-placeholder.git
-[submodule "libraries/emeraldsanto/react-native-encrypted-storage"]
-	path = libraries/emeraldsanto/react-native-encrypted-storage
-	url = https://github.com/emeraldsanto/react-native-encrypted-storage.git
 [submodule "libraries/mfrachet/rn-placeholder"]
 	path = libraries/mfrachet/rn-placeholder
 	url = https://github.com/mfrachet/rn-placeholder.git
@@ -1207,9 +1204,6 @@
 [submodule "libraries/sunnylqm/react-native-storage"]
 	path = libraries/sunnylqm/react-native-storage
 	url = https://github.com/sunnylqm/react-native-storage.git
-[submodule "libraries/aymericzip/intlayer"]
-	path = libraries/aymericzip/intlayer
-	url = https://github.com/aymericzip/intlayer.git
 [submodule "libraries/testshallpass/react-native-dropdownalert"]
 	path = libraries/testshallpass/react-native-dropdownalert
 	url = https://github.com/testshallpass/react-native-dropdownalert.git
