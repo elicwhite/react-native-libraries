@@ -889,9 +889,6 @@
 [submodule "libraries/VincentCATILLON/react-native-confetti-cannon"]
 	path = libraries/VincentCATILLON/react-native-confetti-cannon
 	url = https://github.com/VincentCATILLON/react-native-confetti-cannon.git
-[submodule "libraries/indiespirit/react-native-chart-kit"]
-	path = libraries/indiespirit/react-native-chart-kit
-	url = https://github.com/indiespirit/react-native-chart-kit.git
 [submodule "libraries/epoberezkin/fast-deep-equal"]
 	path = libraries/epoberezkin/fast-deep-equal
 	url = https://github.com/epoberezkin/fast-deep-equal.git
@@ -952,9 +949,6 @@
 [submodule "libraries/anday013/react-native-otp-entry"]
 	path = libraries/anday013/react-native-otp-entry
 	url = https://github.com/anday013/react-native-otp-entry.git
-[submodule "libraries/akinncar/react-native-mask-text"]
-	path = libraries/akinncar/react-native-mask-text
-	url = https://github.com/akinncar/react-native-mask-text.git
 [submodule "libraries/margelo/react-native-blur"]
 	path = libraries/margelo/react-native-blur
 	url = https://github.com/margelo/react-native-blur.git
@@ -1276,24 +1270,15 @@
 [submodule "libraries/mvayngrib/react-native-randombytes"]
 	path = libraries/mvayngrib/react-native-randombytes
 	url = https://github.com/mvayngrib/react-native-randombytes.git
-[submodule "libraries/junedomingo/react-native-rename"]
-	path = libraries/junedomingo/react-native-rename
-	url = https://github.com/junedomingo/react-native-rename.git
 [submodule "libraries/mateusz1913/react-native-avoid-softinput"]
 	path = libraries/mateusz1913/react-native-avoid-softinput
 	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
-[submodule "libraries/openspacelabs/react-native-zoomable-view"]
-	path = libraries/openspacelabs/react-native-zoomable-view
-	url = https://github.com/openspacelabs/react-native-zoomable-view.git
 [submodule "libraries/mmazzarolo/react-native-dialog"]
 	path = libraries/mmazzarolo/react-native-dialog
 	url = https://github.com/mmazzarolo/react-native-dialog.git
-[submodule "libraries/OneSignal/onesignal-expo-plugin"]
-	path = libraries/OneSignal/onesignal-expo-plugin
-	url = https://github.com/OneSignal/onesignal-expo-plugin.git
-[submodule "libraries/ovr/react-native-status-bar-height"]
-	path = libraries/ovr/react-native-status-bar-height
-	url = https://github.com/ovr/react-native-status-bar-height.git
+[submodule "libraries/chart-kit/react-native-chart-kit"]
+	path = libraries/chart-kit/react-native-chart-kit
+	url = https://github.com/chart-kit/react-native-chart-kit.git
