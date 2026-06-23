@@ -1198,9 +1198,6 @@
 [submodule "libraries/sunnylqm/react-native-storage"]
 	path = libraries/sunnylqm/react-native-storage
 	url = https://github.com/sunnylqm/react-native-storage.git
-[submodule "libraries/testshallpass/react-native-dropdownalert"]
-	path = libraries/testshallpass/react-native-dropdownalert
-	url = https://github.com/testshallpass/react-native-dropdownalert.git
 [submodule "libraries/expo/expo-2d-context"]
 	path = libraries/expo/expo-2d-context
 	url = https://github.com/expo/expo-2d-context.git
@@ -1282,3 +1279,12 @@
 [submodule "libraries/chart-kit/react-native-chart-kit"]
 	path = libraries/chart-kit/react-native-chart-kit
 	url = https://github.com/chart-kit/react-native-chart-kit.git
+[submodule "libraries/instantdb/instant"]
+	path = libraries/instantdb/instant
+	url = https://github.com/instantdb/instant.git
+[submodule "libraries/iddan/react-native-canvas"]
+	path = libraries/iddan/react-native-canvas
+	url = https://github.com/iddan/react-native-canvas.git
+[submodule "libraries/root-two/react-native-drawer"]
+	path = libraries/root-two/react-native-drawer
+	url = https://github.com/root-two/react-native-drawer.git
