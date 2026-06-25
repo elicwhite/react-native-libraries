@@ -1285,9 +1285,6 @@
 [submodule "libraries/iddan/react-native-canvas"]
 	path = libraries/iddan/react-native-canvas
 	url = https://github.com/iddan/react-native-canvas.git
-[submodule "libraries/OneSignal/onesignal-expo-plugin"]
-	path = libraries/OneSignal/onesignal-expo-plugin
-	url = https://github.com/OneSignal/onesignal-expo-plugin.git
 [submodule "libraries/vercel-labs/json-render"]
 	path = libraries/vercel-labs/json-render
 	url = https://github.com/vercel-labs/json-render.git
@@ -1312,3 +1309,12 @@
 [submodule "libraries/itsnubix/react-native-video-controls"]
 	path = libraries/itsnubix/react-native-video-controls
 	url = https://github.com/itsnubix/react-native-video-controls.git
+[submodule "libraries/livekit/react-native-webrtc"]
+	path = libraries/livekit/react-native-webrtc
+	url = https://github.com/livekit/react-native-webrtc.git
+[submodule "libraries/mrousavy/react-native-fast-tflite"]
+	path = libraries/mrousavy/react-native-fast-tflite
+	url = https://github.com/mrousavy/react-native-fast-tflite.git
+[submodule "libraries/emeraldsanto/react-native-encrypted-storage"]
+	path = libraries/emeraldsanto/react-native-encrypted-storage
+	url = https://github.com/emeraldsanto/react-native-encrypted-storage.git
