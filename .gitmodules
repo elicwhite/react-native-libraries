@@ -1270,9 +1270,6 @@
 [submodule "libraries/mateusz1913/react-native-avoid-softinput"]
 	path = libraries/mateusz1913/react-native-avoid-softinput
 	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
-[submodule "libraries/maxs15/react-native-spinkit"]
-	path = libraries/maxs15/react-native-spinkit
-	url = https://github.com/maxs15/react-native-spinkit.git
 [submodule "libraries/mmazzarolo/react-native-dialog"]
 	path = libraries/mmazzarolo/react-native-dialog
 	url = https://github.com/mmazzarolo/react-native-dialog.git
@@ -1285,18 +1282,12 @@
 [submodule "libraries/iddan/react-native-canvas"]
 	path = libraries/iddan/react-native-canvas
 	url = https://github.com/iddan/react-native-canvas.git
-[submodule "libraries/vercel-labs/json-render"]
-	path = libraries/vercel-labs/json-render
-	url = https://github.com/vercel-labs/json-render.git
 [submodule "libraries/testshallpass/react-native-dropdownalert"]
 	path = libraries/testshallpass/react-native-dropdownalert
 	url = https://github.com/testshallpass/react-native-dropdownalert.git
 [submodule "libraries/mrousavy/react-native-blurhash"]
 	path = libraries/mrousavy/react-native-blurhash
 	url = https://github.com/mrousavy/react-native-blurhash.git
-[submodule "libraries/seniv/react-native-notifier"]
-	path = libraries/seniv/react-native-notifier
-	url = https://github.com/seniv/react-native-notifier.git
 [submodule "libraries/ovr/react-native-status-bar-height"]
 	path = libraries/ovr/react-native-status-bar-height
 	url = https://github.com/ovr/react-native-status-bar-height.git
@@ -1312,9 +1303,9 @@
 [submodule "libraries/livekit/react-native-webrtc"]
 	path = libraries/livekit/react-native-webrtc
 	url = https://github.com/livekit/react-native-webrtc.git
-[submodule "libraries/mrousavy/react-native-fast-tflite"]
-	path = libraries/mrousavy/react-native-fast-tflite
-	url = https://github.com/mrousavy/react-native-fast-tflite.git
 [submodule "libraries/emeraldsanto/react-native-encrypted-storage"]
 	path = libraries/emeraldsanto/react-native-encrypted-storage
 	url = https://github.com/emeraldsanto/react-native-encrypted-storage.git
+[submodule "libraries/openspacelabs/react-native-zoomable-view"]
+	path = libraries/openspacelabs/react-native-zoomable-view
+	url = https://github.com/openspacelabs/react-native-zoomable-view.git
