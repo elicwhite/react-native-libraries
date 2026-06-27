@@ -1171,9 +1171,6 @@
 [submodule "libraries/Glazzes/react-native-zoom-toolkit"]
 	path = libraries/Glazzes/react-native-zoom-toolkit
 	url = https://github.com/Glazzes/react-native-zoom-toolkit.git
-[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
-	path = libraries/moaazsidat/react-native-qrcode-scanner
-	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
 [submodule "libraries/margelo/react-native-nitro-fetch"]
 	path = libraries/margelo/react-native-nitro-fetch
 	url = https://github.com/margelo/react-native-nitro-fetch.git
@@ -1309,3 +1306,12 @@
 [submodule "libraries/openspacelabs/react-native-zoomable-view"]
 	path = libraries/openspacelabs/react-native-zoomable-view
 	url = https://github.com/openspacelabs/react-native-zoomable-view.git
+[submodule "libraries/OneSignal/onesignal-expo-plugin"]
+	path = libraries/OneSignal/onesignal-expo-plugin
+	url = https://github.com/OneSignal/onesignal-expo-plugin.git
+[submodule "libraries/mrousavy/react-native-fast-tflite"]
+	path = libraries/mrousavy/react-native-fast-tflite
+	url = https://github.com/mrousavy/react-native-fast-tflite.git
+[submodule "libraries/akinncar/react-native-mask-text"]
+	path = libraries/akinncar/react-native-mask-text
+	url = https://github.com/akinncar/react-native-mask-text.git
