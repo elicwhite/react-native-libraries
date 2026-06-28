@@ -1291,9 +1291,6 @@
 [submodule "libraries/robhogan/react-native-securerandom"]
 	path = libraries/robhogan/react-native-securerandom
 	url = https://github.com/robhogan/react-native-securerandom.git
-[submodule "libraries/stovmascript/react-native-version"]
-	path = libraries/stovmascript/react-native-version
-	url = https://github.com/stovmascript/react-native-version.git
 [submodule "libraries/itsnubix/react-native-video-controls"]
 	path = libraries/itsnubix/react-native-video-controls
 	url = https://github.com/itsnubix/react-native-video-controls.git
@@ -1306,12 +1303,18 @@
 [submodule "libraries/openspacelabs/react-native-zoomable-view"]
 	path = libraries/openspacelabs/react-native-zoomable-view
 	url = https://github.com/openspacelabs/react-native-zoomable-view.git
-[submodule "libraries/OneSignal/onesignal-expo-plugin"]
-	path = libraries/OneSignal/onesignal-expo-plugin
-	url = https://github.com/OneSignal/onesignal-expo-plugin.git
 [submodule "libraries/mrousavy/react-native-fast-tflite"]
 	path = libraries/mrousavy/react-native-fast-tflite
 	url = https://github.com/mrousavy/react-native-fast-tflite.git
-[submodule "libraries/akinncar/react-native-mask-text"]
-	path = libraries/akinncar/react-native-mask-text
-	url = https://github.com/akinncar/react-native-mask-text.git
+[submodule "libraries/aymericzip/intlayer"]
+	path = libraries/aymericzip/intlayer
+	url = https://github.com/aymericzip/intlayer.git
+[submodule "libraries/vercel-labs/json-render"]
+	path = libraries/vercel-labs/json-render
+	url = https://github.com/vercel-labs/json-render.git
+[submodule "libraries/maxs15/react-native-spinkit"]
+	path = libraries/maxs15/react-native-spinkit
+	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
+	path = libraries/moaazsidat/react-native-qrcode-scanner
+	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
