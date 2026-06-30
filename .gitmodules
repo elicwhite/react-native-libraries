@@ -550,9 +550,6 @@
 [submodule "libraries/n4kz/react-native-material-textfield"]
 	path = libraries/n4kz/react-native-material-textfield
 	url = https://github.com/n4kz/react-native-material-textfield.git
-[submodule "libraries/n4kz/react-native-indicators"]
-	path = libraries/n4kz/react-native-indicators
-	url = https://github.com/n4kz/react-native-indicators.git
 [submodule "libraries/beefe/react-native-actionsheet"]
 	path = libraries/beefe/react-native-actionsheet
 	url = https://github.com/beefe/react-native-actionsheet.git
@@ -1111,9 +1108,6 @@
 [submodule "libraries/kirillzyusko/react-native-teleport"]
 	path = libraries/kirillzyusko/react-native-teleport
 	url = https://github.com/kirillzyusko/react-native-teleport.git
-[submodule "libraries/cooperka/react-native-snackbar"]
-	path = libraries/cooperka/react-native-snackbar
-	url = https://github.com/cooperka/react-native-snackbar.git
 [submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
 	path = libraries/ladjs/react-native-loading-spinner-overlay
 	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
@@ -1177,9 +1171,6 @@
 [submodule "libraries/mowispace/react-native-logs"]
 	path = libraries/mowispace/react-native-logs
 	url = https://github.com/mowispace/react-native-logs.git
-[submodule "libraries/mohebifar/react-native-copilot"]
-	path = libraries/mohebifar/react-native-copilot
-	url = https://github.com/mohebifar/react-native-copilot.git
 [submodule "libraries/AppAndFlow/react-native-ease"]
 	path = libraries/AppAndFlow/react-native-ease
 	url = https://github.com/AppAndFlow/react-native-ease.git
@@ -1264,9 +1255,6 @@
 [submodule "libraries/instantdb/instant"]
 	path = libraries/instantdb/instant
 	url = https://github.com/instantdb/instant.git
-[submodule "libraries/testshallpass/react-native-dropdownalert"]
-	path = libraries/testshallpass/react-native-dropdownalert
-	url = https://github.com/testshallpass/react-native-dropdownalert.git
 [submodule "libraries/mrousavy/react-native-blurhash"]
 	path = libraries/mrousavy/react-native-blurhash
 	url = https://github.com/mrousavy/react-native-blurhash.git
@@ -1282,9 +1270,6 @@
 [submodule "libraries/emeraldsanto/react-native-encrypted-storage"]
 	path = libraries/emeraldsanto/react-native-encrypted-storage
 	url = https://github.com/emeraldsanto/react-native-encrypted-storage.git
-[submodule "libraries/openspacelabs/react-native-zoomable-view"]
-	path = libraries/openspacelabs/react-native-zoomable-view
-	url = https://github.com/openspacelabs/react-native-zoomable-view.git
 [submodule "libraries/mrousavy/react-native-fast-tflite"]
 	path = libraries/mrousavy/react-native-fast-tflite
 	url = https://github.com/mrousavy/react-native-fast-tflite.git
@@ -1297,3 +1282,12 @@
 [submodule "libraries/heyman333/react-native-responsive-fontSize"]
 	path = libraries/heyman333/react-native-responsive-fontSize
 	url = https://github.com/heyman333/react-native-responsive-fontSize.git
+[submodule "libraries/aymericzip/intlayer"]
+	path = libraries/aymericzip/intlayer
+	url = https://github.com/aymericzip/intlayer.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/stefalda/ReactNativeLocalization"]
+	path = libraries/stefalda/ReactNativeLocalization
+	url = https://github.com/stefalda/ReactNativeLocalization.git
