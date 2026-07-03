@@ -1264,9 +1264,15 @@
 [submodule "libraries/stefalda/ReactNativeLocalization"]
 	path = libraries/stefalda/ReactNativeLocalization
 	url = https://github.com/stefalda/ReactNativeLocalization.git
-[submodule "libraries/vercel-labs/json-render"]
-	path = libraries/vercel-labs/json-render
-	url = https://github.com/vercel-labs/json-render.git
 [submodule "libraries/openspacelabs/react-native-zoomable-view"]
 	path = libraries/openspacelabs/react-native-zoomable-view
 	url = https://github.com/openspacelabs/react-native-zoomable-view.git
+[submodule "libraries/mateusz1913/react-native-avoid-softinput"]
+	path = libraries/mateusz1913/react-native-avoid-softinput
+	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
+[submodule "libraries/renrizzolo/react-native-sectioned-multi-select"]
+	path = libraries/renrizzolo/react-native-sectioned-multi-select
+	url = https://github.com/renrizzolo/react-native-sectioned-multi-select.git
+[submodule "libraries/naoufal/react-native-touch-id"]
+	path = libraries/naoufal/react-native-touch-id
+	url = https://github.com/naoufal/react-native-touch-id.git
