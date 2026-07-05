@@ -1249,9 +1249,6 @@
 [submodule "libraries/BugiDev/react-native-calendar-strip"]
 	path = libraries/BugiDev/react-native-calendar-strip
 	url = https://github.com/BugiDev/react-native-calendar-strip.git
-[submodule "libraries/aymericzip/intlayer"]
-	path = libraries/aymericzip/intlayer
-	url = https://github.com/aymericzip/intlayer.git
 [submodule "libraries/stefalda/ReactNativeLocalization"]
 	path = libraries/stefalda/ReactNativeLocalization
 	url = https://github.com/stefalda/ReactNativeLocalization.git
@@ -1285,3 +1282,15 @@
 [submodule "libraries/n4kz/react-native-indicators"]
 	path = libraries/n4kz/react-native-indicators
 	url = https://github.com/n4kz/react-native-indicators.git
+[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
+	path = libraries/watch-connectivity/react-native-watch-connectivity
+	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
+[submodule "libraries/Glazzes/react-native-zoom-toolkit"]
+	path = libraries/Glazzes/react-native-zoom-toolkit
+	url = https://github.com/Glazzes/react-native-zoom-toolkit.git
+[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
+	path = libraries/douglasjunior/react-native-keyboard-manager
+	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
+[submodule "libraries/RepairShopr/react-native-signature-capture"]
+	path = libraries/RepairShopr/react-native-signature-capture
+	url = https://github.com/RepairShopr/react-native-signature-capture.git
