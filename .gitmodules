@@ -1300,3 +1300,21 @@
 [submodule "libraries/seniv/react-native-notifier"]
 	path = libraries/seniv/react-native-notifier
 	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/testshallpass/react-native-dropdownalert"]
+	path = libraries/testshallpass/react-native-dropdownalert
+	url = https://github.com/testshallpass/react-native-dropdownalert.git
+[submodule "libraries/mrousavy/react-native-blurhash"]
+	path = libraries/mrousavy/react-native-blurhash
+	url = https://github.com/mrousavy/react-native-blurhash.git
+[submodule "libraries/vitalets/react-native-extended-stylesheet"]
+	path = libraries/vitalets/react-native-extended-stylesheet
+	url = https://github.com/vitalets/react-native-extended-stylesheet.git
+[submodule "libraries/BugiDev/react-native-calendar-strip"]
+	path = libraries/BugiDev/react-native-calendar-strip
+	url = https://github.com/BugiDev/react-native-calendar-strip.git
+[submodule "libraries/stovmascript/react-native-version"]
+	path = libraries/stovmascript/react-native-version
+	url = https://github.com/stovmascript/react-native-version.git
+[submodule "libraries/itsnubix/react-native-video-controls"]
+	path = libraries/itsnubix/react-native-video-controls
+	url = https://github.com/itsnubix/react-native-video-controls.git
