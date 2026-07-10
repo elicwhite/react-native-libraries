@@ -1129,9 +1129,6 @@
 [submodule "libraries/wix/react-native-ui-lib"]
 	path = libraries/wix/react-native-ui-lib
 	url = https://github.com/wix/react-native-ui-lib.git
-[submodule "libraries/SudoPlz/sp-react-native-in-app-updates"]
-	path = libraries/SudoPlz/sp-react-native-in-app-updates
-	url = https://github.com/SudoPlz/sp-react-native-in-app-updates.git
 [submodule "libraries/duongdev/phosphor-react-native"]
 	path = libraries/duongdev/phosphor-react-native
 	url = https://github.com/duongdev/phosphor-react-native.git
@@ -1204,9 +1201,6 @@
 [submodule "libraries/expo/expo-asset-utils"]
 	path = libraries/expo/expo-asset-utils
 	url = https://github.com/expo/expo-asset-utils.git
-[submodule "libraries/jeanregisser/react-native-slider"]
-	path = libraries/jeanregisser/react-native-slider
-	url = https://github.com/jeanregisser/react-native-slider.git
 [submodule "libraries/alabsi91/reanimated-color-picker"]
 	path = libraries/alabsi91/reanimated-color-picker
 	url = https://github.com/alabsi91/reanimated-color-picker.git
@@ -1276,9 +1270,6 @@
 [submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
 	path = libraries/watch-connectivity/react-native-watch-connectivity
 	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
-	path = libraries/douglasjunior/react-native-keyboard-manager
-	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
 [submodule "libraries/RepairShopr/react-native-signature-capture"]
 	path = libraries/RepairShopr/react-native-signature-capture
 	url = https://github.com/RepairShopr/react-native-signature-capture.git
@@ -1306,6 +1297,12 @@
 [submodule "libraries/heyman333/react-native-responsive-fontSize"]
 	path = libraries/heyman333/react-native-responsive-fontSize
 	url = https://github.com/heyman333/react-native-responsive-fontSize.git
-[submodule "libraries/Glazzes/react-native-zoom-toolkit"]
-	path = libraries/Glazzes/react-native-zoom-toolkit
-	url = https://github.com/Glazzes/react-native-zoom-toolkit.git
+[submodule "libraries/assistant-ui/assistant-ui"]
+	path = libraries/assistant-ui/assistant-ui
+	url = https://github.com/assistant-ui/assistant-ui.git
+[submodule "libraries/OneSignal/onesignal-expo-plugin"]
+	path = libraries/OneSignal/onesignal-expo-plugin
+	url = https://github.com/OneSignal/onesignal-expo-plugin.git
+[submodule "libraries/itsnubix/react-native-video-controls"]
+	path = libraries/itsnubix/react-native-video-controls
+	url = https://github.com/itsnubix/react-native-video-controls.git
