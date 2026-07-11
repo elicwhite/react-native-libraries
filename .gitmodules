@@ -1297,12 +1297,12 @@
 [submodule "libraries/heyman333/react-native-responsive-fontSize"]
 	path = libraries/heyman333/react-native-responsive-fontSize
 	url = https://github.com/heyman333/react-native-responsive-fontSize.git
-[submodule "libraries/assistant-ui/assistant-ui"]
-	path = libraries/assistant-ui/assistant-ui
-	url = https://github.com/assistant-ui/assistant-ui.git
-[submodule "libraries/OneSignal/onesignal-expo-plugin"]
-	path = libraries/OneSignal/onesignal-expo-plugin
-	url = https://github.com/OneSignal/onesignal-expo-plugin.git
 [submodule "libraries/itsnubix/react-native-video-controls"]
 	path = libraries/itsnubix/react-native-video-controls
 	url = https://github.com/itsnubix/react-native-video-controls.git
+[submodule "libraries/instantdb/instant"]
+	path = libraries/instantdb/instant
+	url = https://github.com/instantdb/instant.git
+[submodule "libraries/margelo/react-native-release-profiler"]
+	path = libraries/margelo/react-native-release-profiler
+	url = https://github.com/margelo/react-native-release-profiler.git
