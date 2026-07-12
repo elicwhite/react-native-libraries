@@ -751,9 +751,6 @@
 [submodule "libraries/toss/es-toolkit"]
 	path = libraries/toss/es-toolkit
 	url = https://github.com/toss/es-toolkit.git
-[submodule "libraries/Expensify/react-native-live-markdown"]
-	path = libraries/Expensify/react-native-live-markdown
-	url = https://github.com/Expensify/react-native-live-markdown.git
 [submodule "libraries/npm/node-semver"]
 	path = libraries/npm/node-semver
 	url = https://github.com/npm/node-semver.git
@@ -1303,6 +1300,3 @@
 [submodule "libraries/instantdb/instant"]
 	path = libraries/instantdb/instant
 	url = https://github.com/instantdb/instant.git
-[submodule "libraries/margelo/react-native-release-profiler"]
-	path = libraries/margelo/react-native-release-profiler
-	url = https://github.com/margelo/react-native-release-profiler.git
