@@ -1132,9 +1132,6 @@
 [submodule "libraries/livekit/client-sdk-react-native"]
 	path = libraries/livekit/client-sdk-react-native
 	url = https://github.com/livekit/client-sdk-react-native.git
-[submodule "libraries/kevinresol/react-native-default-preference"]
-	path = libraries/kevinresol/react-native-default-preference
-	url = https://github.com/kevinresol/react-native-default-preference.git
 [submodule "libraries/powersync-ja/powersync-js"]
 	path = libraries/powersync-ja/powersync-js
 	url = https://github.com/powersync-ja/powersync-js.git
@@ -1198,9 +1195,6 @@
 [submodule "libraries/expo/expo-asset-utils"]
 	path = libraries/expo/expo-asset-utils
 	url = https://github.com/expo/expo-asset-utils.git
-[submodule "libraries/alabsi91/reanimated-color-picker"]
-	path = libraries/alabsi91/reanimated-color-picker
-	url = https://github.com/alabsi91/reanimated-color-picker.git
 [submodule "libraries/JairajJangle/fast-is-equal"]
 	path = libraries/JairajJangle/fast-is-equal
 	url = https://github.com/JairajJangle/fast-is-equal.git
@@ -1300,3 +1294,15 @@
 [submodule "libraries/instantdb/instant"]
 	path = libraries/instantdb/instant
 	url = https://github.com/instantdb/instant.git
+[submodule "libraries/assistant-ui/assistant-ui"]
+	path = libraries/assistant-ui/assistant-ui
+	url = https://github.com/assistant-ui/assistant-ui.git
+[submodule "libraries/mrousavy/react-native-blurhash"]
+	path = libraries/mrousavy/react-native-blurhash
+	url = https://github.com/mrousavy/react-native-blurhash.git
+[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
+	path = libraries/douglasjunior/react-native-keyboard-manager
+	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
+[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
+	path = libraries/moaazsidat/react-native-qrcode-scanner
+	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
