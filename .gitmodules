@@ -1207,9 +1207,6 @@
 [submodule "libraries/JairajJangle/react-native-checkbox"]
 	path = libraries/JairajJangle/react-native-checkbox
 	url = https://github.com/JairajJangle/react-native-checkbox.git
-[submodule "libraries/mvayngrib/react-native-randombytes"]
-	path = libraries/mvayngrib/react-native-randombytes
-	url = https://github.com/mvayngrib/react-native-randombytes.git
 [submodule "libraries/mmazzarolo/react-native-dialog"]
 	path = libraries/mmazzarolo/react-native-dialog
 	url = https://github.com/mmazzarolo/react-native-dialog.git
@@ -1312,3 +1309,9 @@
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
+[submodule "libraries/alabsi91/reanimated-color-picker"]
+	path = libraries/alabsi91/reanimated-color-picker
+	url = https://github.com/alabsi91/reanimated-color-picker.git
+[submodule "libraries/gcanti/tcomb-form-native"]
+	path = libraries/gcanti/tcomb-form-native
+	url = https://github.com/gcanti/tcomb-form-native.git
