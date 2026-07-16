@@ -1288,15 +1288,9 @@
 [submodule "libraries/instantdb/instant"]
 	path = libraries/instantdb/instant
 	url = https://github.com/instantdb/instant.git
-[submodule "libraries/assistant-ui/assistant-ui"]
-	path = libraries/assistant-ui/assistant-ui
-	url = https://github.com/assistant-ui/assistant-ui.git
 [submodule "libraries/mrousavy/react-native-blurhash"]
 	path = libraries/mrousavy/react-native-blurhash
 	url = https://github.com/mrousavy/react-native-blurhash.git
-[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
-	path = libraries/douglasjunior/react-native-keyboard-manager
-	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
 [submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
 	path = libraries/moaazsidat/react-native-qrcode-scanner
 	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
@@ -1312,6 +1306,6 @@
 [submodule "libraries/alabsi91/reanimated-color-picker"]
 	path = libraries/alabsi91/reanimated-color-picker
 	url = https://github.com/alabsi91/reanimated-color-picker.git
-[submodule "libraries/gcanti/tcomb-form-native"]
-	path = libraries/gcanti/tcomb-form-native
-	url = https://github.com/gcanti/tcomb-form-native.git
+[submodule "libraries/margelo/react-native-release-profiler"]
+	path = libraries/margelo/react-native-release-profiler
+	url = https://github.com/margelo/react-native-release-profiler.git
