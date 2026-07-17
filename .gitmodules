@@ -1309,3 +1309,12 @@
 [submodule "libraries/margelo/react-native-release-profiler"]
 	path = libraries/margelo/react-native-release-profiler
 	url = https://github.com/margelo/react-native-release-profiler.git
+[submodule "libraries/Expensify/react-native-live-markdown"]
+	path = libraries/Expensify/react-native-live-markdown
+	url = https://github.com/Expensify/react-native-live-markdown.git
+[submodule "libraries/mateusz1913/react-native-avoid-softinput"]
+	path = libraries/mateusz1913/react-native-avoid-softinput
+	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
+[submodule "libraries/zahidalidev/toastify-react-native"]
+	path = libraries/zahidalidev/toastify-react-native
+	url = https://github.com/zahidalidev/toastify-react-native.git
