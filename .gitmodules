@@ -1018,9 +1018,6 @@
 [submodule "libraries/LegendApp/legend-motion"]
 	path = libraries/LegendApp/legend-motion
 	url = https://github.com/LegendApp/legend-motion.git
-[submodule "libraries/react-native-art/art"]
-	path = libraries/react-native-art/art
-	url = https://github.com/react-native-art/art.git
 [submodule "libraries/tradle/react-native-crypto"]
 	path = libraries/tradle/react-native-crypto
 	url = https://github.com/tradle/react-native-crypto.git
@@ -1150,9 +1147,6 @@
 [submodule "libraries/matinzd/react-native-health-connect"]
 	path = libraries/matinzd/react-native-health-connect
 	url = https://github.com/matinzd/react-native-health-connect.git
-[submodule "libraries/mowispace/react-native-logs"]
-	path = libraries/mowispace/react-native-logs
-	url = https://github.com/mowispace/react-native-logs.git
 [submodule "libraries/AppAndFlow/react-native-ease"]
 	path = libraries/AppAndFlow/react-native-ease
 	url = https://github.com/AppAndFlow/react-native-ease.git
@@ -1282,9 +1276,6 @@
 [submodule "libraries/instantdb/instant"]
 	path = libraries/instantdb/instant
 	url = https://github.com/instantdb/instant.git
-[submodule "libraries/mrousavy/react-native-blurhash"]
-	path = libraries/mrousavy/react-native-blurhash
-	url = https://github.com/mrousavy/react-native-blurhash.git
 [submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
 	path = libraries/moaazsidat/react-native-qrcode-scanner
 	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
@@ -1306,3 +1297,6 @@
 [submodule "libraries/zahidalidev/toastify-react-native"]
 	path = libraries/zahidalidev/toastify-react-native
 	url = https://github.com/zahidalidev/toastify-react-native.git
+[submodule "libraries/openspacelabs/react-native-zoomable-view"]
+	path = libraries/openspacelabs/react-native-zoomable-view
+	url = https://github.com/openspacelabs/react-native-zoomable-view.git
