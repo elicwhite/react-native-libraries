@@ -1195,9 +1195,6 @@
 [submodule "libraries/JairajJangle/react-native-tree-multi-select"]
 	path = libraries/JairajJangle/react-native-tree-multi-select
 	url = https://github.com/JairajJangle/react-native-tree-multi-select.git
-[submodule "libraries/byteburgers/react-native-autocomplete-input"]
-	path = libraries/byteburgers/react-native-autocomplete-input
-	url = https://github.com/byteburgers/react-native-autocomplete-input.git
 [submodule "libraries/JairajJangle/react-native-checkbox"]
 	path = libraries/JairajJangle/react-native-checkbox
 	url = https://github.com/JairajJangle/react-native-checkbox.git
@@ -1276,21 +1273,12 @@
 [submodule "libraries/instantdb/instant"]
 	path = libraries/instantdb/instant
 	url = https://github.com/instantdb/instant.git
-[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
-	path = libraries/moaazsidat/react-native-qrcode-scanner
-	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
-[submodule "libraries/iddan/react-native-canvas"]
-	path = libraries/iddan/react-native-canvas
-	url = https://github.com/iddan/react-native-canvas.git
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
 [submodule "libraries/alabsi91/reanimated-color-picker"]
 	path = libraries/alabsi91/reanimated-color-picker
 	url = https://github.com/alabsi91/reanimated-color-picker.git
-[submodule "libraries/margelo/react-native-release-profiler"]
-	path = libraries/margelo/react-native-release-profiler
-	url = https://github.com/margelo/react-native-release-profiler.git
 [submodule "libraries/Expensify/react-native-live-markdown"]
 	path = libraries/Expensify/react-native-live-markdown
 	url = https://github.com/Expensify/react-native-live-markdown.git
@@ -1300,3 +1288,15 @@
 [submodule "libraries/openspacelabs/react-native-zoomable-view"]
 	path = libraries/openspacelabs/react-native-zoomable-view
 	url = https://github.com/openspacelabs/react-native-zoomable-view.git
+[submodule "libraries/callstackincubator/rozenite"]
+	path = libraries/callstackincubator/rozenite
+	url = https://github.com/callstackincubator/rozenite.git
+[submodule "libraries/mrousavy/react-native-blurhash"]
+	path = libraries/mrousavy/react-native-blurhash
+	url = https://github.com/mrousavy/react-native-blurhash.git
+[submodule "libraries/mowispace/react-native-logs"]
+	path = libraries/mowispace/react-native-logs
+	url = https://github.com/mowispace/react-native-logs.git
+[submodule "libraries/mvayngrib/react-native-randombytes"]
+	path = libraries/mvayngrib/react-native-randombytes
+	url = https://github.com/mvayngrib/react-native-randombytes.git
