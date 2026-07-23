@@ -1321,3 +1321,9 @@
 [submodule "libraries/margelo/react-native-release-profiler"]
 	path = libraries/margelo/react-native-release-profiler
 	url = https://github.com/margelo/react-native-release-profiler.git
+[submodule "libraries/software-mansion/react-native-enriched"]
+	path = libraries/software-mansion/react-native-enriched
+	url = https://github.com/software-mansion/react-native-enriched.git
+[submodule "libraries/TheWidlarzGroup/rn-emoji-keyboard"]
+	path = libraries/TheWidlarzGroup/rn-emoji-keyboard
+	url = https://github.com/TheWidlarzGroup/rn-emoji-keyboard.git
