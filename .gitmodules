@@ -949,18 +949,12 @@
 [submodule "libraries/Expensify/react-native-live-markdown"]
 	path = libraries/Expensify/react-native-live-markdown
 	url = https://github.com/Expensify/react-native-live-markdown.git
-[submodule "libraries/mrousavy/react-native-blurhash"]
-	path = libraries/mrousavy/react-native-blurhash
-	url = https://github.com/mrousavy/react-native-blurhash.git
 [submodule "libraries/assistant-ui/assistant-ui"]
 	path = libraries/assistant-ui/assistant-ui
 	url = https://github.com/assistant-ui/assistant-ui.git
 [submodule "libraries/byteburgers/react-native-autocomplete-input"]
 	path = libraries/byteburgers/react-native-autocomplete-input
 	url = https://github.com/byteburgers/react-native-autocomplete-input.git
-[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
-	path = libraries/douglasjunior/react-native-keyboard-manager
-	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
 [submodule "libraries/mientjan/react-native-markdown-renderer"]
 	path = libraries/mientjan/react-native-markdown-renderer
 	url = https://github.com/mientjan/react-native-markdown-renderer.git
@@ -1057,9 +1051,6 @@
 [submodule "libraries/craftzdog/react-native-quick-base64"]
 	path = libraries/craftzdog/react-native-quick-base64
 	url = https://github.com/craftzdog/react-native-quick-base64.git
-[submodule "libraries/quidone/react-native-wheel-picker"]
-	path = libraries/quidone/react-native-wheel-picker
-	url = https://github.com/quidone/react-native-wheel-picker.git
 [submodule "libraries/akinncar/react-native-mask-text"]
 	path = libraries/akinncar/react-native-mask-text
 	url = https://github.com/akinncar/react-native-mask-text.git
@@ -1279,9 +1270,6 @@
 [submodule "libraries/ovr/react-native-status-bar-height"]
 	path = libraries/ovr/react-native-status-bar-height
 	url = https://github.com/ovr/react-native-status-bar-height.git
-[submodule "libraries/emeraldsanto/react-native-encrypted-storage"]
-	path = libraries/emeraldsanto/react-native-encrypted-storage
-	url = https://github.com/emeraldsanto/react-native-encrypted-storage.git
 [submodule "libraries/mmazzarolo/react-native-dialog"]
 	path = libraries/mmazzarolo/react-native-dialog
 	url = https://github.com/mmazzarolo/react-native-dialog.git
@@ -1321,3 +1309,15 @@
 [submodule "libraries/reactjs/react-timer-mixin"]
 	path = libraries/reactjs/react-timer-mixin
 	url = https://github.com/reactjs/react-timer-mixin.git
+[submodule "libraries/margelo/react-native-filament"]
+	path = libraries/margelo/react-native-filament
+	url = https://github.com/margelo/react-native-filament.git
+[submodule "libraries/mateusz1913/react-native-avoid-softinput"]
+	path = libraries/mateusz1913/react-native-avoid-softinput
+	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
+[submodule "libraries/mvayngrib/react-native-randombytes"]
+	path = libraries/mvayngrib/react-native-randombytes
+	url = https://github.com/mvayngrib/react-native-randombytes.git
+[submodule "libraries/stovmascript/react-native-version"]
+	path = libraries/stovmascript/react-native-version
+	url = https://github.com/stovmascript/react-native-version.git
