@@ -979,9 +979,6 @@
 [submodule "libraries/livekit/client-sdk-react-native"]
 	path = libraries/livekit/client-sdk-react-native
 	url = https://github.com/livekit/client-sdk-react-native.git
-[submodule "libraries/goatandsheep/react-native-dotenv"]
-	path = libraries/goatandsheep/react-native-dotenv
-	url = https://github.com/goatandsheep/react-native-dotenv.git
 [submodule "libraries/livekit/react-native-webrtc"]
 	path = libraries/livekit/react-native-webrtc
 	url = https://github.com/livekit/react-native-webrtc.git
@@ -1321,3 +1318,36 @@
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
+[submodule "libraries/mybigday/llama.rn"]
+	path = libraries/mybigday/llama.rn
+	url = https://github.com/mybigday/llama.rn.git
+[submodule "libraries/dotenvx/react-native-dotenv"]
+	path = libraries/dotenvx/react-native-dotenv
+	url = https://github.com/dotenvx/react-native-dotenv.git
+[submodule "libraries/OneSignal/onesignal-expo-plugin"]
+	path = libraries/OneSignal/onesignal-expo-plugin
+	url = https://github.com/OneSignal/onesignal-expo-plugin.git
+[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
+	path = libraries/watch-connectivity/react-native-watch-connectivity
+	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
+[submodule "libraries/mrousavy/react-native-blurhash"]
+	path = libraries/mrousavy/react-native-blurhash
+	url = https://github.com/mrousavy/react-native-blurhash.git
+[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
+	path = libraries/douglasjunior/react-native-keyboard-manager
+	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
+[submodule "libraries/kevinresol/react-native-default-preference"]
+	path = libraries/kevinresol/react-native-default-preference
+	url = https://github.com/kevinresol/react-native-default-preference.git
+[submodule "libraries/emeraldsanto/react-native-encrypted-storage"]
+	path = libraries/emeraldsanto/react-native-encrypted-storage
+	url = https://github.com/emeraldsanto/react-native-encrypted-storage.git
+[submodule "libraries/heyman333/react-native-responsive-fontSize"]
+	path = libraries/heyman333/react-native-responsive-fontSize
+	url = https://github.com/heyman333/react-native-responsive-fontSize.git
+[submodule "libraries/itsnubix/react-native-video-controls"]
+	path = libraries/itsnubix/react-native-video-controls
+	url = https://github.com/itsnubix/react-native-video-controls.git
+[submodule "libraries/djchie/react-native-star-rating"]
+	path = libraries/djchie/react-native-star-rating
+	url = https://github.com/djchie/react-native-star-rating.git
