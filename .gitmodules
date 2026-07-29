@@ -1351,3 +1351,18 @@
 [submodule "libraries/djchie/react-native-star-rating"]
 	path = libraries/djchie/react-native-star-rating
 	url = https://github.com/djchie/react-native-star-rating.git
+[submodule "libraries/quidone/react-native-wheel-picker"]
+	path = libraries/quidone/react-native-wheel-picker
+	url = https://github.com/quidone/react-native-wheel-picker.git
+[submodule "libraries/a7medev/react-native-ml-kit"]
+	path = libraries/a7medev/react-native-ml-kit
+	url = https://github.com/a7medev/react-native-ml-kit.git
+[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
+	path = libraries/moaazsidat/react-native-qrcode-scanner
+	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
+[submodule "libraries/benevbright/react-navigation-collapsible"]
+	path = libraries/benevbright/react-navigation-collapsible
+	url = https://github.com/benevbright/react-navigation-collapsible.git
+[submodule "libraries/crazycodeboy/react-native-check-box"]
+	path = libraries/crazycodeboy/react-native-check-box
+	url = https://github.com/crazycodeboy/react-native-check-box.git
