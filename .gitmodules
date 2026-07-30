@@ -922,9 +922,6 @@
 [submodule "libraries/n4kz/react-native-indicators"]
 	path = libraries/n4kz/react-native-indicators
 	url = https://github.com/n4kz/react-native-indicators.git
-[submodule "libraries/RepairShopr/react-native-signature-capture"]
-	path = libraries/RepairShopr/react-native-signature-capture
-	url = https://github.com/RepairShopr/react-native-signature-capture.git
 [submodule "libraries/mrousavy/react-native-fast-tflite"]
 	path = libraries/mrousavy/react-native-fast-tflite
 	url = https://github.com/mrousavy/react-native-fast-tflite.git
@@ -943,9 +940,6 @@
 [submodule "libraries/tinyplex/tinybase"]
 	path = libraries/tinyplex/tinybase
 	url = https://github.com/tinyplex/tinybase.git
-[submodule "libraries/jeanregisser/react-native-slider"]
-	path = libraries/jeanregisser/react-native-slider
-	url = https://github.com/jeanregisser/react-native-slider.git
 [submodule "libraries/Expensify/react-native-live-markdown"]
 	path = libraries/Expensify/react-native-live-markdown
 	url = https://github.com/Expensify/react-native-live-markdown.git
@@ -1291,9 +1285,6 @@
 [submodule "libraries/vinzscam/react-native-file-viewer"]
 	path = libraries/vinzscam/react-native-file-viewer
 	url = https://github.com/vinzscam/react-native-file-viewer.git
-[submodule "libraries/chirag04/react-native-mail"]
-	path = libraries/chirag04/react-native-mail
-	url = https://github.com/chirag04/react-native-mail.git
 [submodule "libraries/react-native-art/art"]
 	path = libraries/react-native-art/art
 	url = https://github.com/react-native-art/art.git
@@ -1330,12 +1321,6 @@
 [submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
 	path = libraries/watch-connectivity/react-native-watch-connectivity
 	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/mrousavy/react-native-blurhash"]
-	path = libraries/mrousavy/react-native-blurhash
-	url = https://github.com/mrousavy/react-native-blurhash.git
-[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
-	path = libraries/douglasjunior/react-native-keyboard-manager
-	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
 [submodule "libraries/kevinresol/react-native-default-preference"]
 	path = libraries/kevinresol/react-native-default-preference
 	url = https://github.com/kevinresol/react-native-default-preference.git
@@ -1345,9 +1330,6 @@
 [submodule "libraries/heyman333/react-native-responsive-fontSize"]
 	path = libraries/heyman333/react-native-responsive-fontSize
 	url = https://github.com/heyman333/react-native-responsive-fontSize.git
-[submodule "libraries/itsnubix/react-native-video-controls"]
-	path = libraries/itsnubix/react-native-video-controls
-	url = https://github.com/itsnubix/react-native-video-controls.git
 [submodule "libraries/djchie/react-native-star-rating"]
 	path = libraries/djchie/react-native-star-rating
 	url = https://github.com/djchie/react-native-star-rating.git
@@ -1357,12 +1339,9 @@
 [submodule "libraries/a7medev/react-native-ml-kit"]
 	path = libraries/a7medev/react-native-ml-kit
 	url = https://github.com/a7medev/react-native-ml-kit.git
-[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
-	path = libraries/moaazsidat/react-native-qrcode-scanner
-	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
 [submodule "libraries/benevbright/react-navigation-collapsible"]
 	path = libraries/benevbright/react-navigation-collapsible
 	url = https://github.com/benevbright/react-navigation-collapsible.git
-[submodule "libraries/crazycodeboy/react-native-check-box"]
-	path = libraries/crazycodeboy/react-native-check-box
-	url = https://github.com/crazycodeboy/react-native-check-box.git
+[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
+	path = libraries/kirankalyan5/react-native-segmented-control-tab
+	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
