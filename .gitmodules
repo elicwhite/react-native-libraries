@@ -925,9 +925,6 @@
 [submodule "libraries/mrousavy/react-native-fast-tflite"]
 	path = libraries/mrousavy/react-native-fast-tflite
 	url = https://github.com/mrousavy/react-native-fast-tflite.git
-[submodule "libraries/GeekyAnts/react-native-easy-grid"]
-	path = libraries/GeekyAnts/react-native-easy-grid
-	url = https://github.com/GeekyAnts/react-native-easy-grid.git
 [submodule "libraries/sunnylqm/react-native-storage"]
 	path = libraries/sunnylqm/react-native-storage
 	url = https://github.com/sunnylqm/react-native-storage.git
@@ -943,9 +940,6 @@
 [submodule "libraries/Expensify/react-native-live-markdown"]
 	path = libraries/Expensify/react-native-live-markdown
 	url = https://github.com/Expensify/react-native-live-markdown.git
-[submodule "libraries/assistant-ui/assistant-ui"]
-	path = libraries/assistant-ui/assistant-ui
-	url = https://github.com/assistant-ui/assistant-ui.git
 [submodule "libraries/byteburgers/react-native-autocomplete-input"]
 	path = libraries/byteburgers/react-native-autocomplete-input
 	url = https://github.com/byteburgers/react-native-autocomplete-input.git
@@ -1318,9 +1312,6 @@
 [submodule "libraries/OneSignal/onesignal-expo-plugin"]
 	path = libraries/OneSignal/onesignal-expo-plugin
 	url = https://github.com/OneSignal/onesignal-expo-plugin.git
-[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
-	path = libraries/watch-connectivity/react-native-watch-connectivity
-	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
 [submodule "libraries/kevinresol/react-native-default-preference"]
 	path = libraries/kevinresol/react-native-default-preference
 	url = https://github.com/kevinresol/react-native-default-preference.git
@@ -1345,3 +1336,9 @@
 [submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
 	path = libraries/kirankalyan5/react-native-segmented-control-tab
 	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
+[submodule "libraries/callstackincubator/ai"]
+	path = libraries/callstackincubator/ai
+	url = https://github.com/callstackincubator/ai.git
+[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
+	path = libraries/moaazsidat/react-native-qrcode-scanner
+	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
