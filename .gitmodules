@@ -1342,3 +1342,9 @@
 [submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
 	path = libraries/moaazsidat/react-native-qrcode-scanner
 	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
+[submodule "libraries/SudoPlz/sp-react-native-in-app-updates"]
+	path = libraries/SudoPlz/sp-react-native-in-app-updates
+	url = https://github.com/SudoPlz/sp-react-native-in-app-updates.git
+[submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
+	path = libraries/souvik-ghosh/react-native-create-thumbnail
+	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
