@@ -943,9 +943,6 @@
 [submodule "libraries/byteburgers/react-native-autocomplete-input"]
 	path = libraries/byteburgers/react-native-autocomplete-input
 	url = https://github.com/byteburgers/react-native-autocomplete-input.git
-[submodule "libraries/mientjan/react-native-markdown-renderer"]
-	path = libraries/mientjan/react-native-markdown-renderer
-	url = https://github.com/mientjan/react-native-markdown-renderer.git
 [submodule "libraries/software-mansion/react-native-enriched-markdown"]
 	path = libraries/software-mansion/react-native-enriched-markdown
 	url = https://github.com/software-mansion/react-native-enriched-markdown.git
@@ -1270,9 +1267,6 @@
 [submodule "libraries/gorhom/react-native-portal"]
 	path = libraries/gorhom/react-native-portal
 	url = https://github.com/gorhom/react-native-portal.git
-[submodule "libraries/BugiDev/react-native-calendar-strip"]
-	path = libraries/BugiDev/react-native-calendar-strip
-	url = https://github.com/BugiDev/react-native-calendar-strip.git
 [submodule "libraries/corbt/react-native-keep-awake"]
 	path = libraries/corbt/react-native-keep-awake
 	url = https://github.com/corbt/react-native-keep-awake.git
@@ -1297,9 +1291,6 @@
 [submodule "libraries/mateusz1913/react-native-avoid-softinput"]
 	path = libraries/mateusz1913/react-native-avoid-softinput
 	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
-[submodule "libraries/mvayngrib/react-native-randombytes"]
-	path = libraries/mvayngrib/react-native-randombytes
-	url = https://github.com/mvayngrib/react-native-randombytes.git
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
@@ -1318,9 +1309,6 @@
 [submodule "libraries/emeraldsanto/react-native-encrypted-storage"]
 	path = libraries/emeraldsanto/react-native-encrypted-storage
 	url = https://github.com/emeraldsanto/react-native-encrypted-storage.git
-[submodule "libraries/heyman333/react-native-responsive-fontSize"]
-	path = libraries/heyman333/react-native-responsive-fontSize
-	url = https://github.com/heyman333/react-native-responsive-fontSize.git
 [submodule "libraries/djchie/react-native-star-rating"]
 	path = libraries/djchie/react-native-star-rating
 	url = https://github.com/djchie/react-native-star-rating.git
@@ -1339,9 +1327,6 @@
 [submodule "libraries/callstackincubator/ai"]
 	path = libraries/callstackincubator/ai
 	url = https://github.com/callstackincubator/ai.git
-[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
-	path = libraries/moaazsidat/react-native-qrcode-scanner
-	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
 [submodule "libraries/SudoPlz/sp-react-native-in-app-updates"]
 	path = libraries/SudoPlz/sp-react-native-in-app-updates
 	url = https://github.com/SudoPlz/sp-react-native-in-app-updates.git
@@ -1357,3 +1342,6 @@
 [submodule "libraries/crazycodeboy/react-native-check-box"]
 	path = libraries/crazycodeboy/react-native-check-box
 	url = https://github.com/crazycodeboy/react-native-check-box.git
+[submodule "libraries/GeekyAnts/react-native-easy-grid"]
+	path = libraries/GeekyAnts/react-native-easy-grid
+	url = https://github.com/GeekyAnts/react-native-easy-grid.git
