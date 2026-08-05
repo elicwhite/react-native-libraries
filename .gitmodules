@@ -1300,21 +1300,12 @@
 [submodule "libraries/a7medev/react-native-ml-kit"]
 	path = libraries/a7medev/react-native-ml-kit
 	url = https://github.com/a7medev/react-native-ml-kit.git
-[submodule "libraries/benevbright/react-navigation-collapsible"]
-	path = libraries/benevbright/react-navigation-collapsible
-	url = https://github.com/benevbright/react-navigation-collapsible.git
 [submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
 	path = libraries/kirankalyan5/react-native-segmented-control-tab
 	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
 [submodule "libraries/callstackincubator/ai"]
 	path = libraries/callstackincubator/ai
 	url = https://github.com/callstackincubator/ai.git
-[submodule "libraries/SudoPlz/sp-react-native-in-app-updates"]
-	path = libraries/SudoPlz/sp-react-native-in-app-updates
-	url = https://github.com/SudoPlz/sp-react-native-in-app-updates.git
-[submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
-	path = libraries/souvik-ghosh/react-native-create-thumbnail
-	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
 [submodule "libraries/RepairShopr/react-native-signature-capture"]
 	path = libraries/RepairShopr/react-native-signature-capture
 	url = https://github.com/RepairShopr/react-native-signature-capture.git
@@ -1339,3 +1330,21 @@
 [submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
 	path = libraries/moaazsidat/react-native-qrcode-scanner
 	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
+[submodule "libraries/mybigday/llama.rn"]
+	path = libraries/mybigday/llama.rn
+	url = https://github.com/mybigday/llama.rn.git
+[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
+	path = libraries/watch-connectivity/react-native-watch-connectivity
+	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
+[submodule "libraries/testshallpass/react-native-dropdownalert"]
+	path = libraries/testshallpass/react-native-dropdownalert
+	url = https://github.com/testshallpass/react-native-dropdownalert.git
+[submodule "libraries/mientjan/react-native-markdown-renderer"]
+	path = libraries/mientjan/react-native-markdown-renderer
+	url = https://github.com/mientjan/react-native-markdown-renderer.git
+[submodule "libraries/maxs15/react-native-spinkit"]
+	path = libraries/maxs15/react-native-spinkit
+	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/chirag04/react-native-mail"]
+	path = libraries/chirag04/react-native-mail
+	url = https://github.com/chirag04/react-native-mail.git
