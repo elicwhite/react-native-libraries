@@ -1285,21 +1285,12 @@
 [submodule "libraries/RepairShopr/react-native-signature-capture"]
 	path = libraries/RepairShopr/react-native-signature-capture
 	url = https://github.com/RepairShopr/react-native-signature-capture.git
-[submodule "libraries/crazycodeboy/react-native-check-box"]
-	path = libraries/crazycodeboy/react-native-check-box
-	url = https://github.com/crazycodeboy/react-native-check-box.git
 [submodule "libraries/appandflow/react-native-ease"]
 	path = libraries/appandflow/react-native-ease
 	url = https://github.com/appandflow/react-native-ease.git
 [submodule "libraries/appandflow/react-native-safe-area-context"]
 	path = libraries/appandflow/react-native-safe-area-context
 	url = https://github.com/appandflow/react-native-safe-area-context.git
-[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
-	path = libraries/watch-connectivity/react-native-watch-connectivity
-	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/Doko-Demo-Doa/react-native-shake"]
-	path = libraries/Doko-Demo-Doa/react-native-shake
-	url = https://github.com/Doko-Demo-Doa/react-native-shake.git
 [submodule "libraries/SudoPlz/sp-react-native-in-app-updates"]
 	path = libraries/SudoPlz/sp-react-native-in-app-updates
 	url = https://github.com/SudoPlz/sp-react-native-in-app-updates.git
@@ -1327,6 +1318,27 @@
 [submodule "libraries/heyman333/react-native-responsive-fontSize"]
 	path = libraries/heyman333/react-native-responsive-fontSize
 	url = https://github.com/heyman333/react-native-responsive-fontSize.git
-[submodule "libraries/jeanregisser/react-native-slider"]
-	path = libraries/jeanregisser/react-native-slider
-	url = https://github.com/jeanregisser/react-native-slider.git
+[submodule "libraries/mybigday/llama.rn"]
+	path = libraries/mybigday/llama.rn
+	url = https://github.com/mybigday/llama.rn.git
+[submodule "libraries/assistant-ui/assistant-ui"]
+	path = libraries/assistant-ui/assistant-ui
+	url = https://github.com/assistant-ui/assistant-ui.git
+[submodule "libraries/wix/react-native-ui-lib"]
+	path = libraries/wix/react-native-ui-lib
+	url = https://github.com/wix/react-native-ui-lib.git
+[submodule "libraries/testshallpass/react-native-dropdownalert"]
+	path = libraries/testshallpass/react-native-dropdownalert
+	url = https://github.com/testshallpass/react-native-dropdownalert.git
+[submodule "libraries/maxs15/react-native-spinkit"]
+	path = libraries/maxs15/react-native-spinkit
+	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/stefalda/ReactNativeLocalization"]
+	path = libraries/stefalda/ReactNativeLocalization
+	url = https://github.com/stefalda/ReactNativeLocalization.git
+[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
+	path = libraries/kirankalyan5/react-native-segmented-control-tab
+	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
+[submodule "libraries/naoufal/react-native-touch-id"]
+	path = libraries/naoufal/react-native-touch-id
+	url = https://github.com/naoufal/react-native-touch-id.git
