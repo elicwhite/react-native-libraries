@@ -39,7 +39,10 @@ async function run() {
 
   // Add new submodules
   for (const repoName of uniqueRepoFullNames) {
-    if (!/^[a-zA-Z0-9_.-]+\/[a-zA-Z0-9_.-]+$/.test(repoName)) {
+    if (
+      typeof repoName !== 'string' ||
+      !/^(?!\.{1,2}\/)(?!.*\/\.{1,2}$)[a-zA-Z0-9_.-]+\/[a-zA-Z0-9_.-]+$/.test(repoName)
+    ) {
       console.warn('Skipping invalid repo name:', repoName);
       continue;
     }
