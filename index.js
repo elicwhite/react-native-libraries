@@ -39,6 +39,13 @@ async function run() {
 
   // Add new submodules
   for (const repoName of uniqueRepoFullNames) {
+    if (
+      typeof repoName !== 'string' ||
+      !/^(?!\.{1,2}\/)(?!.*\/\.{1,2}$)[a-zA-Z0-9_.-]+\/[a-zA-Z0-9_.-]+$/.test(repoName)
+    ) {
+      console.warn('Skipping invalid repo name:', repoName);
+      continue;
+    }
     if (!fs.existsSync(path.join('libraries', repoName))) {
       console.log('Adding git submodule for', repoName);
       await execFile('git', ['submodule', 'add', '--depth', '1', `https://github.com/${repoName}.git`, repoName], {
