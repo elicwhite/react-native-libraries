@@ -1297,9 +1297,6 @@
 [submodule "libraries/vercel-labs/json-render"]
 	path = libraries/vercel-labs/json-render
 	url = https://github.com/vercel-labs/json-render.git
-[submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
-	path = libraries/souvik-ghosh/react-native-create-thumbnail
-	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
 [submodule "libraries/mvayngrib/react-native-randombytes"]
 	path = libraries/mvayngrib/react-native-randombytes
 	url = https://github.com/mvayngrib/react-native-randombytes.git
@@ -1342,9 +1339,6 @@
 [submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
 	path = libraries/watch-connectivity/react-native-watch-connectivity
 	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/jeanregisser/react-native-slider"]
-	path = libraries/jeanregisser/react-native-slider
-	url = https://github.com/jeanregisser/react-native-slider.git
 [submodule "libraries/mrousavy/react-native-blurhash"]
 	path = libraries/mrousavy/react-native-blurhash
 	url = https://github.com/mrousavy/react-native-blurhash.git
@@ -1357,15 +1351,9 @@
 [submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
 	path = libraries/moaazsidat/react-native-qrcode-scanner
 	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
-[submodule "libraries/itsnubix/react-native-video-controls"]
-	path = libraries/itsnubix/react-native-video-controls
-	url = https://github.com/itsnubix/react-native-video-controls.git
-[submodule "libraries/wcandillon/react-native-webgpu"]
-	path = libraries/wcandillon/react-native-webgpu
-	url = https://github.com/wcandillon/react-native-webgpu.git
-[submodule "libraries/BugiDev/react-native-calendar-strip"]
-	path = libraries/BugiDev/react-native-calendar-strip
-	url = https://github.com/BugiDev/react-native-calendar-strip.git
 [submodule "libraries/crazycodeboy/react-native-check-box"]
 	path = libraries/crazycodeboy/react-native-check-box
 	url = https://github.com/crazycodeboy/react-native-check-box.git
+[submodule "libraries/Doko-Demo-Doa/react-native-shake"]
+	path = libraries/Doko-Demo-Doa/react-native-shake
+	url = https://github.com/Doko-Demo-Doa/react-native-shake.git
