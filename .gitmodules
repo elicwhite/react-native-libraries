@@ -1357,3 +1357,6 @@
 [submodule "libraries/Doko-Demo-Doa/react-native-shake"]
 	path = libraries/Doko-Demo-Doa/react-native-shake
 	url = https://github.com/Doko-Demo-Doa/react-native-shake.git
+[submodule "libraries/dabakovich/react-native-controlled-mentions"]
+	path = libraries/dabakovich/react-native-controlled-mentions
+	url = https://github.com/dabakovich/react-native-controlled-mentions.git
