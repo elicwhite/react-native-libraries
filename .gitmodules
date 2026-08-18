@@ -910,18 +910,12 @@
 [submodule "libraries/seniv/react-native-notifier"]
 	path = libraries/seniv/react-native-notifier
 	url = https://github.com/seniv/react-native-notifier.git
-[submodule "libraries/tinyplex/tinybase"]
-	path = libraries/tinyplex/tinybase
-	url = https://github.com/tinyplex/tinybase.git
 [submodule "libraries/Expensify/react-native-live-markdown"]
 	path = libraries/Expensify/react-native-live-markdown
 	url = https://github.com/Expensify/react-native-live-markdown.git
 [submodule "libraries/byteburgers/react-native-autocomplete-input"]
 	path = libraries/byteburgers/react-native-autocomplete-input
 	url = https://github.com/byteburgers/react-native-autocomplete-input.git
-[submodule "libraries/software-mansion/react-native-enriched-markdown"]
-	path = libraries/software-mansion/react-native-enriched-markdown
-	url = https://github.com/software-mansion/react-native-enriched-markdown.git
 [submodule "libraries/glepur/react-native-swipe-gestures"]
 	path = libraries/glepur/react-native-swipe-gestures
 	url = https://github.com/glepur/react-native-swipe-gestures.git
@@ -1255,9 +1249,6 @@
 [submodule "libraries/reactjs/react-timer-mixin"]
 	path = libraries/reactjs/react-timer-mixin
 	url = https://github.com/reactjs/react-timer-mixin.git
-[submodule "libraries/margelo/react-native-filament"]
-	path = libraries/margelo/react-native-filament
-	url = https://github.com/margelo/react-native-filament.git
 [submodule "libraries/mateusz1913/react-native-avoid-softinput"]
 	path = libraries/mateusz1913/react-native-avoid-softinput
 	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
@@ -1339,9 +1330,6 @@
 [submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
 	path = libraries/watch-connectivity/react-native-watch-connectivity
 	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/mrousavy/react-native-blurhash"]
-	path = libraries/mrousavy/react-native-blurhash
-	url = https://github.com/mrousavy/react-native-blurhash.git
 [submodule "libraries/GeekyAnts/react-native-easy-grid"]
 	path = libraries/GeekyAnts/react-native-easy-grid
 	url = https://github.com/GeekyAnts/react-native-easy-grid.git
@@ -1351,12 +1339,18 @@
 [submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
 	path = libraries/moaazsidat/react-native-qrcode-scanner
 	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
-[submodule "libraries/crazycodeboy/react-native-check-box"]
-	path = libraries/crazycodeboy/react-native-check-box
-	url = https://github.com/crazycodeboy/react-native-check-box.git
-[submodule "libraries/Doko-Demo-Doa/react-native-shake"]
-	path = libraries/Doko-Demo-Doa/react-native-shake
-	url = https://github.com/Doko-Demo-Doa/react-native-shake.git
-[submodule "libraries/dabakovich/react-native-controlled-mentions"]
-	path = libraries/dabakovich/react-native-controlled-mentions
-	url = https://github.com/dabakovich/react-native-controlled-mentions.git
+[submodule "libraries/software-mansion/enriched-markdown"]
+	path = libraries/software-mansion/enriched-markdown
+	url = https://github.com/software-mansion/enriched-markdown.git
+[submodule "libraries/wcandillon/react-native-webgpu"]
+	path = libraries/wcandillon/react-native-webgpu
+	url = https://github.com/wcandillon/react-native-webgpu.git
+[submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
+	path = libraries/souvik-ghosh/react-native-create-thumbnail
+	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
+[submodule "libraries/BugiDev/react-native-calendar-strip"]
+	path = libraries/BugiDev/react-native-calendar-strip
+	url = https://github.com/BugiDev/react-native-calendar-strip.git
+[submodule "libraries/jeanregisser/react-native-slider"]
+	path = libraries/jeanregisser/react-native-slider
+	url = https://github.com/jeanregisser/react-native-slider.git
