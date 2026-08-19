@@ -1354,3 +1354,24 @@
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
+[submodule "libraries/margelo/react-native-filament"]
+	path = libraries/margelo/react-native-filament
+	url = https://github.com/margelo/react-native-filament.git
+[submodule "libraries/mrousavy/react-native-blurhash"]
+	path = libraries/mrousavy/react-native-blurhash
+	url = https://github.com/mrousavy/react-native-blurhash.git
+[submodule "libraries/dabakovich/react-native-controlled-mentions"]
+	path = libraries/dabakovich/react-native-controlled-mentions
+	url = https://github.com/dabakovich/react-native-controlled-mentions.git
+[submodule "libraries/vitalets/react-native-extended-stylesheet"]
+	path = libraries/vitalets/react-native-extended-stylesheet
+	url = https://github.com/vitalets/react-native-extended-stylesheet.git
+[submodule "libraries/hectahertz/react-native-typography"]
+	path = libraries/hectahertz/react-native-typography
+	url = https://github.com/hectahertz/react-native-typography.git
+[submodule "libraries/vadimdemedes/tailwind-rn"]
+	path = libraries/vadimdemedes/tailwind-rn
+	url = https://github.com/vadimdemedes/tailwind-rn.git
+[submodule "libraries/itsnubix/react-native-video-controls"]
+	path = libraries/itsnubix/react-native-video-controls
+	url = https://github.com/itsnubix/react-native-video-controls.git
