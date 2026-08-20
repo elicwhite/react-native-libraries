@@ -1321,9 +1321,6 @@
 [submodule "libraries/stefalda/ReactNativeLocalization"]
 	path = libraries/stefalda/ReactNativeLocalization
 	url = https://github.com/stefalda/ReactNativeLocalization.git
-[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
-	path = libraries/kirankalyan5/react-native-segmented-control-tab
-	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
 [submodule "libraries/naoufal/react-native-touch-id"]
 	path = libraries/naoufal/react-native-touch-id
 	url = https://github.com/naoufal/react-native-touch-id.git
@@ -1360,9 +1357,6 @@
 [submodule "libraries/mrousavy/react-native-blurhash"]
 	path = libraries/mrousavy/react-native-blurhash
 	url = https://github.com/mrousavy/react-native-blurhash.git
-[submodule "libraries/dabakovich/react-native-controlled-mentions"]
-	path = libraries/dabakovich/react-native-controlled-mentions
-	url = https://github.com/dabakovich/react-native-controlled-mentions.git
 [submodule "libraries/vitalets/react-native-extended-stylesheet"]
 	path = libraries/vitalets/react-native-extended-stylesheet
 	url = https://github.com/vitalets/react-native-extended-stylesheet.git
@@ -1375,3 +1369,18 @@
 [submodule "libraries/itsnubix/react-native-video-controls"]
 	path = libraries/itsnubix/react-native-video-controls
 	url = https://github.com/itsnubix/react-native-video-controls.git
+[submodule "libraries/tinyplex/tinybase"]
+	path = libraries/tinyplex/tinybase
+	url = https://github.com/tinyplex/tinybase.git
+[submodule "libraries/Doko-Demo-Doa/react-native-shake"]
+	path = libraries/Doko-Demo-Doa/react-native-shake
+	url = https://github.com/Doko-Demo-Doa/react-native-shake.git
+[submodule "libraries/instantdb/instant"]
+	path = libraries/instantdb/instant
+	url = https://github.com/instantdb/instant.git
+[submodule "libraries/FortAwesome/react-native-fontawesome"]
+	path = libraries/FortAwesome/react-native-fontawesome
+	url = https://github.com/FortAwesome/react-native-fontawesome.git
+[submodule "libraries/birkir/react-native-carplay"]
+	path = libraries/birkir/react-native-carplay
+	url = https://github.com/birkir/react-native-carplay.git
