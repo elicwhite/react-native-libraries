@@ -922,9 +922,6 @@
 [submodule "libraries/JairajJangle/react-native-tree-multi-select"]
 	path = libraries/JairajJangle/react-native-tree-multi-select
 	url = https://github.com/JairajJangle/react-native-tree-multi-select.git
-[submodule "libraries/JairajJangle/fast-is-equal"]
-	path = libraries/JairajJangle/fast-is-equal
-	url = https://github.com/JairajJangle/fast-is-equal.git
 [submodule "libraries/hyodotdev/openiap"]
 	path = libraries/hyodotdev/openiap
 	url = https://github.com/hyodotdev/openiap.git
@@ -982,9 +979,6 @@
 [submodule "libraries/intercom/intercom-react-native"]
 	path = libraries/intercom/intercom-react-native
 	url = https://github.com/intercom/intercom-react-native.git
-[submodule "libraries/cantoo-scribe/pdf-lib"]
-	path = libraries/cantoo-scribe/pdf-lib
-	url = https://github.com/cantoo-scribe/pdf-lib.git
 [submodule "libraries/carloscuesta/react-native-error-boundary"]
 	path = libraries/carloscuesta/react-native-error-boundary
 	url = https://github.com/carloscuesta/react-native-error-boundary.git
@@ -1285,9 +1279,6 @@
 [submodule "libraries/vercel-labs/json-render"]
 	path = libraries/vercel-labs/json-render
 	url = https://github.com/vercel-labs/json-render.git
-[submodule "libraries/mvayngrib/react-native-randombytes"]
-	path = libraries/mvayngrib/react-native-randombytes
-	url = https://github.com/mvayngrib/react-native-randombytes.git
 [submodule "libraries/quidone/react-native-wheel-picker"]
 	path = libraries/quidone/react-native-wheel-picker
 	url = https://github.com/quidone/react-native-wheel-picker.git
@@ -1321,15 +1312,9 @@
 [submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
 	path = libraries/watch-connectivity/react-native-watch-connectivity
 	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/GeekyAnts/react-native-easy-grid"]
-	path = libraries/GeekyAnts/react-native-easy-grid
-	url = https://github.com/GeekyAnts/react-native-easy-grid.git
 [submodule "libraries/douglasjunior/react-native-keyboard-manager"]
 	path = libraries/douglasjunior/react-native-keyboard-manager
 	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
-[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
-	path = libraries/moaazsidat/react-native-qrcode-scanner
-	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
 [submodule "libraries/software-mansion/enriched-markdown"]
 	path = libraries/software-mansion/enriched-markdown
 	url = https://github.com/software-mansion/enriched-markdown.git
@@ -1348,9 +1333,6 @@
 [submodule "libraries/margelo/react-native-filament"]
 	path = libraries/margelo/react-native-filament
 	url = https://github.com/margelo/react-native-filament.git
-[submodule "libraries/Doko-Demo-Doa/react-native-shake"]
-	path = libraries/Doko-Demo-Doa/react-native-shake
-	url = https://github.com/Doko-Demo-Doa/react-native-shake.git
 [submodule "libraries/instantdb/instant"]
 	path = libraries/instantdb/instant
 	url = https://github.com/instantdb/instant.git
@@ -1360,9 +1342,9 @@
 [submodule "libraries/jhugman/uniffi-bindgen-react-native"]
 	path = libraries/jhugman/uniffi-bindgen-react-native
 	url = https://github.com/jhugman/uniffi-bindgen-react-native.git
-[submodule "libraries/tokkozhin/react-native-qrcode-styled"]
-	path = libraries/tokkozhin/react-native-qrcode-styled
-	url = https://github.com/tokkozhin/react-native-qrcode-styled.git
 [submodule "libraries/dabakovich/react-native-controlled-mentions"]
 	path = libraries/dabakovich/react-native-controlled-mentions
 	url = https://github.com/dabakovich/react-native-controlled-mentions.git
+[submodule "libraries/tinyplex/tinybase"]
+	path = libraries/tinyplex/tinybase
+	url = https://github.com/tinyplex/tinybase.git
