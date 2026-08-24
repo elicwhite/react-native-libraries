@@ -1354,27 +1354,15 @@
 [submodule "libraries/cantoo-scribe/pdf-lib"]
 	path = libraries/cantoo-scribe/pdf-lib
 	url = https://github.com/cantoo-scribe/pdf-lib.git
-[submodule "libraries/Doko-Demo-Doa/react-native-shake"]
-	path = libraries/Doko-Demo-Doa/react-native-shake
-	url = https://github.com/Doko-Demo-Doa/react-native-shake.git
-[submodule "libraries/software-mansion/react-native-executorch"]
-	path = libraries/software-mansion/react-native-executorch
-	url = https://github.com/software-mansion/react-native-executorch.git
 [submodule "libraries/FortAwesome/react-native-fontawesome"]
 	path = libraries/FortAwesome/react-native-fontawesome
 	url = https://github.com/FortAwesome/react-native-fontawesome.git
 [submodule "libraries/GeekyAnts/react-native-easy-grid"]
 	path = libraries/GeekyAnts/react-native-easy-grid
 	url = https://github.com/GeekyAnts/react-native-easy-grid.git
-[submodule "libraries/tokkozhin/react-native-qrcode-styled"]
-	path = libraries/tokkozhin/react-native-qrcode-styled
-	url = https://github.com/tokkozhin/react-native-qrcode-styled.git
 [submodule "libraries/mvayngrib/react-native-randombytes"]
 	path = libraries/mvayngrib/react-native-randombytes
 	url = https://github.com/mvayngrib/react-native-randombytes.git
-[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
-	path = libraries/moaazsidat/react-native-qrcode-scanner
-	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
 [submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
 	path = libraries/kirankalyan5/react-native-segmented-control-tab
 	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
