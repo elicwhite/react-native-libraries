@@ -496,9 +496,6 @@
 [submodule "libraries/n4kz/react-native-material-textfield"]
 	path = libraries/n4kz/react-native-material-textfield
 	url = https://github.com/n4kz/react-native-material-textfield.git
-[submodule "libraries/beefe/react-native-actionsheet"]
-	path = libraries/beefe/react-native-actionsheet
-	url = https://github.com/beefe/react-native-actionsheet.git
 [submodule "libraries/wix/react-native-notifications"]
 	path = libraries/wix/react-native-notifications
 	url = https://github.com/wix/react-native-notifications.git
@@ -961,9 +958,6 @@
 [submodule "libraries/mixpanel/mixpanel-react-native"]
 	path = libraries/mixpanel/mixpanel-react-native
 	url = https://github.com/mixpanel/mixpanel-react-native.git
-[submodule "libraries/JairajJangle/react-native-checkbox"]
-	path = libraries/JairajJangle/react-native-checkbox
-	url = https://github.com/JairajJangle/react-native-checkbox.git
 [submodule "libraries/livekit/components-js"]
 	path = libraries/livekit/components-js
 	url = https://github.com/livekit/components-js.git
@@ -1123,9 +1117,6 @@
 [submodule "libraries/nandorojo/sf-symbols-typescript"]
 	path = libraries/nandorojo/sf-symbols-typescript
 	url = https://github.com/nandorojo/sf-symbols-typescript.git
-[submodule "libraries/margelo/react-native-release-profiler"]
-	path = libraries/margelo/react-native-release-profiler
-	url = https://github.com/margelo/react-native-release-profiler.git
 [submodule "libraries/expo/expo-av"]
 	path = libraries/expo/expo-av
 	url = https://github.com/expo/expo-av.git
@@ -1342,9 +1333,6 @@
 [submodule "libraries/jhugman/uniffi-bindgen-react-native"]
 	path = libraries/jhugman/uniffi-bindgen-react-native
 	url = https://github.com/jhugman/uniffi-bindgen-react-native.git
-[submodule "libraries/dabakovich/react-native-controlled-mentions"]
-	path = libraries/dabakovich/react-native-controlled-mentions
-	url = https://github.com/dabakovich/react-native-controlled-mentions.git
 [submodule "libraries/tinyplex/tinybase"]
 	path = libraries/tinyplex/tinybase
 	url = https://github.com/tinyplex/tinybase.git
@@ -1369,3 +1357,6 @@
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
+[submodule "libraries/maxs15/react-native-spinkit"]
+	path = libraries/maxs15/react-native-spinkit
+	url = https://github.com/maxs15/react-native-spinkit.git
