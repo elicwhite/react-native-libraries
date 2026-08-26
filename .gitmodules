@@ -1324,12 +1324,6 @@
 [submodule "libraries/margelo/react-native-filament"]
 	path = libraries/margelo/react-native-filament
 	url = https://github.com/margelo/react-native-filament.git
-[submodule "libraries/instantdb/instant"]
-	path = libraries/instantdb/instant
-	url = https://github.com/instantdb/instant.git
-[submodule "libraries/birkir/react-native-carplay"]
-	path = libraries/birkir/react-native-carplay
-	url = https://github.com/birkir/react-native-carplay.git
 [submodule "libraries/jhugman/uniffi-bindgen-react-native"]
 	path = libraries/jhugman/uniffi-bindgen-react-native
 	url = https://github.com/jhugman/uniffi-bindgen-react-native.git
@@ -1360,3 +1354,21 @@
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/mrousavy/react-native-blurhash"]
+	path = libraries/mrousavy/react-native-blurhash
+	url = https://github.com/mrousavy/react-native-blurhash.git
+[submodule "libraries/margelo/react-native-release-profiler"]
+	path = libraries/margelo/react-native-release-profiler
+	url = https://github.com/margelo/react-native-release-profiler.git
+[submodule "libraries/tokkozhin/react-native-qrcode-styled"]
+	path = libraries/tokkozhin/react-native-qrcode-styled
+	url = https://github.com/tokkozhin/react-native-qrcode-styled.git
+[submodule "libraries/dabakovich/react-native-controlled-mentions"]
+	path = libraries/dabakovich/react-native-controlled-mentions
+	url = https://github.com/dabakovich/react-native-controlled-mentions.git
+[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
+	path = libraries/moaazsidat/react-native-qrcode-scanner
+	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
+[submodule "libraries/itsnubix/react-native-video-controls"]
+	path = libraries/itsnubix/react-native-video-controls
+	url = https://github.com/itsnubix/react-native-video-controls.git
