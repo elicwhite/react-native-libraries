@@ -1330,9 +1330,6 @@
 [submodule "libraries/tinyplex/tinybase"]
 	path = libraries/tinyplex/tinybase
 	url = https://github.com/tinyplex/tinybase.git
-[submodule "libraries/JairajJangle/fast-is-equal"]
-	path = libraries/JairajJangle/fast-is-equal
-	url = https://github.com/JairajJangle/fast-is-equal.git
 [submodule "libraries/cantoo-scribe/pdf-lib"]
 	path = libraries/cantoo-scribe/pdf-lib
 	url = https://github.com/cantoo-scribe/pdf-lib.git
@@ -1372,3 +1369,9 @@
 [submodule "libraries/itsnubix/react-native-video-controls"]
 	path = libraries/itsnubix/react-native-video-controls
 	url = https://github.com/itsnubix/react-native-video-controls.git
+[submodule "libraries/AlirezaHadjar/react-native-fast-confetti"]
+	path = libraries/AlirezaHadjar/react-native-fast-confetti
+	url = https://github.com/AlirezaHadjar/react-native-fast-confetti.git
+[submodule "libraries/Doko-Demo-Doa/react-native-shake"]
+	path = libraries/Doko-Demo-Doa/react-native-shake
+	url = https://github.com/Doko-Demo-Doa/react-native-shake.git
