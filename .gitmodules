@@ -1339,18 +1339,12 @@
 [submodule "libraries/GeekyAnts/react-native-easy-grid"]
 	path = libraries/GeekyAnts/react-native-easy-grid
 	url = https://github.com/GeekyAnts/react-native-easy-grid.git
-[submodule "libraries/mvayngrib/react-native-randombytes"]
-	path = libraries/mvayngrib/react-native-randombytes
-	url = https://github.com/mvayngrib/react-native-randombytes.git
 [submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
 	path = libraries/kirankalyan5/react-native-segmented-control-tab
 	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
-[submodule "libraries/maxs15/react-native-spinkit"]
-	path = libraries/maxs15/react-native-spinkit
-	url = https://github.com/maxs15/react-native-spinkit.git
 [submodule "libraries/mrousavy/react-native-blurhash"]
 	path = libraries/mrousavy/react-native-blurhash
 	url = https://github.com/mrousavy/react-native-blurhash.git
@@ -1363,15 +1357,12 @@
 [submodule "libraries/dabakovich/react-native-controlled-mentions"]
 	path = libraries/dabakovich/react-native-controlled-mentions
 	url = https://github.com/dabakovich/react-native-controlled-mentions.git
-[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
-	path = libraries/moaazsidat/react-native-qrcode-scanner
-	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
-[submodule "libraries/itsnubix/react-native-video-controls"]
-	path = libraries/itsnubix/react-native-video-controls
-	url = https://github.com/itsnubix/react-native-video-controls.git
 [submodule "libraries/AlirezaHadjar/react-native-fast-confetti"]
 	path = libraries/AlirezaHadjar/react-native-fast-confetti
 	url = https://github.com/AlirezaHadjar/react-native-fast-confetti.git
 [submodule "libraries/Doko-Demo-Doa/react-native-shake"]
 	path = libraries/Doko-Demo-Doa/react-native-shake
 	url = https://github.com/Doko-Demo-Doa/react-native-shake.git
+[submodule "libraries/beefe/react-native-actionsheet"]
+	path = libraries/beefe/react-native-actionsheet
+	url = https://github.com/beefe/react-native-actionsheet.git
