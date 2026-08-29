@@ -229,9 +229,6 @@
 [submodule "libraries/react-native-webrtc/react-native-webrtc"]
 	path = libraries/react-native-webrtc/react-native-webrtc
 	url = https://github.com/react-native-webrtc/react-native-webrtc.git
-[submodule "libraries/mrousavy/react-native-vision-camera"]
-	path = libraries/mrousavy/react-native-vision-camera
-	url = https://github.com/mrousavy/react-native-vision-camera.git
 [submodule "libraries/doublesymmetry/react-native-track-player"]
 	path = libraries/doublesymmetry/react-native-track-player
 	url = https://github.com/doublesymmetry/react-native-track-player.git
@@ -298,9 +295,6 @@
 [submodule "libraries/hossein-zare/react-native-dropdown-picker"]
 	path = libraries/hossein-zare/react-native-dropdown-picker
 	url = https://github.com/hossein-zare/react-native-dropdown-picker.git
-[submodule "libraries/mrousavy/react-native-mmkv"]
-	path = libraries/mrousavy/react-native-mmkv
-	url = https://github.com/mrousavy/react-native-mmkv.git
 [submodule "libraries/xcarpentier/react-native-country-picker-modal"]
 	path = libraries/xcarpentier/react-native-country-picker-modal
 	url = https://github.com/xcarpentier/react-native-country-picker-modal.git
@@ -622,9 +616,6 @@
 [submodule "libraries/LegendApp/legend-list"]
 	path = libraries/LegendApp/legend-list
 	url = https://github.com/LegendApp/legend-list.git
-[submodule "libraries/mrousavy/nitro"]
-	path = libraries/mrousavy/nitro
-	url = https://github.com/mrousavy/nitro.git
 [submodule "libraries/hectorm/otpauth"]
 	path = libraries/hectorm/otpauth
 	url = https://github.com/hectorm/otpauth.git
@@ -898,9 +889,6 @@
 [submodule "libraries/n4kz/react-native-indicators"]
 	path = libraries/n4kz/react-native-indicators
 	url = https://github.com/n4kz/react-native-indicators.git
-[submodule "libraries/mrousavy/react-native-fast-tflite"]
-	path = libraries/mrousavy/react-native-fast-tflite
-	url = https://github.com/mrousavy/react-native-fast-tflite.git
 [submodule "libraries/sunnylqm/react-native-storage"]
 	path = libraries/sunnylqm/react-native-storage
 	url = https://github.com/sunnylqm/react-native-storage.git
@@ -1312,15 +1300,9 @@
 [submodule "libraries/wcandillon/react-native-webgpu"]
 	path = libraries/wcandillon/react-native-webgpu
 	url = https://github.com/wcandillon/react-native-webgpu.git
-[submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
-	path = libraries/souvik-ghosh/react-native-create-thumbnail
-	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
 [submodule "libraries/BugiDev/react-native-calendar-strip"]
 	path = libraries/BugiDev/react-native-calendar-strip
 	url = https://github.com/BugiDev/react-native-calendar-strip.git
-[submodule "libraries/jeanregisser/react-native-slider"]
-	path = libraries/jeanregisser/react-native-slider
-	url = https://github.com/jeanregisser/react-native-slider.git
 [submodule "libraries/margelo/react-native-filament"]
 	path = libraries/margelo/react-native-filament
 	url = https://github.com/margelo/react-native-filament.git
@@ -1345,9 +1327,6 @@
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
-[submodule "libraries/mrousavy/react-native-blurhash"]
-	path = libraries/mrousavy/react-native-blurhash
-	url = https://github.com/mrousavy/react-native-blurhash.git
 [submodule "libraries/margelo/react-native-release-profiler"]
 	path = libraries/margelo/react-native-release-profiler
 	url = https://github.com/margelo/react-native-release-profiler.git
@@ -1366,3 +1345,18 @@
 [submodule "libraries/beefe/react-native-actionsheet"]
 	path = libraries/beefe/react-native-actionsheet
 	url = https://github.com/beefe/react-native-actionsheet.git
+[submodule "libraries/margelo/nitro"]
+	path = libraries/margelo/nitro
+	url = https://github.com/margelo/nitro.git
+[submodule "libraries/margelo/react-native-vision-camera"]
+	path = libraries/margelo/react-native-vision-camera
+	url = https://github.com/margelo/react-native-vision-camera.git
+[submodule "libraries/margelo/react-native-mmkv"]
+	path = libraries/margelo/react-native-mmkv
+	url = https://github.com/margelo/react-native-mmkv.git
+[submodule "libraries/margelo/react-native-fast-tflite"]
+	path = libraries/margelo/react-native-fast-tflite
+	url = https://github.com/margelo/react-native-fast-tflite.git
+[submodule "libraries/margelo/react-native-blurhash"]
+	path = libraries/margelo/react-native-blurhash
+	url = https://github.com/margelo/react-native-blurhash.git
