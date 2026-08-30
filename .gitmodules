@@ -904,9 +904,6 @@
 [submodule "libraries/glepur/react-native-swipe-gestures"]
 	path = libraries/glepur/react-native-swipe-gestures
 	url = https://github.com/glepur/react-native-swipe-gestures.git
-[submodule "libraries/JairajJangle/react-native-tree-multi-select"]
-	path = libraries/JairajJangle/react-native-tree-multi-select
-	url = https://github.com/JairajJangle/react-native-tree-multi-select.git
 [submodule "libraries/hyodotdev/openiap"]
 	path = libraries/hyodotdev/openiap
 	url = https://github.com/hyodotdev/openiap.git
@@ -1213,9 +1210,6 @@
 [submodule "libraries/react-native-art/art"]
 	path = libraries/react-native-art/art
 	url = https://github.com/react-native-art/art.git
-[submodule "libraries/expo/expo-asset-utils"]
-	path = libraries/expo/expo-asset-utils
-	url = https://github.com/expo/expo-asset-utils.git
 [submodule "libraries/garganurag893/react-native-phone-number-input"]
 	path = libraries/garganurag893/react-native-phone-number-input
 	url = https://github.com/garganurag893/react-native-phone-number-input.git
@@ -1231,9 +1225,6 @@
 [submodule "libraries/OneSignal/onesignal-expo-plugin"]
 	path = libraries/OneSignal/onesignal-expo-plugin
 	url = https://github.com/OneSignal/onesignal-expo-plugin.git
-[submodule "libraries/kevinresol/react-native-default-preference"]
-	path = libraries/kevinresol/react-native-default-preference
-	url = https://github.com/kevinresol/react-native-default-preference.git
 [submodule "libraries/emeraldsanto/react-native-encrypted-storage"]
 	path = libraries/emeraldsanto/react-native-encrypted-storage
 	url = https://github.com/emeraldsanto/react-native-encrypted-storage.git
@@ -1339,9 +1330,6 @@
 [submodule "libraries/AlirezaHadjar/react-native-fast-confetti"]
 	path = libraries/AlirezaHadjar/react-native-fast-confetti
 	url = https://github.com/AlirezaHadjar/react-native-fast-confetti.git
-[submodule "libraries/Doko-Demo-Doa/react-native-shake"]
-	path = libraries/Doko-Demo-Doa/react-native-shake
-	url = https://github.com/Doko-Demo-Doa/react-native-shake.git
 [submodule "libraries/beefe/react-native-actionsheet"]
 	path = libraries/beefe/react-native-actionsheet
 	url = https://github.com/beefe/react-native-actionsheet.git
@@ -1360,3 +1348,18 @@
 [submodule "libraries/margelo/react-native-blurhash"]
 	path = libraries/margelo/react-native-blurhash
 	url = https://github.com/margelo/react-native-blurhash.git
+[submodule "libraries/gmsgowtham/react-native-marked"]
+	path = libraries/gmsgowtham/react-native-marked
+	url = https://github.com/gmsgowtham/react-native-marked.git
+[submodule "libraries/software-mansion/react-native-executorch"]
+	path = libraries/software-mansion/react-native-executorch
+	url = https://github.com/software-mansion/react-native-executorch.git
+[submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
+	path = libraries/souvik-ghosh/react-native-create-thumbnail
+	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
+[submodule "libraries/maxs15/react-native-spinkit"]
+	path = libraries/maxs15/react-native-spinkit
+	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/phamfoo/react-native-easing-gradient"]
+	path = libraries/phamfoo/react-native-easing-gradient
+	url = https://github.com/phamfoo/react-native-easing-gradient.git
