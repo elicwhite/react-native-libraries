@@ -1348,9 +1348,6 @@
 [submodule "libraries/margelo/react-native-blurhash"]
 	path = libraries/margelo/react-native-blurhash
 	url = https://github.com/margelo/react-native-blurhash.git
-[submodule "libraries/gmsgowtham/react-native-marked"]
-	path = libraries/gmsgowtham/react-native-marked
-	url = https://github.com/gmsgowtham/react-native-marked.git
 [submodule "libraries/software-mansion/react-native-executorch"]
 	path = libraries/software-mansion/react-native-executorch
 	url = https://github.com/software-mansion/react-native-executorch.git
@@ -1360,6 +1357,15 @@
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
-[submodule "libraries/phamfoo/react-native-easing-gradient"]
-	path = libraries/phamfoo/react-native-easing-gradient
-	url = https://github.com/phamfoo/react-native-easing-gradient.git
+[submodule "libraries/JairajJangle/react-native-tree-multi-select"]
+	path = libraries/JairajJangle/react-native-tree-multi-select
+	url = https://github.com/JairajJangle/react-native-tree-multi-select.git
+[submodule "libraries/stripe/stripe-terminal-react-native"]
+	path = libraries/stripe/stripe-terminal-react-native
+	url = https://github.com/stripe/stripe-terminal-react-native.git
+[submodule "libraries/ant-design/ant-design-mobile-rn"]
+	path = libraries/ant-design/ant-design-mobile-rn
+	url = https://github.com/ant-design/ant-design-mobile-rn.git
+[submodule "libraries/expo/expo-asset-utils"]
+	path = libraries/expo/expo-asset-utils
+	url = https://github.com/expo/expo-asset-utils.git
