@@ -1282,9 +1282,6 @@
 [submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
 	path = libraries/watch-connectivity/react-native-watch-connectivity
 	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
-	path = libraries/douglasjunior/react-native-keyboard-manager
-	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
 [submodule "libraries/software-mansion/enriched-markdown"]
 	path = libraries/software-mansion/enriched-markdown
 	url = https://github.com/software-mansion/enriched-markdown.git
@@ -1324,9 +1321,6 @@
 [submodule "libraries/tokkozhin/react-native-qrcode-styled"]
 	path = libraries/tokkozhin/react-native-qrcode-styled
 	url = https://github.com/tokkozhin/react-native-qrcode-styled.git
-[submodule "libraries/dabakovich/react-native-controlled-mentions"]
-	path = libraries/dabakovich/react-native-controlled-mentions
-	url = https://github.com/dabakovich/react-native-controlled-mentions.git
 [submodule "libraries/AlirezaHadjar/react-native-fast-confetti"]
 	path = libraries/AlirezaHadjar/react-native-fast-confetti
 	url = https://github.com/AlirezaHadjar/react-native-fast-confetti.git
@@ -1360,12 +1354,18 @@
 [submodule "libraries/JairajJangle/react-native-tree-multi-select"]
 	path = libraries/JairajJangle/react-native-tree-multi-select
 	url = https://github.com/JairajJangle/react-native-tree-multi-select.git
-[submodule "libraries/stripe/stripe-terminal-react-native"]
-	path = libraries/stripe/stripe-terminal-react-native
-	url = https://github.com/stripe/stripe-terminal-react-native.git
 [submodule "libraries/ant-design/ant-design-mobile-rn"]
 	path = libraries/ant-design/ant-design-mobile-rn
 	url = https://github.com/ant-design/ant-design-mobile-rn.git
 [submodule "libraries/expo/expo-asset-utils"]
 	path = libraries/expo/expo-asset-utils
 	url = https://github.com/expo/expo-asset-utils.git
+[submodule "libraries/reactive/data-client"]
+	path = libraries/reactive/data-client
+	url = https://github.com/reactive/data-client.git
+[submodule "libraries/kevinresol/react-native-default-preference"]
+	path = libraries/kevinresol/react-native-default-preference
+	url = https://github.com/kevinresol/react-native-default-preference.git
+[submodule "libraries/hectahertz/react-native-typography"]
+	path = libraries/hectahertz/react-native-typography
+	url = https://github.com/hectahertz/react-native-typography.git
