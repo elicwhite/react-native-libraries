@@ -1351,9 +1351,6 @@
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
-[submodule "libraries/JairajJangle/react-native-tree-multi-select"]
-	path = libraries/JairajJangle/react-native-tree-multi-select
-	url = https://github.com/JairajJangle/react-native-tree-multi-select.git
 [submodule "libraries/ant-design/ant-design-mobile-rn"]
 	path = libraries/ant-design/ant-design-mobile-rn
 	url = https://github.com/ant-design/ant-design-mobile-rn.git
@@ -1363,9 +1360,6 @@
 [submodule "libraries/reactive/data-client"]
 	path = libraries/reactive/data-client
 	url = https://github.com/reactive/data-client.git
-[submodule "libraries/kevinresol/react-native-default-preference"]
-	path = libraries/kevinresol/react-native-default-preference
-	url = https://github.com/kevinresol/react-native-default-preference.git
 [submodule "libraries/hectahertz/react-native-typography"]
 	path = libraries/hectahertz/react-native-typography
 	url = https://github.com/hectahertz/react-native-typography.git
