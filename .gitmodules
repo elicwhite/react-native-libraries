@@ -1258,9 +1258,6 @@
 [submodule "libraries/mientjan/react-native-markdown-renderer"]
 	path = libraries/mientjan/react-native-markdown-renderer
 	url = https://github.com/mientjan/react-native-markdown-renderer.git
-[submodule "libraries/chirag04/react-native-mail"]
-	path = libraries/chirag04/react-native-mail
-	url = https://github.com/chirag04/react-native-mail.git
 [submodule "libraries/mybigday/llama.rn"]
 	path = libraries/mybigday/llama.rn
 	url = https://github.com/mybigday/llama.rn.git
@@ -1309,9 +1306,6 @@
 [submodule "libraries/GeekyAnts/react-native-easy-grid"]
 	path = libraries/GeekyAnts/react-native-easy-grid
 	url = https://github.com/GeekyAnts/react-native-easy-grid.git
-[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
-	path = libraries/kirankalyan5/react-native-segmented-control-tab
-	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
@@ -1372,12 +1366,3 @@
 [submodule "libraries/dabakovich/react-native-controlled-mentions"]
 	path = libraries/dabakovich/react-native-controlled-mentions
 	url = https://github.com/dabakovich/react-native-controlled-mentions.git
-[submodule "libraries/vadimdemedes/tailwind-rn"]
-	path = libraries/vadimdemedes/tailwind-rn
-	url = https://github.com/vadimdemedes/tailwind-rn.git
-[submodule "libraries/itsnubix/react-native-video-controls"]
-	path = libraries/itsnubix/react-native-video-controls
-	url = https://github.com/itsnubix/react-native-video-controls.git
-[submodule "libraries/jeanregisser/react-native-slider"]
-	path = libraries/jeanregisser/react-native-slider
-	url = https://github.com/jeanregisser/react-native-slider.git
