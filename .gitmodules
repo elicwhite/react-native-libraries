@@ -1165,9 +1165,6 @@
 [submodule "libraries/miblanchard/react-native-slider"]
 	path = libraries/miblanchard/react-native-slider
 	url = https://github.com/miblanchard/react-native-slider.git
-[submodule "libraries/teovillanueva/react-native-web-maps"]
-	path = libraries/teovillanueva/react-native-web-maps
-	url = https://github.com/teovillanueva/react-native-web-maps.git
 [submodule "libraries/joshswan/react-native-autolink"]
 	path = libraries/joshswan/react-native-autolink
 	url = https://github.com/joshswan/react-native-autolink.git
@@ -1348,9 +1345,6 @@
 [submodule "libraries/ant-design/ant-design-mobile-rn"]
 	path = libraries/ant-design/ant-design-mobile-rn
 	url = https://github.com/ant-design/ant-design-mobile-rn.git
-[submodule "libraries/expo/expo-asset-utils"]
-	path = libraries/expo/expo-asset-utils
-	url = https://github.com/expo/expo-asset-utils.git
 [submodule "libraries/reactive/data-client"]
 	path = libraries/reactive/data-client
 	url = https://github.com/reactive/data-client.git
