@@ -1087,9 +1087,6 @@
 [submodule "libraries/tschoffelen/react-native-email-link"]
 	path = libraries/tschoffelen/react-native-email-link
 	url = https://github.com/tschoffelen/react-native-email-link.git
-[submodule "libraries/Rapsssito/react-native-tcp-socket"]
-	path = libraries/Rapsssito/react-native-tcp-socket
-	url = https://github.com/Rapsssito/react-native-tcp-socket.git
 [submodule "libraries/kuraydev/react-native-bouncy-checkbox"]
 	path = libraries/kuraydev/react-native-bouncy-checkbox
 	url = https://github.com/kuraydev/react-native-bouncy-checkbox.git
@@ -1264,18 +1261,9 @@
 [submodule "libraries/wix/react-native-ui-lib"]
 	path = libraries/wix/react-native-ui-lib
 	url = https://github.com/wix/react-native-ui-lib.git
-[submodule "libraries/testshallpass/react-native-dropdownalert"]
-	path = libraries/testshallpass/react-native-dropdownalert
-	url = https://github.com/testshallpass/react-native-dropdownalert.git
 [submodule "libraries/stefalda/ReactNativeLocalization"]
 	path = libraries/stefalda/ReactNativeLocalization
 	url = https://github.com/stefalda/ReactNativeLocalization.git
-[submodule "libraries/naoufal/react-native-touch-id"]
-	path = libraries/naoufal/react-native-touch-id
-	url = https://github.com/naoufal/react-native-touch-id.git
-[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
-	path = libraries/watch-connectivity/react-native-watch-connectivity
-	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
 [submodule "libraries/software-mansion/enriched-markdown"]
 	path = libraries/software-mansion/enriched-markdown
 	url = https://github.com/software-mansion/enriched-markdown.git
@@ -1285,9 +1273,6 @@
 [submodule "libraries/BugiDev/react-native-calendar-strip"]
 	path = libraries/BugiDev/react-native-calendar-strip
 	url = https://github.com/BugiDev/react-native-calendar-strip.git
-[submodule "libraries/margelo/react-native-filament"]
-	path = libraries/margelo/react-native-filament
-	url = https://github.com/margelo/react-native-filament.git
 [submodule "libraries/jhugman/uniffi-bindgen-react-native"]
 	path = libraries/jhugman/uniffi-bindgen-react-native
 	url = https://github.com/jhugman/uniffi-bindgen-react-native.git
@@ -1330,9 +1315,6 @@
 [submodule "libraries/margelo/react-native-fast-tflite"]
 	path = libraries/margelo/react-native-fast-tflite
 	url = https://github.com/margelo/react-native-fast-tflite.git
-[submodule "libraries/margelo/react-native-blurhash"]
-	path = libraries/margelo/react-native-blurhash
-	url = https://github.com/margelo/react-native-blurhash.git
 [submodule "libraries/software-mansion/react-native-executorch"]
 	path = libraries/software-mansion/react-native-executorch
 	url = https://github.com/software-mansion/react-native-executorch.git
@@ -1342,9 +1324,6 @@
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
-[submodule "libraries/ant-design/ant-design-mobile-rn"]
-	path = libraries/ant-design/ant-design-mobile-rn
-	url = https://github.com/ant-design/ant-design-mobile-rn.git
 [submodule "libraries/reactive/data-client"]
 	path = libraries/reactive/data-client
 	url = https://github.com/reactive/data-client.git
@@ -1357,6 +1336,12 @@
 [submodule "libraries/instantdb/instant"]
 	path = libraries/instantdb/instant
 	url = https://github.com/instantdb/instant.git
-[submodule "libraries/dabakovich/react-native-controlled-mentions"]
-	path = libraries/dabakovich/react-native-controlled-mentions
-	url = https://github.com/dabakovich/react-native-controlled-mentions.git
+[submodule "libraries/react-native-text-input-mask/react-native-text-input-mask"]
+	path = libraries/react-native-text-input-mask/react-native-text-input-mask
+	url = https://github.com/react-native-text-input-mask/react-native-text-input-mask.git
+[submodule "libraries/teovillanueva/react-native-web-maps"]
+	path = libraries/teovillanueva/react-native-web-maps
+	url = https://github.com/teovillanueva/react-native-web-maps.git
+[submodule "libraries/expo/expo-asset-utils"]
+	path = libraries/expo/expo-asset-utils
+	url = https://github.com/expo/expo-asset-utils.git
