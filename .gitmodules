@@ -976,9 +976,6 @@
 [submodule "libraries/craftzdog/react-native-quick-base64"]
 	path = libraries/craftzdog/react-native-quick-base64
 	url = https://github.com/craftzdog/react-native-quick-base64.git
-[submodule "libraries/akinncar/react-native-mask-text"]
-	path = libraries/akinncar/react-native-mask-text
-	url = https://github.com/akinncar/react-native-mask-text.git
 [submodule "libraries/YanYuanFE/react-native-signature-canvas"]
 	path = libraries/YanYuanFE/react-native-signature-canvas
 	url = https://github.com/YanYuanFE/react-native-signature-canvas.git
@@ -1345,3 +1342,12 @@
 [submodule "libraries/expo/expo-asset-utils"]
 	path = libraries/expo/expo-asset-utils
 	url = https://github.com/expo/expo-asset-utils.git
+[submodule "libraries/Rapsssito/react-native-tcp-socket"]
+	path = libraries/Rapsssito/react-native-tcp-socket
+	url = https://github.com/Rapsssito/react-native-tcp-socket.git
+[submodule "libraries/dabakovich/react-native-controlled-mentions"]
+	path = libraries/dabakovich/react-native-controlled-mentions
+	url = https://github.com/dabakovich/react-native-controlled-mentions.git
+[submodule "libraries/chirag04/react-native-mail"]
+	path = libraries/chirag04/react-native-mail
+	url = https://github.com/chirag04/react-native-mail.git
