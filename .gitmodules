@@ -946,9 +946,6 @@
 [submodule "libraries/livekit/components-js"]
 	path = libraries/livekit/components-js
 	url = https://github.com/livekit/components-js.git
-[submodule "libraries/saseungmin/react-native-gesture-image-viewer"]
-	path = libraries/saseungmin/react-native-gesture-image-viewer
-	url = https://github.com/saseungmin/react-native-gesture-image-viewer.git
 [submodule "libraries/kingstinct/react-native-healthkit"]
 	path = libraries/kingstinct/react-native-healthkit
 	url = https://github.com/kingstinct/react-native-healthkit.git
@@ -1285,9 +1282,6 @@
 [submodule "libraries/GeekyAnts/react-native-easy-grid"]
 	path = libraries/GeekyAnts/react-native-easy-grid
 	url = https://github.com/GeekyAnts/react-native-easy-grid.git
-[submodule "libraries/stovmascript/react-native-version"]
-	path = libraries/stovmascript/react-native-version
-	url = https://github.com/stovmascript/react-native-version.git
 [submodule "libraries/margelo/react-native-release-profiler"]
 	path = libraries/margelo/react-native-release-profiler
 	url = https://github.com/margelo/react-native-release-profiler.git
@@ -1321,9 +1315,6 @@
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
-[submodule "libraries/reactive/data-client"]
-	path = libraries/reactive/data-client
-	url = https://github.com/reactive/data-client.git
 [submodule "libraries/hectahertz/react-native-typography"]
 	path = libraries/hectahertz/react-native-typography
 	url = https://github.com/hectahertz/react-native-typography.git
@@ -1351,3 +1342,6 @@
 [submodule "libraries/chirag04/react-native-mail"]
 	path = libraries/chirag04/react-native-mail
 	url = https://github.com/chirag04/react-native-mail.git
+[submodule "libraries/testshallpass/react-native-dropdownalert"]
+	path = libraries/testshallpass/react-native-dropdownalert
+	url = https://github.com/testshallpass/react-native-dropdownalert.git
