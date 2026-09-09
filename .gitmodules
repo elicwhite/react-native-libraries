@@ -1036,9 +1036,6 @@
 [submodule "libraries/AppsFlyerSDK/appsflyer-react-native-plugin"]
 	path = libraries/AppsFlyerSDK/appsflyer-react-native-plugin
 	url = https://github.com/AppsFlyerSDK/appsflyer-react-native-plugin.git
-[submodule "libraries/openspacelabs/react-native-zoomable-view"]
-	path = libraries/openspacelabs/react-native-zoomable-view
-	url = https://github.com/openspacelabs/react-native-zoomable-view.git
 [submodule "libraries/BranchMetrics/react-native-branch-deep-linking-attribution"]
 	path = libraries/BranchMetrics/react-native-branch-deep-linking-attribution
 	url = https://github.com/BranchMetrics/react-native-branch-deep-linking-attribution.git
@@ -1315,12 +1312,6 @@
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
-[submodule "libraries/hectahertz/react-native-typography"]
-	path = libraries/hectahertz/react-native-typography
-	url = https://github.com/hectahertz/react-native-typography.git
-[submodule "libraries/stripe/stripe-terminal-react-native"]
-	path = libraries/stripe/stripe-terminal-react-native
-	url = https://github.com/stripe/stripe-terminal-react-native.git
 [submodule "libraries/instantdb/instant"]
 	path = libraries/instantdb/instant
 	url = https://github.com/instantdb/instant.git
@@ -1330,9 +1321,6 @@
 [submodule "libraries/teovillanueva/react-native-web-maps"]
 	path = libraries/teovillanueva/react-native-web-maps
 	url = https://github.com/teovillanueva/react-native-web-maps.git
-[submodule "libraries/expo/expo-asset-utils"]
-	path = libraries/expo/expo-asset-utils
-	url = https://github.com/expo/expo-asset-utils.git
 [submodule "libraries/Rapsssito/react-native-tcp-socket"]
 	path = libraries/Rapsssito/react-native-tcp-socket
 	url = https://github.com/Rapsssito/react-native-tcp-socket.git
