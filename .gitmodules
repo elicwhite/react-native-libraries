@@ -856,9 +856,6 @@
 [submodule "libraries/oblador/react-native-image-progress"]
 	path = libraries/oblador/react-native-image-progress
 	url = https://github.com/oblador/react-native-image-progress.git
-[submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
-	path = libraries/ladjs/react-native-loading-spinner-overlay
-	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
 [submodule "libraries/margelo/react-native-graph"]
 	path = libraries/margelo/react-native-graph
 	url = https://github.com/margelo/react-native-graph.git
@@ -868,9 +865,6 @@
 [submodule "libraries/eds2002/react-native-screen-transitions"]
 	path = libraries/eds2002/react-native-screen-transitions
 	url = https://github.com/eds2002/react-native-screen-transitions.git
-[submodule "libraries/jordanbyron/react-native-quick-actions"]
-	path = libraries/jordanbyron/react-native-quick-actions
-	url = https://github.com/jordanbyron/react-native-quick-actions.git
 [submodule "libraries/react/metro"]
 	path = libraries/react/metro
 	url = https://github.com/react/metro.git
@@ -883,15 +877,9 @@
 [submodule "libraries/chart-kit/react-native-chart-kit"]
 	path = libraries/chart-kit/react-native-chart-kit
 	url = https://github.com/chart-kit/react-native-chart-kit.git
-[submodule "libraries/cooperka/react-native-snackbar"]
-	path = libraries/cooperka/react-native-snackbar
-	url = https://github.com/cooperka/react-native-snackbar.git
 [submodule "libraries/n4kz/react-native-indicators"]
 	path = libraries/n4kz/react-native-indicators
 	url = https://github.com/n4kz/react-native-indicators.git
-[submodule "libraries/sunnylqm/react-native-storage"]
-	path = libraries/sunnylqm/react-native-storage
-	url = https://github.com/sunnylqm/react-native-storage.git
 [submodule "libraries/Expensify/react-native-live-markdown"]
 	path = libraries/Expensify/react-native-live-markdown
 	url = https://github.com/Expensify/react-native-live-markdown.git
@@ -1123,9 +1111,6 @@
 [submodule "libraries/react-native-checkbox/react-native-checkbox"]
 	path = libraries/react-native-checkbox/react-native-checkbox
 	url = https://github.com/react-native-checkbox/react-native-checkbox.git
-[submodule "libraries/vydimitrov/react-countdown-circle-timer"]
-	path = libraries/vydimitrov/react-countdown-circle-timer
-	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
 [submodule "libraries/mdevils/html-entities"]
 	path = libraries/mdevils/html-entities
 	url = https://github.com/mdevils/html-entities.git
@@ -1249,18 +1234,12 @@
 [submodule "libraries/wix/react-native-ui-lib"]
 	path = libraries/wix/react-native-ui-lib
 	url = https://github.com/wix/react-native-ui-lib.git
-[submodule "libraries/stefalda/ReactNativeLocalization"]
-	path = libraries/stefalda/ReactNativeLocalization
-	url = https://github.com/stefalda/ReactNativeLocalization.git
 [submodule "libraries/software-mansion/enriched-markdown"]
 	path = libraries/software-mansion/enriched-markdown
 	url = https://github.com/software-mansion/enriched-markdown.git
 [submodule "libraries/wcandillon/react-native-webgpu"]
 	path = libraries/wcandillon/react-native-webgpu
 	url = https://github.com/wcandillon/react-native-webgpu.git
-[submodule "libraries/BugiDev/react-native-calendar-strip"]
-	path = libraries/BugiDev/react-native-calendar-strip
-	url = https://github.com/BugiDev/react-native-calendar-strip.git
 [submodule "libraries/jhugman/uniffi-bindgen-react-native"]
 	path = libraries/jhugman/uniffi-bindgen-react-native
 	url = https://github.com/jhugman/uniffi-bindgen-react-native.git
@@ -1273,9 +1252,6 @@
 [submodule "libraries/FortAwesome/react-native-fontawesome"]
 	path = libraries/FortAwesome/react-native-fontawesome
 	url = https://github.com/FortAwesome/react-native-fontawesome.git
-[submodule "libraries/GeekyAnts/react-native-easy-grid"]
-	path = libraries/GeekyAnts/react-native-easy-grid
-	url = https://github.com/GeekyAnts/react-native-easy-grid.git
 [submodule "libraries/margelo/react-native-release-profiler"]
 	path = libraries/margelo/react-native-release-profiler
 	url = https://github.com/margelo/react-native-release-profiler.git
@@ -1321,12 +1297,15 @@
 [submodule "libraries/dabakovich/react-native-controlled-mentions"]
 	path = libraries/dabakovich/react-native-controlled-mentions
 	url = https://github.com/dabakovich/react-native-controlled-mentions.git
-[submodule "libraries/chirag04/react-native-mail"]
-	path = libraries/chirag04/react-native-mail
-	url = https://github.com/chirag04/react-native-mail.git
-[submodule "libraries/testshallpass/react-native-dropdownalert"]
-	path = libraries/testshallpass/react-native-dropdownalert
-	url = https://github.com/testshallpass/react-native-dropdownalert.git
 [submodule "libraries/openspacelabs/react-native-zoomable-view"]
 	path = libraries/openspacelabs/react-native-zoomable-view
 	url = https://github.com/openspacelabs/react-native-zoomable-view.git
+[submodule "libraries/amplitude/Amplitude-TypeScript"]
+	path = libraries/amplitude/Amplitude-TypeScript
+	url = https://github.com/amplitude/Amplitude-TypeScript.git
+[submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
+	path = libraries/souvik-ghosh/react-native-create-thumbnail
+	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
+[submodule "libraries/stovmascript/react-native-version"]
+	path = libraries/stovmascript/react-native-version
+	url = https://github.com/stovmascript/react-native-version.git
