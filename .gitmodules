@@ -1117,9 +1117,6 @@
 [submodule "libraries/SteffeyDev/react-native-popover-view"]
 	path = libraries/SteffeyDev/react-native-popover-view
 	url = https://github.com/SteffeyDev/react-native-popover-view.git
-[submodule "libraries/expo/expo-2d-context"]
-	path = libraries/expo/expo-2d-context
-	url = https://github.com/expo/expo-2d-context.git
 [submodule "libraries/likashefqet/react-native-image-zoom"]
 	path = libraries/likashefqet/react-native-image-zoom
 	url = https://github.com/likashefqet/react-native-image-zoom.git
@@ -1282,9 +1279,6 @@
 [submodule "libraries/dabakovich/react-native-controlled-mentions"]
 	path = libraries/dabakovich/react-native-controlled-mentions
 	url = https://github.com/dabakovich/react-native-controlled-mentions.git
-[submodule "libraries/openspacelabs/react-native-zoomable-view"]
-	path = libraries/openspacelabs/react-native-zoomable-view
-	url = https://github.com/openspacelabs/react-native-zoomable-view.git
 [submodule "libraries/amplitude/Amplitude-TypeScript"]
 	path = libraries/amplitude/Amplitude-TypeScript
 	url = https://github.com/amplitude/Amplitude-TypeScript.git
@@ -1309,3 +1303,9 @@
 [submodule "libraries/jordanbyron/react-native-quick-actions"]
 	path = libraries/jordanbyron/react-native-quick-actions
 	url = https://github.com/jordanbyron/react-native-quick-actions.git
+[submodule "libraries/stripe/stripe-terminal-react-native"]
+	path = libraries/stripe/stripe-terminal-react-native
+	url = https://github.com/stripe/stripe-terminal-react-native.git
+[submodule "libraries/beefe/react-native-actionsheet"]
+	path = libraries/beefe/react-native-actionsheet
+	url = https://github.com/beefe/react-native-actionsheet.git
