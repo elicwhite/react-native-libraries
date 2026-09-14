@@ -880,12 +880,6 @@
 [submodule "libraries/n4kz/react-native-indicators"]
 	path = libraries/n4kz/react-native-indicators
 	url = https://github.com/n4kz/react-native-indicators.git
-[submodule "libraries/Expensify/react-native-live-markdown"]
-	path = libraries/Expensify/react-native-live-markdown
-	url = https://github.com/Expensify/react-native-live-markdown.git
-[submodule "libraries/byteburgers/react-native-autocomplete-input"]
-	path = libraries/byteburgers/react-native-autocomplete-input
-	url = https://github.com/byteburgers/react-native-autocomplete-input.git
 [submodule "libraries/glepur/react-native-swipe-gestures"]
 	path = libraries/glepur/react-native-swipe-gestures
 	url = https://github.com/glepur/react-native-swipe-gestures.git
@@ -1171,9 +1165,6 @@
 [submodule "libraries/vinzscam/react-native-file-viewer"]
 	path = libraries/vinzscam/react-native-file-viewer
 	url = https://github.com/vinzscam/react-native-file-viewer.git
-[submodule "libraries/react-native-art/art"]
-	path = libraries/react-native-art/art
-	url = https://github.com/react-native-art/art.git
 [submodule "libraries/garganurag893/react-native-phone-number-input"]
 	path = libraries/garganurag893/react-native-phone-number-input
 	url = https://github.com/garganurag893/react-native-phone-number-input.git
@@ -1276,21 +1267,12 @@
 [submodule "libraries/Rapsssito/react-native-tcp-socket"]
 	path = libraries/Rapsssito/react-native-tcp-socket
 	url = https://github.com/Rapsssito/react-native-tcp-socket.git
-[submodule "libraries/dabakovich/react-native-controlled-mentions"]
-	path = libraries/dabakovich/react-native-controlled-mentions
-	url = https://github.com/dabakovich/react-native-controlled-mentions.git
 [submodule "libraries/amplitude/Amplitude-TypeScript"]
 	path = libraries/amplitude/Amplitude-TypeScript
 	url = https://github.com/amplitude/Amplitude-TypeScript.git
-[submodule "libraries/stovmascript/react-native-version"]
-	path = libraries/stovmascript/react-native-version
-	url = https://github.com/stovmascript/react-native-version.git
 [submodule "libraries/vydimitrov/react-countdown-circle-timer"]
 	path = libraries/vydimitrov/react-countdown-circle-timer
 	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
-[submodule "libraries/testshallpass/react-native-dropdownalert"]
-	path = libraries/testshallpass/react-native-dropdownalert
-	url = https://github.com/testshallpass/react-native-dropdownalert.git
 [submodule "libraries/cooperka/react-native-snackbar"]
 	path = libraries/cooperka/react-native-snackbar
 	url = https://github.com/cooperka/react-native-snackbar.git
@@ -1303,9 +1285,6 @@
 [submodule "libraries/jordanbyron/react-native-quick-actions"]
 	path = libraries/jordanbyron/react-native-quick-actions
 	url = https://github.com/jordanbyron/react-native-quick-actions.git
-[submodule "libraries/stripe/stripe-terminal-react-native"]
-	path = libraries/stripe/stripe-terminal-react-native
-	url = https://github.com/stripe/stripe-terminal-react-native.git
 [submodule "libraries/beefe/react-native-actionsheet"]
 	path = libraries/beefe/react-native-actionsheet
 	url = https://github.com/beefe/react-native-actionsheet.git
