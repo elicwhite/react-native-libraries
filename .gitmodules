@@ -424,9 +424,6 @@
 [submodule "libraries/zmxv/react-native-sound"]
 	path = libraries/zmxv/react-native-sound
 	url = https://github.com/zmxv/react-native-sound.git
-[submodule "libraries/react-native-camera/react-native-camera"]
-	path = libraries/react-native-camera/react-native-camera
-	url = https://github.com/react-native-camera/react-native-camera.git
 [submodule "libraries/zo0r/react-native-push-notification"]
 	path = libraries/zo0r/react-native-push-notification
 	url = https://github.com/zo0r/react-native-push-notification.git
@@ -1009,9 +1006,6 @@
 [submodule "libraries/nandorojo/galeria"]
 	path = libraries/nandorojo/galeria
 	url = https://github.com/nandorojo/galeria.git
-[submodule "libraries/callstackincubator/voltra"]
-	path = libraries/callstackincubator/voltra
-	url = https://github.com/callstackincubator/voltra.git
 [submodule "libraries/AppsFlyerSDK/appsflyer-react-native-plugin"]
 	path = libraries/AppsFlyerSDK/appsflyer-react-native-plugin
 	url = https://github.com/AppsFlyerSDK/appsflyer-react-native-plugin.git
@@ -1288,3 +1282,48 @@
 [submodule "libraries/beefe/react-native-actionsheet"]
 	path = libraries/beefe/react-native-actionsheet
 	url = https://github.com/beefe/react-native-actionsheet.git
+[submodule "libraries/Expensify/react-native-live-markdown"]
+	path = libraries/Expensify/react-native-live-markdown
+	url = https://github.com/Expensify/react-native-live-markdown.git
+[submodule "libraries/mientjan/react-native-markdown-renderer"]
+	path = libraries/mientjan/react-native-markdown-renderer
+	url = https://github.com/mientjan/react-native-markdown-renderer.git
+[submodule "libraries/reactive/data-client"]
+	path = libraries/reactive/data-client
+	url = https://github.com/reactive/data-client.git
+[submodule "libraries/openspacelabs/react-native-zoomable-view"]
+	path = libraries/openspacelabs/react-native-zoomable-view
+	url = https://github.com/openspacelabs/react-native-zoomable-view.git
+[submodule "libraries/sunnylqm/react-native-storage"]
+	path = libraries/sunnylqm/react-native-storage
+	url = https://github.com/sunnylqm/react-native-storage.git
+[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
+	path = libraries/watch-connectivity/react-native-watch-connectivity
+	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
+[submodule "libraries/testshallpass/react-native-dropdownalert"]
+	path = libraries/testshallpass/react-native-dropdownalert
+	url = https://github.com/testshallpass/react-native-dropdownalert.git
+[submodule "libraries/byteburgers/react-native-autocomplete-input"]
+	path = libraries/byteburgers/react-native-autocomplete-input
+	url = https://github.com/byteburgers/react-native-autocomplete-input.git
+[submodule "libraries/margelo/react-native-blurhash"]
+	path = libraries/margelo/react-native-blurhash
+	url = https://github.com/margelo/react-native-blurhash.git
+[submodule "libraries/GeekyAnts/react-native-easy-grid"]
+	path = libraries/GeekyAnts/react-native-easy-grid
+	url = https://github.com/GeekyAnts/react-native-easy-grid.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/vadimdemedes/tailwind-rn"]
+	path = libraries/vadimdemedes/tailwind-rn
+	url = https://github.com/vadimdemedes/tailwind-rn.git
+[submodule "libraries/stefalda/ReactNativeLocalization"]
+	path = libraries/stefalda/ReactNativeLocalization
+	url = https://github.com/stefalda/ReactNativeLocalization.git
+[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
+	path = libraries/moaazsidat/react-native-qrcode-scanner
+	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
+[submodule "libraries/naoufal/react-native-touch-id"]
+	path = libraries/naoufal/react-native-touch-id
+	url = https://github.com/naoufal/react-native-touch-id.git
