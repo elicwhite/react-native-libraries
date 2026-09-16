@@ -1327,3 +1327,21 @@
 [submodule "libraries/naoufal/react-native-touch-id"]
 	path = libraries/naoufal/react-native-touch-id
 	url = https://github.com/naoufal/react-native-touch-id.git
+[submodule "libraries/saseungmin/react-native-gesture-image-viewer"]
+	path = libraries/saseungmin/react-native-gesture-image-viewer
+	url = https://github.com/saseungmin/react-native-gesture-image-viewer.git
+[submodule "libraries/stripe/stripe-terminal-react-native"]
+	path = libraries/stripe/stripe-terminal-react-native
+	url = https://github.com/stripe/stripe-terminal-react-native.git
+[submodule "libraries/expo/expo-2d-context"]
+	path = libraries/expo/expo-2d-context
+	url = https://github.com/expo/expo-2d-context.git
+[submodule "libraries/teovillanueva/react-native-web-maps"]
+	path = libraries/teovillanueva/react-native-web-maps
+	url = https://github.com/teovillanueva/react-native-web-maps.git
+[submodule "libraries/ecklf/react-native-heroicons"]
+	path = libraries/ecklf/react-native-heroicons
+	url = https://github.com/ecklf/react-native-heroicons.git
+[submodule "libraries/itsnubix/react-native-video-controls"]
+	path = libraries/itsnubix/react-native-video-controls
+	url = https://github.com/itsnubix/react-native-video-controls.git
