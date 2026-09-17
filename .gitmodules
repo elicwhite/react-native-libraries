@@ -1327,9 +1327,6 @@
 [submodule "libraries/naoufal/react-native-touch-id"]
 	path = libraries/naoufal/react-native-touch-id
 	url = https://github.com/naoufal/react-native-touch-id.git
-[submodule "libraries/saseungmin/react-native-gesture-image-viewer"]
-	path = libraries/saseungmin/react-native-gesture-image-viewer
-	url = https://github.com/saseungmin/react-native-gesture-image-viewer.git
 [submodule "libraries/stripe/stripe-terminal-react-native"]
 	path = libraries/stripe/stripe-terminal-react-native
 	url = https://github.com/stripe/stripe-terminal-react-native.git
@@ -1345,3 +1342,21 @@
 [submodule "libraries/itsnubix/react-native-video-controls"]
 	path = libraries/itsnubix/react-native-video-controls
 	url = https://github.com/itsnubix/react-native-video-controls.git
+[submodule "libraries/callstackincubator/voltra"]
+	path = libraries/callstackincubator/voltra
+	url = https://github.com/callstackincubator/voltra.git
+[submodule "libraries/vydimitrov/use-count-up"]
+	path = libraries/vydimitrov/use-count-up
+	url = https://github.com/vydimitrov/use-count-up.git
+[submodule "libraries/dabakovich/react-native-controlled-mentions"]
+	path = libraries/dabakovich/react-native-controlled-mentions
+	url = https://github.com/dabakovich/react-native-controlled-mentions.git
+[submodule "libraries/rgommezz/react-native-offline"]
+	path = libraries/rgommezz/react-native-offline
+	url = https://github.com/rgommezz/react-native-offline.git
+[submodule "libraries/react-native-camera/react-native-camera"]
+	path = libraries/react-native-camera/react-native-camera
+	url = https://github.com/react-native-camera/react-native-camera.git
+[submodule "libraries/react-native-art/art"]
+	path = libraries/react-native-art/art
+	url = https://github.com/react-native-art/art.git
