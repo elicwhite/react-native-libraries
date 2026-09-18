@@ -1339,9 +1339,6 @@
 [submodule "libraries/ecklf/react-native-heroicons"]
 	path = libraries/ecklf/react-native-heroicons
 	url = https://github.com/ecklf/react-native-heroicons.git
-[submodule "libraries/itsnubix/react-native-video-controls"]
-	path = libraries/itsnubix/react-native-video-controls
-	url = https://github.com/itsnubix/react-native-video-controls.git
 [submodule "libraries/callstackincubator/voltra"]
 	path = libraries/callstackincubator/voltra
 	url = https://github.com/callstackincubator/voltra.git
@@ -1351,12 +1348,15 @@
 [submodule "libraries/dabakovich/react-native-controlled-mentions"]
 	path = libraries/dabakovich/react-native-controlled-mentions
 	url = https://github.com/dabakovich/react-native-controlled-mentions.git
-[submodule "libraries/rgommezz/react-native-offline"]
-	path = libraries/rgommezz/react-native-offline
-	url = https://github.com/rgommezz/react-native-offline.git
 [submodule "libraries/react-native-camera/react-native-camera"]
 	path = libraries/react-native-camera/react-native-camera
 	url = https://github.com/react-native-camera/react-native-camera.git
 [submodule "libraries/react-native-art/art"]
 	path = libraries/react-native-art/art
 	url = https://github.com/react-native-art/art.git
+[submodule "libraries/rive-app/rive-nitro-react-native"]
+	path = libraries/rive-app/rive-nitro-react-native
+	url = https://github.com/rive-app/rive-nitro-react-native.git
+[submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
+	path = libraries/souvik-ghosh/react-native-create-thumbnail
+	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
