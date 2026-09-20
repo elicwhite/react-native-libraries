@@ -1180,9 +1180,6 @@
 [submodule "libraries/a7medev/react-native-ml-kit"]
 	path = libraries/a7medev/react-native-ml-kit
 	url = https://github.com/a7medev/react-native-ml-kit.git
-[submodule "libraries/callstackincubator/ai"]
-	path = libraries/callstackincubator/ai
-	url = https://github.com/callstackincubator/ai.git
 [submodule "libraries/RepairShopr/react-native-signature-capture"]
 	path = libraries/RepairShopr/react-native-signature-capture
 	url = https://github.com/RepairShopr/react-native-signature-capture.git
@@ -1321,18 +1318,12 @@
 [submodule "libraries/stefalda/ReactNativeLocalization"]
 	path = libraries/stefalda/ReactNativeLocalization
 	url = https://github.com/stefalda/ReactNativeLocalization.git
-[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
-	path = libraries/moaazsidat/react-native-qrcode-scanner
-	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
 [submodule "libraries/naoufal/react-native-touch-id"]
 	path = libraries/naoufal/react-native-touch-id
 	url = https://github.com/naoufal/react-native-touch-id.git
 [submodule "libraries/stripe/stripe-terminal-react-native"]
 	path = libraries/stripe/stripe-terminal-react-native
 	url = https://github.com/stripe/stripe-terminal-react-native.git
-[submodule "libraries/expo/expo-2d-context"]
-	path = libraries/expo/expo-2d-context
-	url = https://github.com/expo/expo-2d-context.git
 [submodule "libraries/teovillanueva/react-native-web-maps"]
 	path = libraries/teovillanueva/react-native-web-maps
 	url = https://github.com/teovillanueva/react-native-web-maps.git
@@ -1357,3 +1348,9 @@
 [submodule "libraries/expo/expo-asset-utils"]
 	path = libraries/expo/expo-asset-utils
 	url = https://github.com/expo/expo-asset-utils.git
+[submodule "libraries/rive-app/rive-nitro-react-native"]
+	path = libraries/rive-app/rive-nitro-react-native
+	url = https://github.com/rive-app/rive-nitro-react-native.git
+[submodule "libraries/margelo/react-native-filament"]
+	path = libraries/margelo/react-native-filament
+	url = https://github.com/margelo/react-native-filament.git
