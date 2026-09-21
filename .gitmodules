@@ -1123,9 +1123,6 @@
 [submodule "libraries/joshswan/react-native-autolink"]
 	path = libraries/joshswan/react-native-autolink
 	url = https://github.com/joshswan/react-native-autolink.git
-[submodule "libraries/arnnis/react-native-toast-notifications"]
-	path = libraries/arnnis/react-native-toast-notifications
-	url = https://github.com/arnnis/react-native-toast-notifications.git
 [submodule "libraries/callstack/react-theme-provider"]
 	path = libraries/callstack/react-theme-provider
 	url = https://github.com/callstack/react-theme-provider.git
@@ -1147,9 +1144,6 @@
 [submodule "libraries/VincentCATILLON/react-native-confetti-cannon"]
 	path = libraries/VincentCATILLON/react-native-confetti-cannon
 	url = https://github.com/VincentCATILLON/react-native-confetti-cannon.git
-[submodule "libraries/robhogan/react-native-securerandom"]
-	path = libraries/robhogan/react-native-securerandom
-	url = https://github.com/robhogan/react-native-securerandom.git
 [submodule "libraries/gorhom/react-native-portal"]
 	path = libraries/gorhom/react-native-portal
 	url = https://github.com/gorhom/react-native-portal.git
@@ -1300,9 +1294,6 @@
 [submodule "libraries/testshallpass/react-native-dropdownalert"]
 	path = libraries/testshallpass/react-native-dropdownalert
 	url = https://github.com/testshallpass/react-native-dropdownalert.git
-[submodule "libraries/byteburgers/react-native-autocomplete-input"]
-	path = libraries/byteburgers/react-native-autocomplete-input
-	url = https://github.com/byteburgers/react-native-autocomplete-input.git
 [submodule "libraries/margelo/react-native-blurhash"]
 	path = libraries/margelo/react-native-blurhash
 	url = https://github.com/margelo/react-native-blurhash.git
@@ -1321,9 +1312,6 @@
 [submodule "libraries/naoufal/react-native-touch-id"]
 	path = libraries/naoufal/react-native-touch-id
 	url = https://github.com/naoufal/react-native-touch-id.git
-[submodule "libraries/stripe/stripe-terminal-react-native"]
-	path = libraries/stripe/stripe-terminal-react-native
-	url = https://github.com/stripe/stripe-terminal-react-native.git
 [submodule "libraries/teovillanueva/react-native-web-maps"]
 	path = libraries/teovillanueva/react-native-web-maps
 	url = https://github.com/teovillanueva/react-native-web-maps.git
@@ -1333,21 +1321,12 @@
 [submodule "libraries/callstackincubator/voltra"]
 	path = libraries/callstackincubator/voltra
 	url = https://github.com/callstackincubator/voltra.git
-[submodule "libraries/dabakovich/react-native-controlled-mentions"]
-	path = libraries/dabakovich/react-native-controlled-mentions
-	url = https://github.com/dabakovich/react-native-controlled-mentions.git
 [submodule "libraries/react-native-camera/react-native-camera"]
 	path = libraries/react-native-camera/react-native-camera
 	url = https://github.com/react-native-camera/react-native-camera.git
 [submodule "libraries/react-native-art/art"]
 	path = libraries/react-native-art/art
 	url = https://github.com/react-native-art/art.git
-[submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
-	path = libraries/souvik-ghosh/react-native-create-thumbnail
-	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
-[submodule "libraries/expo/expo-asset-utils"]
-	path = libraries/expo/expo-asset-utils
-	url = https://github.com/expo/expo-asset-utils.git
 [submodule "libraries/rive-app/rive-nitro-react-native"]
 	path = libraries/rive-app/rive-nitro-react-native
 	url = https://github.com/rive-app/rive-nitro-react-native.git
