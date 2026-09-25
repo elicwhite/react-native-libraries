@@ -1333,27 +1333,12 @@
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
-[submodule "libraries/rive-app/rive-nitro-react-native"]
-	path = libraries/rive-app/rive-nitro-react-native
-	url = https://github.com/rive-app/rive-nitro-react-native.git
-[submodule "libraries/software-mansion-labs/react-native-streamdown"]
-	path = libraries/software-mansion-labs/react-native-streamdown
-	url = https://github.com/software-mansion-labs/react-native-streamdown.git
-[submodule "libraries/acro5piano/react-native-big-calendar"]
-	path = libraries/acro5piano/react-native-big-calendar
-	url = https://github.com/acro5piano/react-native-big-calendar.git
-[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
-	path = libraries/moaazsidat/react-native-qrcode-scanner
-	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
-[submodule "libraries/rgommezz/react-native-offline"]
-	path = libraries/rgommezz/react-native-offline
-	url = https://github.com/rgommezz/react-native-offline.git
 [submodule "libraries/chirag04/react-native-mail"]
 	path = libraries/chirag04/react-native-mail
 	url = https://github.com/chirag04/react-native-mail.git
-[submodule "libraries/itsnubix/react-native-video-controls"]
-	path = libraries/itsnubix/react-native-video-controls
-	url = https://github.com/itsnubix/react-native-video-controls.git
 [submodule "libraries/robhogan/react-native-securerandom"]
 	path = libraries/robhogan/react-native-securerandom
 	url = https://github.com/robhogan/react-native-securerandom.git
+[submodule "libraries/expo/expo-2d-context"]
+	path = libraries/expo/expo-2d-context
+	url = https://github.com/expo/expo-2d-context.git
