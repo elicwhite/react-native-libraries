@@ -1189,9 +1189,6 @@
 [submodule "libraries/vercel-labs/json-render"]
 	path = libraries/vercel-labs/json-render
 	url = https://github.com/vercel-labs/json-render.git
-[submodule "libraries/quidone/react-native-wheel-picker"]
-	path = libraries/quidone/react-native-wheel-picker
-	url = https://github.com/quidone/react-native-wheel-picker.git
 [submodule "libraries/mohebifar/react-native-copilot"]
 	path = libraries/mohebifar/react-native-copilot
 	url = https://github.com/mohebifar/react-native-copilot.git
@@ -1291,9 +1288,6 @@
 [submodule "libraries/testshallpass/react-native-dropdownalert"]
 	path = libraries/testshallpass/react-native-dropdownalert
 	url = https://github.com/testshallpass/react-native-dropdownalert.git
-[submodule "libraries/margelo/react-native-blurhash"]
-	path = libraries/margelo/react-native-blurhash
-	url = https://github.com/margelo/react-native-blurhash.git
 [submodule "libraries/GeekyAnts/react-native-easy-grid"]
 	path = libraries/GeekyAnts/react-native-easy-grid
 	url = https://github.com/GeekyAnts/react-native-easy-grid.git
@@ -1321,9 +1315,6 @@
 [submodule "libraries/react-native-camera/react-native-camera"]
 	path = libraries/react-native-camera/react-native-camera
 	url = https://github.com/react-native-camera/react-native-camera.git
-[submodule "libraries/margelo/react-native-filament"]
-	path = libraries/margelo/react-native-filament
-	url = https://github.com/margelo/react-native-filament.git
 [submodule "libraries/byteburgers/react-native-autocomplete-input"]
 	path = libraries/byteburgers/react-native-autocomplete-input
 	url = https://github.com/byteburgers/react-native-autocomplete-input.git
@@ -1342,3 +1333,24 @@
 [submodule "libraries/expo/expo-2d-context"]
 	path = libraries/expo/expo-2d-context
 	url = https://github.com/expo/expo-2d-context.git
+[submodule "libraries/rive-app/rive-nitro-react-native"]
+	path = libraries/rive-app/rive-nitro-react-native
+	url = https://github.com/rive-app/rive-nitro-react-native.git
+[submodule "libraries/software-mansion/pulsar"]
+	path = libraries/software-mansion/pulsar
+	url = https://github.com/software-mansion/pulsar.git
+[submodule "libraries/openspacelabs/react-native-zoomable-view"]
+	path = libraries/openspacelabs/react-native-zoomable-view
+	url = https://github.com/openspacelabs/react-native-zoomable-view.git
+[submodule "libraries/dabakovich/react-native-controlled-mentions"]
+	path = libraries/dabakovich/react-native-controlled-mentions
+	url = https://github.com/dabakovich/react-native-controlled-mentions.git
+[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
+	path = libraries/kirankalyan5/react-native-segmented-control-tab
+	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
+[submodule "libraries/react-native-art/art"]
+	path = libraries/react-native-art/art
+	url = https://github.com/react-native-art/art.git
+[submodule "libraries/stovmascript/react-native-version"]
+	path = libraries/stovmascript/react-native-version
+	url = https://github.com/stovmascript/react-native-version.git
