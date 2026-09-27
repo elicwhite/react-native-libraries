@@ -1339,12 +1339,6 @@
 [submodule "libraries/software-mansion/pulsar"]
 	path = libraries/software-mansion/pulsar
 	url = https://github.com/software-mansion/pulsar.git
-[submodule "libraries/openspacelabs/react-native-zoomable-view"]
-	path = libraries/openspacelabs/react-native-zoomable-view
-	url = https://github.com/openspacelabs/react-native-zoomable-view.git
-[submodule "libraries/dabakovich/react-native-controlled-mentions"]
-	path = libraries/dabakovich/react-native-controlled-mentions
-	url = https://github.com/dabakovich/react-native-controlled-mentions.git
 [submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
 	path = libraries/kirankalyan5/react-native-segmented-control-tab
 	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
@@ -1354,3 +1348,18 @@
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
+[submodule "libraries/software-mansion-labs/react-native-streamdown"]
+	path = libraries/software-mansion-labs/react-native-streamdown
+	url = https://github.com/software-mansion-labs/react-native-streamdown.git
+[submodule "libraries/acro5piano/react-native-big-calendar"]
+	path = libraries/acro5piano/react-native-big-calendar
+	url = https://github.com/acro5piano/react-native-big-calendar.git
+[submodule "libraries/quidone/react-native-wheel-picker"]
+	path = libraries/quidone/react-native-wheel-picker
+	url = https://github.com/quidone/react-native-wheel-picker.git
+[submodule "libraries/callstackincubator/ai"]
+	path = libraries/callstackincubator/ai
+	url = https://github.com/callstackincubator/ai.git
+[submodule "libraries/JuanSeBestia/react-native-wifi-reborn"]
+	path = libraries/JuanSeBestia/react-native-wifi-reborn
+	url = https://github.com/JuanSeBestia/react-native-wifi-reborn.git
