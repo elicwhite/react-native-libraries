@@ -1174,9 +1174,6 @@
 [submodule "libraries/a7medev/react-native-ml-kit"]
 	path = libraries/a7medev/react-native-ml-kit
 	url = https://github.com/a7medev/react-native-ml-kit.git
-[submodule "libraries/RepairShopr/react-native-signature-capture"]
-	path = libraries/RepairShopr/react-native-signature-capture
-	url = https://github.com/RepairShopr/react-native-signature-capture.git
 [submodule "libraries/appandflow/react-native-ease"]
 	path = libraries/appandflow/react-native-ease
 	url = https://github.com/appandflow/react-native-ease.git
@@ -1219,9 +1216,6 @@
 [submodule "libraries/FortAwesome/react-native-fontawesome"]
 	path = libraries/FortAwesome/react-native-fontawesome
 	url = https://github.com/FortAwesome/react-native-fontawesome.git
-[submodule "libraries/margelo/react-native-release-profiler"]
-	path = libraries/margelo/react-native-release-profiler
-	url = https://github.com/margelo/react-native-release-profiler.git
 [submodule "libraries/tokkozhin/react-native-qrcode-styled"]
 	path = libraries/tokkozhin/react-native-qrcode-styled
 	url = https://github.com/tokkozhin/react-native-qrcode-styled.git
@@ -1273,9 +1267,6 @@
 [submodule "libraries/Expensify/react-native-live-markdown"]
 	path = libraries/Expensify/react-native-live-markdown
 	url = https://github.com/Expensify/react-native-live-markdown.git
-[submodule "libraries/mientjan/react-native-markdown-renderer"]
-	path = libraries/mientjan/react-native-markdown-renderer
-	url = https://github.com/mientjan/react-native-markdown-renderer.git
 [submodule "libraries/reactive/data-client"]
 	path = libraries/reactive/data-client
 	url = https://github.com/reactive/data-client.git
@@ -1291,21 +1282,12 @@
 [submodule "libraries/GeekyAnts/react-native-easy-grid"]
 	path = libraries/GeekyAnts/react-native-easy-grid
 	url = https://github.com/GeekyAnts/react-native-easy-grid.git
-[submodule "libraries/seniv/react-native-notifier"]
-	path = libraries/seniv/react-native-notifier
-	url = https://github.com/seniv/react-native-notifier.git
 [submodule "libraries/vadimdemedes/tailwind-rn"]
 	path = libraries/vadimdemedes/tailwind-rn
 	url = https://github.com/vadimdemedes/tailwind-rn.git
 [submodule "libraries/stefalda/ReactNativeLocalization"]
 	path = libraries/stefalda/ReactNativeLocalization
 	url = https://github.com/stefalda/ReactNativeLocalization.git
-[submodule "libraries/naoufal/react-native-touch-id"]
-	path = libraries/naoufal/react-native-touch-id
-	url = https://github.com/naoufal/react-native-touch-id.git
-[submodule "libraries/teovillanueva/react-native-web-maps"]
-	path = libraries/teovillanueva/react-native-web-maps
-	url = https://github.com/teovillanueva/react-native-web-maps.git
 [submodule "libraries/ecklf/react-native-heroicons"]
 	path = libraries/ecklf/react-native-heroicons
 	url = https://github.com/ecklf/react-native-heroicons.git
@@ -1315,9 +1297,6 @@
 [submodule "libraries/react-native-camera/react-native-camera"]
 	path = libraries/react-native-camera/react-native-camera
 	url = https://github.com/react-native-camera/react-native-camera.git
-[submodule "libraries/byteburgers/react-native-autocomplete-input"]
-	path = libraries/byteburgers/react-native-autocomplete-input
-	url = https://github.com/byteburgers/react-native-autocomplete-input.git
 [submodule "libraries/arnnis/react-native-toast-notifications"]
 	path = libraries/arnnis/react-native-toast-notifications
 	url = https://github.com/arnnis/react-native-toast-notifications.git
@@ -1339,9 +1318,6 @@
 [submodule "libraries/software-mansion/pulsar"]
 	path = libraries/software-mansion/pulsar
 	url = https://github.com/software-mansion/pulsar.git
-[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
-	path = libraries/kirankalyan5/react-native-segmented-control-tab
-	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
 [submodule "libraries/react-native-art/art"]
 	path = libraries/react-native-art/art
 	url = https://github.com/react-native-art/art.git
@@ -1351,15 +1327,18 @@
 [submodule "libraries/software-mansion-labs/react-native-streamdown"]
 	path = libraries/software-mansion-labs/react-native-streamdown
 	url = https://github.com/software-mansion-labs/react-native-streamdown.git
-[submodule "libraries/acro5piano/react-native-big-calendar"]
-	path = libraries/acro5piano/react-native-big-calendar
-	url = https://github.com/acro5piano/react-native-big-calendar.git
 [submodule "libraries/quidone/react-native-wheel-picker"]
 	path = libraries/quidone/react-native-wheel-picker
 	url = https://github.com/quidone/react-native-wheel-picker.git
 [submodule "libraries/callstackincubator/ai"]
 	path = libraries/callstackincubator/ai
 	url = https://github.com/callstackincubator/ai.git
-[submodule "libraries/JuanSeBestia/react-native-wifi-reborn"]
-	path = libraries/JuanSeBestia/react-native-wifi-reborn
-	url = https://github.com/JuanSeBestia/react-native-wifi-reborn.git
+[submodule "libraries/gmsgowtham/react-native-marked"]
+	path = libraries/gmsgowtham/react-native-marked
+	url = https://github.com/gmsgowtham/react-native-marked.git
+[submodule "libraries/akinncar/react-native-mask-text"]
+	path = libraries/akinncar/react-native-mask-text
+	url = https://github.com/akinncar/react-native-mask-text.git
+[submodule "libraries/dabakovich/react-native-controlled-mentions"]
+	path = libraries/dabakovich/react-native-controlled-mentions
+	url = https://github.com/dabakovich/react-native-controlled-mentions.git
