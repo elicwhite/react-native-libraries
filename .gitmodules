@@ -1135,9 +1135,6 @@
 [submodule "libraries/ovr/react-native-status-bar-height"]
 	path = libraries/ovr/react-native-status-bar-height
 	url = https://github.com/ovr/react-native-status-bar-height.git
-[submodule "libraries/mmazzarolo/react-native-dialog"]
-	path = libraries/mmazzarolo/react-native-dialog
-	url = https://github.com/mmazzarolo/react-native-dialog.git
 [submodule "libraries/peacechen/react-native-modal-selector"]
 	path = libraries/peacechen/react-native-modal-selector
 	url = https://github.com/peacechen/react-native-modal-selector.git
@@ -1252,9 +1249,6 @@
 [submodule "libraries/cooperka/react-native-snackbar"]
 	path = libraries/cooperka/react-native-snackbar
 	url = https://github.com/cooperka/react-native-snackbar.git
-[submodule "libraries/hectahertz/react-native-typography"]
-	path = libraries/hectahertz/react-native-typography
-	url = https://github.com/hectahertz/react-native-typography.git
 [submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
 	path = libraries/ladjs/react-native-loading-spinner-overlay
 	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
@@ -1267,27 +1261,9 @@
 [submodule "libraries/Expensify/react-native-live-markdown"]
 	path = libraries/Expensify/react-native-live-markdown
 	url = https://github.com/Expensify/react-native-live-markdown.git
-[submodule "libraries/reactive/data-client"]
-	path = libraries/reactive/data-client
-	url = https://github.com/reactive/data-client.git
-[submodule "libraries/sunnylqm/react-native-storage"]
-	path = libraries/sunnylqm/react-native-storage
-	url = https://github.com/sunnylqm/react-native-storage.git
-[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
-	path = libraries/watch-connectivity/react-native-watch-connectivity
-	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/testshallpass/react-native-dropdownalert"]
-	path = libraries/testshallpass/react-native-dropdownalert
-	url = https://github.com/testshallpass/react-native-dropdownalert.git
-[submodule "libraries/GeekyAnts/react-native-easy-grid"]
-	path = libraries/GeekyAnts/react-native-easy-grid
-	url = https://github.com/GeekyAnts/react-native-easy-grid.git
 [submodule "libraries/vadimdemedes/tailwind-rn"]
 	path = libraries/vadimdemedes/tailwind-rn
 	url = https://github.com/vadimdemedes/tailwind-rn.git
-[submodule "libraries/stefalda/ReactNativeLocalization"]
-	path = libraries/stefalda/ReactNativeLocalization
-	url = https://github.com/stefalda/ReactNativeLocalization.git
 [submodule "libraries/ecklf/react-native-heroicons"]
 	path = libraries/ecklf/react-native-heroicons
 	url = https://github.com/ecklf/react-native-heroicons.git
@@ -1300,18 +1276,9 @@
 [submodule "libraries/arnnis/react-native-toast-notifications"]
 	path = libraries/arnnis/react-native-toast-notifications
 	url = https://github.com/arnnis/react-native-toast-notifications.git
-[submodule "libraries/jeanregisser/react-native-slider"]
-	path = libraries/jeanregisser/react-native-slider
-	url = https://github.com/jeanregisser/react-native-slider.git
-[submodule "libraries/chirag04/react-native-mail"]
-	path = libraries/chirag04/react-native-mail
-	url = https://github.com/chirag04/react-native-mail.git
 [submodule "libraries/robhogan/react-native-securerandom"]
 	path = libraries/robhogan/react-native-securerandom
 	url = https://github.com/robhogan/react-native-securerandom.git
-[submodule "libraries/expo/expo-2d-context"]
-	path = libraries/expo/expo-2d-context
-	url = https://github.com/expo/expo-2d-context.git
 [submodule "libraries/rive-app/rive-nitro-react-native"]
 	path = libraries/rive-app/rive-nitro-react-native
 	url = https://github.com/rive-app/rive-nitro-react-native.git
@@ -1336,9 +1303,9 @@
 [submodule "libraries/gmsgowtham/react-native-marked"]
 	path = libraries/gmsgowtham/react-native-marked
 	url = https://github.com/gmsgowtham/react-native-marked.git
-[submodule "libraries/akinncar/react-native-mask-text"]
-	path = libraries/akinncar/react-native-mask-text
-	url = https://github.com/akinncar/react-native-mask-text.git
 [submodule "libraries/dabakovich/react-native-controlled-mentions"]
 	path = libraries/dabakovich/react-native-controlled-mentions
 	url = https://github.com/dabakovich/react-native-controlled-mentions.git
+[submodule "libraries/software-mansion-labs/react-native-nano-icons"]
+	path = libraries/software-mansion-labs/react-native-nano-icons
+	url = https://github.com/software-mansion-labs/react-native-nano-icons.git
