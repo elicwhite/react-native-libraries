@@ -511,9 +511,6 @@
 [submodule "libraries/kimxogus/react-native-version-check"]
 	path = libraries/kimxogus/react-native-version-check
 	url = https://github.com/kimxogus/react-native-version-check.git
-[submodule "libraries/bramus/react-native-maps-directions"]
-	path = libraries/bramus/react-native-maps-directions
-	url = https://github.com/bramus/react-native-maps-directions.git
 [submodule "libraries/kirillzyusko/react-native-keyboard-controller"]
 	path = libraries/kirillzyusko/react-native-keyboard-controller
 	url = https://github.com/kirillzyusko/react-native-keyboard-controller.git
@@ -1300,18 +1297,12 @@
 [submodule "libraries/software-mansion-labs/react-native-nano-icons"]
 	path = libraries/software-mansion-labs/react-native-nano-icons
 	url = https://github.com/software-mansion-labs/react-native-nano-icons.git
-[submodule "libraries/reactive/data-client"]
-	path = libraries/reactive/data-client
-	url = https://github.com/reactive/data-client.git
 [submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
 	path = libraries/watch-connectivity/react-native-watch-connectivity
 	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
 [submodule "libraries/GeekyAnts/react-native-easy-grid"]
 	path = libraries/GeekyAnts/react-native-easy-grid
 	url = https://github.com/GeekyAnts/react-native-easy-grid.git
-[submodule "libraries/stefalda/ReactNativeLocalization"]
-	path = libraries/stefalda/ReactNativeLocalization
-	url = https://github.com/stefalda/ReactNativeLocalization.git
 [submodule "libraries/mmazzarolo/react-native-dialog"]
 	path = libraries/mmazzarolo/react-native-dialog
 	url = https://github.com/mmazzarolo/react-native-dialog.git
@@ -1324,3 +1315,12 @@
 [submodule "libraries/RepairShopr/react-native-signature-capture"]
 	path = libraries/RepairShopr/react-native-signature-capture
 	url = https://github.com/RepairShopr/react-native-signature-capture.git
+[submodule "libraries/quidone/react-native-wheel-picker"]
+	path = libraries/quidone/react-native-wheel-picker
+	url = https://github.com/quidone/react-native-wheel-picker.git
+[submodule "libraries/akinncar/react-native-mask-text"]
+	path = libraries/akinncar/react-native-mask-text
+	url = https://github.com/akinncar/react-native-mask-text.git
+[submodule "libraries/JuanSeBestia/react-native-wifi-reborn"]
+	path = libraries/JuanSeBestia/react-native-wifi-reborn
+	url = https://github.com/JuanSeBestia/react-native-wifi-reborn.git
