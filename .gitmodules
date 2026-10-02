@@ -307,9 +307,6 @@
 [submodule "libraries/react-native-voice/voice"]
 	path = libraries/react-native-voice/voice
 	url = https://github.com/react-native-voice/voice.git
-[submodule "libraries/ammarahm-ed/react-native-mmkv-storage"]
-	path = libraries/ammarahm-ed/react-native-mmkv-storage
-	url = https://github.com/ammarahm-ed/react-native-mmkv-storage.git
 [submodule "libraries/michalchudziak/react-native-geolocation"]
 	path = libraries/michalchudziak/react-native-geolocation
 	url = https://github.com/michalchudziak/react-native-geolocation.git
@@ -364,9 +361,6 @@
 [submodule "libraries/bartgryszko/react-native-circular-progress"]
 	path = libraries/bartgryszko/react-native-circular-progress
 	url = https://github.com/bartgryszko/react-native-circular-progress.git
-[submodule "libraries/dohooo/react-native-table-component"]
-	path = libraries/dohooo/react-native-table-component
-	url = https://github.com/dohooo/react-native-table-component.git
 [submodule "libraries/ocetnik/react-native-background-timer"]
 	path = libraries/ocetnik/react-native-background-timer
 	url = https://github.com/ocetnik/react-native-background-timer.git
@@ -394,9 +388,6 @@
 [submodule "libraries/jasongaare/react-native-walkthrough-tooltip"]
 	path = libraries/jasongaare/react-native-walkthrough-tooltip
 	url = https://github.com/jasongaare/react-native-walkthrough-tooltip.git
-[submodule "libraries/wmcmahan/react-native-calendar-events"]
-	path = libraries/wmcmahan/react-native-calendar-events
-	url = https://github.com/wmcmahan/react-native-calendar-events.git
 [submodule "libraries/GantMan/jail-monkey"]
 	path = libraries/GantMan/jail-monkey
 	url = https://github.com/GantMan/jail-monkey.git
@@ -436,18 +427,12 @@
 [submodule "libraries/jemise111/react-native-swipe-list-view"]
 	path = libraries/jemise111/react-native-swipe-list-view
 	url = https://github.com/jemise111/react-native-swipe-list-view.git
-[submodule "libraries/mCodex/react-native-sensitive-info"]
-	path = libraries/mCodex/react-native-sensitive-info
-	url = https://github.com/mCodex/react-native-sensitive-info.git
 [submodule "libraries/a7ul/react-native-exception-handler"]
 	path = libraries/a7ul/react-native-exception-handler
 	url = https://github.com/a7ul/react-native-exception-handler.git
 [submodule "libraries/AlexanderZaytsev/react-native-i18n"]
 	path = libraries/AlexanderZaytsev/react-native-i18n
 	url = https://github.com/AlexanderZaytsev/react-native-i18n.git
-[submodule "libraries/marudy/react-native-responsive-screen"]
-	path = libraries/marudy/react-native-responsive-screen
-	url = https://github.com/marudy/react-native-responsive-screen.git
 [submodule "libraries/iamacup/react-native-markdown-display"]
 	path = libraries/iamacup/react-native-markdown-display
 	url = https://github.com/iamacup/react-native-markdown-display.git
@@ -811,9 +796,6 @@
 [submodule "libraries/pmndrs/jotai"]
 	path = libraries/pmndrs/jotai
 	url = https://github.com/pmndrs/jotai.git
-[submodule "libraries/entropyconquers/react-native-reanimated-dnd"]
-	path = libraries/entropyconquers/react-native-reanimated-dnd
-	url = https://github.com/entropyconquers/react-native-reanimated-dnd.git
 [submodule "libraries/immerjs/immer"]
 	path = libraries/immerjs/immer
 	url = https://github.com/immerjs/immer.git
@@ -871,9 +853,6 @@
 [submodule "libraries/chart-kit/react-native-chart-kit"]
 	path = libraries/chart-kit/react-native-chart-kit
 	url = https://github.com/chart-kit/react-native-chart-kit.git
-[submodule "libraries/n4kz/react-native-indicators"]
-	path = libraries/n4kz/react-native-indicators
-	url = https://github.com/n4kz/react-native-indicators.git
 [submodule "libraries/glepur/react-native-swipe-gestures"]
 	path = libraries/glepur/react-native-swipe-gestures
 	url = https://github.com/glepur/react-native-swipe-gestures.git
@@ -1117,9 +1096,6 @@
 [submodule "libraries/miblanchard/react-native-slider"]
 	path = libraries/miblanchard/react-native-slider
 	url = https://github.com/miblanchard/react-native-slider.git
-[submodule "libraries/joshswan/react-native-autolink"]
-	path = libraries/joshswan/react-native-autolink
-	url = https://github.com/joshswan/react-native-autolink.git
 [submodule "libraries/callstack/react-theme-provider"]
 	path = libraries/callstack/react-theme-provider
 	url = https://github.com/callstack/react-theme-provider.git
@@ -1180,9 +1156,6 @@
 [submodule "libraries/vercel-labs/json-render"]
 	path = libraries/vercel-labs/json-render
 	url = https://github.com/vercel-labs/json-render.git
-[submodule "libraries/mohebifar/react-native-copilot"]
-	path = libraries/mohebifar/react-native-copilot
-	url = https://github.com/mohebifar/react-native-copilot.git
 [submodule "libraries/mybigday/llama.rn"]
 	path = libraries/mybigday/llama.rn
 	url = https://github.com/mybigday/llama.rn.git
@@ -1201,9 +1174,6 @@
 [submodule "libraries/jhugman/uniffi-bindgen-react-native"]
 	path = libraries/jhugman/uniffi-bindgen-react-native
 	url = https://github.com/jhugman/uniffi-bindgen-react-native.git
-[submodule "libraries/tinyplex/tinybase"]
-	path = libraries/tinyplex/tinybase
-	url = https://github.com/tinyplex/tinybase.git
 [submodule "libraries/cantoo-scribe/pdf-lib"]
 	path = libraries/cantoo-scribe/pdf-lib
 	url = https://github.com/cantoo-scribe/pdf-lib.git
@@ -1213,9 +1183,6 @@
 [submodule "libraries/tokkozhin/react-native-qrcode-styled"]
 	path = libraries/tokkozhin/react-native-qrcode-styled
 	url = https://github.com/tokkozhin/react-native-qrcode-styled.git
-[submodule "libraries/AlirezaHadjar/react-native-fast-confetti"]
-	path = libraries/AlirezaHadjar/react-native-fast-confetti
-	url = https://github.com/AlirezaHadjar/react-native-fast-confetti.git
 [submodule "libraries/margelo/nitro"]
 	path = libraries/margelo/nitro
 	url = https://github.com/margelo/nitro.git
@@ -1231,9 +1198,6 @@
 [submodule "libraries/software-mansion/react-native-executorch"]
 	path = libraries/software-mansion/react-native-executorch
 	url = https://github.com/software-mansion/react-native-executorch.git
-[submodule "libraries/maxs15/react-native-spinkit"]
-	path = libraries/maxs15/react-native-spinkit
-	url = https://github.com/maxs15/react-native-spinkit.git
 [submodule "libraries/Rapsssito/react-native-tcp-socket"]
 	path = libraries/Rapsssito/react-native-tcp-socket
 	url = https://github.com/Rapsssito/react-native-tcp-socket.git
@@ -1252,9 +1216,6 @@
 [submodule "libraries/jordanbyron/react-native-quick-actions"]
 	path = libraries/jordanbyron/react-native-quick-actions
 	url = https://github.com/jordanbyron/react-native-quick-actions.git
-[submodule "libraries/beefe/react-native-actionsheet"]
-	path = libraries/beefe/react-native-actionsheet
-	url = https://github.com/beefe/react-native-actionsheet.git
 [submodule "libraries/Expensify/react-native-live-markdown"]
 	path = libraries/Expensify/react-native-live-markdown
 	url = https://github.com/Expensify/react-native-live-markdown.git
@@ -1297,30 +1258,24 @@
 [submodule "libraries/software-mansion-labs/react-native-nano-icons"]
 	path = libraries/software-mansion-labs/react-native-nano-icons
 	url = https://github.com/software-mansion-labs/react-native-nano-icons.git
-[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
-	path = libraries/watch-connectivity/react-native-watch-connectivity
-	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/GeekyAnts/react-native-easy-grid"]
-	path = libraries/GeekyAnts/react-native-easy-grid
-	url = https://github.com/GeekyAnts/react-native-easy-grid.git
-[submodule "libraries/mmazzarolo/react-native-dialog"]
-	path = libraries/mmazzarolo/react-native-dialog
-	url = https://github.com/mmazzarolo/react-native-dialog.git
 [submodule "libraries/BugiDev/react-native-calendar-strip"]
 	path = libraries/BugiDev/react-native-calendar-strip
 	url = https://github.com/BugiDev/react-native-calendar-strip.git
-[submodule "libraries/chirag04/react-native-mail"]
-	path = libraries/chirag04/react-native-mail
-	url = https://github.com/chirag04/react-native-mail.git
-[submodule "libraries/RepairShopr/react-native-signature-capture"]
-	path = libraries/RepairShopr/react-native-signature-capture
-	url = https://github.com/RepairShopr/react-native-signature-capture.git
-[submodule "libraries/quidone/react-native-wheel-picker"]
-	path = libraries/quidone/react-native-wheel-picker
-	url = https://github.com/quidone/react-native-wheel-picker.git
 [submodule "libraries/akinncar/react-native-mask-text"]
 	path = libraries/akinncar/react-native-mask-text
 	url = https://github.com/akinncar/react-native-mask-text.git
 [submodule "libraries/JuanSeBestia/react-native-wifi-reborn"]
 	path = libraries/JuanSeBestia/react-native-wifi-reborn
 	url = https://github.com/JuanSeBestia/react-native-wifi-reborn.git
+[submodule "libraries/stripe/stripe-terminal-react-native"]
+	path = libraries/stripe/stripe-terminal-react-native
+	url = https://github.com/stripe/stripe-terminal-react-native.git
+[submodule "libraries/software-mansion/pulsar"]
+	path = libraries/software-mansion/pulsar
+	url = https://github.com/software-mansion/pulsar.git
+[submodule "libraries/dabakovich/react-native-controlled-mentions"]
+	path = libraries/dabakovich/react-native-controlled-mentions
+	url = https://github.com/dabakovich/react-native-controlled-mentions.git
+[submodule "libraries/dohooo/react-native-reanimated-table"]
+	path = libraries/dohooo/react-native-reanimated-table
+	url = https://github.com/dohooo/react-native-reanimated-table.git
