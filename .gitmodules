@@ -1216,3 +1216,96 @@
 [submodule "libraries/quidone/react-native-wheel-picker"]
 	path = libraries/quidone/react-native-wheel-picker
 	url = https://github.com/quidone/react-native-wheel-picker.git
+[submodule "libraries/joshswan/react-native-autolink"]
+	path = libraries/joshswan/react-native-autolink
+	url = https://github.com/joshswan/react-native-autolink.git
+[submodule "libraries/mybigday/llama.rn"]
+	path = libraries/mybigday/llama.rn
+	url = https://github.com/mybigday/llama.rn.git
+[submodule "libraries/wcandillon/react-native-webgpu"]
+	path = libraries/wcandillon/react-native-webgpu
+	url = https://github.com/wcandillon/react-native-webgpu.git
+[submodule "libraries/customerio/customerio-reactnative"]
+	path = libraries/customerio/customerio-reactnative
+	url = https://github.com/customerio/customerio-reactnative.git
+[submodule "libraries/mateusz1913/react-native-avoid-softinput"]
+	path = libraries/mateusz1913/react-native-avoid-softinput
+	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
+[submodule "libraries/vydimitrov/react-countdown-circle-timer"]
+	path = libraries/vydimitrov/react-countdown-circle-timer
+	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
+[submodule "libraries/mCodex/react-native-sensitive-info"]
+	path = libraries/mCodex/react-native-sensitive-info
+	url = https://github.com/mCodex/react-native-sensitive-info.git
+[submodule "libraries/nuclearpasta/react-native-drax"]
+	path = libraries/nuclearpasta/react-native-drax
+	url = https://github.com/nuclearpasta/react-native-drax.git
+[submodule "libraries/callstackincubator/voltra"]
+	path = libraries/callstackincubator/voltra
+	url = https://github.com/callstackincubator/voltra.git
+[submodule "libraries/Rapsssito/react-native-background-actions"]
+	path = libraries/Rapsssito/react-native-background-actions
+	url = https://github.com/Rapsssito/react-native-background-actions.git
+[submodule "libraries/entropyconquers/react-native-reanimated-dnd"]
+	path = libraries/entropyconquers/react-native-reanimated-dnd
+	url = https://github.com/entropyconquers/react-native-reanimated-dnd.git
+[submodule "libraries/AgoraIO-Extensions/react-native-agora"]
+	path = libraries/AgoraIO-Extensions/react-native-agora
+	url = https://github.com/AgoraIO-Extensions/react-native-agora.git
+[submodule "libraries/cooperka/react-native-snackbar"]
+	path = libraries/cooperka/react-native-snackbar
+	url = https://github.com/cooperka/react-native-snackbar.git
+[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
+	path = libraries/douglasjunior/react-native-keyboard-manager
+	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
+[submodule "libraries/wmcmahan/react-native-calendar-events"]
+	path = libraries/wmcmahan/react-native-calendar-events
+	url = https://github.com/wmcmahan/react-native-calendar-events.git
+[submodule "libraries/stephy/CalendarPicker"]
+	path = libraries/stephy/CalendarPicker
+	url = https://github.com/stephy/CalendarPicker.git
+[submodule "libraries/wix/react-native-notifications"]
+	path = libraries/wix/react-native-notifications
+	url = https://github.com/wix/react-native-notifications.git
+[submodule "libraries/JuanSeBestia/react-native-wifi-reborn"]
+	path = libraries/JuanSeBestia/react-native-wifi-reborn
+	url = https://github.com/JuanSeBestia/react-native-wifi-reborn.git
+[submodule "libraries/microsoft/react-native-code-push"]
+	path = libraries/microsoft/react-native-code-push
+	url = https://github.com/microsoft/react-native-code-push.git
+[submodule "libraries/kevinresol/react-native-default-preference"]
+	path = libraries/kevinresol/react-native-default-preference
+	url = https://github.com/kevinresol/react-native-default-preference.git
+[submodule "libraries/facebook/flipper"]
+	path = libraries/facebook/flipper
+	url = https://github.com/facebook/flipper.git
+[submodule "libraries/vadimdemedes/tailwind-rn"]
+	path = libraries/vadimdemedes/tailwind-rn
+	url = https://github.com/vadimdemedes/tailwind-rn.git
+[submodule "libraries/dohooo/react-native-table-component"]
+	path = libraries/dohooo/react-native-table-component
+	url = https://github.com/dohooo/react-native-table-component.git
+[submodule "libraries/KjellConnelly/react-native-rate"]
+	path = libraries/KjellConnelly/react-native-rate
+	url = https://github.com/KjellConnelly/react-native-rate.git
+[submodule "libraries/mmazzarolo/react-native-dialog"]
+	path = libraries/mmazzarolo/react-native-dialog
+	url = https://github.com/mmazzarolo/react-native-dialog.git
+[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
+	path = libraries/kirankalyan5/react-native-segmented-control-tab
+	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
+[submodule "libraries/oblador/react-native-image-progress"]
+	path = libraries/oblador/react-native-image-progress
+	url = https://github.com/oblador/react-native-image-progress.git
+[submodule "libraries/chirag04/react-native-mail"]
+	path = libraries/chirag04/react-native-mail
+	url = https://github.com/chirag04/react-native-mail.git
+[submodule "libraries/marudy/react-native-responsive-screen"]
+	path = libraries/marudy/react-native-responsive-screen
+	url = https://github.com/marudy/react-native-responsive-screen.git
+[submodule "libraries/thegamenicorus/react-native-phone-input"]
+	path = libraries/thegamenicorus/react-native-phone-input
+	url = https://github.com/thegamenicorus/react-native-phone-input.git
+[submodule "libraries/n4kz/react-native-indicators"]
+	path = libraries/n4kz/react-native-indicators
+	url = https://github.com/n4kz/react-native-indicators.git
