@@ -1174,9 +1174,6 @@
 [submodule "libraries/rive-app/rive-nitro-react-native"]
 	path = libraries/rive-app/rive-nitro-react-native
 	url = https://github.com/rive-app/rive-nitro-react-native.git
-[submodule "libraries/react-native-art/art"]
-	path = libraries/react-native-art/art
-	url = https://github.com/react-native-art/art.git
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
@@ -1207,9 +1204,6 @@
 [submodule "libraries/dabakovich/react-native-controlled-mentions"]
 	path = libraries/dabakovich/react-native-controlled-mentions
 	url = https://github.com/dabakovich/react-native-controlled-mentions.git
-[submodule "libraries/dohooo/react-native-reanimated-table"]
-	path = libraries/dohooo/react-native-reanimated-table
-	url = https://github.com/dohooo/react-native-reanimated-table.git
 [submodule "libraries/endograph/redux-persist"]
 	path = libraries/endograph/redux-persist
 	url = https://github.com/endograph/redux-persist.git
@@ -1273,9 +1267,6 @@
 [submodule "libraries/microsoft/react-native-code-push"]
 	path = libraries/microsoft/react-native-code-push
 	url = https://github.com/microsoft/react-native-code-push.git
-[submodule "libraries/kevinresol/react-native-default-preference"]
-	path = libraries/kevinresol/react-native-default-preference
-	url = https://github.com/kevinresol/react-native-default-preference.git
 [submodule "libraries/facebook/flipper"]
 	path = libraries/facebook/flipper
 	url = https://github.com/facebook/flipper.git
@@ -1291,9 +1282,6 @@
 [submodule "libraries/mmazzarolo/react-native-dialog"]
 	path = libraries/mmazzarolo/react-native-dialog
 	url = https://github.com/mmazzarolo/react-native-dialog.git
-[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
-	path = libraries/kirankalyan5/react-native-segmented-control-tab
-	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
 [submodule "libraries/oblador/react-native-image-progress"]
 	path = libraries/oblador/react-native-image-progress
 	url = https://github.com/oblador/react-native-image-progress.git
@@ -1309,3 +1297,15 @@
 [submodule "libraries/n4kz/react-native-indicators"]
 	path = libraries/n4kz/react-native-indicators
 	url = https://github.com/n4kz/react-native-indicators.git
+[submodule "libraries/AlirezaHadjar/react-native-fast-confetti"]
+	path = libraries/AlirezaHadjar/react-native-fast-confetti
+	url = https://github.com/AlirezaHadjar/react-native-fast-confetti.git
+[submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
+	path = libraries/ladjs/react-native-loading-spinner-overlay
+	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
+[submodule "libraries/heyman333/react-native-responsive-fontSize"]
+	path = libraries/heyman333/react-native-responsive-fontSize
+	url = https://github.com/heyman333/react-native-responsive-fontSize.git
+[submodule "libraries/Jacse/react-native-app-intro-slider"]
+	path = libraries/Jacse/react-native-app-intro-slider
+	url = https://github.com/Jacse/react-native-app-intro-slider.git
