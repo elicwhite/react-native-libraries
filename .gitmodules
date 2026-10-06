@@ -229,9 +229,6 @@
 [submodule "libraries/realm/realm-js"]
 	path = libraries/realm/realm-js
 	url = https://github.com/realm/realm-js.git
-[submodule "libraries/Shopify/react-native-skia"]
-	path = libraries/Shopify/react-native-skia
-	url = https://github.com/Shopify/react-native-skia.git
 [submodule "libraries/thebergamo/react-native-fbsdk-next"]
 	path = libraries/thebergamo/react-native-fbsdk-next
 	url = https://github.com/thebergamo/react-native-fbsdk-next.git
@@ -1309,3 +1306,51 @@
 [submodule "libraries/Jacse/react-native-app-intro-slider"]
 	path = libraries/Jacse/react-native-app-intro-slider
 	url = https://github.com/Jacse/react-native-app-intro-slider.git
+[submodule "libraries/wcandillon/react-native-skia"]
+	path = libraries/wcandillon/react-native-skia
+	url = https://github.com/wcandillon/react-native-skia.git
+[submodule "libraries/ammarahm-ed/react-native-mmkv-storage"]
+	path = libraries/ammarahm-ed/react-native-mmkv-storage
+	url = https://github.com/ammarahm-ed/react-native-mmkv-storage.git
+[submodule "libraries/mientjan/react-native-markdown-renderer"]
+	path = libraries/mientjan/react-native-markdown-renderer
+	url = https://github.com/mientjan/react-native-markdown-renderer.git
+[submodule "libraries/sunnylqm/react-native-storage"]
+	path = libraries/sunnylqm/react-native-storage
+	url = https://github.com/sunnylqm/react-native-storage.git
+[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
+	path = libraries/watch-connectivity/react-native-watch-connectivity
+	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
+[submodule "libraries/testshallpass/react-native-dropdownalert"]
+	path = libraries/testshallpass/react-native-dropdownalert
+	url = https://github.com/testshallpass/react-native-dropdownalert.git
+[submodule "libraries/expo/dev-plugins"]
+	path = libraries/expo/dev-plugins
+	url = https://github.com/expo/dev-plugins.git
+[submodule "libraries/birkir/react-native-carplay"]
+	path = libraries/birkir/react-native-carplay
+	url = https://github.com/birkir/react-native-carplay.git
+[submodule "libraries/kevinresol/react-native-default-preference"]
+	path = libraries/kevinresol/react-native-default-preference
+	url = https://github.com/kevinresol/react-native-default-preference.git
+[submodule "libraries/hectahertz/react-native-typography"]
+	path = libraries/hectahertz/react-native-typography
+	url = https://github.com/hectahertz/react-native-typography.git
+[submodule "libraries/maxs15/react-native-spinkit"]
+	path = libraries/maxs15/react-native-spinkit
+	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/mfrachet/rn-placeholder"]
+	path = libraries/mfrachet/rn-placeholder
+	url = https://github.com/mfrachet/rn-placeholder.git
+[submodule "libraries/bramus/react-native-maps-directions"]
+	path = libraries/bramus/react-native-maps-directions
+	url = https://github.com/bramus/react-native-maps-directions.git
+[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
+	path = libraries/kirankalyan5/react-native-segmented-control-tab
+	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
+[submodule "libraries/RepairShopr/react-native-signature-capture"]
+	path = libraries/RepairShopr/react-native-signature-capture
+	url = https://github.com/RepairShopr/react-native-signature-capture.git
+[submodule "libraries/beefe/react-native-actionsheet"]
+	path = libraries/beefe/react-native-actionsheet
+	url = https://github.com/beefe/react-native-actionsheet.git
