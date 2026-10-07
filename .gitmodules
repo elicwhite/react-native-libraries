@@ -1282,9 +1282,6 @@
 [submodule "libraries/oblador/react-native-image-progress"]
 	path = libraries/oblador/react-native-image-progress
 	url = https://github.com/oblador/react-native-image-progress.git
-[submodule "libraries/chirag04/react-native-mail"]
-	path = libraries/chirag04/react-native-mail
-	url = https://github.com/chirag04/react-native-mail.git
 [submodule "libraries/marudy/react-native-responsive-screen"]
 	path = libraries/marudy/react-native-responsive-screen
 	url = https://github.com/marudy/react-native-responsive-screen.git
@@ -1327,9 +1324,6 @@
 [submodule "libraries/expo/dev-plugins"]
 	path = libraries/expo/dev-plugins
 	url = https://github.com/expo/dev-plugins.git
-[submodule "libraries/birkir/react-native-carplay"]
-	path = libraries/birkir/react-native-carplay
-	url = https://github.com/birkir/react-native-carplay.git
 [submodule "libraries/kevinresol/react-native-default-preference"]
 	path = libraries/kevinresol/react-native-default-preference
 	url = https://github.com/kevinresol/react-native-default-preference.git
@@ -1348,9 +1342,9 @@
 [submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
 	path = libraries/kirankalyan5/react-native-segmented-control-tab
 	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
-[submodule "libraries/RepairShopr/react-native-signature-capture"]
-	path = libraries/RepairShopr/react-native-signature-capture
-	url = https://github.com/RepairShopr/react-native-signature-capture.git
 [submodule "libraries/beefe/react-native-actionsheet"]
 	path = libraries/beefe/react-native-actionsheet
 	url = https://github.com/beefe/react-native-actionsheet.git
+[submodule "libraries/naoufal/react-native-touch-id"]
+	path = libraries/naoufal/react-native-touch-id
+	url = https://github.com/naoufal/react-native-touch-id.git
