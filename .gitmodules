@@ -1324,9 +1324,6 @@
 [submodule "libraries/expo/dev-plugins"]
 	path = libraries/expo/dev-plugins
 	url = https://github.com/expo/dev-plugins.git
-[submodule "libraries/kevinresol/react-native-default-preference"]
-	path = libraries/kevinresol/react-native-default-preference
-	url = https://github.com/kevinresol/react-native-default-preference.git
 [submodule "libraries/hectahertz/react-native-typography"]
 	path = libraries/hectahertz/react-native-typography
 	url = https://github.com/hectahertz/react-native-typography.git
@@ -1363,45 +1360,15 @@
 [submodule "libraries/mohebifar/react-native-copilot"]
 	path = libraries/mohebifar/react-native-copilot
 	url = https://github.com/mohebifar/react-native-copilot.git
-[submodule "libraries/chirag04/react-native-mail"]
-	path = libraries/chirag04/react-native-mail
-	url = https://github.com/chirag04/react-native-mail.git
-[submodule "libraries/reactive/data-client"]
-	path = libraries/reactive/data-client
-	url = https://github.com/reactive/data-client.git
 [submodule "libraries/software-mansion/react-native-executorch"]
 	path = libraries/software-mansion/react-native-executorch
 	url = https://github.com/software-mansion/react-native-executorch.git
-[submodule "libraries/aymericzip/intlayer"]
-	path = libraries/aymericzip/intlayer
-	url = https://github.com/aymericzip/intlayer.git
 [submodule "libraries/elevenlabs/packages"]
 	path = libraries/elevenlabs/packages
 	url = https://github.com/elevenlabs/packages.git
-[submodule "libraries/stefalda/ReactNativeLocalization"]
-	path = libraries/stefalda/ReactNativeLocalization
-	url = https://github.com/stefalda/ReactNativeLocalization.git
-[submodule "libraries/byteburgers/react-native-autocomplete-input"]
-	path = libraries/byteburgers/react-native-autocomplete-input
-	url = https://github.com/byteburgers/react-native-autocomplete-input.git
-[submodule "libraries/margelo/react-native-blurhash"]
-	path = libraries/margelo/react-native-blurhash
-	url = https://github.com/margelo/react-native-blurhash.git
-[submodule "libraries/GeekyAnts/react-native-easy-grid"]
-	path = libraries/GeekyAnts/react-native-easy-grid
-	url = https://github.com/GeekyAnts/react-native-easy-grid.git
-[submodule "libraries/vitalets/react-native-extended-stylesheet"]
-	path = libraries/vitalets/react-native-extended-stylesheet
-	url = https://github.com/vitalets/react-native-extended-stylesheet.git
-[submodule "libraries/xcarpentier/rn-tourguide"]
-	path = libraries/xcarpentier/rn-tourguide
-	url = https://github.com/xcarpentier/rn-tourguide.git
-[submodule "libraries/RepairShopr/react-native-signature-capture"]
-	path = libraries/RepairShopr/react-native-signature-capture
-	url = https://github.com/RepairShopr/react-native-signature-capture.git
-[submodule "libraries/gcanti/tcomb-form-native"]
-	path = libraries/gcanti/tcomb-form-native
-	url = https://github.com/gcanti/tcomb-form-native.git
-[submodule "libraries/jeanregisser/react-native-slider"]
-	path = libraries/jeanregisser/react-native-slider
-	url = https://github.com/jeanregisser/react-native-slider.git
+[submodule "libraries/margelo/react-native-release-profiler"]
+	path = libraries/margelo/react-native-release-profiler
+	url = https://github.com/margelo/react-native-release-profiler.git
+[submodule "libraries/dohooo/react-native-reanimated-table"]
+	path = libraries/dohooo/react-native-reanimated-table
+	url = https://github.com/dohooo/react-native-reanimated-table.git
