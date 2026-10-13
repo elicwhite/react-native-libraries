@@ -1312,3 +1312,45 @@
 [submodule "libraries/react-native-art/art"]
 	path = libraries/react-native-art/art
 	url = https://github.com/react-native-art/art.git
+[submodule "libraries/stripe/stripe-terminal-react-native"]
+	path = libraries/stripe/stripe-terminal-react-native
+	url = https://github.com/stripe/stripe-terminal-react-native.git
+[submodule "libraries/mientjan/react-native-markdown-renderer"]
+	path = libraries/mientjan/react-native-markdown-renderer
+	url = https://github.com/mientjan/react-native-markdown-renderer.git
+[submodule "libraries/openspacelabs/react-native-zoomable-view"]
+	path = libraries/openspacelabs/react-native-zoomable-view
+	url = https://github.com/openspacelabs/react-native-zoomable-view.git
+[submodule "libraries/vydimitrov/react-countdown-circle-timer"]
+	path = libraries/vydimitrov/react-countdown-circle-timer
+	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
+[submodule "libraries/sunnylqm/react-native-storage"]
+	path = libraries/sunnylqm/react-native-storage
+	url = https://github.com/sunnylqm/react-native-storage.git
+[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
+	path = libraries/watch-connectivity/react-native-watch-connectivity
+	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
+[submodule "libraries/arunabhverma/expo-paste-input"]
+	path = libraries/arunabhverma/expo-paste-input
+	url = https://github.com/arunabhverma/expo-paste-input.git
+[submodule "libraries/kevinresol/react-native-default-preference"]
+	path = libraries/kevinresol/react-native-default-preference
+	url = https://github.com/kevinresol/react-native-default-preference.git
+[submodule "libraries/hectahertz/react-native-typography"]
+	path = libraries/hectahertz/react-native-typography
+	url = https://github.com/hectahertz/react-native-typography.git
+[submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
+	path = libraries/ladjs/react-native-loading-spinner-overlay
+	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
+[submodule "libraries/bramus/react-native-maps-directions"]
+	path = libraries/bramus/react-native-maps-directions
+	url = https://github.com/bramus/react-native-maps-directions.git
+[submodule "libraries/n4kz/react-native-indicators"]
+	path = libraries/n4kz/react-native-indicators
+	url = https://github.com/n4kz/react-native-indicators.git
+[submodule "libraries/jeanregisser/react-native-slider"]
+	path = libraries/jeanregisser/react-native-slider
+	url = https://github.com/jeanregisser/react-native-slider.git
+[submodule "libraries/beefe/react-native-actionsheet"]
+	path = libraries/beefe/react-native-actionsheet
+	url = https://github.com/beefe/react-native-actionsheet.git
