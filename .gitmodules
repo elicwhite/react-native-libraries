@@ -796,9 +796,6 @@
 [submodule "libraries/gronxb/hot-updater"]
 	path = libraries/gronxb/hot-updater
 	url = https://github.com/gronxb/hot-updater.git
-[submodule "libraries/margelo/react-native-graph"]
-	path = libraries/margelo/react-native-graph
-	url = https://github.com/margelo/react-native-graph.git
 [submodule "libraries/hyochan/react-native-nitro-sound"]
 	path = libraries/hyochan/react-native-nitro-sound
 	url = https://github.com/hyochan/react-native-nitro-sound.git
@@ -1165,15 +1162,9 @@
 [submodule "libraries/arnnis/react-native-toast-notifications"]
 	path = libraries/arnnis/react-native-toast-notifications
 	url = https://github.com/arnnis/react-native-toast-notifications.git
-[submodule "libraries/robhogan/react-native-securerandom"]
-	path = libraries/robhogan/react-native-securerandom
-	url = https://github.com/robhogan/react-native-securerandom.git
 [submodule "libraries/rive-app/rive-nitro-react-native"]
 	path = libraries/rive-app/rive-nitro-react-native
 	url = https://github.com/rive-app/rive-nitro-react-native.git
-[submodule "libraries/stovmascript/react-native-version"]
-	path = libraries/stovmascript/react-native-version
-	url = https://github.com/stovmascript/react-native-version.git
 [submodule "libraries/software-mansion-labs/react-native-streamdown"]
 	path = libraries/software-mansion-labs/react-native-streamdown
 	url = https://github.com/software-mansion-labs/react-native-streamdown.git
@@ -1312,54 +1303,30 @@
 [submodule "libraries/stripe/stripe-terminal-react-native"]
 	path = libraries/stripe/stripe-terminal-react-native
 	url = https://github.com/stripe/stripe-terminal-react-native.git
-[submodule "libraries/mientjan/react-native-markdown-renderer"]
-	path = libraries/mientjan/react-native-markdown-renderer
-	url = https://github.com/mientjan/react-native-markdown-renderer.git
 [submodule "libraries/openspacelabs/react-native-zoomable-view"]
 	path = libraries/openspacelabs/react-native-zoomable-view
 	url = https://github.com/openspacelabs/react-native-zoomable-view.git
-[submodule "libraries/vydimitrov/react-countdown-circle-timer"]
-	path = libraries/vydimitrov/react-countdown-circle-timer
-	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
 [submodule "libraries/sunnylqm/react-native-storage"]
 	path = libraries/sunnylqm/react-native-storage
 	url = https://github.com/sunnylqm/react-native-storage.git
-[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
-	path = libraries/watch-connectivity/react-native-watch-connectivity
-	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/arunabhverma/expo-paste-input"]
-	path = libraries/arunabhverma/expo-paste-input
-	url = https://github.com/arunabhverma/expo-paste-input.git
-[submodule "libraries/kevinresol/react-native-default-preference"]
-	path = libraries/kevinresol/react-native-default-preference
-	url = https://github.com/kevinresol/react-native-default-preference.git
 [submodule "libraries/hectahertz/react-native-typography"]
 	path = libraries/hectahertz/react-native-typography
 	url = https://github.com/hectahertz/react-native-typography.git
-[submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
-	path = libraries/ladjs/react-native-loading-spinner-overlay
-	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
-[submodule "libraries/bramus/react-native-maps-directions"]
-	path = libraries/bramus/react-native-maps-directions
-	url = https://github.com/bramus/react-native-maps-directions.git
-[submodule "libraries/n4kz/react-native-indicators"]
-	path = libraries/n4kz/react-native-indicators
-	url = https://github.com/n4kz/react-native-indicators.git
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
 [submodule "libraries/beefe/react-native-actionsheet"]
 	path = libraries/beefe/react-native-actionsheet
 	url = https://github.com/beefe/react-native-actionsheet.git
-[submodule "libraries/reactive/data-client"]
-	path = libraries/reactive/data-client
-	url = https://github.com/reactive/data-client.git
 [submodule "libraries/Preeternal/react-native-cookie-manager"]
 	path = libraries/Preeternal/react-native-cookie-manager
 	url = https://github.com/Preeternal/react-native-cookie-manager.git
 [submodule "libraries/margelo/react-native-release-profiler"]
 	path = libraries/margelo/react-native-release-profiler
 	url = https://github.com/margelo/react-native-release-profiler.git
-[submodule "libraries/maxs15/react-native-spinkit"]
-	path = libraries/maxs15/react-native-spinkit
-	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/Glazzes/react-native-zoom-toolkit"]
+	path = libraries/Glazzes/react-native-zoom-toolkit
+	url = https://github.com/Glazzes/react-native-zoom-toolkit.git
+[submodule "libraries/ide/react-native-button"]
+	path = libraries/ide/react-native-button
+	url = https://github.com/ide/react-native-button.git
