@@ -1297,15 +1297,9 @@
 [submodule "libraries/dohooo/react-native-reanimated-table"]
 	path = libraries/dohooo/react-native-reanimated-table
 	url = https://github.com/dohooo/react-native-reanimated-table.git
-[submodule "libraries/react-native-art/art"]
-	path = libraries/react-native-art/art
-	url = https://github.com/react-native-art/art.git
 [submodule "libraries/stripe/stripe-terminal-react-native"]
 	path = libraries/stripe/stripe-terminal-react-native
 	url = https://github.com/stripe/stripe-terminal-react-native.git
-[submodule "libraries/openspacelabs/react-native-zoomable-view"]
-	path = libraries/openspacelabs/react-native-zoomable-view
-	url = https://github.com/openspacelabs/react-native-zoomable-view.git
 [submodule "libraries/sunnylqm/react-native-storage"]
 	path = libraries/sunnylqm/react-native-storage
 	url = https://github.com/sunnylqm/react-native-storage.git
@@ -1318,15 +1312,9 @@
 [submodule "libraries/beefe/react-native-actionsheet"]
 	path = libraries/beefe/react-native-actionsheet
 	url = https://github.com/beefe/react-native-actionsheet.git
-[submodule "libraries/Preeternal/react-native-cookie-manager"]
-	path = libraries/Preeternal/react-native-cookie-manager
-	url = https://github.com/Preeternal/react-native-cookie-manager.git
 [submodule "libraries/margelo/react-native-release-profiler"]
 	path = libraries/margelo/react-native-release-profiler
 	url = https://github.com/margelo/react-native-release-profiler.git
-[submodule "libraries/Glazzes/react-native-zoom-toolkit"]
-	path = libraries/Glazzes/react-native-zoom-toolkit
-	url = https://github.com/Glazzes/react-native-zoom-toolkit.git
 [submodule "libraries/ide/react-native-button"]
 	path = libraries/ide/react-native-button
 	url = https://github.com/ide/react-native-button.git
@@ -1372,6 +1360,18 @@
 [submodule "libraries/n4kz/react-native-indicators"]
 	path = libraries/n4kz/react-native-indicators
 	url = https://github.com/n4kz/react-native-indicators.git
-[submodule "libraries/root-two/react-native-drawer"]
-	path = libraries/root-two/react-native-drawer
-	url = https://github.com/root-two/react-native-drawer.git
+[submodule "libraries/stefalda/ReactNativeLocalization"]
+	path = libraries/stefalda/ReactNativeLocalization
+	url = https://github.com/stefalda/ReactNativeLocalization.git
+[submodule "libraries/tinyplex/tinybase"]
+	path = libraries/tinyplex/tinybase
+	url = https://github.com/tinyplex/tinybase.git
+[submodule "libraries/arunabhverma/expo-paste-input"]
+	path = libraries/arunabhverma/expo-paste-input
+	url = https://github.com/arunabhverma/expo-paste-input.git
+[submodule "libraries/birkir/react-native-carplay"]
+	path = libraries/birkir/react-native-carplay
+	url = https://github.com/birkir/react-native-carplay.git
+[submodule "libraries/robhogan/react-native-securerandom"]
+	path = libraries/robhogan/react-native-securerandom
+	url = https://github.com/robhogan/react-native-securerandom.git
