@@ -1375,3 +1375,33 @@
 [submodule "libraries/robhogan/react-native-securerandom"]
 	path = libraries/robhogan/react-native-securerandom
 	url = https://github.com/robhogan/react-native-securerandom.git
+[submodule "libraries/aymericzip/intlayer"]
+	path = libraries/aymericzip/intlayer
+	url = https://github.com/aymericzip/intlayer.git
+[submodule "libraries/ArturKalach/react-native-a11y"]
+	path = libraries/ArturKalach/react-native-a11y
+	url = https://github.com/ArturKalach/react-native-a11y.git
+[submodule "libraries/byteburgers/react-native-autocomplete-input"]
+	path = libraries/byteburgers/react-native-autocomplete-input
+	url = https://github.com/byteburgers/react-native-autocomplete-input.git
+[submodule "libraries/Preeternal/react-native-cookie-manager"]
+	path = libraries/Preeternal/react-native-cookie-manager
+	url = https://github.com/Preeternal/react-native-cookie-manager.git
+[submodule "libraries/margelo/react-native-blurhash"]
+	path = libraries/margelo/react-native-blurhash
+	url = https://github.com/margelo/react-native-blurhash.git
+[submodule "libraries/seniv/react-native-notifier"]
+	path = libraries/seniv/react-native-notifier
+	url = https://github.com/seniv/react-native-notifier.git
+[submodule "libraries/iddan/react-native-canvas"]
+	path = libraries/iddan/react-native-canvas
+	url = https://github.com/iddan/react-native-canvas.git
+[submodule "libraries/davidohayon669/react-native-youtube"]
+	path = libraries/davidohayon669/react-native-youtube
+	url = https://github.com/davidohayon669/react-native-youtube.git
+[submodule "libraries/naoufal/react-native-touch-id"]
+	path = libraries/naoufal/react-native-touch-id
+	url = https://github.com/naoufal/react-native-touch-id.git
+[submodule "libraries/root-two/react-native-drawer"]
+	path = libraries/root-two/react-native-drawer
+	url = https://github.com/root-two/react-native-drawer.git
