@@ -1291,9 +1291,6 @@
 [submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
 	path = libraries/kirankalyan5/react-native-segmented-control-tab
 	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
-[submodule "libraries/elevenlabs/packages"]
-	path = libraries/elevenlabs/packages
-	url = https://github.com/elevenlabs/packages.git
 [submodule "libraries/dohooo/react-native-reanimated-table"]
 	path = libraries/dohooo/react-native-reanimated-table
 	url = https://github.com/dohooo/react-native-reanimated-table.git
@@ -1312,9 +1309,6 @@
 [submodule "libraries/beefe/react-native-actionsheet"]
 	path = libraries/beefe/react-native-actionsheet
 	url = https://github.com/beefe/react-native-actionsheet.git
-[submodule "libraries/margelo/react-native-release-profiler"]
-	path = libraries/margelo/react-native-release-profiler
-	url = https://github.com/margelo/react-native-release-profiler.git
 [submodule "libraries/ide/react-native-button"]
 	path = libraries/ide/react-native-button
 	url = https://github.com/ide/react-native-button.git
@@ -1384,9 +1378,6 @@
 [submodule "libraries/byteburgers/react-native-autocomplete-input"]
 	path = libraries/byteburgers/react-native-autocomplete-input
 	url = https://github.com/byteburgers/react-native-autocomplete-input.git
-[submodule "libraries/Preeternal/react-native-cookie-manager"]
-	path = libraries/Preeternal/react-native-cookie-manager
-	url = https://github.com/Preeternal/react-native-cookie-manager.git
 [submodule "libraries/margelo/react-native-blurhash"]
 	path = libraries/margelo/react-native-blurhash
 	url = https://github.com/margelo/react-native-blurhash.git
@@ -1405,3 +1396,6 @@
 [submodule "libraries/root-two/react-native-drawer"]
 	path = libraries/root-two/react-native-drawer
 	url = https://github.com/root-two/react-native-drawer.git
+[submodule "libraries/acro5piano/react-native-big-calendar"]
+	path = libraries/acro5piano/react-native-big-calendar
+	url = https://github.com/acro5piano/react-native-big-calendar.git
