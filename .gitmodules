@@ -1399,3 +1399,24 @@
 [submodule "libraries/acro5piano/react-native-big-calendar"]
 	path = libraries/acro5piano/react-native-big-calendar
 	url = https://github.com/acro5piano/react-native-big-calendar.git
+[submodule "libraries/elevenlabs/packages"]
+	path = libraries/elevenlabs/packages
+	url = https://github.com/elevenlabs/packages.git
+[submodule "libraries/Preeternal/react-native-cookie-manager"]
+	path = libraries/Preeternal/react-native-cookie-manager
+	url = https://github.com/Preeternal/react-native-cookie-manager.git
+[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
+	path = libraries/douglasjunior/react-native-keyboard-manager
+	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
+[submodule "libraries/vitalets/react-native-extended-stylesheet"]
+	path = libraries/vitalets/react-native-extended-stylesheet
+	url = https://github.com/vitalets/react-native-extended-stylesheet.git
+[submodule "libraries/maxs15/react-native-modalbox"]
+	path = libraries/maxs15/react-native-modalbox
+	url = https://github.com/maxs15/react-native-modalbox.git
+[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
+	path = libraries/moaazsidat/react-native-qrcode-scanner
+	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
+[submodule "libraries/itsnubix/react-native-video-controls"]
+	path = libraries/itsnubix/react-native-video-controls
+	url = https://github.com/itsnubix/react-native-video-controls.git
