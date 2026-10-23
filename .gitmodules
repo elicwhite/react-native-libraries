@@ -1189,9 +1189,6 @@
 [submodule "libraries/endograph/redux-persist"]
 	path = libraries/endograph/redux-persist
 	url = https://github.com/endograph/redux-persist.git
-[submodule "libraries/quidone/react-native-wheel-picker"]
-	path = libraries/quidone/react-native-wheel-picker
-	url = https://github.com/quidone/react-native-wheel-picker.git
 [submodule "libraries/joshswan/react-native-autolink"]
 	path = libraries/joshswan/react-native-autolink
 	url = https://github.com/joshswan/react-native-autolink.git
@@ -1204,9 +1201,6 @@
 [submodule "libraries/customerio/customerio-reactnative"]
 	path = libraries/customerio/customerio-reactnative
 	url = https://github.com/customerio/customerio-reactnative.git
-[submodule "libraries/mateusz1913/react-native-avoid-softinput"]
-	path = libraries/mateusz1913/react-native-avoid-softinput
-	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
 [submodule "libraries/mCodex/react-native-sensitive-info"]
 	path = libraries/mCodex/react-native-sensitive-info
 	url = https://github.com/mCodex/react-native-sensitive-info.git
@@ -1285,9 +1279,6 @@
 [submodule "libraries/mfrachet/rn-placeholder"]
 	path = libraries/mfrachet/rn-placeholder
 	url = https://github.com/mfrachet/rn-placeholder.git
-[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
-	path = libraries/kirankalyan5/react-native-segmented-control-tab
-	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
 [submodule "libraries/dohooo/react-native-reanimated-table"]
 	path = libraries/dohooo/react-native-reanimated-table
 	url = https://github.com/dohooo/react-native-reanimated-table.git
@@ -1378,9 +1369,6 @@
 [submodule "libraries/seniv/react-native-notifier"]
 	path = libraries/seniv/react-native-notifier
 	url = https://github.com/seniv/react-native-notifier.git
-[submodule "libraries/acro5piano/react-native-big-calendar"]
-	path = libraries/acro5piano/react-native-big-calendar
-	url = https://github.com/acro5piano/react-native-big-calendar.git
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
