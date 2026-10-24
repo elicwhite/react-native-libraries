@@ -1027,9 +1027,6 @@
 [submodule "libraries/binaryminds/react-native-sse"]
 	path = libraries/binaryminds/react-native-sse
 	url = https://github.com/binaryminds/react-native-sse.git
-[submodule "libraries/tradle/react-native-crypto"]
-	path = libraries/tradle/react-native-crypto
-	url = https://github.com/tradle/react-native-crypto.git
 [submodule "libraries/react-native-checkbox/react-native-checkbox"]
 	path = libraries/react-native-checkbox/react-native-checkbox
 	url = https://github.com/react-native-checkbox/react-native-checkbox.git
@@ -1123,9 +1120,6 @@
 [submodule "libraries/cantoo-scribe/pdf-lib"]
 	path = libraries/cantoo-scribe/pdf-lib
 	url = https://github.com/cantoo-scribe/pdf-lib.git
-[submodule "libraries/FortAwesome/react-native-fontawesome"]
-	path = libraries/FortAwesome/react-native-fontawesome
-	url = https://github.com/FortAwesome/react-native-fontawesome.git
 [submodule "libraries/tokkozhin/react-native-qrcode-styled"]
 	path = libraries/tokkozhin/react-native-qrcode-styled
 	url = https://github.com/tokkozhin/react-native-qrcode-styled.git
@@ -1159,9 +1153,6 @@
 [submodule "libraries/react-native-camera/react-native-camera"]
 	path = libraries/react-native-camera/react-native-camera
 	url = https://github.com/react-native-camera/react-native-camera.git
-[submodule "libraries/arnnis/react-native-toast-notifications"]
-	path = libraries/arnnis/react-native-toast-notifications
-	url = https://github.com/arnnis/react-native-toast-notifications.git
 [submodule "libraries/rive-app/rive-nitro-react-native"]
 	path = libraries/rive-app/rive-nitro-react-native
 	url = https://github.com/rive-app/rive-nitro-react-native.git
@@ -1183,9 +1174,6 @@
 [submodule "libraries/software-mansion/pulsar"]
 	path = libraries/software-mansion/pulsar
 	url = https://github.com/software-mansion/pulsar.git
-[submodule "libraries/dabakovich/react-native-controlled-mentions"]
-	path = libraries/dabakovich/react-native-controlled-mentions
-	url = https://github.com/dabakovich/react-native-controlled-mentions.git
 [submodule "libraries/endograph/redux-persist"]
 	path = libraries/endograph/redux-persist
 	url = https://github.com/endograph/redux-persist.git
@@ -1198,9 +1186,6 @@
 [submodule "libraries/wcandillon/react-native-webgpu"]
 	path = libraries/wcandillon/react-native-webgpu
 	url = https://github.com/wcandillon/react-native-webgpu.git
-[submodule "libraries/customerio/customerio-reactnative"]
-	path = libraries/customerio/customerio-reactnative
-	url = https://github.com/customerio/customerio-reactnative.git
 [submodule "libraries/mCodex/react-native-sensitive-info"]
 	path = libraries/mCodex/react-native-sensitive-info
 	url = https://github.com/mCodex/react-native-sensitive-info.git
@@ -1273,9 +1258,6 @@
 [submodule "libraries/testshallpass/react-native-dropdownalert"]
 	path = libraries/testshallpass/react-native-dropdownalert
 	url = https://github.com/testshallpass/react-native-dropdownalert.git
-[submodule "libraries/expo/dev-plugins"]
-	path = libraries/expo/dev-plugins
-	url = https://github.com/expo/dev-plugins.git
 [submodule "libraries/mfrachet/rn-placeholder"]
 	path = libraries/mfrachet/rn-placeholder
 	url = https://github.com/mfrachet/rn-placeholder.git
@@ -1348,9 +1330,6 @@
 [submodule "libraries/arunabhverma/expo-paste-input"]
 	path = libraries/arunabhverma/expo-paste-input
 	url = https://github.com/arunabhverma/expo-paste-input.git
-[submodule "libraries/birkir/react-native-carplay"]
-	path = libraries/birkir/react-native-carplay
-	url = https://github.com/birkir/react-native-carplay.git
 [submodule "libraries/robhogan/react-native-securerandom"]
 	path = libraries/robhogan/react-native-securerandom
 	url = https://github.com/robhogan/react-native-securerandom.git
@@ -1372,3 +1351,6 @@
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
+[submodule "libraries/maxs15/react-native-modalbox"]
+	path = libraries/maxs15/react-native-modalbox
+	url = https://github.com/maxs15/react-native-modalbox.git
