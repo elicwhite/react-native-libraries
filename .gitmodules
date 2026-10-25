@@ -1225,9 +1225,6 @@
 [submodule "libraries/facebook/flipper"]
 	path = libraries/facebook/flipper
 	url = https://github.com/facebook/flipper.git
-[submodule "libraries/vadimdemedes/tailwind-rn"]
-	path = libraries/vadimdemedes/tailwind-rn
-	url = https://github.com/vadimdemedes/tailwind-rn.git
 [submodule "libraries/dohooo/react-native-table-component"]
 	path = libraries/dohooo/react-native-table-component
 	url = https://github.com/dohooo/react-native-table-component.git
@@ -1348,9 +1345,9 @@
 [submodule "libraries/seniv/react-native-notifier"]
 	path = libraries/seniv/react-native-notifier
 	url = https://github.com/seniv/react-native-notifier.git
-[submodule "libraries/stovmascript/react-native-version"]
-	path = libraries/stovmascript/react-native-version
-	url = https://github.com/stovmascript/react-native-version.git
 [submodule "libraries/maxs15/react-native-modalbox"]
 	path = libraries/maxs15/react-native-modalbox
 	url = https://github.com/maxs15/react-native-modalbox.git
+[submodule "libraries/customerio/customerio-reactnative"]
+	path = libraries/customerio/customerio-reactnative
+	url = https://github.com/customerio/customerio-reactnative.git
