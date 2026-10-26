@@ -814,9 +814,6 @@
 [submodule "libraries/chart-kit/react-native-chart-kit"]
 	path = libraries/chart-kit/react-native-chart-kit
 	url = https://github.com/chart-kit/react-native-chart-kit.git
-[submodule "libraries/glepur/react-native-swipe-gestures"]
-	path = libraries/glepur/react-native-swipe-gestures
-	url = https://github.com/glepur/react-native-swipe-gestures.git
 [submodule "libraries/hyodotdev/openiap"]
 	path = libraries/hyodotdev/openiap
 	url = https://github.com/hyodotdev/openiap.git
@@ -973,9 +970,6 @@
 [submodule "libraries/expo/vector-icons"]
 	path = libraries/expo/vector-icons
 	url = https://github.com/expo/vector-icons.git
-[submodule "libraries/mowispace/react-native-logs"]
-	path = libraries/mowispace/react-native-logs
-	url = https://github.com/mowispace/react-native-logs.git
 [submodule "libraries/dream-horizon-org/react-native-fast-image"]
 	path = libraries/dream-horizon-org/react-native-fast-image
 	url = https://github.com/dream-horizon-org/react-native-fast-image.git
@@ -994,9 +988,6 @@
 [submodule "libraries/obipawan/react-native-hyperlink"]
 	path = libraries/obipawan/react-native-hyperlink
 	url = https://github.com/obipawan/react-native-hyperlink.git
-[submodule "libraries/nandorojo/sf-symbols-typescript"]
-	path = libraries/nandorojo/sf-symbols-typescript
-	url = https://github.com/nandorojo/sf-symbols-typescript.git
 [submodule "libraries/expo/expo-av"]
 	path = libraries/expo/expo-av
 	url = https://github.com/expo/expo-av.git
@@ -1066,9 +1057,6 @@
 [submodule "libraries/VincentCATILLON/react-native-confetti-cannon"]
 	path = libraries/VincentCATILLON/react-native-confetti-cannon
 	url = https://github.com/VincentCATILLON/react-native-confetti-cannon.git
-[submodule "libraries/gorhom/react-native-portal"]
-	path = libraries/gorhom/react-native-portal
-	url = https://github.com/gorhom/react-native-portal.git
 [submodule "libraries/corbt/react-native-keep-awake"]
 	path = libraries/corbt/react-native-keep-awake
 	url = https://github.com/corbt/react-native-keep-awake.git
@@ -1120,9 +1108,6 @@
 [submodule "libraries/cantoo-scribe/pdf-lib"]
 	path = libraries/cantoo-scribe/pdf-lib
 	url = https://github.com/cantoo-scribe/pdf-lib.git
-[submodule "libraries/tokkozhin/react-native-qrcode-styled"]
-	path = libraries/tokkozhin/react-native-qrcode-styled
-	url = https://github.com/tokkozhin/react-native-qrcode-styled.git
 [submodule "libraries/margelo/nitro"]
 	path = libraries/margelo/nitro
 	url = https://github.com/margelo/nitro.git
@@ -1216,9 +1201,6 @@
 [submodule "libraries/wix/react-native-notifications"]
 	path = libraries/wix/react-native-notifications
 	url = https://github.com/wix/react-native-notifications.git
-[submodule "libraries/JuanSeBestia/react-native-wifi-reborn"]
-	path = libraries/JuanSeBestia/react-native-wifi-reborn
-	url = https://github.com/JuanSeBestia/react-native-wifi-reborn.git
 [submodule "libraries/microsoft/react-native-code-push"]
 	path = libraries/microsoft/react-native-code-push
 	url = https://github.com/microsoft/react-native-code-push.git
@@ -1348,6 +1330,9 @@
 [submodule "libraries/maxs15/react-native-modalbox"]
 	path = libraries/maxs15/react-native-modalbox
 	url = https://github.com/maxs15/react-native-modalbox.git
-[submodule "libraries/customerio/customerio-reactnative"]
-	path = libraries/customerio/customerio-reactnative
-	url = https://github.com/customerio/customerio-reactnative.git
+[submodule "libraries/iconoir-icons/iconoir"]
+	path = libraries/iconoir-icons/iconoir
+	url = https://github.com/iconoir-icons/iconoir.git
+[submodule "libraries/margelo/react-native-filament"]
+	path = libraries/margelo/react-native-filament
+	url = https://github.com/margelo/react-native-filament.git
