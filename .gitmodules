@@ -1255,9 +1255,6 @@
 [submodule "libraries/beefe/react-native-actionsheet"]
 	path = libraries/beefe/react-native-actionsheet
 	url = https://github.com/beefe/react-native-actionsheet.git
-[submodule "libraries/ide/react-native-button"]
-	path = libraries/ide/react-native-button
-	url = https://github.com/ide/react-native-button.git
 [submodule "libraries/software-mansion/react-native-executorch"]
 	path = libraries/software-mansion/react-native-executorch
 	url = https://github.com/software-mansion/react-native-executorch.git
@@ -1336,9 +1333,6 @@
 [submodule "libraries/margelo/react-native-filament"]
 	path = libraries/margelo/react-native-filament
 	url = https://github.com/margelo/react-native-filament.git
-[submodule "libraries/quidone/react-native-wheel-picker"]
-	path = libraries/quidone/react-native-wheel-picker
-	url = https://github.com/quidone/react-native-wheel-picker.git
 [submodule "libraries/gorhom/react-native-portal"]
 	path = libraries/gorhom/react-native-portal
 	url = https://github.com/gorhom/react-native-portal.git
@@ -1354,9 +1348,6 @@
 [submodule "libraries/wuxudong/react-native-charts-wrapper"]
 	path = libraries/wuxudong/react-native-charts-wrapper
 	url = https://github.com/wuxudong/react-native-charts-wrapper.git
-[submodule "libraries/FortAwesome/react-native-fontawesome"]
-	path = libraries/FortAwesome/react-native-fontawesome
-	url = https://github.com/FortAwesome/react-native-fontawesome.git
 [submodule "libraries/mowispace/react-native-logs"]
 	path = libraries/mowispace/react-native-logs
 	url = https://github.com/mowispace/react-native-logs.git
@@ -1384,3 +1375,18 @@
 [submodule "libraries/Andr3wHur5t/react-native-keyboard-spacer"]
 	path = libraries/Andr3wHur5t/react-native-keyboard-spacer
 	url = https://github.com/Andr3wHur5t/react-native-keyboard-spacer.git
+[submodule "libraries/JuanSeBestia/react-native-wifi-reborn"]
+	path = libraries/JuanSeBestia/react-native-wifi-reborn
+	url = https://github.com/JuanSeBestia/react-native-wifi-reborn.git
+[submodule "libraries/mateusz1913/react-native-avoid-softinput"]
+	path = libraries/mateusz1913/react-native-avoid-softinput
+	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
+[submodule "libraries/ant-design/ant-design-icons"]
+	path = libraries/ant-design/ant-design-icons
+	url = https://github.com/ant-design/ant-design-icons.git
+[submodule "libraries/tipsi/tipsi-stripe"]
+	path = libraries/tipsi/tipsi-stripe
+	url = https://github.com/tipsi/tipsi-stripe.git
+[submodule "libraries/stovmascript/react-native-version"]
+	path = libraries/stovmascript/react-native-version
+	url = https://github.com/stovmascript/react-native-version.git
