@@ -1204,9 +1204,6 @@
 [submodule "libraries/microsoft/react-native-code-push"]
 	path = libraries/microsoft/react-native-code-push
 	url = https://github.com/microsoft/react-native-code-push.git
-[submodule "libraries/facebook/flipper"]
-	path = libraries/facebook/flipper
-	url = https://github.com/facebook/flipper.git
 [submodule "libraries/dohooo/react-native-table-component"]
 	path = libraries/dohooo/react-native-table-component
 	url = https://github.com/dohooo/react-native-table-component.git
@@ -1309,9 +1306,6 @@
 [submodule "libraries/robhogan/react-native-securerandom"]
 	path = libraries/robhogan/react-native-securerandom
 	url = https://github.com/robhogan/react-native-securerandom.git
-[submodule "libraries/aymericzip/intlayer"]
-	path = libraries/aymericzip/intlayer
-	url = https://github.com/aymericzip/intlayer.git
 [submodule "libraries/ArturKalach/react-native-a11y"]
 	path = libraries/ArturKalach/react-native-a11y
 	url = https://github.com/ArturKalach/react-native-a11y.git
@@ -1351,42 +1345,39 @@
 [submodule "libraries/mowispace/react-native-logs"]
 	path = libraries/mowispace/react-native-logs
 	url = https://github.com/mowispace/react-native-logs.git
-[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
-	path = libraries/douglasjunior/react-native-keyboard-manager
-	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
 [submodule "libraries/nandorojo/sf-symbols-typescript"]
 	path = libraries/nandorojo/sf-symbols-typescript
 	url = https://github.com/nandorojo/sf-symbols-typescript.git
 [submodule "libraries/tokkozhin/react-native-qrcode-styled"]
 	path = libraries/tokkozhin/react-native-qrcode-styled
 	url = https://github.com/tokkozhin/react-native-qrcode-styled.git
-[submodule "libraries/vitalets/react-native-extended-stylesheet"]
-	path = libraries/vitalets/react-native-extended-stylesheet
-	url = https://github.com/vitalets/react-native-extended-stylesheet.git
-[submodule "libraries/xcarpentier/rn-tourguide"]
-	path = libraries/xcarpentier/rn-tourguide
-	url = https://github.com/xcarpentier/rn-tourguide.git
 [submodule "libraries/iddan/react-native-canvas"]
 	path = libraries/iddan/react-native-canvas
 	url = https://github.com/iddan/react-native-canvas.git
 [submodule "libraries/itsnubix/react-native-video-controls"]
 	path = libraries/itsnubix/react-native-video-controls
 	url = https://github.com/itsnubix/react-native-video-controls.git
-[submodule "libraries/Andr3wHur5t/react-native-keyboard-spacer"]
-	path = libraries/Andr3wHur5t/react-native-keyboard-spacer
-	url = https://github.com/Andr3wHur5t/react-native-keyboard-spacer.git
 [submodule "libraries/JuanSeBestia/react-native-wifi-reborn"]
 	path = libraries/JuanSeBestia/react-native-wifi-reborn
 	url = https://github.com/JuanSeBestia/react-native-wifi-reborn.git
-[submodule "libraries/mateusz1913/react-native-avoid-softinput"]
-	path = libraries/mateusz1913/react-native-avoid-softinput
-	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
-[submodule "libraries/ant-design/ant-design-icons"]
-	path = libraries/ant-design/ant-design-icons
-	url = https://github.com/ant-design/ant-design-icons.git
 [submodule "libraries/tipsi/tipsi-stripe"]
 	path = libraries/tipsi/tipsi-stripe
 	url = https://github.com/tipsi/tipsi-stripe.git
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
+[submodule "libraries/stripe/stripe-terminal-react-native"]
+	path = libraries/stripe/stripe-terminal-react-native
+	url = https://github.com/stripe/stripe-terminal-react-native.git
+[submodule "libraries/meta/flipper"]
+	path = libraries/meta/flipper
+	url = https://github.com/meta/flipper.git
+[submodule "libraries/quidone/react-native-wheel-picker"]
+	path = libraries/quidone/react-native-wheel-picker
+	url = https://github.com/quidone/react-native-wheel-picker.git
+[submodule "libraries/Glazzes/react-native-zoom-toolkit"]
+	path = libraries/Glazzes/react-native-zoom-toolkit
+	url = https://github.com/Glazzes/react-native-zoom-toolkit.git
+[submodule "libraries/instantdb/instant"]
+	path = libraries/instantdb/instant
+	url = https://github.com/instantdb/instant.git
