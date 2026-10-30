@@ -1036,9 +1036,6 @@
 [submodule "libraries/pavelbabenko/react-native-awesome-gallery"]
 	path = libraries/pavelbabenko/react-native-awesome-gallery
 	url = https://github.com/pavelbabenko/react-native-awesome-gallery.git
-[submodule "libraries/TheWidlarzGroup/rn-emoji-keyboard"]
-	path = libraries/TheWidlarzGroup/rn-emoji-keyboard
-	url = https://github.com/TheWidlarzGroup/rn-emoji-keyboard.git
 [submodule "libraries/miblanchard/react-native-slider"]
 	path = libraries/miblanchard/react-native-slider
 	url = https://github.com/miblanchard/react-native-slider.git
@@ -1177,9 +1174,6 @@
 [submodule "libraries/nuclearpasta/react-native-drax"]
 	path = libraries/nuclearpasta/react-native-drax
 	url = https://github.com/nuclearpasta/react-native-drax.git
-[submodule "libraries/callstackincubator/voltra"]
-	path = libraries/callstackincubator/voltra
-	url = https://github.com/callstackincubator/voltra.git
 [submodule "libraries/Rapsssito/react-native-background-actions"]
 	path = libraries/Rapsssito/react-native-background-actions
 	url = https://github.com/Rapsssito/react-native-background-actions.git
@@ -1246,9 +1240,6 @@
 [submodule "libraries/hectahertz/react-native-typography"]
 	path = libraries/hectahertz/react-native-typography
 	url = https://github.com/hectahertz/react-native-typography.git
-[submodule "libraries/jeanregisser/react-native-slider"]
-	path = libraries/jeanregisser/react-native-slider
-	url = https://github.com/jeanregisser/react-native-slider.git
 [submodule "libraries/beefe/react-native-actionsheet"]
 	path = libraries/beefe/react-native-actionsheet
 	url = https://github.com/beefe/react-native-actionsheet.git
@@ -1285,9 +1276,6 @@
 [submodule "libraries/bramus/react-native-maps-directions"]
 	path = libraries/bramus/react-native-maps-directions
 	url = https://github.com/bramus/react-native-maps-directions.git
-[submodule "libraries/chirag04/react-native-mail"]
-	path = libraries/chirag04/react-native-mail
-	url = https://github.com/chirag04/react-native-mail.git
 [submodule "libraries/RepairShopr/react-native-signature-capture"]
 	path = libraries/RepairShopr/react-native-signature-capture
 	url = https://github.com/RepairShopr/react-native-signature-capture.git
@@ -1339,9 +1327,6 @@
 [submodule "libraries/ant-design/ant-design-mobile-rn"]
 	path = libraries/ant-design/ant-design-mobile-rn
 	url = https://github.com/ant-design/ant-design-mobile-rn.git
-[submodule "libraries/wuxudong/react-native-charts-wrapper"]
-	path = libraries/wuxudong/react-native-charts-wrapper
-	url = https://github.com/wuxudong/react-native-charts-wrapper.git
 [submodule "libraries/mowispace/react-native-logs"]
 	path = libraries/mowispace/react-native-logs
 	url = https://github.com/mowispace/react-native-logs.git
@@ -1360,24 +1345,30 @@
 [submodule "libraries/JuanSeBestia/react-native-wifi-reborn"]
 	path = libraries/JuanSeBestia/react-native-wifi-reborn
 	url = https://github.com/JuanSeBestia/react-native-wifi-reborn.git
-[submodule "libraries/tipsi/tipsi-stripe"]
-	path = libraries/tipsi/tipsi-stripe
-	url = https://github.com/tipsi/tipsi-stripe.git
 [submodule "libraries/stovmascript/react-native-version"]
 	path = libraries/stovmascript/react-native-version
 	url = https://github.com/stovmascript/react-native-version.git
-[submodule "libraries/stripe/stripe-terminal-react-native"]
-	path = libraries/stripe/stripe-terminal-react-native
-	url = https://github.com/stripe/stripe-terminal-react-native.git
 [submodule "libraries/meta/flipper"]
 	path = libraries/meta/flipper
 	url = https://github.com/meta/flipper.git
-[submodule "libraries/quidone/react-native-wheel-picker"]
-	path = libraries/quidone/react-native-wheel-picker
-	url = https://github.com/quidone/react-native-wheel-picker.git
-[submodule "libraries/Glazzes/react-native-zoom-toolkit"]
-	path = libraries/Glazzes/react-native-zoom-toolkit
-	url = https://github.com/Glazzes/react-native-zoom-toolkit.git
 [submodule "libraries/instantdb/instant"]
 	path = libraries/instantdb/instant
 	url = https://github.com/instantdb/instant.git
+[submodule "libraries/customerio/customerio-reactnative"]
+	path = libraries/customerio/customerio-reactnative
+	url = https://github.com/customerio/customerio-reactnative.git
+[submodule "libraries/Preeternal/react-native-cookie-manager"]
+	path = libraries/Preeternal/react-native-cookie-manager
+	url = https://github.com/Preeternal/react-native-cookie-manager.git
+[submodule "libraries/margelo/react-native-release-profiler"]
+	path = libraries/margelo/react-native-release-profiler
+	url = https://github.com/margelo/react-native-release-profiler.git
+[submodule "libraries/openspacelabs/react-native-zoomable-view"]
+	path = libraries/openspacelabs/react-native-zoomable-view
+	url = https://github.com/openspacelabs/react-native-zoomable-view.git
+[submodule "libraries/FortAwesome/react-native-fontawesome"]
+	path = libraries/FortAwesome/react-native-fontawesome
+	url = https://github.com/FortAwesome/react-native-fontawesome.git
+[submodule "libraries/tradle/react-native-crypto"]
+	path = libraries/tradle/react-native-crypto
+	url = https://github.com/tradle/react-native-crypto.git
