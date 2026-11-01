@@ -1354,3 +1354,9 @@
 [submodule "libraries/arnnis/react-native-toast-notifications"]
 	path = libraries/arnnis/react-native-toast-notifications
 	url = https://github.com/arnnis/react-native-toast-notifications.git
+[submodule "libraries/Doko-Demo-Doa/react-native-shake"]
+	path = libraries/Doko-Demo-Doa/react-native-shake
+	url = https://github.com/Doko-Demo-Doa/react-native-shake.git
+[submodule "libraries/stovmascript/react-native-version"]
+	path = libraries/stovmascript/react-native-version
+	url = https://github.com/stovmascript/react-native-version.git
