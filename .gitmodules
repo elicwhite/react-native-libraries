@@ -1333,9 +1333,36 @@
 [submodule "libraries/GeekyAnts/react-native-easy-grid"]
 	path = libraries/GeekyAnts/react-native-easy-grid
 	url = https://github.com/GeekyAnts/react-native-easy-grid.git
-[submodule "libraries/tradle/react-native-crypto"]
-	path = libraries/tradle/react-native-crypto
-	url = https://github.com/tradle/react-native-crypto.git
 [submodule "libraries/RepairShopr/react-native-signature-capture"]
 	path = libraries/RepairShopr/react-native-signature-capture
 	url = https://github.com/RepairShopr/react-native-signature-capture.git
+[submodule "libraries/twilio/twilio-voice-react-native"]
+	path = libraries/twilio/twilio-voice-react-native
+	url = https://github.com/twilio/twilio-voice-react-native.git
+[submodule "libraries/iconoir-icons/iconoir"]
+	path = libraries/iconoir-icons/iconoir
+	url = https://github.com/iconoir-icons/iconoir.git
+[submodule "libraries/quidone/react-native-wheel-picker"]
+	path = libraries/quidone/react-native-wheel-picker
+	url = https://github.com/quidone/react-native-wheel-picker.git
+[submodule "libraries/Glazzes/react-native-zoom-toolkit"]
+	path = libraries/Glazzes/react-native-zoom-toolkit
+	url = https://github.com/Glazzes/react-native-zoom-toolkit.git
+[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
+	path = libraries/watch-connectivity/react-native-watch-connectivity
+	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
+[submodule "libraries/margelo/react-native-blurhash"]
+	path = libraries/margelo/react-native-blurhash
+	url = https://github.com/margelo/react-native-blurhash.git
+[submodule "libraries/dabakovich/react-native-controlled-mentions"]
+	path = libraries/dabakovich/react-native-controlled-mentions
+	url = https://github.com/dabakovich/react-native-controlled-mentions.git
+[submodule "libraries/kevinresol/react-native-default-preference"]
+	path = libraries/kevinresol/react-native-default-preference
+	url = https://github.com/kevinresol/react-native-default-preference.git
+[submodule "libraries/itsnubix/react-native-video-controls"]
+	path = libraries/itsnubix/react-native-video-controls
+	url = https://github.com/itsnubix/react-native-video-controls.git
+[submodule "libraries/beefe/react-native-actionsheet"]
+	path = libraries/beefe/react-native-actionsheet
+	url = https://github.com/beefe/react-native-actionsheet.git
