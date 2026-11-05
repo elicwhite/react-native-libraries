@@ -1309,9 +1309,6 @@
 [submodule "libraries/FortAwesome/react-native-fontawesome"]
 	path = libraries/FortAwesome/react-native-fontawesome
 	url = https://github.com/FortAwesome/react-native-fontawesome.git
-[submodule "libraries/SohelIslamImran/expo-in-app-updates"]
-	path = libraries/SohelIslamImran/expo-in-app-updates
-	url = https://github.com/SohelIslamImran/expo-in-app-updates.git
 [submodule "libraries/mateusz1913/react-native-avoid-softinput"]
 	path = libraries/mateusz1913/react-native-avoid-softinput
 	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
@@ -1366,3 +1363,30 @@
 [submodule "libraries/beefe/react-native-actionsheet"]
 	path = libraries/beefe/react-native-actionsheet
 	url = https://github.com/beefe/react-native-actionsheet.git
+[submodule "libraries/Preeternal/react-native-cookie-manager"]
+	path = libraries/Preeternal/react-native-cookie-manager
+	url = https://github.com/Preeternal/react-native-cookie-manager.git
+[submodule "libraries/margelo/react-native-release-profiler"]
+	path = libraries/margelo/react-native-release-profiler
+	url = https://github.com/margelo/react-native-release-profiler.git
+[submodule "libraries/hirbod/react-native-volume-manager"]
+	path = libraries/hirbod/react-native-volume-manager
+	url = https://github.com/hirbod/react-native-volume-manager.git
+[submodule "libraries/akinncar/react-native-mask-text"]
+	path = libraries/akinncar/react-native-mask-text
+	url = https://github.com/akinncar/react-native-mask-text.git
+[submodule "libraries/RonRadtke/react-native-markdown-display"]
+	path = libraries/RonRadtke/react-native-markdown-display
+	url = https://github.com/RonRadtke/react-native-markdown-display.git
+[submodule "libraries/vydimitrov/use-count-up"]
+	path = libraries/vydimitrov/use-count-up
+	url = https://github.com/vydimitrov/use-count-up.git
+[submodule "libraries/ecklf/react-native-heroicons"]
+	path = libraries/ecklf/react-native-heroicons
+	url = https://github.com/ecklf/react-native-heroicons.git
+[submodule "libraries/arnnis/react-native-toast-notifications"]
+	path = libraries/arnnis/react-native-toast-notifications
+	url = https://github.com/arnnis/react-native-toast-notifications.git
+[submodule "libraries/jeanregisser/react-native-slider"]
+	path = libraries/jeanregisser/react-native-slider
+	url = https://github.com/jeanregisser/react-native-slider.git
