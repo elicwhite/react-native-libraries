@@ -1324,9 +1324,6 @@
 [submodule "libraries/seniv/react-native-notifier"]
 	path = libraries/seniv/react-native-notifier
 	url = https://github.com/seniv/react-native-notifier.git
-[submodule "libraries/stefalda/ReactNativeLocalization"]
-	path = libraries/stefalda/ReactNativeLocalization
-	url = https://github.com/stefalda/ReactNativeLocalization.git
 [submodule "libraries/GeekyAnts/react-native-easy-grid"]
 	path = libraries/GeekyAnts/react-native-easy-grid
 	url = https://github.com/GeekyAnts/react-native-easy-grid.git
@@ -1348,12 +1345,6 @@
 [submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
 	path = libraries/watch-connectivity/react-native-watch-connectivity
 	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
-[submodule "libraries/margelo/react-native-blurhash"]
-	path = libraries/margelo/react-native-blurhash
-	url = https://github.com/margelo/react-native-blurhash.git
-[submodule "libraries/dabakovich/react-native-controlled-mentions"]
-	path = libraries/dabakovich/react-native-controlled-mentions
-	url = https://github.com/dabakovich/react-native-controlled-mentions.git
 [submodule "libraries/kevinresol/react-native-default-preference"]
 	path = libraries/kevinresol/react-native-default-preference
 	url = https://github.com/kevinresol/react-native-default-preference.git
@@ -1372,9 +1363,6 @@
 [submodule "libraries/hirbod/react-native-volume-manager"]
 	path = libraries/hirbod/react-native-volume-manager
 	url = https://github.com/hirbod/react-native-volume-manager.git
-[submodule "libraries/akinncar/react-native-mask-text"]
-	path = libraries/akinncar/react-native-mask-text
-	url = https://github.com/akinncar/react-native-mask-text.git
 [submodule "libraries/RonRadtke/react-native-markdown-display"]
 	path = libraries/RonRadtke/react-native-markdown-display
 	url = https://github.com/RonRadtke/react-native-markdown-display.git
@@ -1390,3 +1378,21 @@
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
+[submodule "libraries/stripe/stripe-terminal-react-native"]
+	path = libraries/stripe/stripe-terminal-react-native
+	url = https://github.com/stripe/stripe-terminal-react-native.git
+[submodule "libraries/elevenlabs/packages"]
+	path = libraries/elevenlabs/packages
+	url = https://github.com/elevenlabs/packages.git
+[submodule "libraries/Doko-Demo-Doa/react-native-shake"]
+	path = libraries/Doko-Demo-Doa/react-native-shake
+	url = https://github.com/Doko-Demo-Doa/react-native-shake.git
+[submodule "libraries/mybigday/whisper.rn"]
+	path = libraries/mybigday/whisper.rn
+	url = https://github.com/mybigday/whisper.rn.git
+[submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
+	path = libraries/souvik-ghosh/react-native-create-thumbnail
+	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
+[submodule "libraries/expo/dev-plugins"]
+	path = libraries/expo/dev-plugins
+	url = https://github.com/expo/dev-plugins.git
