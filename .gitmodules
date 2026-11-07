@@ -1396,3 +1396,36 @@
 [submodule "libraries/expo/dev-plugins"]
 	path = libraries/expo/dev-plugins
 	url = https://github.com/expo/dev-plugins.git
+[submodule "libraries/adjust/react_native_sdk"]
+	path = libraries/adjust/react_native_sdk
+	url = https://github.com/adjust/react_native_sdk.git
+[submodule "libraries/SohelIslamImran/expo-in-app-updates"]
+	path = libraries/SohelIslamImran/expo-in-app-updates
+	url = https://github.com/SohelIslamImran/expo-in-app-updates.git
+[submodule "libraries/stefalda/ReactNativeLocalization"]
+	path = libraries/stefalda/ReactNativeLocalization
+	url = https://github.com/stefalda/ReactNativeLocalization.git
+[submodule "libraries/ant-design/ant-design-icons"]
+	path = libraries/ant-design/ant-design-icons
+	url = https://github.com/ant-design/ant-design-icons.git
+[submodule "libraries/acro5piano/react-native-big-calendar"]
+	path = libraries/acro5piano/react-native-big-calendar
+	url = https://github.com/acro5piano/react-native-big-calendar.git
+[submodule "libraries/ant-design/ant-design-mobile-rn"]
+	path = libraries/ant-design/ant-design-mobile-rn
+	url = https://github.com/ant-design/ant-design-mobile-rn.git
+[submodule "libraries/margelo/react-native-filament"]
+	path = libraries/margelo/react-native-filament
+	url = https://github.com/margelo/react-native-filament.git
+[submodule "libraries/margelo/react-native-blurhash"]
+	path = libraries/margelo/react-native-blurhash
+	url = https://github.com/margelo/react-native-blurhash.git
+[submodule "libraries/maxs15/react-native-modalbox"]
+	path = libraries/maxs15/react-native-modalbox
+	url = https://github.com/maxs15/react-native-modalbox.git
+[submodule "libraries/APSL/react-native-version-number"]
+	path = libraries/APSL/react-native-version-number
+	url = https://github.com/APSL/react-native-version-number.git
+[submodule "libraries/Andr3wHur5t/react-native-keyboard-spacer"]
+	path = libraries/Andr3wHur5t/react-native-keyboard-spacer
+	url = https://github.com/Andr3wHur5t/react-native-keyboard-spacer.git
