@@ -430,9 +430,6 @@
 [submodule "libraries/taskrabbit/react-native-parsed-text"]
 	path = libraries/taskrabbit/react-native-parsed-text
 	url = https://github.com/taskrabbit/react-native-parsed-text.git
-[submodule "libraries/24ark/react-native-step-indicator"]
-	path = libraries/24ark/react-native-step-indicator
-	url = https://github.com/24ark/react-native-step-indicator.git
 [submodule "libraries/ascoders/react-native-image-viewer"]
 	path = libraries/ascoders/react-native-image-viewer
 	url = https://github.com/ascoders/react-native-image-viewer.git
@@ -448,9 +445,6 @@
 [submodule "libraries/oblador/react-native-lightbox"]
 	path = libraries/oblador/react-native-lightbox
 	url = https://github.com/oblador/react-native-lightbox.git
-[submodule "libraries/n4kz/react-native-material-textfield"]
-	path = libraries/n4kz/react-native-material-textfield
-	url = https://github.com/n4kz/react-native-material-textfield.git
 [submodule "libraries/invertase/notifee"]
 	path = libraries/invertase/notifee
 	url = https://github.com/invertase/notifee.git
@@ -1162,39 +1156,15 @@
 [submodule "libraries/wcandillon/react-native-webgpu"]
 	path = libraries/wcandillon/react-native-webgpu
 	url = https://github.com/wcandillon/react-native-webgpu.git
-[submodule "libraries/nuclearpasta/react-native-drax"]
-	path = libraries/nuclearpasta/react-native-drax
-	url = https://github.com/nuclearpasta/react-native-drax.git
-[submodule "libraries/Rapsssito/react-native-background-actions"]
-	path = libraries/Rapsssito/react-native-background-actions
-	url = https://github.com/Rapsssito/react-native-background-actions.git
 [submodule "libraries/entropyconquers/react-native-reanimated-dnd"]
 	path = libraries/entropyconquers/react-native-reanimated-dnd
 	url = https://github.com/entropyconquers/react-native-reanimated-dnd.git
 [submodule "libraries/AgoraIO-Extensions/react-native-agora"]
 	path = libraries/AgoraIO-Extensions/react-native-agora
 	url = https://github.com/AgoraIO-Extensions/react-native-agora.git
-[submodule "libraries/cooperka/react-native-snackbar"]
-	path = libraries/cooperka/react-native-snackbar
-	url = https://github.com/cooperka/react-native-snackbar.git
-[submodule "libraries/wmcmahan/react-native-calendar-events"]
-	path = libraries/wmcmahan/react-native-calendar-events
-	url = https://github.com/wmcmahan/react-native-calendar-events.git
-[submodule "libraries/stephy/CalendarPicker"]
-	path = libraries/stephy/CalendarPicker
-	url = https://github.com/stephy/CalendarPicker.git
 [submodule "libraries/wix/react-native-notifications"]
 	path = libraries/wix/react-native-notifications
 	url = https://github.com/wix/react-native-notifications.git
-[submodule "libraries/microsoft/react-native-code-push"]
-	path = libraries/microsoft/react-native-code-push
-	url = https://github.com/microsoft/react-native-code-push.git
-[submodule "libraries/dohooo/react-native-table-component"]
-	path = libraries/dohooo/react-native-table-component
-	url = https://github.com/dohooo/react-native-table-component.git
-[submodule "libraries/KjellConnelly/react-native-rate"]
-	path = libraries/KjellConnelly/react-native-rate
-	url = https://github.com/KjellConnelly/react-native-rate.git
 [submodule "libraries/mmazzarolo/react-native-dialog"]
 	path = libraries/mmazzarolo/react-native-dialog
 	url = https://github.com/mmazzarolo/react-native-dialog.git
@@ -1207,27 +1177,9 @@
 [submodule "libraries/AlirezaHadjar/react-native-fast-confetti"]
 	path = libraries/AlirezaHadjar/react-native-fast-confetti
 	url = https://github.com/AlirezaHadjar/react-native-fast-confetti.git
-[submodule "libraries/Jacse/react-native-app-intro-slider"]
-	path = libraries/Jacse/react-native-app-intro-slider
-	url = https://github.com/Jacse/react-native-app-intro-slider.git
-[submodule "libraries/ammarahm-ed/react-native-mmkv-storage"]
-	path = libraries/ammarahm-ed/react-native-mmkv-storage
-	url = https://github.com/ammarahm-ed/react-native-mmkv-storage.git
-[submodule "libraries/mfrachet/rn-placeholder"]
-	path = libraries/mfrachet/rn-placeholder
-	url = https://github.com/mfrachet/rn-placeholder.git
 [submodule "libraries/dohooo/react-native-reanimated-table"]
 	path = libraries/dohooo/react-native-reanimated-table
 	url = https://github.com/dohooo/react-native-reanimated-table.git
-[submodule "libraries/reactive/data-client"]
-	path = libraries/reactive/data-client
-	url = https://github.com/reactive/data-client.git
-[submodule "libraries/mientjan/react-native-markdown-renderer"]
-	path = libraries/mientjan/react-native-markdown-renderer
-	url = https://github.com/mientjan/react-native-markdown-renderer.git
-[submodule "libraries/n4kz/react-native-indicators"]
-	path = libraries/n4kz/react-native-indicators
-	url = https://github.com/n4kz/react-native-indicators.git
 [submodule "libraries/arunabhverma/expo-paste-input"]
 	path = libraries/arunabhverma/expo-paste-input
 	url = https://github.com/arunabhverma/expo-paste-input.git
@@ -1264,9 +1216,6 @@
 [submodule "libraries/FortAwesome/react-native-fontawesome"]
 	path = libraries/FortAwesome/react-native-fontawesome
 	url = https://github.com/FortAwesome/react-native-fontawesome.git
-[submodule "libraries/mateusz1913/react-native-avoid-softinput"]
-	path = libraries/mateusz1913/react-native-avoid-softinput
-	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
 [submodule "libraries/TheWidlarzGroup/rn-emoji-keyboard"]
 	path = libraries/TheWidlarzGroup/rn-emoji-keyboard
 	url = https://github.com/TheWidlarzGroup/rn-emoji-keyboard.git
@@ -1321,9 +1270,15 @@
 [submodule "libraries/akinncar/react-native-mask-text"]
 	path = libraries/akinncar/react-native-mask-text
 	url = https://github.com/akinncar/react-native-mask-text.git
-[submodule "libraries/GeorgeHop/react-native-country-codes-picker"]
-	path = libraries/GeorgeHop/react-native-country-codes-picker
-	url = https://github.com/GeorgeHop/react-native-country-codes-picker.git
 [submodule "libraries/dabakovich/react-native-controlled-mentions"]
 	path = libraries/dabakovich/react-native-controlled-mentions
 	url = https://github.com/dabakovich/react-native-controlled-mentions.git
+[submodule "libraries/elevenlabs/packages"]
+	path = libraries/elevenlabs/packages
+	url = https://github.com/elevenlabs/packages.git
+[submodule "libraries/souvik-ghosh/react-native-create-thumbnail"]
+	path = libraries/souvik-ghosh/react-native-create-thumbnail
+	url = https://github.com/souvik-ghosh/react-native-create-thumbnail.git
+[submodule "libraries/tradle/react-native-crypto"]
+	path = libraries/tradle/react-native-crypto
+	url = https://github.com/tradle/react-native-crypto.git
