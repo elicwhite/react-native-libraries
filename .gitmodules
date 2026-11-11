@@ -1246,15 +1246,9 @@
 [submodule "libraries/RonRadtke/react-native-markdown-display"]
 	path = libraries/RonRadtke/react-native-markdown-display
 	url = https://github.com/RonRadtke/react-native-markdown-display.git
-[submodule "libraries/vydimitrov/use-count-up"]
-	path = libraries/vydimitrov/use-count-up
-	url = https://github.com/vydimitrov/use-count-up.git
 [submodule "libraries/ecklf/react-native-heroicons"]
 	path = libraries/ecklf/react-native-heroicons
 	url = https://github.com/ecklf/react-native-heroicons.git
-[submodule "libraries/stripe/stripe-terminal-react-native"]
-	path = libraries/stripe/stripe-terminal-react-native
-	url = https://github.com/stripe/stripe-terminal-react-native.git
 [submodule "libraries/Doko-Demo-Doa/react-native-shake"]
 	path = libraries/Doko-Demo-Doa/react-native-shake
 	url = https://github.com/Doko-Demo-Doa/react-native-shake.git
@@ -1282,3 +1276,51 @@
 [submodule "libraries/tradle/react-native-crypto"]
 	path = libraries/tradle/react-native-crypto
 	url = https://github.com/tradle/react-native-crypto.git
+[submodule "libraries/nuclearpasta/react-native-drax"]
+	path = libraries/nuclearpasta/react-native-drax
+	url = https://github.com/nuclearpasta/react-native-drax.git
+[submodule "libraries/pchalupa/expo-alternate-app-icons"]
+	path = libraries/pchalupa/expo-alternate-app-icons
+	url = https://github.com/pchalupa/expo-alternate-app-icons.git
+[submodule "libraries/ammarahm-ed/react-native-mmkv-storage"]
+	path = libraries/ammarahm-ed/react-native-mmkv-storage
+	url = https://github.com/ammarahm-ed/react-native-mmkv-storage.git
+[submodule "libraries/mientjan/react-native-markdown-renderer"]
+	path = libraries/mientjan/react-native-markdown-renderer
+	url = https://github.com/mientjan/react-native-markdown-renderer.git
+[submodule "libraries/cooperka/react-native-snackbar"]
+	path = libraries/cooperka/react-native-snackbar
+	url = https://github.com/cooperka/react-native-snackbar.git
+[submodule "libraries/wmcmahan/react-native-calendar-events"]
+	path = libraries/wmcmahan/react-native-calendar-events
+	url = https://github.com/wmcmahan/react-native-calendar-events.git
+[submodule "libraries/stephy/CalendarPicker"]
+	path = libraries/stephy/CalendarPicker
+	url = https://github.com/stephy/CalendarPicker.git
+[submodule "libraries/microsoft/react-native-code-push"]
+	path = libraries/microsoft/react-native-code-push
+	url = https://github.com/microsoft/react-native-code-push.git
+[submodule "libraries/dohooo/react-native-table-component"]
+	path = libraries/dohooo/react-native-table-component
+	url = https://github.com/dohooo/react-native-table-component.git
+[submodule "libraries/KjellConnelly/react-native-rate"]
+	path = libraries/KjellConnelly/react-native-rate
+	url = https://github.com/KjellConnelly/react-native-rate.git
+[submodule "libraries/mfrachet/rn-placeholder"]
+	path = libraries/mfrachet/rn-placeholder
+	url = https://github.com/mfrachet/rn-placeholder.git
+[submodule "libraries/Jacse/react-native-app-intro-slider"]
+	path = libraries/Jacse/react-native-app-intro-slider
+	url = https://github.com/Jacse/react-native-app-intro-slider.git
+[submodule "libraries/24ark/react-native-step-indicator"]
+	path = libraries/24ark/react-native-step-indicator
+	url = https://github.com/24ark/react-native-step-indicator.git
+[submodule "libraries/jordanbyron/react-native-quick-actions"]
+	path = libraries/jordanbyron/react-native-quick-actions
+	url = https://github.com/jordanbyron/react-native-quick-actions.git
+[submodule "libraries/n4kz/react-native-material-textfield"]
+	path = libraries/n4kz/react-native-material-textfield
+	url = https://github.com/n4kz/react-native-material-textfield.git
+[submodule "libraries/n4kz/react-native-indicators"]
+	path = libraries/n4kz/react-native-indicators
+	url = https://github.com/n4kz/react-native-indicators.git
