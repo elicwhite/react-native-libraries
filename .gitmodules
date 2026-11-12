@@ -1282,9 +1282,6 @@
 [submodule "libraries/pchalupa/expo-alternate-app-icons"]
 	path = libraries/pchalupa/expo-alternate-app-icons
 	url = https://github.com/pchalupa/expo-alternate-app-icons.git
-[submodule "libraries/ammarahm-ed/react-native-mmkv-storage"]
-	path = libraries/ammarahm-ed/react-native-mmkv-storage
-	url = https://github.com/ammarahm-ed/react-native-mmkv-storage.git
 [submodule "libraries/mientjan/react-native-markdown-renderer"]
 	path = libraries/mientjan/react-native-markdown-renderer
 	url = https://github.com/mientjan/react-native-markdown-renderer.git
@@ -1297,9 +1294,6 @@
 [submodule "libraries/stephy/CalendarPicker"]
 	path = libraries/stephy/CalendarPicker
 	url = https://github.com/stephy/CalendarPicker.git
-[submodule "libraries/microsoft/react-native-code-push"]
-	path = libraries/microsoft/react-native-code-push
-	url = https://github.com/microsoft/react-native-code-push.git
 [submodule "libraries/dohooo/react-native-table-component"]
 	path = libraries/dohooo/react-native-table-component
 	url = https://github.com/dohooo/react-native-table-component.git
@@ -1324,3 +1318,21 @@
 [submodule "libraries/n4kz/react-native-indicators"]
 	path = libraries/n4kz/react-native-indicators
 	url = https://github.com/n4kz/react-native-indicators.git
+[submodule "libraries/wcandillon/react-native-skia"]
+	path = libraries/wcandillon/react-native-skia
+	url = https://github.com/wcandillon/react-native-skia.git
+[submodule "libraries/stripe/stripe-terminal-react-native"]
+	path = libraries/stripe/stripe-terminal-react-native
+	url = https://github.com/stripe/stripe-terminal-react-native.git
+[submodule "libraries/birdofpreyru/react-native-fs"]
+	path = libraries/birdofpreyru/react-native-fs
+	url = https://github.com/birdofpreyru/react-native-fs.git
+[submodule "libraries/GeorgeHop/react-native-country-codes-picker"]
+	path = libraries/GeorgeHop/react-native-country-codes-picker
+	url = https://github.com/GeorgeHop/react-native-country-codes-picker.git
+[submodule "libraries/arnnis/react-native-toast-notifications"]
+	path = libraries/arnnis/react-native-toast-notifications
+	url = https://github.com/arnnis/react-native-toast-notifications.git
+[submodule "libraries/robhogan/react-native-securerandom"]
+	path = libraries/robhogan/react-native-securerandom
+	url = https://github.com/robhogan/react-native-securerandom.git
