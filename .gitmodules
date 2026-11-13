@@ -403,18 +403,12 @@
 [submodule "libraries/christopherdro/react-native-html-to-pdf"]
 	path = libraries/christopherdro/react-native-html-to-pdf
 	url = https://github.com/christopherdro/react-native-html-to-pdf.git
-[submodule "libraries/andpor/react-native-sqlite-storage"]
-	path = libraries/andpor/react-native-sqlite-storage
-	url = https://github.com/andpor/react-native-sqlite-storage.git
 [submodule "libraries/jemise111/react-native-swipe-list-view"]
 	path = libraries/jemise111/react-native-swipe-list-view
 	url = https://github.com/jemise111/react-native-swipe-list-view.git
 [submodule "libraries/a7ul/react-native-exception-handler"]
 	path = libraries/a7ul/react-native-exception-handler
 	url = https://github.com/a7ul/react-native-exception-handler.git
-[submodule "libraries/AlexanderZaytsev/react-native-i18n"]
-	path = libraries/AlexanderZaytsev/react-native-i18n
-	url = https://github.com/AlexanderZaytsev/react-native-i18n.git
 [submodule "libraries/iamacup/react-native-markdown-display"]
 	path = libraries/iamacup/react-native-markdown-display
 	url = https://github.com/iamacup/react-native-markdown-display.git
@@ -1006,9 +1000,6 @@
 [submodule "libraries/ftzi/react-native-shadow-2"]
 	path = libraries/ftzi/react-native-shadow-2
 	url = https://github.com/ftzi/react-native-shadow-2.git
-[submodule "libraries/zahidalidev/toastify-react-native"]
-	path = libraries/zahidalidev/toastify-react-native
-	url = https://github.com/zahidalidev/toastify-react-native.git
 [submodule "libraries/binaryminds/react-native-sse"]
 	path = libraries/binaryminds/react-native-sse
 	url = https://github.com/binaryminds/react-native-sse.git
@@ -1087,9 +1078,6 @@
 [submodule "libraries/assistant-ui/assistant-ui"]
 	path = libraries/assistant-ui/assistant-ui
 	url = https://github.com/assistant-ui/assistant-ui.git
-[submodule "libraries/wix/react-native-ui-lib"]
-	path = libraries/wix/react-native-ui-lib
-	url = https://github.com/wix/react-native-ui-lib.git
 [submodule "libraries/software-mansion/enriched-markdown"]
 	path = libraries/software-mansion/enriched-markdown
 	url = https://github.com/software-mansion/enriched-markdown.git
@@ -1117,12 +1105,6 @@
 [submodule "libraries/amplitude/Amplitude-TypeScript"]
 	path = libraries/amplitude/Amplitude-TypeScript
 	url = https://github.com/amplitude/Amplitude-TypeScript.git
-[submodule "libraries/Expensify/react-native-live-markdown"]
-	path = libraries/Expensify/react-native-live-markdown
-	url = https://github.com/Expensify/react-native-live-markdown.git
-[submodule "libraries/react-native-camera/react-native-camera"]
-	path = libraries/react-native-camera/react-native-camera
-	url = https://github.com/react-native-camera/react-native-camera.git
 [submodule "libraries/rive-app/rive-nitro-react-native"]
 	path = libraries/rive-app/rive-nitro-react-native
 	url = https://github.com/rive-app/rive-nitro-react-native.git
@@ -1168,9 +1150,6 @@
 [submodule "libraries/mmazzarolo/react-native-dialog"]
 	path = libraries/mmazzarolo/react-native-dialog
 	url = https://github.com/mmazzarolo/react-native-dialog.git
-[submodule "libraries/marudy/react-native-responsive-screen"]
-	path = libraries/marudy/react-native-responsive-screen
-	url = https://github.com/marudy/react-native-responsive-screen.git
 [submodule "libraries/thegamenicorus/react-native-phone-input"]
 	path = libraries/thegamenicorus/react-native-phone-input
 	url = https://github.com/thegamenicorus/react-native-phone-input.git
@@ -1264,9 +1243,6 @@
 [submodule "libraries/akinncar/react-native-mask-text"]
 	path = libraries/akinncar/react-native-mask-text
 	url = https://github.com/akinncar/react-native-mask-text.git
-[submodule "libraries/dabakovich/react-native-controlled-mentions"]
-	path = libraries/dabakovich/react-native-controlled-mentions
-	url = https://github.com/dabakovich/react-native-controlled-mentions.git
 [submodule "libraries/elevenlabs/packages"]
 	path = libraries/elevenlabs/packages
 	url = https://github.com/elevenlabs/packages.git
@@ -1276,45 +1252,15 @@
 [submodule "libraries/tradle/react-native-crypto"]
 	path = libraries/tradle/react-native-crypto
 	url = https://github.com/tradle/react-native-crypto.git
-[submodule "libraries/nuclearpasta/react-native-drax"]
-	path = libraries/nuclearpasta/react-native-drax
-	url = https://github.com/nuclearpasta/react-native-drax.git
 [submodule "libraries/pchalupa/expo-alternate-app-icons"]
 	path = libraries/pchalupa/expo-alternate-app-icons
 	url = https://github.com/pchalupa/expo-alternate-app-icons.git
 [submodule "libraries/mientjan/react-native-markdown-renderer"]
 	path = libraries/mientjan/react-native-markdown-renderer
 	url = https://github.com/mientjan/react-native-markdown-renderer.git
-[submodule "libraries/cooperka/react-native-snackbar"]
-	path = libraries/cooperka/react-native-snackbar
-	url = https://github.com/cooperka/react-native-snackbar.git
-[submodule "libraries/wmcmahan/react-native-calendar-events"]
-	path = libraries/wmcmahan/react-native-calendar-events
-	url = https://github.com/wmcmahan/react-native-calendar-events.git
-[submodule "libraries/stephy/CalendarPicker"]
-	path = libraries/stephy/CalendarPicker
-	url = https://github.com/stephy/CalendarPicker.git
-[submodule "libraries/dohooo/react-native-table-component"]
-	path = libraries/dohooo/react-native-table-component
-	url = https://github.com/dohooo/react-native-table-component.git
-[submodule "libraries/KjellConnelly/react-native-rate"]
-	path = libraries/KjellConnelly/react-native-rate
-	url = https://github.com/KjellConnelly/react-native-rate.git
-[submodule "libraries/mfrachet/rn-placeholder"]
-	path = libraries/mfrachet/rn-placeholder
-	url = https://github.com/mfrachet/rn-placeholder.git
-[submodule "libraries/Jacse/react-native-app-intro-slider"]
-	path = libraries/Jacse/react-native-app-intro-slider
-	url = https://github.com/Jacse/react-native-app-intro-slider.git
 [submodule "libraries/24ark/react-native-step-indicator"]
 	path = libraries/24ark/react-native-step-indicator
 	url = https://github.com/24ark/react-native-step-indicator.git
-[submodule "libraries/jordanbyron/react-native-quick-actions"]
-	path = libraries/jordanbyron/react-native-quick-actions
-	url = https://github.com/jordanbyron/react-native-quick-actions.git
-[submodule "libraries/n4kz/react-native-material-textfield"]
-	path = libraries/n4kz/react-native-material-textfield
-	url = https://github.com/n4kz/react-native-material-textfield.git
 [submodule "libraries/n4kz/react-native-indicators"]
 	path = libraries/n4kz/react-native-indicators
 	url = https://github.com/n4kz/react-native-indicators.git
