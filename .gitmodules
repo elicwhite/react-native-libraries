@@ -130,9 +130,6 @@
 [submodule "libraries/react-native-linear-gradient/react-native-linear-gradient"]
 	path = libraries/react-native-linear-gradient/react-native-linear-gradient
 	url = https://github.com/react-native-linear-gradient/react-native-linear-gradient.git
-[submodule "libraries/callstack/react-native-slider"]
-	path = libraries/callstack/react-native-slider
-	url = https://github.com/callstack/react-native-slider.git
 [submodule "libraries/RonRadtke/react-native-blob-util"]
 	path = libraries/RonRadtke/react-native-blob-util
 	url = https://github.com/RonRadtke/react-native-blob-util.git
@@ -1282,3 +1279,9 @@
 [submodule "libraries/robhogan/react-native-securerandom"]
 	path = libraries/robhogan/react-native-securerandom
 	url = https://github.com/robhogan/react-native-securerandom.git
+[submodule "libraries/rudderlabs/rudder-sdk-react-native"]
+	path = libraries/rudderlabs/rudder-sdk-react-native
+	url = https://github.com/rudderlabs/rudder-sdk-react-native.git
+[submodule "libraries/vydimitrov/use-count-up"]
+	path = libraries/vydimitrov/use-count-up
+	url = https://github.com/vydimitrov/use-count-up.git
