@@ -1285,3 +1285,9 @@
 [submodule "libraries/vydimitrov/use-count-up"]
 	path = libraries/vydimitrov/use-count-up
 	url = https://github.com/vydimitrov/use-count-up.git
+[submodule "libraries/react-native-nitro-google-sign-in/google-signin"]
+	path = libraries/react-native-nitro-google-sign-in/google-signin
+	url = https://github.com/react-native-nitro-google-sign-in/google-signin.git
+[submodule "libraries/dabakovich/react-native-controlled-mentions"]
+	path = libraries/dabakovich/react-native-controlled-mentions
+	url = https://github.com/dabakovich/react-native-controlled-mentions.git
