@@ -1291,3 +1291,21 @@
 [submodule "libraries/dabakovich/react-native-controlled-mentions"]
 	path = libraries/dabakovich/react-native-controlled-mentions
 	url = https://github.com/dabakovich/react-native-controlled-mentions.git
+[submodule "libraries/braze-inc/braze-expo-plugin"]
+	path = libraries/braze-inc/braze-expo-plugin
+	url = https://github.com/braze-inc/braze-expo-plugin.git
+[submodule "libraries/adjust/react_native_sdk"]
+	path = libraries/adjust/react_native_sdk
+	url = https://github.com/adjust/react_native_sdk.git
+[submodule "libraries/deeeed/audiolab"]
+	path = libraries/deeeed/audiolab
+	url = https://github.com/deeeed/audiolab.git
+[submodule "libraries/balthazar/react-native-zeroconf"]
+	path = libraries/balthazar/react-native-zeroconf
+	url = https://github.com/balthazar/react-native-zeroconf.git
+[submodule "libraries/react-native-art/art"]
+	path = libraries/react-native-art/art
+	url = https://github.com/react-native-art/art.git
+[submodule "libraries/APSL/react-native-version-number"]
+	path = libraries/APSL/react-native-version-number
+	url = https://github.com/APSL/react-native-version-number.git
