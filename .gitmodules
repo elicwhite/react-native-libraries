@@ -1315,3 +1315,78 @@
 [submodule "libraries/wix/react-native-ui-lib"]
 	path = libraries/wix/react-native-ui-lib
 	url = https://github.com/wix/react-native-ui-lib.git
+[submodule "libraries/reactive/data-client"]
+	path = libraries/reactive/data-client
+	url = https://github.com/reactive/data-client.git
+[submodule "libraries/generaltranslation/gt"]
+	path = libraries/generaltranslation/gt
+	url = https://github.com/generaltranslation/gt.git
+[submodule "libraries/ammarahm-ed/react-native-mmkv-storage"]
+	path = libraries/ammarahm-ed/react-native-mmkv-storage
+	url = https://github.com/ammarahm-ed/react-native-mmkv-storage.git
+[submodule "libraries/Expensify/react-native-live-markdown"]
+	path = libraries/Expensify/react-native-live-markdown
+	url = https://github.com/Expensify/react-native-live-markdown.git
+[submodule "libraries/callstack/react-native-image-editor"]
+	path = libraries/callstack/react-native-image-editor
+	url = https://github.com/callstack/react-native-image-editor.git
+[submodule "libraries/mCodex/react-native-sensitive-info"]
+	path = libraries/mCodex/react-native-sensitive-info
+	url = https://github.com/mCodex/react-native-sensitive-info.git
+[submodule "libraries/douglasjunior/react-native-pdf-renderer"]
+	path = libraries/douglasjunior/react-native-pdf-renderer
+	url = https://github.com/douglasjunior/react-native-pdf-renderer.git
+[submodule "libraries/mateusz1913/react-native-avoid-softinput"]
+	path = libraries/mateusz1913/react-native-avoid-softinput
+	url = https://github.com/mateusz1913/react-native-avoid-softinput.git
+[submodule "libraries/watch-connectivity/react-native-watch-connectivity"]
+	path = libraries/watch-connectivity/react-native-watch-connectivity
+	url = https://github.com/watch-connectivity/react-native-watch-connectivity.git
+[submodule "libraries/Rapsssito/react-native-background-actions"]
+	path = libraries/Rapsssito/react-native-background-actions
+	url = https://github.com/Rapsssito/react-native-background-actions.git
+[submodule "libraries/faizalshap/react-native-otp-verify"]
+	path = libraries/faizalshap/react-native-otp-verify
+	url = https://github.com/faizalshap/react-native-otp-verify.git
+[submodule "libraries/cooperka/react-native-snackbar"]
+	path = libraries/cooperka/react-native-snackbar
+	url = https://github.com/cooperka/react-native-snackbar.git
+[submodule "libraries/wmcmahan/react-native-calendar-events"]
+	path = libraries/wmcmahan/react-native-calendar-events
+	url = https://github.com/wmcmahan/react-native-calendar-events.git
+[submodule "libraries/stephy/CalendarPicker"]
+	path = libraries/stephy/CalendarPicker
+	url = https://github.com/stephy/CalendarPicker.git
+[submodule "libraries/react-native-webrtc/react-native-voip-push-notification"]
+	path = libraries/react-native-webrtc/react-native-voip-push-notification
+	url = https://github.com/react-native-webrtc/react-native-voip-push-notification.git
+[submodule "libraries/dohooo/react-native-table-component"]
+	path = libraries/dohooo/react-native-table-component
+	url = https://github.com/dohooo/react-native-table-component.git
+[submodule "libraries/KjellConnelly/react-native-rate"]
+	path = libraries/KjellConnelly/react-native-rate
+	url = https://github.com/KjellConnelly/react-native-rate.git
+[submodule "libraries/mfrachet/rn-placeholder"]
+	path = libraries/mfrachet/rn-placeholder
+	url = https://github.com/mfrachet/rn-placeholder.git
+[submodule "libraries/react-native-camera/react-native-camera"]
+	path = libraries/react-native-camera/react-native-camera
+	url = https://github.com/react-native-camera/react-native-camera.git
+[submodule "libraries/andpor/react-native-sqlite-storage"]
+	path = libraries/andpor/react-native-sqlite-storage
+	url = https://github.com/andpor/react-native-sqlite-storage.git
+[submodule "libraries/AlexanderZaytsev/react-native-i18n"]
+	path = libraries/AlexanderZaytsev/react-native-i18n
+	url = https://github.com/AlexanderZaytsev/react-native-i18n.git
+[submodule "libraries/marudy/react-native-responsive-screen"]
+	path = libraries/marudy/react-native-responsive-screen
+	url = https://github.com/marudy/react-native-responsive-screen.git
+[submodule "libraries/Jacse/react-native-app-intro-slider"]
+	path = libraries/Jacse/react-native-app-intro-slider
+	url = https://github.com/Jacse/react-native-app-intro-slider.git
+[submodule "libraries/n4kz/react-native-material-textfield"]
+	path = libraries/n4kz/react-native-material-textfield
+	url = https://github.com/n4kz/react-native-material-textfield.git
+[submodule "libraries/Andr3wHur5t/react-native-keyboard-spacer"]
+	path = libraries/Andr3wHur5t/react-native-keyboard-spacer
+	url = https://github.com/Andr3wHur5t/react-native-keyboard-spacer.git
