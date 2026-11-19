@@ -1390,3 +1390,12 @@
 [submodule "libraries/Andr3wHur5t/react-native-keyboard-spacer"]
 	path = libraries/Andr3wHur5t/react-native-keyboard-spacer
 	url = https://github.com/Andr3wHur5t/react-native-keyboard-spacer.git
+[submodule "libraries/bndkt/react-native-app-clip"]
+	path = libraries/bndkt/react-native-app-clip
+	url = https://github.com/bndkt/react-native-app-clip.git
+[submodule "libraries/vydimitrov/react-countdown-circle-timer"]
+	path = libraries/vydimitrov/react-countdown-circle-timer
+	url = https://github.com/vydimitrov/react-countdown-circle-timer.git
+[submodule "libraries/oblador/react-native-image-progress"]
+	path = libraries/oblador/react-native-image-progress
+	url = https://github.com/oblador/react-native-image-progress.git
