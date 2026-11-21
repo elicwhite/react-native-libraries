@@ -1426,3 +1426,57 @@
 [submodule "libraries/bramus/react-native-maps-directions"]
 	path = libraries/bramus/react-native-maps-directions
 	url = https://github.com/bramus/react-native-maps-directions.git
+[submodule "libraries/software-mansion/react-native-executorch"]
+	path = libraries/software-mansion/react-native-executorch
+	url = https://github.com/software-mansion/react-native-executorch.git
+[submodule "libraries/marcocrupi/react-native-notify-kit"]
+	path = libraries/marcocrupi/react-native-notify-kit
+	url = https://github.com/marcocrupi/react-native-notify-kit.git
+[submodule "libraries/tinyplex/tinybase"]
+	path = libraries/tinyplex/tinybase
+	url = https://github.com/tinyplex/tinybase.git
+[submodule "libraries/margelo/react-native-graph"]
+	path = libraries/margelo/react-native-graph
+	url = https://github.com/margelo/react-native-graph.git
+[submodule "libraries/stefalda/ReactNativeLocalization"]
+	path = libraries/stefalda/ReactNativeLocalization
+	url = https://github.com/stefalda/ReactNativeLocalization.git
+[submodule "libraries/byteburgers/react-native-autocomplete-input"]
+	path = libraries/byteburgers/react-native-autocomplete-input
+	url = https://github.com/byteburgers/react-native-autocomplete-input.git
+[submodule "libraries/alpha0010/react-native-file-access"]
+	path = libraries/alpha0010/react-native-file-access
+	url = https://github.com/alpha0010/react-native-file-access.git
+[submodule "libraries/sunnylqm/react-native-storage"]
+	path = libraries/sunnylqm/react-native-storage
+	url = https://github.com/sunnylqm/react-native-storage.git
+[submodule "libraries/testshallpass/react-native-dropdownalert"]
+	path = libraries/testshallpass/react-native-dropdownalert
+	url = https://github.com/testshallpass/react-native-dropdownalert.git
+[submodule "libraries/GeekyAnts/react-native-easy-grid"]
+	path = libraries/GeekyAnts/react-native-easy-grid
+	url = https://github.com/GeekyAnts/react-native-easy-grid.git
+[submodule "libraries/howljs/react-native-calendar-kit"]
+	path = libraries/howljs/react-native-calendar-kit
+	url = https://github.com/howljs/react-native-calendar-kit.git
+[submodule "libraries/mohebifar/react-native-copilot"]
+	path = libraries/mohebifar/react-native-copilot
+	url = https://github.com/mohebifar/react-native-copilot.git
+[submodule "libraries/maxs15/react-native-spinkit"]
+	path = libraries/maxs15/react-native-spinkit
+	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/maxs15/react-native-modalbox"]
+	path = libraries/maxs15/react-native-modalbox
+	url = https://github.com/maxs15/react-native-modalbox.git
+[submodule "libraries/ladjs/react-native-loading-spinner-overlay"]
+	path = libraries/ladjs/react-native-loading-spinner-overlay
+	url = https://github.com/ladjs/react-native-loading-spinner-overlay.git
+[submodule "libraries/RepairShopr/react-native-signature-capture"]
+	path = libraries/RepairShopr/react-native-signature-capture
+	url = https://github.com/RepairShopr/react-native-signature-capture.git
+[submodule "libraries/jordanbyron/react-native-quick-actions"]
+	path = libraries/jordanbyron/react-native-quick-actions
+	url = https://github.com/jordanbyron/react-native-quick-actions.git
+[submodule "libraries/beefe/react-native-actionsheet"]
+	path = libraries/beefe/react-native-actionsheet
+	url = https://github.com/beefe/react-native-actionsheet.git
