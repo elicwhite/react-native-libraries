@@ -1480,3 +1480,36 @@
 [submodule "libraries/beefe/react-native-actionsheet"]
 	path = libraries/beefe/react-native-actionsheet
 	url = https://github.com/beefe/react-native-actionsheet.git
+[submodule "libraries/ant-design/ant-design-mobile-rn"]
+	path = libraries/ant-design/ant-design-mobile-rn
+	url = https://github.com/ant-design/ant-design-mobile-rn.git
+[submodule "libraries/iconoir-icons/iconoir"]
+	path = libraries/iconoir-icons/iconoir
+	url = https://github.com/iconoir-icons/iconoir.git
+[submodule "libraries/ant-design/ant-design-icons"]
+	path = libraries/ant-design/ant-design-icons
+	url = https://github.com/ant-design/ant-design-icons.git
+[submodule "libraries/wuxudong/react-native-charts-wrapper"]
+	path = libraries/wuxudong/react-native-charts-wrapper
+	url = https://github.com/wuxudong/react-native-charts-wrapper.git
+[submodule "libraries/expo/material-symbols"]
+	path = libraries/expo/material-symbols
+	url = https://github.com/expo/material-symbols.git
+[submodule "libraries/gusgard/react-native-swiper-flatlist"]
+	path = libraries/gusgard/react-native-swiper-flatlist
+	url = https://github.com/gusgard/react-native-swiper-flatlist.git
+[submodule "libraries/vitalets/react-native-extended-stylesheet"]
+	path = libraries/vitalets/react-native-extended-stylesheet
+	url = https://github.com/vitalets/react-native-extended-stylesheet.git
+[submodule "libraries/xcarpentier/rn-tourguide"]
+	path = libraries/xcarpentier/rn-tourguide
+	url = https://github.com/xcarpentier/rn-tourguide.git
+[submodule "libraries/iddan/react-native-canvas"]
+	path = libraries/iddan/react-native-canvas
+	url = https://github.com/iddan/react-native-canvas.git
+[submodule "libraries/moaazsidat/react-native-qrcode-scanner"]
+	path = libraries/moaazsidat/react-native-qrcode-scanner
+	url = https://github.com/moaazsidat/react-native-qrcode-scanner.git
+[submodule "libraries/chirag04/react-native-mail"]
+	path = libraries/chirag04/react-native-mail
+	url = https://github.com/chirag04/react-native-mail.git
