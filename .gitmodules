@@ -1513,3 +1513,6 @@
 [submodule "libraries/chirag04/react-native-mail"]
 	path = libraries/chirag04/react-native-mail
 	url = https://github.com/chirag04/react-native-mail.git
+[submodule "libraries/root-two/react-native-drawer"]
+	path = libraries/root-two/react-native-drawer
+	url = https://github.com/root-two/react-native-drawer.git
