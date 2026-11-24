@@ -1516,3 +1516,12 @@
 [submodule "libraries/root-two/react-native-drawer"]
 	path = libraries/root-two/react-native-drawer
 	url = https://github.com/root-two/react-native-drawer.git
+[submodule "libraries/bluesky-social/react-native-uitextview"]
+	path = libraries/bluesky-social/react-native-uitextview
+	url = https://github.com/bluesky-social/react-native-uitextview.git
+[submodule "libraries/kirankalyan5/react-native-segmented-control-tab"]
+	path = libraries/kirankalyan5/react-native-segmented-control-tab
+	url = https://github.com/kirankalyan5/react-native-segmented-control-tab.git
+[submodule "libraries/jeanregisser/react-native-slider"]
+	path = libraries/jeanregisser/react-native-slider
+	url = https://github.com/jeanregisser/react-native-slider.git
