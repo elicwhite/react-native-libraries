@@ -1525,3 +1525,39 @@
 [submodule "libraries/jeanregisser/react-native-slider"]
 	path = libraries/jeanregisser/react-native-slider
 	url = https://github.com/jeanregisser/react-native-slider.git
+[submodule "libraries/tetherto/qvac"]
+	path = libraries/tetherto/qvac
+	url = https://github.com/tetherto/qvac.git
+[submodule "libraries/aymericzip/intlayer"]
+	path = libraries/aymericzip/intlayer
+	url = https://github.com/aymericzip/intlayer.git
+[submodule "libraries/fbeccaceci/react-native-fast-squircle"]
+	path = libraries/fbeccaceci/react-native-fast-squircle
+	url = https://github.com/fbeccaceci/react-native-fast-squircle.git
+[submodule "libraries/acro5piano/react-native-big-calendar"]
+	path = libraries/acro5piano/react-native-big-calendar
+	url = https://github.com/acro5piano/react-native-big-calendar.git
+[submodule "libraries/colorfy-software/react-native-modalfy"]
+	path = libraries/colorfy-software/react-native-modalfy
+	url = https://github.com/colorfy-software/react-native-modalfy.git
+[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
+	path = libraries/douglasjunior/react-native-keyboard-manager
+	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
+[submodule "libraries/yjose/input-otp-native"]
+	path = libraries/yjose/input-otp-native
+	url = https://github.com/yjose/input-otp-native.git
+[submodule "libraries/cbbfcd/react-native-lightbox"]
+	path = libraries/cbbfcd/react-native-lightbox
+	url = https://github.com/cbbfcd/react-native-lightbox.git
+[submodule "libraries/vadimdemedes/tailwind-rn"]
+	path = libraries/vadimdemedes/tailwind-rn
+	url = https://github.com/vadimdemedes/tailwind-rn.git
+[submodule "libraries/heyman333/react-native-responsive-fontSize"]
+	path = libraries/heyman333/react-native-responsive-fontSize
+	url = https://github.com/heyman333/react-native-responsive-fontSize.git
+[submodule "libraries/itsnubix/react-native-video-controls"]
+	path = libraries/itsnubix/react-native-video-controls
+	url = https://github.com/itsnubix/react-native-video-controls.git
+[submodule "libraries/chirag04/react-native-in-app-utils"]
+	path = libraries/chirag04/react-native-in-app-utils
+	url = https://github.com/chirag04/react-native-in-app-utils.git
