@@ -1561,3 +1561,9 @@
 [submodule "libraries/chirag04/react-native-in-app-utils"]
 	path = libraries/chirag04/react-native-in-app-utils
 	url = https://github.com/chirag04/react-native-in-app-utils.git
+[submodule "libraries/frw/react-native-ssl-public-key-pinning"]
+	path = libraries/frw/react-native-ssl-public-key-pinning
+	url = https://github.com/frw/react-native-ssl-public-key-pinning.git
+[submodule "libraries/wumke/react-native-exit-app"]
+	path = libraries/wumke/react-native-exit-app
+	url = https://github.com/wumke/react-native-exit-app.git
